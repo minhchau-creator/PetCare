@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Giao diện Trung tâm thú y</title>
+
+  <!-- CSS thư viện lịch -->
+  <link rel="stylesheet" href="https://uicdn.toast.com/calendar/latest/toastui-calendar.min.css">
+  <link rel="stylesheet" href="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.css" />
+  <link rel="stylesheet" href="https://uicdn.toast.com/tui.time-picker/latest/tui-time-picker.css" />
+  <script src="https://uicdn.toast.com/calendar/latest/toastui-calendar.min.js"></script>
+  <script src="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.min.js"></script>
+  <script src="https://uicdn.toast.com/tui.time-picker/latest/tui-time-picker.min.js"></script>
+
+  <!-- CSS của bạn -->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+  <div class="header">
+    <div class="logo">
+      <div class="dot"></div> Trung tâm thú y
+    </div>
+    <div class="user-menu" id="userMenu">
+      <button id="userMenuBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="avatar-small"></span> NhanVien
+      </button>
+      <div class="dropdown" id="userDropdown" role="menu" aria-label="User menu">
+        <a href="login.html" id="viewInfo">Xem thông tin</a>
+        <a href="#" id="logout">Đăng xuất</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+  <aside class="sidebar" aria-label="Sidebar navigation">
+    <nav>
+      <a href="#" class="menu-item" data-menu="lichhen" id="lichHenMenu">Lịch hẹn <span class="arrow">&#8250;</span></a>
+      <div class="submenu" id="lichHenSubmenu" style="display: none;">
+        <a href="danhsachlichhen.html">Danh sách lịch hẹn</a>
+        <a href="danhsachcutru.html">Danh sách cư trú</a>
+        <a href="giaodienlich.html">Giao diện lịch</a>
+      </div>
+      <a href="#" class="menu-item">Báo cáo và thống kê</a>
+    </nav>
+  </aside>
+</div>
+    <div class="content">
+        <h1 id="section-title">Giao diện lịch</h1>
+        <div id="calendar"></div>
+
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trung tâm thú y</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>    
+</head>
+<body>
+    <div class="header">
+    <div class="logo">
+        <div class="dot"></div> Trung tâm thú y
+    </div>
+    <div class="user-menu" id="userMenu">
+        <button id="userMenuBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="avatar-small"></span> NhanVien
+        </button>
+        <div class="dropdown" id="userDropdown" role="menu" aria-label="User menu">
+        <a href="login.html" id="viewInfo">Xem thông tin</a>
+        <a href="#" id="logout">Đăng xuất</a>
+        </div>
+    </div>
+    </div>
+
+    <div class="container">
+    <aside class="sidebar" aria-label="Sidebar navigation">
+        <nav>
+        <a href="#" class="menu-item" data-menu="lichhen" id="lichHenMenu">Lịch hẹn <span class="arrow">&#8250;</span></a>
+        <div class="submenu" id="lichHenSubmenu" style="display:none;">
+            <a href="danhsachlichhen.html">Danh sách lịch hẹn</a>
+            <a href="danhsachcutru.html">Danh sách cư trú</a>
+            <a href="giaodienlich.html">Giao diện lịch</a>
+        </div>
+        <a href="#" class="menu-item">Báo cáo và thống kê</a>
+        </nav>
+    </aside>
+
+
+      <div id="appointments" class="section">
+        <div class="search-bar">
+          <input type="text" placeholder="Tìm kiếm...">
+        <button class="btn btn-add" onclick="window.location.href='formthemlichcutru.html'">Thêm lịch cư trú</button>
+        </div>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr><th>ID</th><th>pet_ID</th><th>Nhân viên</th><th>Giờ check-in</th><th>Giờ check-out</th><th>Số phòng</th><th>Ghi chú</th><th>Trạng thái</th><th>Thao tác</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>C01</td>
+                <td>20225697</td>
+                <td>
+                    <select>
+                        <option>Nhân viên A</option>
+                        <option>Nhân viên B</option>        
+                </td>
+                <td>22/12</td>
+                <td>25/12</td>
+                <td>7</td>
+                <td>đang theo dõi đặc biệt, mắc bệnh alzeihmer</td>
+                <td>
+                  <select>
+                    <option>Đã xác nhận</option>
+                    <option>Đã khám</option>
+                    <option>Đã hủy</option>
+                  </select>
+                </td>
+                <td>
+                  <button class="btn btn-edit">Sửa</button>
+                  <button class="btn btn-cancel">In hóa đơn</button>
+                  <button class="btn btn-delete">Xóa</button>
+                </td>
+                </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function showSection(id) {
+      document.querySelectorAll('.section').forEach(s => s.style.display = 'none');
+      document.getElementById(id).style.display = 'block';
+      document.getElementById('section-title').textContent = document.querySelector(`[onclick="showSection('${id}')"]`).textContent;
+      document.querySelectorAll('.sidebar li').forEach(li => li.classList.remove('active'));
+      event.target.classList.add('active');
+    }
+  </script>
+</body>
+</html>

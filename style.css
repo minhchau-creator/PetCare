@@ -1,0 +1,295 @@
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+  }
+  .container {
+    display: flex;
+    height: 100vh;
+    background: #fff;
+  }
+  /* Sidebar */
+  .sidebar {
+    width: 220px;
+    background: #fff;
+    border-right: 1px solid #ddd;
+    padding: 10px 15px;
+    box-sizing: border-box;
+  }
+  .sidebar .title {
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+  }
+  .sidebar .title .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #003366;
+  }
+  .sidebar nav a {
+    display: block;
+    text-decoration: none;
+    color: #004d99;
+    margin-bottom: 8px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .sidebar nav a.active,
+  .sidebar nav a:hover {
+    font-weight: 600;
+  }
+  .sidebar nav .submenu {
+    margin-left: 15px;
+    margin-top: 4px;
+  }
+  .sidebar nav .submenu a {
+    color: #007acc;
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+  .sidebar nav .submenu a:hover {
+    text-decoration: underline;
+  }
+  /* Main Content */
+  .main {
+    flex-grow: 1;
+    padding: 40px;
+    position: relative;
+    text-align: center;
+    color: #111;
+  }
+  .main .avatar {
+    width: 300px;
+    height: 300px;
+    background: #66b3ff;
+    border-radius: 50%;
+    margin: 0 auto 10px auto;
+    position: relative;
+  }
+  .main .avatar::before {
+    content: "";
+    position: absolute;
+    top: 34px;
+    left: 35px;
+    width: 40px;
+    height: 45px;
+    background: white;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .main .greeting {
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .main .id {
+    font-size: 11px;
+    color: #444;
+  }
+  /* Header top */
+  .header {
+    height: 50px;
+    border-bottom: 1px solid #ddd;
+    padding: 0 20px;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .header .logo {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #003366;
+  }
+  .header .logo .dot {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #003366;
+  }
+  .header .user-menu {
+    position: relative;
+  }
+  .header .user-menu button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #3399ff;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .header .user-menu button .avatar-small {
+    width: 28px;
+    height: 28px;
+    background: #66b3ff;
+    border-radius: 50%;
+    position: relative;
+  }
+  .header .user-menu button .avatar-small::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    width: 8px;
+    height: 10px;
+    background: white;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  }
+  .header .user-menu .dropdown {
+    position: absolute;
+    top: 38px;
+    right: 0;
+    background: white;
+    border: 1px solid #ccc;
+    width: 130px;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.15);
+    display: none;
+    flex-direction: column;
+    z-index: 10;
+  }
+  .header .user-menu .dropdown a {
+    padding: 8px 12px;
+    color: #222;
+    text-decoration: none;
+    font-size: 13px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+  }
+  .header .user-menu .dropdown a:last-child {
+    border-bottom: none;
+  }
+  .header .user-menu .dropdown a:hover {
+    background: #f0f7ff;
+  }
+  /* Dropdown arrow on sidebar */
+  .sidebar nav a .arrow {
+    float: right;
+    font-size: 12px;
+    color: #004d99;
+  }
+  /* Sidebar dropdown active */
+  .sidebar nav a.dropdown-active {
+    font-weight: 700;
+    color: #007acc;
+  }
+  .sidebar nav a.dropdown-active .arrow {
+    transform: rotate(90deg);
+  }
+
+  /* danh sach lich hen */
+  body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #f0f0f0;
+    }
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+    .sidebar {
+      background-color: #ffffff;
+      width: 220px;
+      padding: 20px 0;
+      border-right: 1px solid #ddd;
+    }
+    .sidebar h2 {
+      font-size: 18px;
+      text-align: center;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+    .sidebar li {
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+    .sidebar li.active, .sidebar li:hover {
+      background-color: #d0eaff;
+      font-weight: bold;
+    }
+    .content {
+      flex-grow: 1;
+      padding: 20px;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .header h1 {
+      margin: 0;
+    }
+    .search-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    input[type="text"], select, textarea {
+      padding: 8px;
+      width: 100%;
+      margin: 5px 0;
+      box-sizing: border-box;
+    }
+    .table-container {
+      overflow-x: auto;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    .btn {
+      padding: 6px 12px;
+      border: none;
+      border-radius: 4px;
+      margin: 5px;
+      cursor: pointer;
+    }
+    .btn-add { background-color: #00aaff; color: white; }
+    .btn-edit { background-color: #28a745; color: white; }
+    .btn-cancel { background-color: #ffc107; color: white; }
+    .btn-delete { background-color: #dc3545; color: white; }
+    .form-section {
+      max-width: 600px;
+      margin-top: 20px;
+    }
+    .form-row {
+      display: flex;
+      gap: 10px;
+    }
+    .form-row > div {
+      flex: 1;
+    }
+
+/* form them lich hen */
+.hidden { display: none; }
+        .section { max-width: 400px; margin: 40px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; }
+        .section h2 { text-align: center; }
+        form input, form select, form textarea {
+            width: 100%; margin-bottom: 12px; padding: 8px; border: 1px solid #ccc; border-radius: 4px;
+        }
+        .form-btns { display: flex; justify-content: space-between; }
+        .form-btns button { padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; }
+        .form-btns button[type="submit"] { background: #007bff; color: #fff; }
+        .form-btns button[type="button"] { background: #ccc; }
+
+/* vấn đề là form và danh sách lịch hẹn đều có chung tên class là section nên danh sách mới bị thay đổi nvnv  */
+
