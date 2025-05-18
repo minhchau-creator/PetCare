@@ -88,90 +88,168 @@ function closeForm() {
 }
 
 
+// CALENDAR 
 
-// CALENDAR
+
 // const Calendar = tui.Calendar;
 
-// const calendar = new tui.Calendar('#calendar', {
-//   defaultView: 'month', // có thể đổi thành 'week' hoặc 'day' khi khởi tạo
-//   taskView: false,
-//   scheduleView: ['time'], // chỉ hiện phần time (không hiện all-day)
-//   useCreationPopup: true,  // bật popup tạo lịch
-//   useDetailPopup: true,    // bật popup chi tiết lịch
-//   template: {
-//     popupSave: () => 'Lưu',
-//     popupEdit: () => 'Sửa',
-//     popupDelete: () => 'Xoá',
-//     popupTitle: () => 'Tiêu đề',
-//     popupLocation: () => 'Địa điểm',
-//     popupStartDate: () => 'Bắt đầu',
-//     popupEndDate: () => 'Kết thúc',
-//     timegridDisplayPrimaryTime: function(time) {
-//       return `${time.getHours()}:00`;  // định dạng giờ cho week và day view
-//     }
+// const calendar = new Calendar('#calendar', {
+//   defaultView: 'week',
+//   taskView: true,
+//   scheduleView: true,
+//   useDetailPopup: true,
+//   useFormPopup: true
+// });
+
+// // Thêm một sự kiện mẫu
+// calendar.createEvents([
+//   {
+//     id: '1',
+//     calendarId: '1',
+//     title: 'Họp nhóm',
+//     category: 'time',
+//     start: '2025-05-19T10:30:00',
+//     end: '2025-05-19T12:30:00',
 //   },
-//   week: {
-//     hourStart: 8,
-//     hourEnd: 20,
-//     hourHeight: 50
+//   {
+//     id: '2',
+//     calendarId: '1',
+//     title: 'Khám thú cưng',
+//     category: 'time',
+//     start: '2025-05-20T09:00:00',
+//     end: '2025-05-20T10:00:00',
+//   }
+// ]);
+
+
+
+
+
+
+// function formatTime(datetime) {
+//   const date = new Date(datetime);
+//   const hours = String(date.getHours()).padStart(2, '0');
+//   const minutes = String(date.getMinutes()).padStart(2, '0');
+//   return `${hours}:${minutes}`;
+// }
+
+// const calendar = new tui.Calendar('#calendar', {
+//   defaultView: 'week',
+//   useCreationPopup: true, // BẬT lên để sử dụng hook beforeCreateSchedule
+//   template: {
+//     time(event) {
+//       const { start, end, title } = event;
+//       return `<span style="color: white;">${formatTime(start)}~${formatTime(end)} ${title}</span>`;
+//     },
+//     allday(event) {
+//       return `<span style="color: gray;">${event.title}</span>`;
+//     },
 //   },
 //   calendars: [
 //     {
-//       id: 'lichhen',
-//       name: 'Lịch hẹn',
-//       backgroundColor: '#9e5fff',
-//       borderColor: '#9e5fff'
-//     }
+//       id: 'cal1',
+//       name: 'Personal',
+//       backgroundColor: '#03bd9e',
+//     },
+//     {
+//       id: 'cal2',
+//       name: 'Work',
+//       backgroundColor: '#00a9ff',
+//     },
 //   ],
-//   // Thêm phần view để bật 3 chế độ xem
-//   // Khi có header, người dùng sẽ tự chuyển qua lại
-//   // Bạn cần có phần header ngoài để điều khiển view hoặc gọi api calendar.changeView()
-//   view: {
-//     month: true,
-//     week: true,
-//     day: true
+// });
+
+
+
+// // Tạo element form ẩn sẵn trong body
+// const formHTML = `
+//   <div id="scheduleForm" style="display:none; position:fixed; top:50%; left:50%; 
+//       transform: translate(-50%, -50%); background:white; padding:20px; border-radius:8px;
+//       box-shadow:0 0 10px rgba(0,0,0,0.3); z-index: 9999;">
+//     <h3>Thêm lịch mới</h3>
+//     <form id="newScheduleForm">
+//       <label>Tiêu đề:<br><input type="text" name="title" required></label><br><br>
+//       <label>Thời gian bắt đầu:<br><input type="datetime-local" name="start" required></label><br><br>
+//       <label>Thời gian kết thúc:<br><input type="datetime-local" name="end" required></label><br><br>
+//       <button type="submit">Thêm lịch</button>
+//       <button type="button" id="cancelBtn">Hủy</button>
+//     </form>
+//   </div>
+//   <div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; 
+//     background: rgba(0,0,0,0.3); z-index:9998;"></div>
+// `;
+// document.body.insertAdjacentHTML('beforeend', formHTML);
+
+// const scheduleForm = document.getElementById('scheduleForm');
+// const overlay = document.getElementById('overlay');
+// const newScheduleForm = document.getElementById('newScheduleForm');
+// const cancelBtn = document.getElementById('cancelBtn');
+
+// // Hàm hiện form và overlay
+// function openForm(start, end) {
+//   scheduleForm.style.display = 'block';
+//   overlay.style.display = 'block';
+
+//   // Gán giá trị thời gian mặc định cho input
+//   newScheduleForm.start.value = start ? start.toISOString().slice(0,16) : '';
+//   newScheduleForm.end.value = end ? end.toISOString().slice(0,16) : '';
+//   newScheduleForm.title.value = '';
+// }
+
+// // Ẩn form và overlay
+// function closeForm() {
+//   scheduleForm.style.display = 'none';
+//   overlay.style.display = 'none';
+// }
+
+// cancelBtn.addEventListener('click', closeForm);
+// overlay.addEventListener('click', closeForm);
+
+// // Bắt sự kiện click vào khung thời gian trong calendar
+// calendar.on('clickSchedule', (event) => {
+//   console.log('Đã click vào lịch:', event);
+// });
+
+
+
+// // Xử lý submit form tạo lịch mới
+// newScheduleForm.addEventListener('submit', (e) => {
+//   e.preventDefault();
+//   const title = newScheduleForm.title.value.trim();
+//   const start = new Date(newScheduleForm.start.value);
+//   const end = new Date(newScheduleForm.end.value);
+
+//   if (title && start && end && end > start) {
+//     calendar.createSchedules([{
+//       id: String(Date.now()),
+//       calendarId: 'cal1',
+//       title: title,
+//       category: 'time',
+//       start: start.toISOString(),
+//       end: end.toISOString(),
+//       color: '#fff',
+//       bgColor: '#03bd9e',
+//     }]);
+//     closeForm();
+//   } else {
+//     alert('Vui lòng nhập đúng thông tin lịch và thời gian kết thúc phải lớn hơn bắt đầu.');
 //   }
 // });
 
 
-// // Sự kiện khi người dùng nhấn thêm lịch
-// calendar.on('beforeCreateSchedule', function(event) {
-//   const { start, end, title, location } = event;
-//   calendar.createSchedules([{
-//     id: String(Date.now()), // ID tạm thời
-//     calendarId: 'lichhen',
-//     title: title,
-//     location: location,
-//     start: start,
-//     end: end,
-//     category: 'time'
-//   }]);
-// });
-
-// // Sự kiện khi nhấn vào lịch đã tạo
-// calendar.on('clickSchedule', function(event) {
-//   const schedule = event.schedule;
-//   alert(`Bạn đã chọn lịch: ${schedule.title}\nĐịa điểm: ${schedule.location}`);
-// });
-
-// CALENDAR 
-
-
-
 function formatTime(datetime) {
-    const date = new Date(datetime);
-    const hours = String(date.getHours()).padStart(2, '0');
-    const minutes = String(date.getMinutes()).padStart(2, '0');
-    return `${hours}:${minutes}`;
-  }
-
+  const date = new Date(datetime);
+  const hours = String(date.getHours()).padStart(2, '0');
+  const minutes = String(date.getMinutes()).padStart(2, '0');
+  return `${hours}:${minutes}`;
+}
 
 const calendar = new tui.Calendar('#calendar', {
   defaultView: 'week',
+  useCreationPopup: false, // Tắt popup mặc định
   template: {
     time(event) {
       const { start, end, title } = event;
-
       return `<span style="color: white;">${formatTime(start)}~${formatTime(end)} ${title}</span>`;
     },
     allday(event) {
@@ -191,36 +269,3 @@ const calendar = new tui.Calendar('#calendar', {
     },
   ],
 });
-
-calendar.createSchedules([
-  {
-    id: '1',
-    calendarId: 'cal1', // ✅ sửa lại
-    title: 'Yoga',
-    category: 'time',
-    start: '2025-05-12T06:30:00',
-    end: '2025-05-12T07:30:00',
-    color: '#fff',
-    bgColor: '#33cc33'
-  },
-  {
-    id: '2',
-    calendarId: 'cal2', // ✅ sửa lại
-    title: 'Writing',
-    category: 'time',
-    start: '2025-05-12T09:00:00',
-    end: '2025-05-12T12:00:00',
-    color: '#fff',
-    bgColor: '#e60000'
-  },
-  {
-    id: '3',
-    calendarId: 'cal1', // ✅ sửa lại
-    title: 'Email',
-    category: 'time',
-    start: '2025-05-12T12:00:00',
-    end: '2025-05-12T13:00:00',
-    color: '#fff',
-    bgColor: '#3366cc'
-  }
-]);

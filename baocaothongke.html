@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Báo cáo thống kê</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f2f2f2;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: white;
+      padding: 1rem 2rem;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    .logo {
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+    }
+    .dot {
+      height: 16px;
+      width: 16px;
+      background-color: #003366;
+      border-radius: 50%;
+      display: inline-block;
+      margin-right: 10px;
+    }
+    .user-menu button {
+      background: none;
+      border: none;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+    .avatar-small {
+      background-color: #ccc;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      display: inline-block;
+      margin-right: 0.5rem;
+    }
+    .dropdown {
+      display: none;
+      position: absolute;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+    }
+    .sidebar {
+      background-color: white;
+      height: 200vh;
+      padding: 1rem;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+ 
+    }
+
+
+
+
+    .menu-item {
+      display: block;
+      padding: 0.5rem;
+      color: black;
+      text-decoration: none;
+    }
+    .menu-item:hover, .menu-item.active {
+      background-color: #2d9cdb;
+      color: white;
+      border-radius: 5px;
+    }
+    .submenu a {
+      display: block;
+      padding: 0.25rem 1rem;
+      font-size: 0.9rem;
+      text-decoration: none;
+      color: #333;
+    }
+    .submenu a:hover {
+      text-decoration: underline;
+    }
+    .content {
+      padding: 2rem;
+    }
+    .card-stat {
+      padding: 1rem;
+      border-radius: 10px;
+      color: white;
+    }
+    .card-stat.pink { background-color: #f8d7da; color: #721c24; }
+    .card-stat.yellow { background-color: #fff3cd; color: #856404; }
+    .card-stat.green { background-color: #d4edda; color: #155724; }
+    .card-stat.purple { background-color: #e2d4f8; color: #5e35b1; }
+    .card-stat.blue { background-color: #d4e4f8; color: #1565c0; }
+    canvas { background-color: white; padding: 1rem; border-radius: 10px; }
+
+    .card-stat .number {
+        font-weight: bold;
+        font-size: 1.5rem;
+    }
+    .box-white {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    list-style: none; /* nếu muốn bỏ dấu chấm */
+    margin-top: 1rem; /* giữ khoảng cách tương đương mt-3 */
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="logo">
+      <div class="dot"></div> Trung tâm thú y
+    </div>
+    <div class="user-menu" id="userMenu">
+      <button id="userMenuBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="avatar-small"></span> NhanVien
+      </button>
+      <div class="dropdown" id="userDropdown" role="menu" aria-label="User menu">
+        <a href="login.html" id="viewInfo">Xem thông tin</a>
+        <a href="#" id="logout">Đăng xuất</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2 sidebar">
+        <nav>
+          <a href="#" class="menu-item" data-menu="lichhen" id="lichHenMenu">Lịch hẹn <span class="arrow">&#8250;</span></a>
+          <div class="submenu" id="lichHenSubmenu" style="display:none;">
+            <a href="danhsachlichhen.html">Danh sách lịch hẹn</a>
+            <a href="danhsachcutru.html">Danh sách cư trú</a>
+            <a href="giaodienlich.html">Giao diện lịch</a>
+          </div>
+          <a href="baocaothongke.html" class="menu-item active">Báo cáo và thống kê</a>
+        </nav>
+      </div>
+      <div class="col-md-10 content">
+        <div class="row mt-4 box-white">
+        <h4>Thống kê dữ liệu</h4>
+          <div class="col-md-2">
+            <div class="card-stat pink"><span class="number">5tr VNĐ</span><br><small>Tổng doanh thu</small></div>
+          </div>
+          <div class="col-md-2">
+            <div class="card-stat yellow"><span class="number">20</span><br><small>Khách hàng</small></div>
+          </div>
+          <div class="col-md-2">
+            <div class="card-stat green"><span class="number">50</span><br><small>Thú cưng</small></div>
+          </div>
+          <div class="col-md-2">
+            <div class="card-stat purple"><span class="number">100+ pets</span><br><small>Dịch vụ Khám bệnh</small></div>
+          </div>
+          <div class="col-md-2">
+            <div class="card-stat blue"><span class="number">50+ pets</span><br><small>Dịch vụ Làm đẹp</small></div>
+          </div>
+          <div class="col-md-2">
+            <div class="card-stat green"><span class="number">50+ pets</span><br><small>Dịch vụ Cư trú</small></div>
+          </div>
+        </div>
+
+        <div class="row mt-4">
+        
+          <div class="col-md-6">
+            <h4>Doanh thu của từng dịch vụ</h4>
+            <canvas id="lineChart"></canvas>
+            <ul class="mt-3 box-white">
+              <li>Khám bệnh: 2tr</li>
+              <li>Làm đẹp: 1tr</li>
+              <li>Cư trú: 2tr</li>
+            </ul>
+          </div>
+
+          
+          <div class="col-md-6">
+            <h4>Doanh thu của dịch vụ khám bệnh</h4>
+            <canvas id="serviceChart1"></canvas>
+          </div>
+        </div>
+
+
+        <div class="row mt-4">
+        <h4>Doanh thu của dịch vụ làm đẹp</h4>
+          <div class="col-md-6">
+            <canvas id="serviceChart2"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+  <script>
+
+    const ctxLine = document.getElementById('lineChart').getContext('2d');
+    new Chart(ctxLine, {
+      type: 'line',
+      data: {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+        datasets: [
+          { label: 'Khám bệnh', data: [300, 320, 310, 290, 330, 370, 390, 360, 340, 310, 300, 310], borderColor: 'purple' },
+          { label: 'Làm đẹp', data: [250, 260, 270, 280, 300, 320, 360, 370, 350, 340, 320, 310], borderColor: 'red' },
+          { label: 'Cư trú', data: [280, 290, 310, 300, 320, 350, 370, 380, 360, 340, 330, 320], borderColor: 'green' }
+        ]
+      },
+      options: { responsive: true }
+    });
+
+    const ctxBar1 = document.getElementById('serviceChart1').getContext('2d');
+    new Chart(ctxBar1, {
+      type: 'bar',
+      data: {
+        labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        datasets: [
+          { label: 'Khám tổng quát', data: [12000, 15000, 22000, 13000, 16000, 18000, 21000], backgroundColor: 'blue' },
+          { label: 'Tiêm phòng', data: [8000, 6000, 10000, 7000, 5000, 9000, 11000], backgroundColor: 'green' },
+        ]
+      },
+      options: { responsive: true, plugins: { legend: { position: 'top' } } }
+    });
+
+    const ctxBar2 = document.getElementById('serviceChart2').getContext('2d');
+    new Chart(ctxBar2, {
+      type: 'bar',
+      data: {
+        labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        datasets: [
+          { label: 'Khám tổng quát', data: [10000, 12000, 25000, 11000, 15000, 13000, 9000], backgroundColor: 'purple' },
+          { label: 'Tiêm phòng', data: [7000, 8000, 10000, 6000, 7000, 9000, 8000], backgroundColor: 'orange' },
+        ]
+      },
+      options: { responsive: true, plugins: { legend: { position: 'top' } } }
+    });
+  </script>
+</body>
+</html>

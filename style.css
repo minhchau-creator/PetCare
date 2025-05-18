@@ -12,29 +12,61 @@ body {
   background: #fff;
 }
 
+/* XIN CHAO NHAN VIEN */
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh; /* Chiều cao toàn màn hình */
+  margin-left: 450px; /* đẩy qua bên phải, điều chỉnh theo chiều rộng của sidebar */
+  text-align: center;
+}
+
+.avatar img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 16px;
+}
+
+.greeting {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.id {
+  font-size: 1.2rem;
+}
+
+
 /* === SIDEBAR === */
 .sidebar nav a {
   display: block;
   text-decoration: none;
-  color: #004d99;
+  color: #023C92;
   margin-bottom: 16px; /* tăng khoảng cách */
   font-size: 16px; /* chữ to hơn */
   font-weight: bold; /* in đậm */
   padding: 10px 12px; /* thêm padding để dễ click */
   border-radius: 6px;
   transition: background 0.2s ease;
+  text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar nav a:hover {
-  background-color: #e0f3ff; /* xanh nhạt khi hover */
+  background-color: #A1DFFC; /* xanh nhạt khi hover */
   font-weight: bold;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 .sidebar {
   width: 250px;
   background: #fff;
+    color: #023C92;
   padding: 20px;
   border-right: 1px solid #ddd;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar .title {
@@ -44,6 +76,8 @@ body {
   align-items: center;
   gap: 8px;
   font-size: 14px;
+    color: #023C92;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar .title .dot {
@@ -51,35 +85,42 @@ body {
   height: 12px;
   border-radius: 50%;
   background: #003366;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar nav a {
   display: block;
+    color: #023C92;
   text-decoration: none;
-  color: #004d99;
+
   margin-bottom: 8px;
   font-size: 14px;
   cursor: pointer;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar nav a.active,
 .sidebar nav a:hover {
   font-weight: 600;
+    color: #023C92;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar nav .submenu {
   margin-left: 15px;
   margin-top: 4px;
+    color: #023C92;
 }
 
 .sidebar nav .submenu a {
   color: #007acc;
   font-size: 13px;
   margin-bottom: 6px;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 .sidebar nav .submenu a:hover {
-  text-decoration: underline;
+    text-decoration: none; /* nếu muốn bỏ gạch chân */
 }
 
 /* === HEADER === */
