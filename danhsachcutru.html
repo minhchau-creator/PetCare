@@ -43,38 +43,49 @@
         <button class="btn btn-add" onclick="window.location.href='formthemlichcutru.html'">Thêm lịch cư trú</button>
         </div>
         <div class="table-container">
-          <table>
+            <table>
             <thead>
-              <tr><th>ID</th><th>pet_ID</th><th>Nhân viên</th><th>Giờ check-in</th><th>Giờ check-out</th><th>Số phòng</th><th>Ghi chú</th><th>Trạng thái</th><th>Thao tác</th></tr>
+              <tr>
+              <th>ID</th>
+              <th>pet_ID</th>
+              <th>Nhân viên</th>
+              <th>Giờ check-in</th>
+              <th>Giờ check-out</th>
+              <th>Số phòng</th>
+              <th class="fixed-note">Ghi chú</th>
+              <th>Trạng thái</th>
+              <th>Thao tác</th>
+              </tr>
             </thead>
             <tbody>
               <tr>
-                <td>C01</td>
-                <td>20225697</td>
-                <td>
-                    <select>
-                        <option>Nhân viên A</option>
-                        <option>Nhân viên B</option>        
-                </td>
-                <td>22/12</td>
-                <td>25/12</td>
-                <td>7</td>
-                <td>đang theo dõi đặc biệt, mắc bệnh alzeihmer</td>
-                <td>
-                  <select>
-                    <option>Đã xác nhận</option>
-                    <option>Đã khám</option>
-                    <option>Đã hủy</option>
-                  </select>
-                </td>
-                <td>
-                  <button class="btn btn-edit">Sửa</button>
-                  <button class="btn btn-cancel">In hóa đơn</button>
-                  <button class="btn btn-delete">Xóa</button>
-                </td>
-                </tr>
+              <td>C01</td>
+              <td>20225697</td>
+              <td>
+                <select>
+                <option>Nhân viên A</option>
+                <option>Nhân viên B</option>
+                </select>
+              </td>
+              <td>22/12</td>
+              <td>25/12</td>
+              <td>7</td>
+              <td class="fixed-note">đang theo dõi đặc biệt, mắc bệnh alzeihmer</td>
+              <td>
+                <select>
+                <option>Đã xác nhận</option>
+                <option>Đã khám</option>
+                <option>Đã hủy</option>
+                </select>
+              </td>
+              <td class="actions">
+                <button class="btn btn-edit">Sửa</button>
+                <button class="btn btn-cancel">In hóa đơn</button>
+                <button class="btn btn-delete">Xóa</button>
+              </td>
+              </tr>
             </tbody>
-          </table>
+            </table>
         </div>
       </div>
     </div>

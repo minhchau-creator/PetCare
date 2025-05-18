@@ -1,64 +1,92 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <title>Thêm lịch hẹn</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
-
-    <div class="header">
-        <div class="logo">
-            <div class="dot"></div> Trung tâm thú y
-        </div>
-        <div class="user-menu" id="userMenu">
-            <button id="userMenuBtn" aria-haspopup="true" aria-expanded="false">
-            <span class="avatar-small"></span> NhanVien
-            </button>
-            <div class="dropdown" id="userDropdown" role="menu" aria-label="User menu">
-            <a href="login.html" id="viewInfo">Xem thông tin</a>
-            <a href="#" id="logout">Đăng xuất</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <aside class="sidebar" aria-label="Sidebar navigation">
-            <nav>
-            <a href="#" class="menu-item" data-menu="lichhen" id="lichHenMenu">Lịch hẹn <span class="arrow">&#8250;</span></a>
-            <div class="submenu" id="lichHenSubmenu" style="display:none;">
-                <a href="danhsachlichhen.html">Danh sách lịch hẹn</a>
-                <a href="danhsachcutru.html">Danh sách cư trú</a>
-                <a href="#">Giao diện lịch</a>
-            </div>
-            <a href="#" class="menu-item">Báo cáo và thống kê</a>
-            </nav>
-        </aside>
-    </div>
-
+  <meta charset="UTF-8" />
+  <title>Thêm lịch hẹn</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
 </head>
 <body>
-    <section id="them-lichhen" class="section">
-        <h2>Thêm lịch hẹn</h2>
-        <form id="them-lichhen-form">
-            <input type="text" placeholder="Họ và tên khách hàng" required>
-            <input type="text" placeholder="Số điện thoại" required>
-            <input type="text" placeholder="Khung giờ" required>
-            <select required>
-                <option value="">Chọn bác sĩ</option>
-                <option>Bác sĩ A</option>
-                <option>Bác sĩ B</option>
-            </select>
-            <select required>
-                <option value="">Chọn dịch vụ</option>
-                <option>Khám bệnh</option>
-                <option>Tư vấn</option>
-            </select>
-            <textarea placeholder="Ghi chú"></textarea>
-            <div class="form-btns">
-                <button type="button" onclick="closeForm()">Hủy</button>
-                <button type="submit" onclick="showSection(event)">Xác nhận</button>
-            </div>
-        </form>
-    </section>
+  <div class="header">
+    <div class="logo">
+      <div class="dot"></div> Trung tâm thú y
+    </div>
+    <div class="user-menu" id="userMenu">
+      <button id="userMenuBtn" aria-haspopup="true" aria-expanded="false">
+        <span class="avatar-small"></span> NhanVien
+      </button>
+      <div class="dropdown" id="userDropdown" role="menu" aria-label="User menu">
+        <a href="login.html" id="viewInfo">Xem thông tin</a>
+        <a href="#" id="logout">Đăng xuất</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <aside class="sidebar" aria-label="Sidebar navigation">
+      <nav>
+        <a href="#" class="menu-item" data-menu="lichhen" id="lichHenMenu">Lịch hẹn <span class="arrow">&#8250;</span></a>
+        <div class="submenu" id="lichHenSubmenu" style="display:none;">
+          <a href="danhsachlichhen.html">Danh sách lịch hẹn</a>
+          <a href="danhsachcutru.html">Danh sách cư trú</a>
+          <a href="#">Giao diện lịch</a>
+        </div>
+        <a href="#" class="menu-item">Báo cáo và thống kê</a>
+      </nav>
+    </aside>
+
+    <main class="main-content">
+        <div class="form-container">
+            <section id="them-lichhen" class="appointment-form">
+                <h2>Thêm lịch hẹn</h2>
+                <form id="them-lichhen-form">
+                    <div class="form-row">
+                        <div class="form-group">
+                        <label><em>Họ và tên khách hàng</em></label>
+                        <input type="text" required />
+                        </div>
+                        <div class="form-group">
+                        <label><em>Số điện thoại</em></label>
+                        <input type="text" required />
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                        <label><em>Khung giờ</em></label>
+                        <input type="text" required />
+                        </div>
+                        <div class="form-group">
+                        <label><em>Bác sĩ</em></label>
+                        <select required>
+                            <option value="">Bác sĩ</option>
+                            <option>Bác sĩ A</option>
+                            <option>Bác sĩ B</option>
+                        </select>
+                        </div>
+                        <div class="form-group">
+                        <label><em>Phân loại</em></label>
+                        <select required>
+                            <option value="">Phân loại</option>
+                            <option>Khám bệnh</option>
+                            <option>Tư vấn</option>
+                        </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label><em>Ghi chú</em></label>
+                        <textarea rows="4"></textarea>
+                    </div>
+
+                    <div class="form-btns">
+                        <button type="button" onclick="closeForm()">Hủy</button>
+                        <button type="submit" onclick="showSection(event)">Thêm lịch hẹn</button>
+                    </div>
+                    </form>
+            </section>
+        </div>
+    </main>
+  </div>
 </body>
 </html>
