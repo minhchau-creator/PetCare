@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trung tâm thú y</title>
+  <style>
+    * { box-sizing: border-box; }
+    body, html {
+      margin: 0; padding: 0; height: 100%;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: #f8faff; color: #000;
+    }
+
+    .app-container {
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+      flex-direction: column;
+    }
+
+    .topbar {
+      height: 50px;
+      background: #f0f5ff;
+      border-bottom: 1px solid #d9d9d9;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      color: #003f87;
+      font-weight: 700;
+      font-size: 18px;
+    }
+
+    .circle-logo {
+      width: 18px; height: 18px;
+      background: #003f87;
+      border-radius: 50%;
+      margin-right: 8px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .main-container {
+      display: flex;
+      flex-grow: 1;
+      overflow: hidden;
+    }
+
+    .sidebar {
+      width: 220px;
+      background: #f0f5ff;
+      border-right: 1px solid #d9d9d9;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .logo {
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 30px;
+      display: flex;
+      align-items: center;
+      color: #003f87;
+    }
+
+    .menu-section {
+      margin-bottom: 20px;
+    }
+
+    .menu-title {
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #003f87;
+    }
+
+    .menu-item {
+      padding: 8px 12px;
+      cursor: pointer;
+      border-radius: 6px;
+      color: #003f87;
+      margin-bottom: 8px;
+      transition: background 0.3s;
+    }
+
+    .menu-item:hover {
+      background: #a5cef5;
+    }
+
+    .menu-item.active {
+      background: #87cefa;
+      font-weight: 600;
+    }
+
+    .user-info {
+      margin-top: auto;
+      color: #003f87;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+    }
+
+    .user-icon {
+      margin-right: 8px;
+      font-size: 20px;
+    }
+
+    .content {
+      flex-grow: 1;
+      padding: 30px 40px;
+      overflow-y: auto;
+      background: #fff;
+      display: flex;
+      flex-direction: column;
+    }
+
+    h2 {
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    h3 {
+      font-weight: 600;
+      text-align: center;
+      margin-bottom: 16px;
+      color: #000000;
+    }
+
+    .search-add-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 16px;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    input[type="text"], input[type="date"], textarea {
+      padding: 8px 12px;
+      font-size: 14px;
+      border-radius: 20px;
+      border: 1px solid #ccc;
+      outline: none;
+      resize: vertical;
+    }
+
+    input[type="text"] {
+      width: 300px;
+      height: 36px;
+    }
+
+    textarea {
+      min-height: 80px;
+      border-radius: 8px;
+    }
+
+    button {
+      border: none;
+      border-radius: 20px;
+      padding: 8px 16px;
+      font-weight: 600;
+      font-size: 14px;
+      cursor: pointer;
+      transition: background 0.3s;
+      height: 36px;
+    }
+
+    .btn-primary {
+      background-color: #09a8ff;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background-color: #007acc;
+    }
+
+    .btn-view {
+      background-color: #09a8ff;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 15px;
+      margin-right: 6px;
+      cursor: pointer;
+      border: none;
+    }
+
+    .btn-delete {
+      background-color: #db2222;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 15px;
+      cursor: pointer;
+      border: none;
+    }
+
+    .btn-delete:hover {
+      background-color: #a30f0f;
+    }
+
+    .record-table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: white;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .record-table th, .record-table td {
+      border: 1px solid #ddd;
+      padding: 8px 12px;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    .record-table th {
+      background-color: #9ac5fc;
+      font-weight: 700;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .search-add-container {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-container">
+    <header class="topbar">
+      <div><span class="circle-logo"></span> Trung tâm thú cưng</div>
+      <div id="topbar-user-role">Bác sĩ: Nguyễn Văn A</div>
+    </header>
+
+    <div class="main-container">
+      <aside class="sidebar">
+        <nav>
+          <div class="menu-section">
+            <div class="menu-title">Bệnh án</div>
+            <div class="menu-item" id="menu-list">Danh sách bệnh án</div>
+            <div class="menu-item active" id="menu-tiemphong">Lịch sử tiêm phòng</div>
+            <div class="menu-item" id="giaodienlich">Giao diện lịch</div>        
+          </div>
+        </nav>
+        <div class="user-info"><span class="user-icon">👤</span><span id="user-role"> Bác sĩ</span></div>
+      </aside>
+
+      <main class="content" id="content">
+   
+      </main>
+    </div>
+  </div>
+
+<script>
+  // Định nghĩa các hàm ở phạm vi toàn cục để có thể gọi từ HTML
+  function showAddForm() {
+    document.getElementById("addFormContainer").style.display = "block";
+  }
+
+  function addVaccination() {
+    const vaccineId = document.getElementById("vaccineId").value;
+    const petId = document.getElementById("petId").value;
+    const vaccineType = document.getElementById("vaccineType").value;
+    const staff = document.getElementById("staff").value;
+    const injectDate = document.getElementById("injectDate").value;
+    const nextDate = document.getElementById("nextDate").value;
+    const note = document.getElementById("note").value;
+
+    const table = document.getElementById("vaccineTable").querySelector("tbody");
+    const newRow = table.insertRow();
+    newRow.innerHTML = `
+      <td>${vaccineId}</td>
+      <td>${petId}</td>
+      <td>${vaccineType}</td>
+      <td>${staff}</td>
+      <td>${injectDate}</td>
+      <td>${nextDate}</td>
+      <td>${note}</td>
+    `;
+
+    document.getElementById("addForm").reset();
+    document.getElementById("addFormContainer").style.display = "none";
+  }
+
+  // Sự kiện chuyển nội dung theo menu
+  document.addEventListener("DOMContentLoaded", () => {
+    const menuItems = document.querySelectorAll(".menu-item");
+
+    menuItems.forEach(item => {
+      item.addEventListener("click", () => {
+        menuItems.forEach(i => i.classList.remove("active"));
+        item.classList.add("active");
+
+        const id = item.id;
+        if (id === "giaodienlich") {
+          window.location.href = "giaodienlich.html";
+        } else if (id === "menu-list") {
+          window.location.href = "danhsachbenhan.html";
+        } else if (id === "menu-tiemphong") {
+          document.getElementById("content").innerHTML = `
+            <h2>Lịch sử tiêm phòng</h2>
+
+            <div class="search-add-container">
+              <input type="text" id="searchInput" placeholder="Tìm kiếm theo Pet ID, Vaccine ID..." />
+              <button class="btn-primary" onclick="showAddForm()">➕ Thêm tiêm phòng</button>
+            </div>
+
+            <table class="record-table" id="vaccineTable">
+              <thead>
+                <tr>
+                  <th>vaccine ID</th>
+                  <th>Pet ID</th>
+                  <th>Loại vắc xin</th>
+                  <th>Nhân viên</th>
+                  <th>Ngày tiêm</th>
+                  <th>Ngày hẹn tiếp theo</th>
+                  <th>Ghi chú</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>V001</td>
+                  <td>P001</td>
+                  <td>Dại</td>
+                  <td>Nguyễn Văn A</td>
+                  <td>31/5/2025</td>
+                  <td>01/6/2025</td>
+                  <td>Tiêm phòng định kỳ</td>
+                </tr>
+                <tr>
+                  <td>V002</td>
+                  <td>P003</td>
+                  <td>Dại</td>
+                  <td>Lê Quang D</td>
+                  <td>23/4/2025</td>
+                  <td>23/4/2026</td>
+                  <td>Tiêm phòng định kỳ</td>
+                </tr>
+              </tbody>
+            </table>
+
+            <div id="addFormContainer" style="margin-top: 30px; display: none;">
+              <h3>Thêm tiêm phòng mới</h3>
+              <form id="addForm" onsubmit="event.preventDefault(); addVaccination();">
+                <div class="search-add-container">
+                  <input type="text" id="vaccineId" placeholder="Vaccine ID" required />
+                  <input type="text" id="petId" placeholder="Pet ID" required />
+                  <input type="text" id="vaccineType" placeholder="Loại vắc xin" required />
+                  <input type="text" id="staff" placeholder="Nhân viên" required />
+                  <input type="date" id="injectDate" required />
+                  <input type="date" id="nextDate" required />
+                  <textarea id="note" placeholder="Ghi chú" required></textarea>
+                  <button type="submit" class="btn-primary">💾 Lưu</button>
+                </div>
+              </form>
+            </div>
+          `;
+        }
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
