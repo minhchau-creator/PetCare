@@ -1,0 +1,1001 @@
+service_id,service_type,service_date,notes,pet_id,staff_id
+ca7219a9-c3d7-4843-9664-07bd7d4f29e6,nailtrim,2008-01-31 00:00:00+07,Needs a gentle grooming,bfeb2221-9c64-4565-8d41-e875ff2f1fa4,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+fbfd1d08-2dca-4223-94bf-e2e9cd15ff0c,haircut,2004-09-17 00:00:00+07,Do not bathe if skin is irritated,420baf29-e373-4b20-8494-4d213134e2c2,5cb4db40-4a0b-4504-878a-1813c2d56473
+ee7c2e23-e3a7-40fe-a358-cb5fe16a6430,haircut,2004-07-21 00:00:00+07,Check for parasites before grooming,ea05749b-7ec0-40f7-8418-7379ad85c8cb,b415e80c-91a8-44d8-bc4f-7acf2515bf59
+82f7862c-324d-4cfb-91fc-3a82b48b7a72,bathing,2020-03-18 00:00:00+07,Maintain gentle temperature for bath,5ae08177-06b5-4f81-aaf6-4cf934ce6094,db4a71d5-0a93-4ba3-a105-ebb64a68f3e7
+0a52a902-cec4-45ce-8aaa-afb37fbf6feb,dental_cleaning,2017-11-11 00:00:00+07,Do not trim nails,8555049c-c3ac-4486-b97d-aef91727ac98,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+d387a515-881d-43b7-9dca-d83e1805fd23,grooming,2016-09-18 00:00:00+07,Sensitive to certain fragrances,77949b3f-457d-4e0d-99e0-a1871877606a,b379e324-1b90-4a95-8983-4fed36413fb9
+62b4c713-3dd1-4aad-b4b8-73536851e6e2,dental_cleaning,2020-11-01 00:00:00+07,Do not trim nails,a69a5ad1-d278-403a-b93d-3bfb1be741f6,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+a46c7bba-559c-48cf-8dfc-617f332f909a,dental_cleaning,2014-07-15 00:00:00+07,Special care for coat,3f4260a4-790a-491f-95d6-3edbd4a4ea1d,ca3ef9ee-70e3-4531-ab54-57ee5febade5
+2e968928-637a-47d7-b902-f90f90dfb941,grooming,2007-11-06 00:00:00+07,Check for ticks or fleas during grooming,f842103b-86a6-4351-a136-a9c30c0afa13,57b602e5-c2c9-4358-b15d-651412f69401
+87c1b2e9-f9c3-4f16-81ba-2134bc36da4c,haircut,2000-07-17 00:00:00+07,Requires special treatment for matted fur,420baf29-e373-4b20-8494-4d213134e2c2,ab5db6a6-a808-4948-9d58-9768db0fc32f
+83fdedcb-0d06-4320-b06e-1951dbb6b1a5,bathing,2020-01-06 00:00:00+07,Check for ticks or fleas during grooming,d6b84fb3-28eb-4e65-896b-d086fef6506b,ab5db6a6-a808-4948-9d58-9768db0fc32f
+e25300ae-613d-445f-a649-c45f9b165943,nail_trim,2001-08-31 00:00:00+07,Do not bathe if skin is irritated,5e72b0e4-04a9-46e0-8df3-19e11a08b745,43c4431c-e919-4d11-82e8-74e354761952
+cc03a392-ed72-4bcf-9f63-f4416bb811ad,grooming,2024-08-24 00:00:00+07,Check for ticks or fleas during grooming,bfeb2221-9c64-4565-8d41-e875ff2f1fa4,e844c362-bc62-430b-9bc0-4f818eef866a
+cda511af-14d0-401a-99be-eb7b399136f7,dental_cleaning,2017-07-24 00:00:00+07,Use calming spray before grooming,bf2efc5e-10a4-4754-8d90-307d4fb36211,6ee9f494-b192-4be5-a671-f47866777a74
+ed39756e-8c7b-490f-858d-54f740234c34,haircut,2024-08-28 00:00:00+07,Special care for coat,b2e4da60-9a59-465f-b9d8-ba7567589194,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+45491a24-e435-4d5e-8d2e-aaf7cfc97817,dental_cleaning,2008-08-07 00:00:00+07,Use pet-safe grooming products,8ce41e64-d7f1-4b5c-bd97-a299e6e0d202,5c5025c2-8b1c-43c7-ab57-1b686817c021
+162dc273-a270-4a98-b4a0-ef9a92f6a116,bathing,2001-04-01 00:00:00+07,Brush thoroughly before service,bc4e8803-d22a-4c91-b29e-a6d2f47bfa8f,e4148937-626c-4053-9e9e-df25343e0bb9
+0f282ac7-cef0-4897-8eea-212b7d96bdaf,grooming,2004-09-05 00:00:00+07,Grooming may take longer due to pet's temperament,ee89b3bd-5785-4056-9167-aca82823f943,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+6929a5d5-3a18-4d33-86d0-c780b5e1c561,dental_cleaning,2004-11-10 00:00:00+07,Use calming spray before grooming,d11793f1-c4a3-4f4b-b89b-1d4ec5196980,b01e6877-4437-4dbe-9ec7-8100d13cbee7
+ec36ca46-fdc4-4c91-971f-2e7f75c02e16,dental_cleaning,2006-08-19 00:00:00+07,Nail trimming should be done carefully to avoid injury,621344eb-f52c-4402-8160-fe984dd8736b,f631237c-8a08-4b8a-a368-8a4233404dd6
+c8cb7246-8b02-42c9-95c6-56d9f495b3d8,dental_cleaning,2006-10-15 00:00:00+07,Avoid using strong shampoos,e4ebe071-6b1b-439b-9b61-7f6f6ec4addb,0a072ed0-8644-4e9b-9642-eac56eb9be23
+9e74611b-ffa1-4d59-90f2-dfce28afaf7a,haircut,2016-06-12 00:00:00+07,Do not bathe if skin is irritated,5d3d5f77-389b-4a6a-b003-6761e259877c,6f671115-16aa-4ad8-9036-bd8dea75fb95
+5445fa40-252d-481e-801c-8f7214ce9dce,grooming,2020-11-04 00:00:00+07,Check for parasites before grooming,1e08ff63-aa08-4a61-aa0b-bb7f6e3679f3,f4e0ba35-e6eb-4047-818d-c55fb84eba0b
+a2ecc6c1-92fc-4024-935b-7eee7578fdaf,bathing,2007-05-23 00:00:00+07,Brush thoroughly before service,4fb4dd1a-92d7-4d4c-90ab-656b73b32b38,a1cd9473-6617-44f4-862e-05eebcc0a439
+685e9199-cfd1-48e3-a650-685351fd37aa,dental_cleaning,2002-08-02 00:00:00+07,Grooming may take longer due to pet's temperament,7d895ca3-33d3-4f00-9cf9-81b52615fbc4,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+01667a03-7652-411a-b133-e95ce634842b,haircut,2006-04-20 00:00:00+07,Use moisturizing conditioner,cba3088a-064c-4261-82d2-0c2719d3b33a,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+824d8930-2cd5-4a58-9492-f4f9afbd24bd,haircut,2005-08-23 00:00:00+07,Grooming may take longer due to pet's temperament,8f242f5c-c178-44c4-92cc-df30cddf8472,a9154f06-e973-4529-bcf3-fc7733cc28f7
+52349231-5dbd-4d65-a4e9-39ec97d7ae2b,bathing,2000-09-25 00:00:00+07,Do not bathe if skin is irritated,5459b827-e3c8-4a36-9585-3771c7aec747,4cae8538-ecff-4cc6-a8cc-cd89f1e6c8ca
+39f08e45-97c7-4132-84c0-e12c017864b8,nail_trim,2018-06-13 00:00:00+07,Use moisturizing conditioner,e4ebe071-6b1b-439b-9b61-7f6f6ec4addb,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+82accbfc-25ed-48d2-951b-398652bfb21a,nail_trim,2011-10-12 00:00:00+07,Avoid using strong shampoos,2d967b16-4415-47c2-8bd1-4dd6c6353df8,5c642651-6e83-4014-9788-82665cb2620d
+86540b9c-52d8-44e2-867d-d3e8527af95b,nail_trim,2024-10-06 00:00:00+07,Follow up after 2 days to ensure comfort,caf82e82-ed24-4545-83d9-e2fe0d32a200,5e7a318c-92b3-4796-8436-311a8fd9a466
+fb817bb7-c4a5-41f2-83d4-e4a0d4f6f36f,dental_cleaning,2001-03-26 00:00:00+07,Maintain gentle temperature for bath,3dc40ec9-7a61-45ab-81ac-bb1949648822,74a63dc4-b751-47a6-bd4a-b88d15949325
+a16341d0-ada1-4038-9f6b-4d0dd5933107,nail_trim,2001-11-01 00:00:00+07,Follow up after 2 days to ensure comfort,e6af1acf-679d-416b-906e-3e103c7f2e53,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+bcec578d-a045-428d-ba3c-1c10e418e961,nail_trim,2007-07-24 00:00:00+07,Special care for coat,d57ce81b-0815-4149-bc93-6a636bceb738,957a5eaf-f85e-406d-b864-44455a6c92dc
+230c0b0d-3890-4cad-aa24-8096e9caa25f,nail_trim,2000-12-11 00:00:00+07,Maintain gentle temperature for bath,1d687154-c546-41ce-b504-b394237fd8c3,5c642651-6e83-4014-9788-82665cb2620d
+b996981f-3107-4b08-ba70-c4dab8b12455,nail_trim,2007-07-23 00:00:00+07,Use soft brush for sensitive skin,db5393fd-3226-41f0-9487-690c9ecf39ef,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+e3bebc05-fcc2-45fa-8f3d-d326085b0a65,haircut,2024-11-22 00:00:00+07,Use only natural products,02f13063-8cef-412e-b562-30084a731528,4f21b0a5-d33b-4de6-9ced-d8866f7c8539
+d04bfe9b-4821-45c1-958d-a02dcac9f0b6,bathing,2020-03-10 00:00:00+07,Do not trim nails,e1d846ed-16af-42a9-aa64-32d2a66ed597,dab552dd-9544-48ef-9438-a9def7ca4f13
+bad4147a-f9b9-4ea3-88a9-3b2dab3b3eb5,nail_trim,2021-07-07 00:00:00+07,Nail trimming should be done carefully to avoid injury,03b295af-a0ba-4501-a612-4b2d8a217511,bacb6ea8-4cc2-470b-a0df-7ba914009094
+2f00be08-2fb8-4d1c-b728-64e11c1cf4a5,dental_cleaning,2000-12-09 00:00:00+07,Use soft brush for sensitive skin,c22a2045-d2dd-4c26-b879-33c0387e64f3,97db9295-e740-4097-a2a8-562d830d0291
+ec490834-6dc5-4e53-a7ef-867388e3f029,nail_trim,2011-05-29 00:00:00+07,Follow up after 2 days to ensure comfort,d055c564-7f3e-4e38-9f39-e40d191dfa7d,0a072ed0-8644-4e9b-9642-eac56eb9be23
+959508ea-ab51-43c2-873c-3e585a5fdc11,dental_cleaning,2024-09-01 00:00:00+07,Follow up after 2 days to ensure comfort,8da930e2-f1c4-4eba-bc3d-87da6daf5661,a9154f06-e973-4529-bcf3-fc7733cc28f7
+bace7158-5e94-4601-bd64-96099a38af11,dental_cleaning,2010-04-18 00:00:00+07,Avoid using strong shampoos,eaa81121-3ad8-4e8a-a9d1-6b776b93276c,17baa183-d4c9-4ff8-9720-4242540e2095
+8e649400-6cf9-4b42-9f1b-a5dce980a5ec,nail_trim,2013-04-07 00:00:00+07,Follow up after 2 days to ensure comfort,4233e4a9-b200-4998-8d8e-1f9390ce35b0,6b61a540-14b2-4563-a68e-46122fe66488
+46404365-81dc-41f1-846f-ddc6b8f12c30,dental_cleaning,2024-05-30 00:00:00+07,Follow up after 2 days to ensure comfort,364882e5-8f87-463c-9c8f-e9a47678c97d,5c642651-6e83-4014-9788-82665cb2620d
+b47ef997-6ba2-4865-9f9b-a03af659e5cd,nail_trim,2005-03-12 00:00:00+07,Nail trimming should be done carefully to avoid injury,a16e75a2-5a08-4b1b-91f1-892a5cd3a1e9,33c4428c-6710-43f6-b9d5-05745b2e97e0
+1bb2384a-a7a0-4ba9-8006-9adb3c16f480,nail_trim,2014-10-09 00:00:00+07,Check for ticks or fleas during grooming,a1d464d3-79b0-484e-8213-179f4a621adf,157cea7b-93f6-4484-8c7c-3b8dd2488616
+60a553c2-4f9b-48b9-b546-c12d9359f4dd,haircut,2013-05-13 00:00:00+07,Sensitive to certain fragrances,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+c0552c54-76e0-494c-a905-b6af5051e4ea,nail_trim,2006-05-06 00:00:00+07,Do not trim nails,a6e5b3a8-6c42-4cbb-b715-2cbcbe678151,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+31a5b888-5410-4b9a-a4c5-e0d8877fb51c,grooming,2000-07-07 00:00:00+07,Use soft brush for sensitive skin,b1634ad1-24cd-4e3a-9340-24e14a77e375,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+9398210f-c204-496b-be22-160464f5d40d,dental_cleaning,2014-11-06 00:00:00+07,Check for ticks or fleas during grooming,1570fb23-fc76-420f-bf9d-2b9ff9c9a21d,23ee3c69-ea03-450b-8523-16abc931ebc0
+ac349c98-6cc0-4fb7-81ae-5bd2bcdf21e1,grooming,2021-03-15 00:00:00+07,Use soft brush for sensitive skin,a4772a62-5d00-4bf3-89df-895070c4e2a2,4cae8538-ecff-4cc6-a8cc-cd89f1e6c8ca
+ab0e1b5f-734c-40ec-a188-b27748a0599a,nail_trim,2008-06-08 00:00:00+07,Requires special treatment for matted fur,9fbab8d7-2a5e-44d2-ad66-86a632d0d413,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+1d4c7096-2b42-4459-8a2e-8bcf5feace69,dental_cleaning,2001-05-04 00:00:00+07,Special care for coat,ee1da083-9ca9-4fc5-a497-21339b9df3bf,54659c5b-01e5-4fed-a960-88e75d563c52
+46f1a6bb-f69d-496e-8d83-63e47b48edbf,grooming,2004-02-19 00:00:00+07,Check for ticks or fleas during grooming,fe220202-945f-4176-b3e2-8a1f7db747b1,0211b722-86d3-40b2-afbc-84e904f09f4e
+77370869-c83c-4a69-96a8-8da9efccaf12,dental_cleaning,2013-08-01 00:00:00+07,Use only natural products,bd4d7f07-8273-4c6e-9bdb-ad68eaee5e7e,077a90f8-ebb6-492c-9c71-0930e8856a36
+5426803c-b371-4a71-a5df-ca20b2eb135b,grooming,2001-08-29 00:00:00+07,Requires special treatment for matted fur,f217d766-f029-4018-8140-90d34c7b1a74,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+d3227383-c93d-44c5-911f-d069ba106b7f,nail_trim,2012-09-29 00:00:00+07,Check for ticks or fleas during grooming,ca54ac2b-b401-423b-8375-6373894365d4,c3fe3fdb-cea2-4a62-be78-4c10714d61c8
+297e2ec5-dfb1-4da0-a1ae-044692330efb,bathing,2023-03-15 00:00:00+07,Grooming needs to be done regularly for healthy coat,e19d1c10-6f10-4dc7-9547-defb623993eb,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+8b6120b8-cb34-498b-aa42-8761af6f6a41,nail_trim,2005-08-31 00:00:00+07,Light trimming only,d282b561-29c5-40f1-aaa8-23caea6252ce,0211b722-86d3-40b2-afbc-84e904f09f4e
+a4f01bd1-73d7-4066-b383-7609cc2d3226,bathing,2017-08-09 00:00:00+07,Sensitive to certain fragrances,30ea381c-0eb2-409f-b40e-79ad9aa8c1e6,6ee9f494-b192-4be5-a671-f47866777a74
+93e8d06d-754d-45da-b4c4-f1b461d798c9,grooming,2001-03-14 00:00:00+07,Requires special treatment for matted fur,b01bc21e-dacb-41d6-b36c-7ad15cc55ccb,2c5074b6-1bfb-49a3-bd51-85aae7f86ffd
+ef340390-13fc-45df-b758-11beecac706e,dental_cleaning,2011-03-20 00:00:00+07,Sensitive to loud noises,015e45c3-df0f-4924-a81b-c64c779e4ee8,c4b787c3-cfab-490f-b8b5-81e862eecf83
+e6fc8319-9594-41e4-bf0d-ca69d7a97dec,nail_trim,2006-09-30 00:00:00+07,Light trimming only,ffb63a11-70e2-441a-b839-00bd81731e5d,c77d7d5e-3edf-4385-a623-eb6755c5637f
+d4d53f25-b567-4283-8fef-e5a86c7537ef,haircut,2017-10-29 00:00:00+07,Follow up after 2 days to ensure comfort,cdb54622-9949-4ff3-a811-d54d8f91f8bd,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+263bf341-57d7-4ac2-b343-1f3d2d08f42f,haircut,2016-04-17 00:00:00+07,Nail trimming should be done carefully to avoid injury,22ab2c96-209c-4ac0-8d09-90453974c131,464699eb-0703-45d4-a294-b2c21e3de0e4
+17455158-cf56-4423-ba0f-cb581c34521b,dental_cleaning,2006-05-28 00:00:00+07,Special care for elderly pet,74059941-117c-490e-b070-d4d88d33def8,96bff401-44b0-41bf-a8f7-be7984101ef7
+288cc13d-c3b7-4d1e-a5a2-45632e957895,dental_cleaning,2008-06-27 00:00:00+07,Check for parasites before grooming,ff61e0ac-0a4f-4eb2-b45e-e35cd9c074b6,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+b9fddeba-88f7-467d-9a58-454e2f430654,haircut,2001-03-27 00:00:00+07,Needs a gentle grooming,049f8766-ad1b-4910-9891-be91c739fc78,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+2cc88d95-146d-454b-9279-b3691f480d6f,dental_cleaning,2012-03-18 00:00:00+07,Use only natural products,ffadda56-6cab-4558-92a9-fc0e23ea20b8,2d93dcee-7b81-4aa2-94f0-c1ca4772c4f8
+f992e05e-c8a8-41db-b3cd-5fff33a76fed,haircut,2002-03-07 00:00:00+07,Sensitive to certain fragrances,03aa1a49-12f4-4e5c-a13e-367e1ceace89,e4231f86-48ee-4219-bd63-ff9090eb6d6e
+b97b5374-0795-4b98-a1eb-4ad6b777e346,dental_cleaning,2005-01-19 00:00:00+07,Prefer hypoallergenic products,936a7893-331b-4762-9b1d-17b0c39309d4,77f8434e-5ce3-4408-b567-f8574252c188
+6c6306ed-8998-4079-8a7d-673177a756d6,haircut,2024-10-12 00:00:00+07,Requires special treatment for matted fur,9faffd0a-4636-457e-9298-be6b6de89f3c,c77d7d5e-3edf-4385-a623-eb6755c5637f
+2d731ac9-9f9b-40cc-b907-9d0ccba88882,grooming,2007-11-23 00:00:00+07,Avoid using strong shampoos,2e6e18f4-6a77-461a-9a9b-5e53b4ed2012,534d5877-bacf-4e22-a22a-898589831cc1
+d9a4d1e9-fdfa-4bd7-8563-6835b0982d3e,nail_trim,2013-10-17 00:00:00+07,Requires special treatment for matted fur,28646e6d-1e78-43b2-8484-4f52c1973426,caf6b969-eb23-400f-836e-41f9c55a0e4e
+25a8ef52-7d40-4a7c-887f-561cdd971440,bathing,2001-12-07 00:00:00+07,Maintain gentle temperature for bath,2367d2fc-bdc1-4402-aab5-4e20e7af8274,e844c362-bc62-430b-9bc0-4f818eef866a
+79c76be3-2913-446e-9db7-3a68822ad394,nail_trim,2015-02-14 00:00:00+07,Check for parasites before grooming,8ea2e63e-7f94-4a91-b6e8-59add5558d0f,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+0abe3ce9-c1b9-463b-ad66-9a5fc3d08967,haircut,2005-01-12 00:00:00+07,Follow up after 2 days to ensure comfort,2eaf0b8c-1cf0-46ba-80be-6bef77acc6da,dab552dd-9544-48ef-9438-a9def7ca4f13
+cf7954ff-6272-4b02-87fe-fee24a710020,dental_cleaning,2020-10-08 00:00:00+07,Avoid using strong shampoos,e769e4f1-901f-4e22-8446-ef70e43b8be4,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+e183f12d-0912-4041-aa3d-c947f25a39e4,nail_trim,2020-09-20 00:00:00+07,Do not bathe if skin is irritated,044fca10-b93d-4506-90e1-7b45da938dd7,b379e324-1b90-4a95-8983-4fed36413fb9
+eae714b6-eba9-4fc4-8740-bb42d0c19db5,haircut,2018-03-24 00:00:00+07,Check for parasites before grooming,e8016f48-4fc2-441b-b2bc-3148e51534f0,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+e596ac4c-aaf5-474c-9b32-e9a31536e14b,nail_trim,2023-05-16 00:00:00+07,Nail trimming should be done carefully to avoid injury,1570fb23-fc76-420f-bf9d-2b9ff9c9a21d,f8d173cf-1ae4-4886-90ee-d3019db2162e
+bab42a67-4d35-4aea-acc0-46d3390d7824,nail_trim,2007-01-25 00:00:00+07,Brush thoroughly before service,b9422c7a-f1b5-4423-9f5d-fe1bc4bdf3c9,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+11ec1fdb-d39c-4b9e-88d0-20d57dee492d,bathing,2007-12-04 00:00:00+07,Do not trim nails,591df15c-7315-494a-89c6-45115057a79d,a9c5e2ec-1b94-40ad-8462-960f685889f1
+722ba185-4ce7-4a38-8041-27d683143996,grooming,2009-04-11 00:00:00+07,Special care for elderly pet,6c1cc0b1-df56-4104-86e6-bd992115b0c1,81caaf0a-2f77-43df-bee1-25f5d1547615
+e853223b-3f0d-42c0-967e-d6476f2a2bb1,haircut,2024-08-24 00:00:00+07,Use moisturizing conditioner,03d4e6dc-726a-407c-a44d-e11e49986076,1a8f0baa-4439-4a42-9fe4-f655b0c68c8b
+035ded0d-c334-48b3-ba8d-d8d906138ebf,nail_trim,2022-03-30 00:00:00+07,Sensitive to loud noises,f753bb95-c45c-4ea4-a024-a14c0f5725f7,5718e850-a7b4-4973-8bc7-9024e8de7f1c
+9bf1e3ad-d581-4940-8882-9f4ffa2d3a5b,haircut,2005-05-07 00:00:00+07,Check for parasites before grooming,98b80704-616e-434a-8f4e-391c54777521,e5532741-5577-422e-9105-28d7929467f5
+60f55ac8-117e-4f35-ad6f-2881dbe60e45,bathing,2015-01-21 00:00:00+07,Use moisturizing conditioner,e9b60d39-cde2-46ba-bc22-b9fea4bd6213,957a5eaf-f85e-406d-b864-44455a6c92dc
+e1f1bafc-8dac-4b34-ae98-9d8f4fbb6383,haircut,2024-03-29 00:00:00+07,Do not bathe if skin is irritated,911cc0d9-0418-4fec-89f4-bda98b877c77,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+8a96b230-de43-49cc-b322-65529d43b365,grooming,2000-10-14 00:00:00+07,Nail trimming should be done carefully to avoid injury,589bedb9-77a9-43b5-aaa2-82beaddd5687,2d93dcee-7b81-4aa2-94f0-c1ca4772c4f8
+b443f5f1-bc6d-4b60-a279-9a3a730c850d,grooming,2016-12-22 00:00:00+07,Grooming needs to be done regularly for healthy coat,aac13d4b-c4e6-4fea-817a-d246f8a7ce84,f631237c-8a08-4b8a-a368-8a4233404dd6
+91eb8e1b-c0b0-407f-95ba-92d9513bc680,nail_trim,2019-06-19 00:00:00+07,Sensitive to certain fragrances,88167653-c95d-4216-af1c-c80e04a3dd11,caddb1b9-c89b-4d08-b893-bccbd5d7e2e8
+0432a884-ceac-413b-88d0-8c9d0340c4ae,haircut,2024-11-22 00:00:00+07,Check for parasites before grooming,3e44b13e-bf4b-4473-a32f-d67ba77ad64d,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+7f40a69e-6890-4809-8565-eccbba362a46,dental_cleaning,2013-02-21 00:00:00+07,Nail trimming should be done carefully to avoid injury,c22a2045-d2dd-4c26-b879-33c0387e64f3,0e87a3e7-2191-4089-92f8-3002cf1acd57
+721de1bc-ecea-4165-8b43-dd87f3d785bc,grooming,2024-09-26 00:00:00+07,Requires special treatment for matted fur,9759651f-644a-46e3-9bea-d8b23f664599,8e4a4238-c039-46f0-93c0-68c688f7d6ef
+1cdf390f-3ac2-4b74-9a5d-2a994dc47797,nail_trim,2023-12-29 00:00:00+07,Use soft brush for sensitive skin,ecb32ee0-b2b8-4137-a2f3-f2706b0cdaf7,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+2c12bfc0-04e1-4f62-a3ca-662370fe99e0,haircut,2017-10-30 00:00:00+07,Grooming may take longer due to pet's temperament,ea61edeb-35c1-45cd-a852-42239e77c6d5,cac42993-c181-43e9-a21e-faa65a3ce402
+f2d4a642-98fb-4918-a009-fb96a7c9cb40,bathing,2018-09-13 00:00:00+07,Needs a gentle grooming,d7563d0c-8609-46f2-9768-159aef549307,aef3b0db-6d52-4f5a-ba55-54f053a5f9df
+f1c27c7b-02d7-4367-8058-aeb18d03370b,bathing,2014-06-26 00:00:00+07,Prefer hypoallergenic products,dcf4c8e1-be02-47dd-806d-5cffca82c698,6957b22d-260a-44b5-874d-a5d4d63f27e1
+61e89622-2a01-4197-871f-50cfc61f82df,dental_cleaning,2003-02-15 00:00:00+07,Check for ticks or fleas during grooming,b729e684-907f-4c54-ac17-5ea91087b3d6,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+ec8fb9ea-8a5c-4750-909c-b9fa409666cf,haircut,2019-09-03 00:00:00+07,Check for parasites before grooming,420e2947-6082-4b87-ad6a-0d6614eaf147,8fec7236-ae69-4cdc-8e32-be45be2ea437
+731b2b88-b0d0-435d-880a-11a55086e32e,bathing,2018-03-12 00:00:00+07,Light trimming only,b01bc21e-dacb-41d6-b36c-7ad15cc55ccb,caf6b969-eb23-400f-836e-41f9c55a0e4e
+382d78a2-a003-41df-b147-5d59c86c3cbf,haircut,2010-03-30 00:00:00+07,Check for ticks or fleas during grooming,2fdf006f-ebfe-4d1a-b6eb-546dfc47b9ac,bad92d22-dafc-4480-b866-716948d3011d
+2964c848-9cc1-4615-984c-3a124a57b4e9,haircut,2014-10-21 00:00:00+07,Follow up after 2 days to ensure comfort,e1d45bb2-7558-4174-89f2-221a3e7fdccd,632f0415-ff55-4937-9a9c-4ebc4e370876
+8a07a4cc-55d3-4d41-8af4-579a7cac95fe,bathing,2005-06-13 00:00:00+07,Grooming may take longer due to pet's temperament,de54da6c-ee4a-49f7-895e-97d666cf62b9,57b602e5-c2c9-4358-b15d-651412f69401
+ecd96d63-fd65-4e8c-ab67-cdfa7eb58bdb,grooming,2012-01-31 00:00:00+07,Brush thoroughly before service,7a8ac8b1-f199-4298-baa6-436618728df9,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+dfd72fc1-1df3-4319-97df-a7d38aeac8c5,dental_cleaning,2018-04-14 00:00:00+07,Check for parasites before grooming,9b1451dd-f07a-4125-8f43-12b845b38ac8,caddb1b9-c89b-4d08-b893-bccbd5d7e2e8
+79631ac9-2c44-436e-a3ea-f6dae61ffe7b,grooming,2001-02-20 00:00:00+07,Use soft brush for sensitive skin,4fd24f65-2c91-4e41-b202-dd26e84804cf,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+06f17e35-451a-4eff-b796-e282e9d41b1a,dental_cleaning,2021-07-09 00:00:00+07,Use soft brush for sensitive skin,d7f5ebb8-4da7-46ca-81dc-02df51635999,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+1ede90e6-8202-4d70-bb68-52f8669559d2,haircut,2023-03-15 00:00:00+07,Avoid water near ears,21f4819d-574f-4876-ba63-243fa86d1b1c,b269d019-21fc-4990-bd31-33fd8165458b
+fce8345e-2537-4a5a-abd7-e92acaca12c8,bathing,2021-06-12 00:00:00+07,Use pet-safe grooming products,02f13063-8cef-412e-b562-30084a731528,19d9742c-f9ff-446f-958a-0fbe788bd943
+c55a4f9a-680e-4454-abb6-e44f3b52333f,haircut,2018-11-25 00:00:00+07,Maintain gentle temperature for bath,fb3bb8fd-e409-4581-aeba-7ae0eb100b00,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+79f494f6-20d0-437d-a080-93a377371288,nail_trim,2024-09-11 00:00:00+07,Use only natural products,22b8e0de-4a5c-4eae-b9b6-1741757243bd,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+58e64f2f-d540-4baf-9e30-bf7e980666c9,nail_trim,2024-03-08 00:00:00+07,Do not trim nails,c1219163-751a-4be0-a1f6-4ed9cdada29c,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+a448ccba-366f-409d-978a-721913ce8c24,haircut,2010-12-20 00:00:00+07,Follow up after 2 days to ensure comfort,bf2efc5e-10a4-4754-8d90-307d4fb36211,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+aa1de216-2e6e-40ad-aaf8-b96bef8d6213,grooming,2016-08-14 00:00:00+07,Use moisturizing conditioner,c3f3103d-4e38-443d-944f-da70938a93d9,92699c19-4f09-4cf1-9f70-f1fa69476481
+f0e668e8-8d67-4797-a9ff-b30645bd70ed,haircut,2018-12-10 00:00:00+07,Use moisturizing conditioner,b1bc9f4d-c3c8-45bb-9c54-fd062797c9aa,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+c378f307-29cf-449d-a87b-092c12046da5,bathing,2007-09-17 00:00:00+07,Needs a gentle grooming,f2b480b4-2c14-4408-ad3d-4b482935ee02,43c4431c-e919-4d11-82e8-74e354761952
+b2a0e8bc-1c5f-432a-9762-03f7a89b0403,haircut,2002-05-10 00:00:00+07,Use pet-safe grooming products,ebc29199-8075-4fcc-a0bd-011a19069ef9,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+7466d0a4-19bd-4850-b42e-4f4a234ae947,dental_cleaning,2020-03-24 00:00:00+07,Avoid water near ears,e769e4f1-901f-4e22-8446-ef70e43b8be4,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+ff5ccfa6-c42f-4f57-9afc-67db12c9a6b9,dental_cleaning,2022-08-02 00:00:00+07,Check for parasites before grooming,c22a2045-d2dd-4c26-b879-33c0387e64f3,a1cd9473-6617-44f4-862e-05eebcc0a439
+d96294d6-eb71-43e6-9671-aa000b4ce65a,haircut,2005-07-29 00:00:00+07,Follow up after 2 days to ensure comfort,c2d0ad91-fd6b-4dbf-99e3-6929b76c60ac,5cb4db40-4a0b-4504-878a-1813c2d56473
+befa3464-3478-44fc-8dce-a5465ad091a7,nail_trim,2023-08-09 00:00:00+07,Sensitive to loud noises,5191db42-5abf-479f-b68a-5de58f5b1683,c77d7d5e-3edf-4385-a623-eb6755c5637f
+ce670deb-f98f-4b75-8c81-6e654b8de9ee,grooming,2003-02-26 00:00:00+07,Nail trimming should be done carefully to avoid injury,07ea5214-52be-47ac-b16c-4676cdb764d3,a9c5e2ec-1b94-40ad-8462-960f685889f1
+a2e7516e-19b5-458a-bc13-40341d93de75,haircut,2024-01-19 00:00:00+07,Use only natural products,ca54ac2b-b401-423b-8375-6373894365d4,6143512c-f7d1-41bd-bacf-fd4cd790b297
+be03f709-6a5b-437a-8374-31f59997a968,dental_cleaning,2017-12-28 00:00:00+07,Nail trimming should be done carefully to avoid injury,bfeb2221-9c64-4565-8d41-e875ff2f1fa4,6143512c-f7d1-41bd-bacf-fd4cd790b297
+237a21ba-154b-4723-88f8-216d5bb3a390,nail_trim,2023-07-02 00:00:00+07,Avoid using strong shampoos,25453c7a-77a1-466a-acec-4a6955317558,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+75670164-d915-4778-aa81-ce8e33871e44,bathing,2024-01-11 00:00:00+07,Avoid using strong shampoos,e15531e5-e450-46f5-9afd-0cdde51c03e5,0211b722-86d3-40b2-afbc-84e904f09f4e
+28f141d9-a2eb-4505-9420-3d2ba826b3f3,nail_trim,2023-10-07 00:00:00+07,Brush thoroughly before service,58a899bf-cb78-42aa-928a-da4c2561174b,a5f80e60-c4c0-406c-bf66-453648dce324
+a652fda4-b212-4a42-adc8-4738a35f7455,grooming,2020-07-29 00:00:00+07,Nail trimming should be done carefully to avoid injury,844b3a6e-971c-4fad-9f2b-cb5d93853247,6b61a540-14b2-4563-a68e-46122fe66488
+f8b2d66f-c06d-49b9-a608-482f5f56eace,grooming,2023-11-14 00:00:00+07,Maintain gentle temperature for bath,5ae08177-06b5-4f81-aaf6-4cf934ce6094,0741df1d-e8e1-4360-86b4-368827bcf00c
+962cd107-e7c3-4ee5-8e08-6256f1f037bd,haircut,2020-10-12 00:00:00+07,Special care for coat,e769e4f1-901f-4e22-8446-ef70e43b8be4,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+b03199e6-e323-464a-8f41-750c0b5bf4b5,nail_trim,2006-06-24 00:00:00+07,Do not trim nails,6da51d96-5970-40e0-b256-1d1757be4a05,29549e64-1715-47a3-af68-a0b722e65edc
+6804c829-be11-4bb7-86da-842a54314756,nail_trim,2003-10-22 00:00:00+07,Requires special treatment for matted fur,b6b3bc2f-52ae-4d11-ad80-d1ddc296e4e3,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+58ec2d75-5a3f-4e1c-b3d2-0bf15bbe01da,dental_cleaning,2010-07-02 00:00:00+07,Do not bathe if skin is irritated,6015afbb-807c-4211-919b-c1dc75f738f0,2c5074b6-1bfb-49a3-bd51-85aae7f86ffd
+0b34f813-922b-4a78-9014-379834b1f6ce,bathing,2023-12-07 00:00:00+07,Light trimming only,4937d174-e699-4ee0-b1ce-777bf1863282,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+7417a949-4637-48ee-a521-1d02e95a474c,bathing,2021-07-23 00:00:00+07,Special care for coat,78b73a45-f9b1-49f9-a9e6-7a53094957cc,8e4d5275-6031-481e-b56b-496700291e5a
+1e94a644-390d-48e5-a44b-be20e3231e67,dental_cleaning,2021-01-09 00:00:00+07,Use calming spray before grooming,3237775a-58a8-4918-b161-69e0f7cfa512,b379e324-1b90-4a95-8983-4fed36413fb9
+9693db4e-9c85-4187-a44c-b20633b02cd2,dental_cleaning,2004-10-01 00:00:00+07,Sensitive to certain fragrances,8da930e2-f1c4-4eba-bc3d-87da6daf5661,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+fcb0967c-4aff-4b4e-a9e5-bdc96b9aae30,nail_trim,2012-10-25 00:00:00+07,Do not trim nails,4b804877-02bf-49b8-a583-a3bc3cb0c182,f8d173cf-1ae4-4886-90ee-d3019db2162e
+b8e9ade6-8da4-41f9-b0e3-7fc125cdec78,dental_cleaning,2021-06-11 00:00:00+07,Sensitive to certain fragrances,7906d196-8ef1-49cc-8839-4c7b8eb7ef93,43846b2c-e792-4f9c-8cb2-3534fc607fc3
+d1073330-b2be-456b-a98b-a8a7d4cfbf67,nail_trim,2008-04-19 00:00:00+07,Brush thoroughly before service,17cafc27-582c-4861-a81b-091b8ecc47f2,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+9361ce40-053c-4554-bdaa-b09f66c08e3b,grooming,2004-07-20 00:00:00+07,Follow up after 2 days to ensure comfort,d835304c-f623-4381-8ab7-4f3a695cc1cc,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+b0b37542-df7b-4ed0-920f-a893ec2e40e9,haircut,2008-08-27 00:00:00+07,Use calming spray before grooming,385df729-382f-40d0-bd47-7b960a6b9a69,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+fb73e13c-3c75-4f3c-a499-fc47e62bcf4f,haircut,2007-06-06 00:00:00+07,Check for parasites before grooming,9971e47d-05b2-4707-8789-29766b522f8b,e3600f3a-6cbc-42af-b097-62cdcc6b5021
+46a0603d-50c7-41d1-9f31-456950e6e2db,haircut,2022-03-22 00:00:00+07,Check for any skin irritations,e1d846ed-16af-42a9-aa64-32d2a66ed597,1a8f0baa-4439-4a42-9fe4-f655b0c68c8b
+61157282-1cac-4630-8290-5cca20c64e4d,haircut,2007-09-28 00:00:00+07,Needs a gentle grooming,deac51da-45c8-4acc-a13b-489b2e86b036,fc6d272a-e514-4b83-91ce-fd9154554f00
+b0804e08-1f16-4161-81c9-a7e679c77e02,bathing,2002-07-18 00:00:00+07,Light trimming only,6152ccaf-9ef6-457e-af00-668545057059,cf36da84-c96d-4d6c-a257-c4d6b69dee9d
+fa26c0bb-6bd1-4234-a228-6773e2bff8ac,bathing,2013-05-17 00:00:00+07,Use only natural products,59605902-8bff-49d0-a586-36f53646819b,7f44bc47-938d-4677-a6e2-976d863435cc
+82db2a2e-d338-4ca0-a4dc-a4f2728c7162,nail_trim,2024-06-26 00:00:00+07,Do not trim nails,b04e9254-2716-4bfe-8d75-597e242398e0,f4e0ba35-e6eb-4047-818d-c55fb84eba0b
+bfcce724-6102-41fe-8d6b-fe7667973b3e,dental_cleaning,2012-07-26 00:00:00+07,Use moisturizing conditioner,abec95aa-a983-47bf-9708-88bb07990b98,db4a71d5-0a93-4ba3-a105-ebb64a68f3e7
+7eceb6df-1c28-43e4-8ed9-d227b6f48928,dental_cleaning,2006-09-14 00:00:00+07,Sensitive to loud noises,802e1fdb-da6b-4638-b0ce-c09c9dd34c1f,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+61e15e28-4aa7-4da9-9ae2-b087fe050b2d,dental_cleaning,2006-06-05 00:00:00+07,Prefer hypoallergenic products,4f1ca377-9235-42f6-816c-584b8a6f3e00,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+df612102-525b-401a-81de-4968a63a9f81,dental_cleaning,2000-05-17 00:00:00+07,Sensitive to loud noises,d835304c-f623-4381-8ab7-4f3a695cc1cc,f8d173cf-1ae4-4886-90ee-d3019db2162e
+ff780faf-2535-4614-a8ce-2c19d236751b,dental_cleaning,2023-04-23 00:00:00+07,Special care for elderly pet,4c415e95-dd98-42b8-ad87-3e49ecd4f778,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+05115ca1-b8b1-4772-bf57-69e151c76179,haircut,2023-10-29 00:00:00+07,Sensitive to certain fragrances,9666090f-8967-4134-b03a-7296f01b8a34,a9c5e2ec-1b94-40ad-8462-960f685889f1
+bd69e284-3b49-4398-8ba4-1d0fd3d91892,grooming,2019-05-24 00:00:00+07,Use pet-safe grooming products,4f16cabb-776e-4ff2-97d5-e4ff07b2dae1,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+281c2898-e7d1-4e95-9440-3aef4aeba75c,grooming,2002-08-10 00:00:00+07,Brush thoroughly before service,e4b3a930-178a-4a0f-80ac-461b255dd1fa,053713f3-b33f-48a3-abf5-8c2dfab04c85
+f8221347-aa0d-45f7-a000-8c720bd84475,nail_trim,2016-05-25 00:00:00+07,Needs a gentle grooming,a78b3f89-5c4e-4f37-a259-809fa734feb5,8e4d5275-6031-481e-b56b-496700291e5a
+93157f03-ffb9-4e16-96cf-f2a23cbf9ceb,bathing,2014-07-13 00:00:00+07,Prefer hypoallergenic products,adfa3be8-e8b8-4378-b9cd-82f17dce6eac,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+89cece70-140b-467c-8844-6e0cf0d2c719,bathing,2013-11-16 00:00:00+07,Grooming needs to be done regularly for healthy coat,8593ece9-8db7-4f51-b04f-0119c5932259,1a40a0d2-cec2-4514-901d-97f352b3c471
+7d8dcb3a-578d-459b-8431-4144b33e51e4,nail_trim,2011-01-26 00:00:00+07,Use only natural products,c7ae30a3-9a64-4b8e-ac90-9ac30f694f9b,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+2bdbbd9c-a551-4ec2-876f-30c52dbe63f1,dental_cleaning,2003-07-30 00:00:00+07,Sensitive to loud noises,2f7c492a-26b1-470e-85c7-9e48e5a57dd3,57b602e5-c2c9-4358-b15d-651412f69401
+64867b49-092b-4cda-85e5-0f7ac284c2ae,grooming,2004-03-08 00:00:00+07,Light trimming only,fdb2cc9d-acb2-4170-a0bf-b8c272666f97,54659c5b-01e5-4fed-a960-88e75d563c52
+306e34d8-3b29-483a-8d11-e4646dbf188b,grooming,2017-11-02 00:00:00+07,Check for ticks or fleas during grooming,04548bbb-4234-45cc-9b8d-15c8a9ffb494,5f0cf5be-a023-40cd-a4a6-f03ea0144a04
+2be8be4e-a918-4fbe-9e87-1155e0cd69c2,bathing,2001-07-06 00:00:00+07,Check for any skin irritations,9208f49c-f730-4c75-aee4-bca3dc66a95d,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+3fcd66d6-e258-4840-8de5-7c37bd41582c,bathing,2023-10-12 00:00:00+07,Avoid water near ears,70784f65-01c7-43c9-9a1c-17adc884cf0e,6957b22d-260a-44b5-874d-a5d4d63f27e1
+820458a8-99e0-48fc-9751-17feeac5dd66,nail_trim,2009-11-01 00:00:00+07,Use only natural products,2e6e18f4-6a77-461a-9a9b-5e53b4ed2012,0211b722-86d3-40b2-afbc-84e904f09f4e
+068383bc-a729-4903-ab07-4017e8c41a0f,bathing,2017-06-22 00:00:00+07,Check for any skin irritations,23c79e4a-013c-42ea-a7cb-899b0126681f,b9af1687-9551-4e56-99d9-da4a3051a29a
+3e0985f5-25c9-4d7b-811e-2d4b6f9b8299,dental_cleaning,2004-09-09 00:00:00+07,Needs a gentle grooming,be065e77-0f84-4eea-92e6-0d13b9ea0159,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+56b95420-156e-4d75-8397-b59548a0b06b,bathing,2017-08-23 00:00:00+07,Check for ticks or fleas during grooming,849772cd-2337-485e-ac23-9da0738e0f2e,6143512c-f7d1-41bd-bacf-fd4cd790b297
+5cd70b90-982b-4caf-b438-eb7ecbf587e4,grooming,2005-07-19 00:00:00+07,Special care for coat,deac51da-45c8-4acc-a13b-489b2e86b036,a9154f06-e973-4529-bcf3-fc7733cc28f7
+0e8da78a-abe4-44ac-b923-cc6fddc92efd,bathing,2011-06-30 00:00:00+07,Avoid using strong shampoos,c840a15f-d3ab-4cea-bfd5-05daac8ea95f,fb81a400-08a2-4f98-96c7-71a296b3c40f
+ab34b57f-f0ed-4549-bb49-1cc388f5405d,haircut,2021-01-11 00:00:00+07,Nail trimming should be done carefully to avoid injury,abcc5604-0a3c-40f9-a3c7-238c2ad3b784,a5f80e60-c4c0-406c-bf66-453648dce324
+281514b9-0a81-44d5-88b1-a3cc08f5cd69,bathing,2000-09-30 00:00:00+07,Grooming needs to be done regularly for healthy coat,4c4895ff-6fc2-49bd-ac5b-ce70f2f2859a,7f44bc47-938d-4677-a6e2-976d863435cc
+d26a1708-8eb0-41d4-b296-057fe2e83e7d,nail_trim,2007-06-12 00:00:00+07,Grooming may take longer due to pet's temperament,c88600b8-df9d-4c2d-b2cb-86733564be90,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+f646cc28-61d2-41fb-b381-69e552661b5f,haircut,2014-06-12 00:00:00+07,Nail trimming should be done carefully to avoid injury,15c45032-67c3-45bf-b6c7-98f0dca765cb,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+5dcf1906-7068-401c-9760-75cca8f18de1,grooming,2021-07-29 00:00:00+07,Check for any skin irritations,db0bafe1-944f-438c-85ac-6430b78c7c14,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+2e074e43-1ed9-4f7d-a2d0-a319cedbd80f,dental_cleaning,2018-10-21 00:00:00+07,Nail trimming should be done carefully to avoid injury,8533cc91-8303-4e6f-956b-bc12598d589a,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+d50b4d90-2396-4882-a18e-8868e37a82e0,nail_trim,2016-07-10 00:00:00+07,Use soft brush for sensitive skin,5645af95-fb84-497e-9fe0-e6dd141b722f,e04d6a28-c336-4ed5-a055-6e20581c18b3
+a93b7d95-c448-4392-b761-2ca2afea10f2,haircut,2000-07-06 00:00:00+07,Grooming may take longer due to pet's temperament,b1634ad1-24cd-4e3a-9340-24e14a77e375,4b64f4f9-d58e-4758-b992-69b21387726a
+ff404273-5928-4de1-ae0b-68b99cb1f2f9,grooming,2006-06-27 00:00:00+07,Special care for elderly pet,dd575b3c-3bb2-48d7-8c65-343a81840349,1a40a0d2-cec2-4514-901d-97f352b3c471
+9c5a2e3e-04ea-4c7e-82c5-d111a17df41d,grooming,2004-06-14 00:00:00+07,Avoid water near ears,ed83e990-9486-42eb-a7ac-635e19cba957,01243cca-3841-4158-b375-4cf95720f081
+2cc79f82-f4f8-4fe4-872c-2e0b96dac23c,bathing,2019-01-29 00:00:00+07,Avoid using strong shampoos,59605902-8bff-49d0-a586-36f53646819b,150468d5-9310-434f-9853-ac9c9a13c384
+25469b94-c4a1-464e-bc86-8f5da3fcaead,bathing,2010-05-21 00:00:00+07,Needs a gentle grooming,17ffb86f-ca01-4510-8814-7fbe335bf200,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+fa31209b-e54d-4df8-b781-6c4d936b29ac,dental_cleaning,2003-11-01 00:00:00+07,Brush thoroughly before service,ca1ab56f-afe6-4f92-bdd0-b9a6a13623d3,c9b97c0b-98a4-4829-9116-c9371268bce6
+b470ac17-e9c1-4f47-82f0-138218549d54,grooming,2020-03-16 00:00:00+07,Use pet-safe grooming products,cf4905b2-7606-46b4-9b51-f0105588647d,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+60a0f2c2-3804-4458-b98f-8405fe209648,nail_trim,2015-10-02 00:00:00+07,Use pet-safe grooming products,d8d10c8b-7fdc-4bac-935c-42a9609b190a,464699eb-0703-45d4-a294-b2c21e3de0e4
+53600cde-f77e-460c-8a94-b9f6cc6dbd2f,haircut,2003-04-05 00:00:00+07,Maintain gentle temperature for bath,fa5bc1aa-2c39-46b6-9730-be031bc35ee6,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+ccceedf2-2edd-4e1a-a29e-60d231117ed4,haircut,2002-12-18 00:00:00+07,Do not trim nails,178ae01b-e24b-4da5-b24c-cebc307ace6e,a09b0c77-bb1c-4cbf-9c2f-a456fe2ae06e
+eff73bd4-5a48-477f-b3c9-aa9bd7ec3b31,haircut,2024-05-24 00:00:00+07,Check for any skin irritations,d68e5572-4d2c-484e-ab85-e87126248d5d,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+a7a9518b-abbe-4725-b2a3-8e2bb388d3df,haircut,2018-04-25 00:00:00+07,Use calming spray before grooming,f466ccdc-92ce-47a2-b3a6-c08580a12891,2ca717d2-57a7-476d-a893-97b64971cd27
+0f7054d0-97d0-44cd-9bd5-c406a06cdb80,bathing,2018-08-07 00:00:00+07,Check for ticks or fleas during grooming,3edc8dba-debe-463d-9032-d99ee1097bc6,464699eb-0703-45d4-a294-b2c21e3de0e4
+3708646c-01a9-4be7-b786-98b50ecd2056,bathing,2013-04-09 00:00:00+07,Grooming may take longer due to pet's temperament,3917bbba-6f7c-4c12-93b2-bef08bf6ee49,37b45687-12ed-4813-b74e-1b7d420e0ef4
+fe30945a-62b4-49e4-ace9-55d940691027,bathing,2023-07-10 00:00:00+07,Sensitive to certain fragrances,b5bcc60c-2a11-4d59-ba94-807dfde01b6d,6f671115-16aa-4ad8-9036-bd8dea75fb95
+4feadb45-3be6-47e2-b517-cb41e1f96913,grooming,2002-07-01 00:00:00+07,Avoid water near ears,2d967b16-4415-47c2-8bd1-4dd6c6353df8,dab552dd-9544-48ef-9438-a9def7ca4f13
+c7182dbe-2f05-4b6a-9769-aac6397acc35,nail_trim,2016-10-30 00:00:00+07,Check for parasites before grooming,eaa81121-3ad8-4e8a-a9d1-6b776b93276c,b5f0b78f-45da-43a5-b4ae-916dca68495c
+2f27ecb2-0e74-40ea-b89b-749eaea2b976,grooming,2002-09-12 00:00:00+07,Check for ticks or fleas during grooming,428b403a-d9a3-403f-84f7-27c5a478a6c0,5e7a318c-92b3-4796-8436-311a8fd9a466
+91dc9501-ccd2-44a2-81ef-32a10c12ba62,nail_trim,2021-12-20 00:00:00+07,Grooming needs to be done regularly for healthy coat,6d621100-d89c-40f2-b0ed-572f4b197d73,5fe1fd70-b82d-4c74-99fe-613b6da89ece
+9eafd5e3-b536-4e1e-bf59-8bba9d6fd25e,nail_trim,2008-09-04 00:00:00+07,Prefer hypoallergenic products,d1fc7b2b-8946-47b2-84db-f30fbd9e6eec,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+cdd96d5a-ce78-435f-bf67-541c8c6366a1,bathing,2000-05-12 00:00:00+07,Requires special treatment for matted fur,1409c3dd-8c76-4fa5-a19c-10f57cc1b797,fc6d272a-e514-4b83-91ce-fd9154554f00
+2c6a6ff9-0cbc-498c-af5b-6a9ca3b3f800,dental_cleaning,2011-07-10 00:00:00+07,Prefer hypoallergenic products,0ff6b598-972f-4f50-8c49-c0853cc53494,8fec7236-ae69-4cdc-8e32-be45be2ea437
+54dcc78e-0c0b-4873-af73-94fe7dc536b8,bathing,2007-03-06 00:00:00+07,Prefer hypoallergenic products,78b73a45-f9b1-49f9-a9e6-7a53094957cc,8208f0f1-fb11-404f-81fb-e0fe2fc481e0
+63dec2e0-55b0-4133-ab19-1798a63c04a8,bathing,2013-04-22 00:00:00+07,Brush thoroughly before service,64e62669-a81a-4068-b62d-e6af67c8a559,d4ef2080-b6c0-4f1a-971a-6eeb074bb4d9
+e71e99bb-9a14-42ab-8db0-98ecb929598d,bathing,2009-08-27 00:00:00+07,Do not bathe if skin is irritated,603db6ae-0601-48e0-a3a4-969a1fe250f1,02a4f188-45da-477d-952c-3a401d8a7a52
+74bd67a1-e951-4163-9093-c4acbce0913c,grooming,2022-01-02 00:00:00+07,Use moisturizing conditioner,a2c34e8c-8660-4fd0-8bb1-9b08d7dee8bb,5b5cde7a-2f25-46ff-81dd-ae2c11ff456b
+e2108e88-2dd0-4cee-bfb8-fdad1e3f9f42,grooming,2008-08-14 00:00:00+07,Sensitive to loud noises,7890afaa-ff01-4666-a2a5-3e76fab902c0,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+b417f07e-6767-4f66-9788-4d73e23cc234,nail_trim,2013-08-28 00:00:00+07,Check for any skin irritations,d3095d66-dc86-482e-88cc-5624d84de3a0,80fcff5f-14af-4221-9273-3279125ac847
+5217bb6e-57f0-46fd-9700-c65d54b9064e,dental_cleaning,2021-05-04 00:00:00+07,Check for parasites before grooming,b806a382-066b-43cd-a0eb-d3bb4abe6652,3b47a831-5007-4f3e-839f-b557eb561c23
+cdf3d275-b017-4be9-8d04-c2db3c11ae6b,bathing,2017-06-12 00:00:00+07,Check for any skin irritations,5ca3739f-6c36-44b0-a5c5-eb1803a2e45e,5b5cde7a-2f25-46ff-81dd-ae2c11ff456b
+a61f726c-4b06-4dab-b5a6-fcdf4a9bea78,haircut,2018-06-07 00:00:00+07,Brush thoroughly before service,cbed58a0-44d7-459f-b0aa-45548682b4b6,8e4d5275-6031-481e-b56b-496700291e5a
+d89ae7df-5deb-4ffe-b352-70f4292d1ca2,nail_trim,2017-03-14 00:00:00+07,Check for any skin irritations,911cc0d9-0418-4fec-89f4-bda98b877c77,5c642651-6e83-4014-9788-82665cb2620d
+5f3f2088-105f-4e64-a650-0ac5eddaf0a2,nail_trim,2022-04-30 00:00:00+07,Prefer hypoallergenic products,2bc9bc12-1648-4c74-8c93-5b3c15e19f3e,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+da41d70a-fc3b-416f-bbc2-8a9328898ce2,haircut,2004-07-09 00:00:00+07,Avoid using strong shampoos,66c49056-f194-49fe-bbf8-d32aa37f24f3,6957b22d-260a-44b5-874d-a5d4d63f27e1
+53e8187a-4d0f-4493-8a0d-208dc17d5e98,dental_cleaning,2016-07-04 00:00:00+07,Check for ticks or fleas during grooming,776abc1e-9882-4b5a-bc3b-77d978e9b76e,51e64ff7-28e8-47c5-84dc-813faea5b4f9
+a5186cda-da2e-4584-90ab-52ff5d096431,haircut,2002-11-07 00:00:00+07,Do not bathe if skin is irritated,47642c51-ed64-41ec-a646-3e879ae45647,4e932fe1-3e71-4831-8ad6-2712b88204a4
+3907db8d-a903-4f41-9cb2-825181d04511,dental_cleaning,2003-05-27 00:00:00+07,Check for any skin irritations,f466ccdc-92ce-47a2-b3a6-c08580a12891,43c4431c-e919-4d11-82e8-74e354761952
+f1e60067-019a-4ac8-a19b-c3761e1fb819,bathing,2014-03-02 00:00:00+07,Use pet-safe grooming products,e349f5b6-ce76-4dda-bdb6-b7a87c832248,5c77e60f-5497-438b-aee3-b20c46a31a64
+c7f9808d-9d1c-40c1-8c9f-55a535d073c9,grooming,2015-07-17 00:00:00+07,Prefer hypoallergenic products,e1d846ed-16af-42a9-aa64-32d2a66ed597,cac42993-c181-43e9-a21e-faa65a3ce402
+228c7ba0-199b-4bea-8f76-06165883b8d2,nail_trim,2006-07-11 00:00:00+07,Maintain gentle temperature for bath,87c7067e-c069-4d2d-97b3-a3dddf7ddaa6,0ad70aa8-4b6d-43d3-883a-42f1fafbbcf9
+3a992088-5165-4625-8946-3700bf6f4f5b,haircut,2008-08-22 00:00:00+07,Check for parasites before grooming,38850284-41ea-46d2-894c-782062b7d302,2c5074b6-1bfb-49a3-bd51-85aae7f86ffd
+8eb38c82-b5ea-45ab-9ca0-05627a0c515a,haircut,2012-06-28 00:00:00+07,Avoid using strong shampoos,3b445bb8-9c08-4ab3-b64a-30b08afdde40,0741df1d-e8e1-4360-86b4-368827bcf00c
+646d3e05-65e4-4069-9ef3-e0e81233a74c,grooming,2012-09-11 00:00:00+07,Check for ticks or fleas during grooming,61200e27-d365-4fa0-9ad4-6eb485585f0f,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+7eba4ab3-2633-46b5-8e6a-af4c89a0863e,bathing,2008-09-23 00:00:00+07,Follow up after 2 days to ensure comfort,2bc9bc12-1648-4c74-8c93-5b3c15e19f3e,fb81a400-08a2-4f98-96c7-71a296b3c40f
+ff853c85-a296-4294-aaa2-5773ea7a58bb,nail_trim,2019-05-01 00:00:00+07,Grooming needs to be done regularly for healthy coat,03b295af-a0ba-4501-a612-4b2d8a217511,fc6d272a-e514-4b83-91ce-fd9154554f00
+1ff0a9e7-2ce0-4ff5-9976-d4bde03f3fd3,nail_trim,2010-03-19 00:00:00+07,Requires special treatment for matted fur,88cce99c-40ac-4e16-8eac-f23a6d58a751,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+2677d379-7f01-4ff8-9ca7-e408d11be6d5,grooming,2014-06-18 00:00:00+07,Nail trimming should be done carefully to avoid injury,1bfa7434-a8f7-4b6e-85f2-eaeabfbb52c4,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+817a343f-76da-4ec5-bb95-f450ad87bd53,grooming,2013-12-31 00:00:00+07,Prefer hypoallergenic products,1a2a0c03-67a9-4cfb-8cf2-1aab9b464b6d,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+193cc096-c0f5-43b3-99ae-7284ebf2a6c6,bathing,2020-10-11 00:00:00+07,Special care for elderly pet,4137d753-246a-4bcc-b4d7-4adf7b9fe4e0,cf153a58-1b1e-4956-8e3a-2164310edfd0
+4c3bdaaf-9135-44b2-8213-3e6903f0a607,haircut,2012-05-15 00:00:00+07,Follow up after 2 days to ensure comfort,dae3f1c9-588e-44fd-b076-b4f60c49dca7,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+b2ac6ab8-ff04-4766-bea5-e1bb5577c272,grooming,2007-01-03 00:00:00+07,Brush thoroughly before service,aac13d4b-c4e6-4fea-817a-d246f8a7ce84,5e7a318c-92b3-4796-8436-311a8fd9a466
+94f4e1f7-98c5-4fec-8269-fb81a1793f2a,bathing,2019-06-11 00:00:00+07,Use soft brush for sensitive skin,37f36bed-2f2a-4df9-aad8-abc7f033d7ff,e3600f3a-6cbc-42af-b097-62cdcc6b5021
+32bcc6a7-48eb-4fb5-83a1-215ae63fe2a1,bathing,2023-09-06 00:00:00+07,Follow up after 2 days to ensure comfort,e2055e4a-ae8b-4dbb-a509-b718abcce79b,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+55deb5e4-1ef6-4ea7-a91a-a56c7512eeef,dental_cleaning,2009-08-24 00:00:00+07,Special care for coat,07fc710e-c608-4d59-baac-af983dc9c878,e003d879-2744-42a9-91b5-132a097f5fb4
+5b1afa8d-4f8a-498c-a3e6-b7a26b81851f,dental_cleaning,2015-10-14 00:00:00+07,Do not bathe if skin is irritated,efc95c2e-d74b-47b2-a068-11f635ad070d,a9154f06-e973-4529-bcf3-fc7733cc28f7
+7b6f5bb2-7ae1-40af-9798-971c956e3d28,grooming,2003-09-24 00:00:00+07,Use moisturizing conditioner,800462fd-14f0-4e1e-b1b7-338dbcad1b36,632f0415-ff55-4937-9a9c-4ebc4e370876
+12e4d767-eb45-4d1a-b967-b473db42f496,bathing,2011-11-19 00:00:00+07,Requires special treatment for matted fur,6d18b4f1-21ee-445c-a04d-214804a86bb0,cac42993-c181-43e9-a21e-faa65a3ce402
+b245c99d-423a-4ea1-bc03-772518d0de0d,dental_cleaning,2008-12-26 00:00:00+07,Needs a gentle grooming,3cfd514e-ee99-49b7-810a-4fdc29757802,43c4431c-e919-4d11-82e8-74e354761952
+58c1b8ac-6c84-48f5-b8d4-ef747cd0927b,dental_cleaning,2023-09-02 00:00:00+07,Check for parasites before grooming,e94d1c73-120e-4426-83b7-7e90abd99121,43c4431c-e919-4d11-82e8-74e354761952
+30668aaf-f1f9-4e74-abcb-8bf69b580557,nail_trim,2023-05-21 00:00:00+07,Special care for coat,ec7047d1-dd33-4995-ae51-56f312329cb7,74a63dc4-b751-47a6-bd4a-b88d15949325
+dc79695b-7464-425e-8461-51804ac04ec4,nail_trim,2015-05-07 00:00:00+07,Avoid water near ears,a26603bc-9fec-4f89-ac70-d452b0b775f2,053713f3-b33f-48a3-abf5-8c2dfab04c85
+f46a5a98-1350-4603-a59a-a2e0dc9b225e,nail_trim,2015-07-30 00:00:00+07,Nail trimming should be done carefully to avoid injury,0482cede-0349-4474-be2b-7ffe4b8313a3,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+fe7eafaa-ab65-4929-bc33-b6716e04e764,dental_cleaning,2016-03-19 00:00:00+07,Grooming needs to be done regularly for healthy coat,319924a2-5772-458a-abf8-d2b567a71e85,fb81a400-08a2-4f98-96c7-71a296b3c40f
+bb329a6e-9571-4ad1-9032-427326c61769,haircut,2005-11-15 00:00:00+07,Check for ticks or fleas during grooming,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,77f8434e-5ce3-4408-b567-f8574252c188
+72027004-ed8d-475e-99f0-e932afdae920,grooming,2015-12-04 00:00:00+07,Do not bathe if skin is irritated,88902bcf-4e25-425b-ba18-260fd4999679,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+1a136c28-6537-46fb-b5d1-fedf40a8da32,haircut,2001-11-25 00:00:00+07,Check for any skin irritations,c02153b0-21c8-47e6-a572-4c972d1b1ecb,a9154f06-e973-4529-bcf3-fc7733cc28f7
+c974f2e8-d261-4f8e-85c7-6927da121e65,nail_trim,2001-05-19 00:00:00+07,Do not trim nails,b5aed7d4-3528-4579-a54d-55a4de291e65,e003d879-2744-42a9-91b5-132a097f5fb4
+8ad888e8-c5f4-4b8e-931b-c97e127405d7,bathing,2007-10-26 00:00:00+07,Nail trimming should be done carefully to avoid injury,c39c0ea5-cccc-4671-975e-ac1a76c26ebc,b59dd49f-466b-4c15-ae05-0db8ab810263
+73b41db1-414b-431c-b685-ea90087bf4bd,grooming,2017-02-18 00:00:00+07,Light trimming only,757cdc3e-1cab-4feb-aa96-d41c71400f30,57b602e5-c2c9-4358-b15d-651412f69401
+c4355a24-cfd5-4b9d-8589-c06c806ed7f3,dental_cleaning,2001-11-25 00:00:00+07,Check for ticks or fleas during grooming,3100e4e7-978f-4125-835b-9e0cff1b50c5,040a1b87-271d-48cd-8906-3b584bf768aa
+3f93f2e5-f92a-4cfb-ade5-a32f341396d5,grooming,2002-05-09 00:00:00+07,Special care for elderly pet,8c3e4560-dda6-4ee8-89ce-cf907260682b,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+d387dbb1-69b0-4ad0-8de7-ea14bc4063a0,grooming,2023-01-03 00:00:00+07,Nail trimming should be done carefully to avoid injury,4c4895ff-6fc2-49bd-ac5b-ce70f2f2859a,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+d0af5702-94e9-462e-8250-f2faa5f0cacb,grooming,2013-05-07 00:00:00+07,Check for any skin irritations,af202511-fa12-437d-bbca-203adf69817b,bacb6ea8-4cc2-470b-a0df-7ba914009094
+408e4e79-eba3-4c41-9387-a40a0045c460,grooming,2014-04-06 00:00:00+07,Grooming needs to be done regularly for healthy coat,0f7c4fc6-e523-4fb6-a298-5fcdddddd301,c77d7d5e-3edf-4385-a623-eb6755c5637f
+12ec9e88-7422-4d3e-8f81-3729482ef66c,grooming,2006-09-26 00:00:00+07,Use calming spray before grooming,4653833b-f8dd-4000-b3f0-e9ed29c38baf,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+f23066a9-77ff-4ecc-91e6-d076b789ba33,nail_trim,2018-01-09 00:00:00+07,Special care for coat,f9b23567-c2b4-48c5-8bd6-138ef151f9cc,0e87a3e7-2191-4089-92f8-3002cf1acd57
+3b3d1c46-7955-467b-a19e-8984cde85e02,nail_trim,2020-11-19 00:00:00+07,Check for parasites before grooming,0a73f3f0-0604-4ef2-aeea-0ffda0e40381,5e7a318c-92b3-4796-8436-311a8fd9a466
+215b7618-6e97-4973-80fd-533637ec4665,dental_cleaning,2017-10-21 00:00:00+07,Do not bathe if skin is irritated,e9b60d39-cde2-46ba-bc22-b9fea4bd6213,6d851902-c0e0-4612-afa8-002be4e5b27e
+81ca12e5-aaea-4c2e-952e-cee27b5dfff1,dental_cleaning,2015-05-09 00:00:00+07,Do not bathe if skin is irritated,6dfda04c-3210-477b-bf6f-e57239a65844,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+cf70f33e-7a84-4288-ac99-f92de6e6aba1,dental_cleaning,2023-03-20 00:00:00+07,Use pet-safe grooming products,22b5e085-e962-4784-8755-9bb63cb94944,96ed3445-5a7f-4f2c-aded-5c82df8aa250
+54b4a5ac-2bb6-4181-8cd9-bb6fadc5da47,dental_cleaning,2023-12-06 00:00:00+07,Prefer hypoallergenic products,9edb3065-9fb9-4486-bf9a-9d85e9ebe6c3,a1cd9473-6617-44f4-862e-05eebcc0a439
+a003e7f2-32bf-4fda-b1f6-436e4ecc8c65,haircut,2022-06-18 00:00:00+07,Brush thoroughly before service,65debe89-1187-4b46-94cc-f5eba97ec98d,80fcff5f-14af-4221-9273-3279125ac847
+ba2f70db-a2e3-47f6-8ef1-2514d8ca2cdf,haircut,2003-12-03 00:00:00+07,Brush thoroughly before service,1e7aec40-f6dc-4358-8471-57b7c97aab0a,a9c5e2ec-1b94-40ad-8462-960f685889f1
+a220dee8-ea67-4f8c-8f8e-0c3641bcc25c,nail_trim,2000-09-22 00:00:00+07,Special care for coat,07ea5214-52be-47ac-b16c-4676cdb764d3,4e932fe1-3e71-4831-8ad6-2712b88204a4
+b1ebc1a2-25a5-49db-9cda-b38a88180b85,haircut,2019-12-30 00:00:00+07,Do not bathe if skin is irritated,cad89368-b77e-4c2d-a731-2ea3ea41fdba,97411cb2-9dc1-4db1-9523-c24003fd502c
+0f52fed4-b613-4a34-96ca-c6bc4472786b,bathing,2000-12-05 00:00:00+07,Sensitive to loud noises,bc517a61-6955-43ce-a0b5-4330fd4f7ddd,6957b22d-260a-44b5-874d-a5d4d63f27e1
+a0f06c5e-df5c-4001-a459-350410015ea4,dental_cleaning,2009-01-27 00:00:00+07,Do not trim nails,ed83e990-9486-42eb-a7ac-635e19cba957,c73856a3-e8e4-4941-910f-accbddbb7da6
+5867a271-258e-4b3a-98aa-fca3e7d0985a,haircut,2024-02-07 00:00:00+07,Nail trimming should be done carefully to avoid injury,e9badd63-dcda-4640-ae87-c861253e041e,bad92d22-dafc-4480-b866-716948d3011d
+90a80b6c-cfba-4d50-8f8d-743ca092378e,nail_trim,2009-01-13 00:00:00+07,Avoid using strong shampoos,d1f0d10a-59b5-4e0c-aa9c-2f3b7a698305,8e4d5275-6031-481e-b56b-496700291e5a
+9034102f-dc02-435c-8264-0e0a566186f8,bathing,2001-05-04 00:00:00+07,Special care for elderly pet,ab92cd41-049f-4527-849c-ccaaa16832ea,e003d879-2744-42a9-91b5-132a097f5fb4
+5f66762b-2677-4c36-aacb-0ee14c765bff,haircut,2002-06-29 00:00:00+07,Special care for elderly pet,61d428a6-136a-42cb-9bff-a8861f43c602,961b9265-d2ee-4aaf-a872-af1b990318ed
+34211671-e63f-48eb-a0bf-845e829dc54c,dental_cleaning,2023-01-21 00:00:00+07,Use moisturizing conditioner,d3daead7-cc5e-4fdb-91e5-9415ed53f667,5c77e60f-5497-438b-aee3-b20c46a31a64
+9693ad9d-fe51-411f-af77-6058cb6cb986,dental_cleaning,2002-06-07 00:00:00+07,Check for any skin irritations,dd8dae55-140e-42ef-a71c-bee852c4dc0f,57b602e5-c2c9-4358-b15d-651412f69401
+992c8a7f-a594-40f2-b469-167c672e05d8,bathing,2008-07-31 00:00:00+07,Brush thoroughly before service,2fbf9828-be69-4fc7-99f8-5729e11284bb,6d851902-c0e0-4612-afa8-002be4e5b27e
+1769af91-afa5-403f-b375-7ad4244d08f0,nail_trim,2022-05-14 00:00:00+07,Prefer hypoallergenic products,88167653-c95d-4216-af1c-c80e04a3dd11,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+a18f16a4-56e2-495f-9db6-c77de9894ed8,grooming,2005-11-30 00:00:00+07,Do not trim nails,6e472953-640c-4332-b855-0d45ad4a01a5,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+18d567ea-efa0-44b8-bc23-28f44ccb8b47,grooming,2008-07-05 00:00:00+07,Requires special treatment for matted fur,4eeabad7-d2e5-41d6-a67a-c477a7baf4cb,5cb4db40-4a0b-4504-878a-1813c2d56473
+6e197e7e-8f48-499c-9adb-de487984f4b3,bathing,2008-05-31 00:00:00+07,Special care for coat,88fdf28d-2ddc-4d75-9364-74c765f50d99,e4a7c82c-8e42-4c1e-b1ea-6ce6fbb43d68
+f47781bd-c8f3-47b9-9a41-e20f9092103b,grooming,2019-10-08 00:00:00+07,Follow up after 2 days to ensure comfort,6d18b4f1-21ee-445c-a04d-214804a86bb0,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+406548ef-88da-4dd2-abcc-1a09578c66a0,dental_cleaning,2001-05-01 00:00:00+07,Brush thoroughly before service,9c861093-52a1-42c6-a02b-4ec440c5f13a,6957b22d-260a-44b5-874d-a5d4d63f27e1
+04e8ec3f-9ace-426e-ad10-0295a0283651,haircut,2010-04-07 00:00:00+07,Sensitive to loud noises,ee89b3bd-5785-4056-9167-aca82823f943,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+f7a3c2ab-18c8-4a70-94b2-dc003e813b6e,grooming,2022-01-11 00:00:00+07,Needs a gentle grooming,2e720766-7d38-4326-8930-599fe85bd989,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+517c83db-9829-44aa-aafc-60eb44ec72a0,bathing,2006-07-06 00:00:00+07,Maintain gentle temperature for bath,0fff6024-e34d-4a66-8e20-b35ee6bf6dae,0a072ed0-8644-4e9b-9642-eac56eb9be23
+5ae65ad9-a501-4412-8014-d5115206834c,nail_trim,2017-02-13 00:00:00+07,Special care for elderly pet,e4b3a930-178a-4a0f-80ac-461b255dd1fa,6143512c-f7d1-41bd-bacf-fd4cd790b297
+0134685f-aa21-4ccf-8042-33a57cbf438c,grooming,2009-11-24 00:00:00+07,Grooming needs to be done regularly for healthy coat,7a28c42e-ba22-4077-a96b-1d7875d77581,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+72505bbc-f32a-45a4-85e4-d74e2dccdf6c,grooming,2003-11-02 00:00:00+07,Needs a gentle grooming,2bba2aa6-ceca-4bb6-82a9-46613185f2e1,961b9265-d2ee-4aaf-a872-af1b990318ed
+80ad6bc8-d599-497f-9e4d-86413b8a4f00,dental_cleaning,2022-07-20 00:00:00+07,Requires special treatment for matted fur,30ef067c-9196-402c-877d-9d1db71b72e8,b269d019-21fc-4990-bd31-33fd8165458b
+9c84d705-85ea-4c1c-b5ad-086fcac2f00a,bathing,2025-03-06 00:00:00+07,Use soft brush for sensitive skin,22ab2c96-209c-4ac0-8d09-90453974c131,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+b33e3060-5ed9-403a-8a8e-510d1ca80040,grooming,2018-02-26 00:00:00+07,Avoid water near ears,9c528ad5-a9e0-48ef-bba9-a2af67822aa6,5cb4db40-4a0b-4504-878a-1813c2d56473
+9c93f782-03b9-4e92-a752-50129f38d68e,grooming,2019-02-06 00:00:00+07,Use pet-safe grooming products,5ea510bb-1ea0-4144-b036-10b60fd45bb1,bd10350f-2fb6-41fe-827d-d8342db442cd
+c20685d1-c222-4baa-a65e-63bf5f16d1d1,bathing,2004-07-25 00:00:00+07,Special care for elderly pet,40ba3d5a-6228-4c87-9d68-9e10b9cb718c,71d9f58d-33f7-49f3-8a79-ac7b1bf10909
+3082d357-e7d4-42fe-b03a-849362970c43,nail_trim,2004-02-24 00:00:00+07,Do not bathe if skin is irritated,c535ca16-27a5-4563-aac9-7759839986ac,c77d7d5e-3edf-4385-a623-eb6755c5637f
+e4f210f6-3eb8-4b2c-b005-d8ec7bec6406,haircut,2002-01-24 00:00:00+07,Needs a gentle grooming,15c45032-67c3-45bf-b6c7-98f0dca765cb,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+61dde0b3-bf02-4068-a97f-1c7e523c7707,bathing,2005-02-10 00:00:00+07,Do not trim nails,ed83e990-9486-42eb-a7ac-635e19cba957,f8d173cf-1ae4-4886-90ee-d3019db2162e
+e75b1ebe-936a-460c-9140-71c902f9a919,grooming,2015-07-10 00:00:00+07,Use pet-safe grooming products,2f8c62da-853b-4d30-91dc-beef9a376ce8,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+afff10f1-c70b-438e-8396-45fc3bff4ecb,dental_cleaning,2008-08-25 00:00:00+07,Use moisturizing conditioner,95879d7e-c04d-4edb-8a23-2a74930c5c86,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+d4d95ef0-45a9-46c9-aee0-efefd0587fe8,grooming,2004-02-23 00:00:00+07,Use calming spray before grooming,eea32b22-e3e6-4c24-bd97-86a026095d6f,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+162b85a7-e54d-42af-b984-8a6ad29291c2,haircut,2008-01-08 00:00:00+07,Special care for coat,6152ccaf-9ef6-457e-af00-668545057059,6957b22d-260a-44b5-874d-a5d4d63f27e1
+5733138b-8e1d-4c21-a540-e8d1845e4a00,dental_cleaning,2020-10-24 00:00:00+07,Needs a gentle grooming,8ce41e64-d7f1-4b5c-bd97-a299e6e0d202,b01e6877-4437-4dbe-9ec7-8100d13cbee7
+02fe8aa4-3dd1-4782-aa73-3a92d0c94857,grooming,2023-04-18 00:00:00+07,Requires special treatment for matted fur,519643d4-81fa-48b0-affd-c69d0c597e31,d0ef698d-7228-4260-9fe7-1dcee2f78b72
+b9147a82-429b-4ca3-9e02-142fb4a3689b,nail_trim,2007-09-25 00:00:00+07,Requires special treatment for matted fur,8c3e4560-dda6-4ee8-89ce-cf907260682b,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+2bebde57-9fce-4c47-9b33-cf3b4cdbf1e3,bathing,2000-12-23 00:00:00+07,Sensitive to certain fragrances,ab92cd41-049f-4527-849c-ccaaa16832ea,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+0bea8c93-4c7b-4cb7-969b-a2d5296ce3b5,haircut,2022-12-08 00:00:00+07,Do not trim nails,9e130484-b8e6-4b07-b228-c4f8918da7a6,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+9b40c535-f771-4226-8733-5532149b33de,haircut,2021-12-13 00:00:00+07,Needs a gentle grooming,5c28493f-b0e7-45bd-82ce-efccf69e8158,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+f5e161ac-91d6-497c-863a-598cc501213e,haircut,2019-04-30 00:00:00+07,Special care for coat,b87c9da3-feb5-46e9-af53-dda698175ee0,cf153a58-1b1e-4956-8e3a-2164310edfd0
+15a1eaf1-60bd-4175-a437-d3ebe8f8410e,grooming,2007-10-03 00:00:00+07,Avoid using strong shampoos,499fd2af-ef12-43cf-bec9-c134ae1ce6f5,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+0b015aea-8624-412a-943f-fee6d017764d,haircut,2020-12-11 00:00:00+07,Sensitive to certain fragrances,591df15c-7315-494a-89c6-45115057a79d,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+98902f82-415f-484e-bb06-ac016174fa97,bathing,2013-10-13 00:00:00+07,Needs a gentle grooming,6c1cc0b1-df56-4104-86e6-bd992115b0c1,2dfa3cb6-8e1e-42d6-9334-56fdd6035c10
+cd1baa4f-fefb-43be-bd72-cdf5c0d12bcc,bathing,2012-06-18 00:00:00+07,Light trimming only,054a7c2c-2baa-470b-9e34-27415496242f,4cd2e87d-c440-45dd-9d4f-f5a573ca7699
+d8a12950-7cd9-4b34-a97c-de23165f98ab,haircut,2001-12-16 00:00:00+07,Use only natural products,c05a9f65-5014-4656-956e-79e6f3022190,c9b97c0b-98a4-4829-9116-c9371268bce6
+b2148f1a-a38a-4c83-87b2-a4a4a373d97b,bathing,2017-02-18 00:00:00+07,Requires special treatment for matted fur,f2f4dc34-73ce-4ea2-97b1-20793cba965a,5e7a318c-92b3-4796-8436-311a8fd9a466
+3312f940-e98a-4ce6-b2fb-ae32b4f1ca75,haircut,2022-02-10 00:00:00+07,Check for any skin irritations,c6343714-900f-4610-86dc-b9d8e00c2aeb,150468d5-9310-434f-9853-ac9c9a13c384
+ed3808eb-d1a9-41b9-b6df-414c4e1680c9,haircut,2011-05-09 00:00:00+07,Sensitive to certain fragrances,222ae62d-1f6d-4a36-b697-c27ade0d3d93,0ad70aa8-4b6d-43d3-883a-42f1fafbbcf9
+e4dcd3d5-8cdb-478f-b859-6b8e133c1a1e,dental_cleaning,2016-10-06 00:00:00+07,Use moisturizing conditioner,447dc1b3-313b-4b94-8c9e-85be638de666,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+7cd37396-f0fa-4cc5-bd4b-2bddb1cb1bca,nail_trim,2002-01-10 00:00:00+07,Prefer hypoallergenic products,3eaa3358-17a7-46cb-abaa-c9a821b26ced,c644bf08-e946-472b-89da-29f6d6abac17
+1ad98375-77d8-4a2f-a1ff-cac4fe58da2b,dental_cleaning,2007-04-23 00:00:00+07,Use only natural products,1f4398bd-85db-4201-8fcb-2b0256fbd806,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+815ec6f4-adec-4fa2-b582-ec7dfb6e91ed,dental_cleaning,2015-07-16 00:00:00+07,Use soft brush for sensitive skin,e7d40515-138b-4b85-8626-933270cff1ff,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+f773570f-9b91-4f3c-afd7-ae4eb2e4266a,grooming,2006-09-04 00:00:00+07,Check for ticks or fleas during grooming,fcef82bf-6ea3-4c52-af51-b24efea02214,cac42993-c181-43e9-a21e-faa65a3ce402
+06181631-2871-4feb-9530-fc21bbcb3792,grooming,2013-12-16 00:00:00+07,Avoid water near ears,ab22ee16-03c6-4766-8069-9c88edbe55d0,0a8c3faa-c02a-4045-a3bc-ab29aa3e3d6a
+edeb9d7b-8cc7-4d36-a610-9d55ece4173d,grooming,2022-06-19 00:00:00+07,Check for ticks or fleas during grooming,4137d753-246a-4bcc-b4d7-4adf7b9fe4e0,c4b787c3-cfab-490f-b8b5-81e862eecf83
+89fe57f9-697e-49cd-bb4e-28abd36c2cee,bathing,2012-12-07 00:00:00+07,Special care for elderly pet,1e4b5267-fe5d-4fb4-97a3-4b4fe8d890b3,374a2bb2-1a11-4b74-a691-4e61fcff7b92
+848f2882-6411-419b-8a9e-fcf071f249a4,grooming,2020-01-11 00:00:00+07,Requires special treatment for matted fur,03b295af-a0ba-4501-a612-4b2d8a217511,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+e0373158-5d78-42b7-bf96-627c34287ed9,bathing,2017-10-15 00:00:00+07,Avoid water near ears,9e130484-b8e6-4b07-b228-c4f8918da7a6,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+ba73aeb1-2f4f-4f08-aa14-c9ace94a52cd,nail_trim,2013-05-15 00:00:00+07,Brush thoroughly before service,75a3ff38-296d-4b61-b49b-0af20be0b674,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+68e0b236-2814-4201-bc25-4038f5c75af0,dental_cleaning,2018-08-14 00:00:00+07,Prefer hypoallergenic products,04e305e3-97ac-4931-9455-905d990261c7,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+8cb64b96-cd56-4900-a340-8520c37ed424,grooming,2009-09-28 00:00:00+07,Sensitive to loud noises,ad87a358-e4d1-41b0-bd5b-589417af7dca,6ee9f494-b192-4be5-a671-f47866777a74
+d6fbd190-b307-4bc8-9b18-dbd86549090c,dental_cleaning,2008-04-12 00:00:00+07,Prefer hypoallergenic products,7a01cd5c-cb34-4dcb-80d0-a24796a2eb9b,0a072ed0-8644-4e9b-9642-eac56eb9be23
+425182bb-7796-4618-8a08-f25546ca5403,bathing,2014-12-02 00:00:00+07,Do not bathe if skin is irritated,2cee435f-86b6-46da-be8a-c36259d08424,6957b22d-260a-44b5-874d-a5d4d63f27e1
+105fe55e-f092-488d-8797-2c93f10ed523,bathing,2008-08-04 00:00:00+07,Prefer hypoallergenic products,59d67508-30de-426f-82f2-11f26f13f5af,37b45687-12ed-4813-b74e-1b7d420e0ef4
+521244cc-f454-4a5c-9536-0b25c607f854,bathing,2008-02-23 00:00:00+07,Avoid water near ears,6015afbb-807c-4211-919b-c1dc75f738f0,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+38138405-121e-4747-8352-baf7679521b5,bathing,2000-11-13 00:00:00+07,Grooming may take longer due to pet's temperament,b5bcc60c-2a11-4d59-ba94-807dfde01b6d,80fcff5f-14af-4221-9273-3279125ac847
+6d703a25-0cbb-4f28-8a88-02d4fdbdeea4,grooming,2006-02-28 00:00:00+07,Nail trimming should be done carefully to avoid injury,d1d999d7-a788-4705-aabd-36ff9bb3759d,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+a1c60ebc-d717-4546-8afa-9d146233b796,haircut,2009-02-25 00:00:00+07,Needs a gentle grooming,7a8ac8b1-f199-4298-baa6-436618728df9,e4a7c82c-8e42-4c1e-b1ea-6ce6fbb43d68
+8ce62462-a87a-434e-a388-3f59dbfd4001,dental_cleaning,2002-10-09 00:00:00+07,Requires special treatment for matted fur,0cb61ac8-284a-44db-9d5a-b78f047b2b5c,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+a88fb344-e0b5-416f-a02a-193a7107d502,bathing,2014-01-07 00:00:00+07,Grooming may take longer due to pet's temperament,ecb32ee0-b2b8-4137-a2f3-f2706b0cdaf7,988a967b-7d8d-42f9-81ec-a5fdbfae1f01
+eba7be6a-1dc7-4c72-b0c1-9c117a14edf8,haircut,2000-07-22 00:00:00+07,Maintain gentle temperature for bath,993b04c4-4714-423b-a146-41246db840c3,e4231f86-48ee-4219-bd63-ff9090eb6d6e
+aa389176-af7f-4cf7-92e4-80c6cdd900a9,nail_trim,2025-03-01 00:00:00+07,Grooming needs to be done regularly for healthy coat,13df93bf-e079-444c-b0f1-bd237586e3da,8208f0f1-fb11-404f-81fb-e0fe2fc481e0
+ebd3128c-b270-498a-9876-54dea2db95da,bathing,2003-11-19 00:00:00+07,Special care for elderly pet,e07692ed-96f4-4804-a609-ceb62b2c8a82,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+15216bd5-bad5-4c94-a4ca-c0143571b8d9,nail_trim,2019-05-27 00:00:00+07,Use soft brush for sensitive skin,6278525f-be5e-4638-8f91-ee2ccf2abc9c,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+af4ca74d-e4b3-4f59-9a72-c6c7c540cfd5,dental_cleaning,2003-04-02 00:00:00+07,Sensitive to loud noises,b5aed7d4-3528-4579-a54d-55a4de291e65,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+54f5259b-7b75-41c7-8852-32031b4d0918,bathing,2016-04-24 00:00:00+07,Use moisturizing conditioner,2439b8ac-6c9c-4611-932f-1e408cadc1c2,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+3f55e7d6-2240-4657-b102-5e31d94eaddf,dental_cleaning,2002-10-04 00:00:00+07,Check for parasites before grooming,08ff143b-3ad5-494c-90ff-c20be2717f66,dab552dd-9544-48ef-9438-a9def7ca4f13
+1130c3d5-d341-44c0-8456-ac66dfd69956,dental_cleaning,2010-07-10 00:00:00+07,Check for parasites before grooming,e1fb409c-8b55-483d-8a1e-8d25d4b517fe,caddb1b9-c89b-4d08-b893-bccbd5d7e2e8
+e81b2cce-4ffb-4f88-a1df-287d934c7e2d,dental_cleaning,2006-06-04 00:00:00+07,Check for ticks or fleas during grooming,c19684bb-1b68-467a-99f2-b979207e0917,040a1b87-271d-48cd-8906-3b584bf768aa
+95fecae0-a3f3-45d2-80e9-0550c872f29d,haircut,2013-11-19 00:00:00+07,Grooming may take longer due to pet's temperament,fc7bbb47-1165-4a10-a3e7-c3cb94e8b8e6,8fec7236-ae69-4cdc-8e32-be45be2ea437
+4b4100e2-15e7-495b-a35e-023afbf06a50,bathing,2003-04-28 00:00:00+07,Prefer hypoallergenic products,f2f4dc34-73ce-4ea2-97b1-20793cba965a,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+a246286d-2689-4292-8afc-94caaf303364,haircut,2009-06-16 00:00:00+07,Do not bathe if skin is irritated,4d66f774-fcdb-4c84-b9b5-2c37461fbce2,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+8b4a649c-af7a-466e-960f-5c8ac34a35d8,nail_trim,2011-08-30 00:00:00+07,Check for parasites before grooming,89e25545-b096-4493-a78c-01ea43f77f4d,01243cca-3841-4158-b375-4cf95720f081
+47d0d0da-735d-414b-a4f3-2bf4355dff39,dental_cleaning,2010-02-21 00:00:00+07,Requires special treatment for matted fur,0c619f11-8b8b-4b3c-99d7-d1b4c5c9901a,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+501720af-7aa9-43ef-b007-6072cf5969c0,grooming,2003-11-29 00:00:00+07,Use only natural products,1fbe75df-8bc7-480e-aa14-d15e4f7acdba,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+6ebe0c5f-c6c0-4485-abaf-4bee508936f3,nail_trim,2011-10-03 00:00:00+07,Grooming may take longer due to pet's temperament,0ea577bb-3893-441e-90a2-cedee1ddb230,5f0cf5be-a023-40cd-a4a6-f03ea0144a04
+b48a230b-167e-48dd-aae6-b5d8d7461c6d,nail_trim,2002-02-19 00:00:00+07,Special care for elderly pet,ee61a974-6f1c-4765-8b60-df0c6cd68dd2,cf36da84-c96d-4d6c-a257-c4d6b69dee9d
+b603d4db-c558-439c-80eb-f288e5fbaf8e,bathing,2007-10-30 00:00:00+07,Special care for coat,9df9a67b-8bc6-4dde-85e7-af9b5b73b755,db4a71d5-0a93-4ba3-a105-ebb64a68f3e7
+28b3909a-069d-4927-89a3-11a7de2629d6,nail_trim,2012-01-29 00:00:00+07,Grooming may take longer due to pet's temperament,0ec65a4b-4b9d-40f1-a5bc-b7c7cfbf1cf8,c73856a3-e8e4-4941-910f-accbddbb7da6
+75637808-458c-430f-94c7-a72fa211c046,grooming,2006-02-23 00:00:00+07,Brush thoroughly before service,096106f0-eb6c-405b-8920-10dce9cb24d1,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+d19ee024-4fe9-4ca3-b6e6-5fcab6ce4228,bathing,2003-01-09 00:00:00+07,Check for parasites before grooming,7600ce20-1a28-4a76-9833-1d98946108fe,464699eb-0703-45d4-a294-b2c21e3de0e4
+d7d60b6d-b6db-4f46-9714-8ef974df458d,grooming,2024-07-23 00:00:00+07,Special care for elderly pet,b4556c90-88ae-49eb-a24c-dd76cb758ec3,5c5025c2-8b1c-43c7-ab57-1b686817c021
+c7a3d1c5-c4d1-42d6-ba1b-80ff5ef02066,nail_trim,2008-05-24 00:00:00+07,Use calming spray before grooming,e5ba6183-d802-4824-8e34-93c5995383bf,dab552dd-9544-48ef-9438-a9def7ca4f13
+37e03407-c79e-4498-800e-b6aadd35832a,grooming,2017-01-23 00:00:00+07,Check for parasites before grooming,a26603bc-9fec-4f89-ac70-d452b0b775f2,8499c576-c90e-428f-a69c-8992a8eb31b1
+69d49c80-2392-408b-91fa-f80f7542109b,nail_trim,2011-03-18 00:00:00+07,Grooming may take longer due to pet's temperament,2c756be5-a635-40ae-9454-f67cc75acb0f,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+3e53b859-9eeb-4e28-9a78-8d98384d21c2,dental_cleaning,2017-11-12 00:00:00+07,Use calming spray before grooming,147de1f9-7333-47cf-ac61-b7b79847f341,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+e5f5a597-1b43-4a8b-8196-2fe89b20893b,grooming,2020-08-11 00:00:00+07,Grooming may take longer due to pet's temperament,dae3f1c9-588e-44fd-b076-b4f60c49dca7,e4148937-626c-4053-9e9e-df25343e0bb9
+a886ce84-40ad-4b91-9d26-e082f20504a9,haircut,2013-08-05 00:00:00+07,Use calming spray before grooming,c05b2be5-2b39-460e-8926-1400322c2a9b,19d9742c-f9ff-446f-958a-0fbe788bd943
+d4ab6476-25f6-4e9a-aa15-e547613bcaab,bathing,2024-05-25 00:00:00+07,Use only natural products,2fdf006f-ebfe-4d1a-b6eb-546dfc47b9ac,43846b2c-e792-4f9c-8cb2-3534fc607fc3
+c9d45920-f7dd-4de6-9927-26aa1f88dbdc,bathing,2024-11-13 00:00:00+07,Use only natural products,8713357b-8795-4708-9929-b71d6defa251,c3fe3fdb-cea2-4a62-be78-4c10714d61c8
+6f160e34-86d1-4314-889c-8f8f581bba8f,haircut,2001-05-24 00:00:00+07,Needs a gentle grooming,331f00ee-acaa-4661-8c17-db9e5b7ab539,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+baa88b9d-1d32-46d5-b287-6dff69043dd6,grooming,2002-04-04 00:00:00+07,Follow up after 2 days to ensure comfort,bc4e8803-d22a-4c91-b29e-a6d2f47bfa8f,8e0cb857-abe1-490a-9519-95aebbd5770f
+e823dd77-94b9-4cd8-b360-3499f09c233c,haircut,2024-07-14 00:00:00+07,Grooming needs to be done regularly for healthy coat,b6fc902c-f1a6-4e87-8f9d-ab951eaa3d79,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+f596d75b-7b25-45d9-a698-1395656ed4d7,dental_cleaning,2014-05-14 00:00:00+07,Avoid water near ears,0c813b29-c3ad-4129-b499-5615c6513b3f,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+8b10b77c-25ff-44f3-bf0c-0e054db2ed36,nail_trim,2010-09-05 00:00:00+07,Do not bathe if skin is irritated,12387f5a-6d27-4d41-9cc9-4e4eedf92525,0e87a3e7-2191-4089-92f8-3002cf1acd57
+5ef5ab27-eb8d-4c69-85c9-ea652d05b125,dental_cleaning,2023-07-20 00:00:00+07,Nail trimming should be done carefully to avoid injury,c61430cb-5b96-4383-8903-3c2a29848686,b83de6fa-efa0-49b7-ade0-51e04b85aba8
+25486edc-af81-4b46-ac91-95242edecb36,dental_cleaning,2014-07-15 00:00:00+07,Sensitive to certain fragrances,72cd5e1f-b4ed-417e-8fb8-540038211e72,e04d6a28-c336-4ed5-a055-6e20581c18b3
+4b71dcaa-4559-442e-b329-da2d75c7c7c5,nail_trim,2003-07-12 00:00:00+07,Maintain gentle temperature for bath,d8ded7bb-e333-4f85-95fc-bf26c834ba49,13045b39-8260-4d94-af01-87616eb0ab79
+200b6614-995a-4bb5-a046-6be5905dce97,haircut,2007-11-20 00:00:00+07,Prefer hypoallergenic products,a28cb06a-cf84-46a2-b08f-f08135746845,6957b22d-260a-44b5-874d-a5d4d63f27e1
+77b2cea6-8990-441c-89f1-6d3428d13e69,grooming,2003-03-15 00:00:00+07,Check for any skin irritations,7d895ca3-33d3-4f00-9cf9-81b52615fbc4,1a40a0d2-cec2-4514-901d-97f352b3c471
+602bf4fb-6d37-4138-bbbe-0c57951801f5,grooming,2019-05-11 00:00:00+07,Avoid water near ears,f842103b-86a6-4351-a136-a9c30c0afa13,fc6d272a-e514-4b83-91ce-fd9154554f00
+46d3ea4d-4daf-4c02-8909-3f6814dbdb75,bathing,2018-12-18 00:00:00+07,Special care for elderly pet,ea773fed-233a-4886-a665-efeb3011c0a7,762e8ac4-f21a-4cbf-a141-0f107166bb8a
+07319a99-da39-4f59-bb56-115059e2eba1,bathing,2018-06-11 00:00:00+07,Use soft brush for sensitive skin,31d44094-4da4-4d32-bab0-31996c99e1dd,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+552e6ba0-4723-42b1-b64e-c535052bfdfd,bathing,2008-06-24 00:00:00+07,Prefer hypoallergenic products,5626bf47-0d66-4e43-8801-fc57b9f18a71,0ad70aa8-4b6d-43d3-883a-42f1fafbbcf9
+c0a882c1-24c5-433d-b2c2-d82fab08e29d,dental_cleaning,2008-05-02 00:00:00+07,Maintain gentle temperature for bath,b65558a7-1b5d-41b3-9049-4adec914595c,b269d019-21fc-4990-bd31-33fd8165458b
+5ad8c888-8025-4a62-9b4d-9b111b0f718b,nail_trim,2000-10-23 00:00:00+07,Follow up after 2 days to ensure comfort,fc7bbb47-1165-4a10-a3e7-c3cb94e8b8e6,f631237c-8a08-4b8a-a368-8a4233404dd6
+0ed77376-dc7e-4757-b826-92953f84b96e,grooming,2012-05-03 00:00:00+07,Brush thoroughly before service,32faff9a-b68a-402b-8c9e-e30b51aa326c,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+b338f4a7-7f53-427d-8265-413c6d565c72,bathing,2000-12-03 00:00:00+07,Do not trim nails,9ec5abfe-1ad4-42d7-8681-37040b70e020,4cae8538-ecff-4cc6-a8cc-cd89f1e6c8ca
+7db2ca8e-25df-4774-b7d5-88fa44ec25fe,dental_cleaning,2008-12-27 00:00:00+07,Do not trim nails,7530e934-d46c-469b-b6b6-4775637fe0f3,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+4cb71baf-f5b3-472e-bdf3-80c76c677a94,dental_cleaning,2024-02-01 00:00:00+07,Do not trim nails,94b0897e-ab43-49b1-8172-7caa1edbb95a,b269d019-21fc-4990-bd31-33fd8165458b
+86819ef7-4471-4c45-8856-be9fe1f5a524,dental_cleaning,2017-08-04 00:00:00+07,Light trimming only,f5cff3ef-9b8c-45b6-ab0a-0f72b270f624,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+63889bff-1928-4b5f-879c-67e824a368b5,haircut,2004-05-05 00:00:00+07,Use only natural products,de2dee97-7c5b-4aa9-ae9f-470b240338c7,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+341bfe5c-d0cc-45ba-9c21-611521a2d64c,grooming,2019-07-07 00:00:00+07,Sensitive to loud noises,ee1da083-9ca9-4fc5-a497-21339b9df3bf,6143512c-f7d1-41bd-bacf-fd4cd790b297
+d869d371-169d-483d-9520-a9ce159a4cf6,haircut,2018-09-22 00:00:00+07,Use soft brush for sensitive skin,3d29102c-859f-4e82-91f4-21122d56a23b,2dd1b5c7-db3a-4a91-82e3-af96d3ef3da3
+f324619b-d7ce-46b3-bb50-04f1ff0823d6,dental_cleaning,2004-12-25 00:00:00+07,Use pet-safe grooming products,420e2947-6082-4b87-ad6a-0d6614eaf147,2d93dcee-7b81-4aa2-94f0-c1ca4772c4f8
+a64a0396-87d0-430c-bf87-66ed2b50785b,nail_trim,2006-06-22 00:00:00+07,Requires special treatment for matted fur,4e644076-1568-408e-bef9-4239fa92ee76,caf6b969-eb23-400f-836e-41f9c55a0e4e
+414cabb6-7a6d-405d-ad3d-03262a35aaf5,dental_cleaning,2025-03-17 00:00:00+07,Check for any skin irritations,026dc48f-1220-4296-befe-981f6790f06c,464699eb-0703-45d4-a294-b2c21e3de0e4
+d795581d-1f11-4bef-aaf9-385a722a72f9,bathing,2004-09-22 00:00:00+07,Special care for coat,096106f0-eb6c-405b-8920-10dce9cb24d1,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+90bc8ba4-b9f0-49e3-96d6-2ad92eadc8b9,haircut,2012-05-30 00:00:00+07,Use pet-safe grooming products,e21871d1-5140-4db2-be24-a27e9f2dc412,762e8ac4-f21a-4cbf-a141-0f107166bb8a
+0e52d640-d945-4948-b436-042d2e608447,dental_cleaning,2012-11-09 00:00:00+07,Nail trimming should be done carefully to avoid injury,61bf5f44-55dc-43c3-84e8-e24d8664c53b,77f8434e-5ce3-4408-b567-f8574252c188
+0d018fad-4883-4e67-b046-b33708475274,nail_trim,2005-03-22 00:00:00+07,Special care for coat,c535ca16-27a5-4563-aac9-7759839986ac,1a8f0baa-4439-4a42-9fe4-f655b0c68c8b
+89ddcc65-51f4-40b5-936a-c976ac50aee6,grooming,2007-01-30 00:00:00+07,Check for any skin irritations,e210c4ef-870b-4356-875d-5f5b42834704,e04d6a28-c336-4ed5-a055-6e20581c18b3
+ff584a4a-a7fa-4b67-9e8e-837082a980cc,haircut,2022-03-18 00:00:00+07,Check for any skin irritations,62adca0a-c8b2-4baa-b912-2b3fd0f4aa19,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+f542a34b-79db-47ef-aef8-e0a89875eb3b,nail_trim,2018-12-25 00:00:00+07,Use pet-safe grooming products,2ab7c6b1-9dee-42ff-a67e-4392d905de0f,8e0cb857-abe1-490a-9519-95aebbd5770f
+ea762b8b-f77f-4e64-a89c-b5cf87031b50,dental_cleaning,2006-09-07 00:00:00+07,Use calming spray before grooming,2e720766-7d38-4326-8930-599fe85bd989,43c4431c-e919-4d11-82e8-74e354761952
+774b91e5-7a38-4819-abec-ac908f630b4d,nail_trim,2005-01-23 00:00:00+07,Nail trimming should be done carefully to avoid injury,b65558a7-1b5d-41b3-9049-4adec914595c,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+a67fa04f-3f77-44c7-99dc-36b86e1ab0b6,dental_cleaning,2018-03-19 00:00:00+07,Use moisturizing conditioner,c95c572d-095f-44ae-9320-13ae6e532571,b59dd49f-466b-4c15-ae05-0db8ab810263
+8a2072c3-9887-4405-a315-1f6599ff5d5a,grooming,2022-08-02 00:00:00+07,Special care for elderly pet,cfd60a83-bc95-4914-979b-ac0ec932e2d7,e003d879-2744-42a9-91b5-132a097f5fb4
+a1586970-31f8-4f68-aa2f-b498ff67dfed,nail_trim,2010-06-20 00:00:00+07,Needs a gentle grooming,4271fc2f-2ce7-4c20-b39d-838ccda03f40,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+a68722ff-a48e-4ae1-9091-7f69e7d5e1c6,haircut,2001-01-28 00:00:00+07,Use pet-safe grooming products,150074cf-7527-4ce7-980b-a3caf316f06c,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+d933924f-e7f9-43ef-9140-a80ea1ff3272,dental_cleaning,2021-07-27 00:00:00+07,Maintain gentle temperature for bath,331f00ee-acaa-4661-8c17-db9e5b7ab539,6f671115-16aa-4ad8-9036-bd8dea75fb95
+b46f6d96-ac9a-40af-b428-eea8584d75b5,bathing,2000-11-12 00:00:00+07,Special care for coat,fdb2cc9d-acb2-4170-a0bf-b8c272666f97,5fe1fd70-b82d-4c74-99fe-613b6da89ece
+e75b301e-3993-4040-8c29-e927dea36f13,grooming,2008-06-12 00:00:00+07,Grooming may take longer due to pet's temperament,ddb17a4f-6a92-4d5e-a6ba-6967602d1056,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+5551b427-63b2-484f-b267-59a296d7c5ba,grooming,2025-02-19 00:00:00+07,Nail trimming should be done carefully to avoid injury,826a4730-b3e8-4857-a7dd-2c813c32a0cc,74a63dc4-b751-47a6-bd4a-b88d15949325
+78f9e7ba-fc64-45ab-b74e-1d1e81822cd2,haircut,2013-02-03 00:00:00+07,Grooming may take longer due to pet's temperament,e8016f48-4fc2-441b-b2bc-3148e51534f0,5fe1fd70-b82d-4c74-99fe-613b6da89ece
+b313f9fc-3f06-4841-81df-350598918647,nail_trim,2011-11-27 00:00:00+07,Check for any skin irritations,2bc9bc12-1648-4c74-8c93-5b3c15e19f3e,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+04b2928c-8bd1-4549-aa73-9c3d915a7c31,bathing,2001-09-15 00:00:00+07,Nail trimming should be done carefully to avoid injury,e56dc717-0613-4d47-a1ae-ab6acc2e57c3,6143512c-f7d1-41bd-bacf-fd4cd790b297
+4839f1ba-a5b5-4fef-95d9-aab03aa10534,bathing,2012-12-21 00:00:00+07,Do not trim nails,4fb4dd1a-92d7-4d4c-90ab-656b73b32b38,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+a7f3852a-a1fa-4328-a37a-a64e494b5699,grooming,2010-09-13 00:00:00+07,Use pet-safe grooming products,c6b4d40b-5ef4-450c-9326-7bae9d7a2593,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+6cf90e4d-ec95-41bc-8de2-8bcff38c4609,bathing,2004-06-24 00:00:00+07,Prefer hypoallergenic products,79d6ca70-eaa8-42cc-9324-8ede7331f90d,54659c5b-01e5-4fed-a960-88e75d563c52
+a300bc3a-ed35-4abf-983c-2f3c2988ed59,nail_trim,2006-01-25 00:00:00+07,Maintain gentle temperature for bath,f638cee4-7ffc-404c-9ffe-b2572bb36f60,040a1b87-271d-48cd-8906-3b584bf768aa
+2098d541-57c3-47cc-87a3-092702be5d29,dental_cleaning,2009-05-28 00:00:00+07,Nail trimming should be done carefully to avoid injury,e12cc029-0968-441e-aa38-89806d4cb8be,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+d5fd015b-9479-4f42-a6ac-fdb6226c4f57,nail_trim,2010-07-29 00:00:00+07,Special care for elderly pet,3f0d0721-1d23-4cdf-881a-ec1a3ca46701,60809305-1e07-42bd-9013-30093d6c919c
+b461f8ad-91e3-4c43-b6ce-063571ed6b87,nail_trim,2002-01-28 00:00:00+07,Avoid water near ears,ec3a04ba-dcb6-406c-9ed3-36f91a617c9d,7f44bc47-938d-4677-a6e2-976d863435cc
+030c0975-6078-457c-8f9b-0b9bfdbf187a,nail_trim,2016-07-01 00:00:00+07,Sensitive to loud noises,a98c5490-67b3-4cda-a84a-ddc2add79632,dab552dd-9544-48ef-9438-a9def7ca4f13
+4845a0fc-d253-4712-a2fe-7c2150adf154,dental_cleaning,2010-10-21 00:00:00+07,Follow up after 2 days to ensure comfort,87c7067e-c069-4d2d-97b3-a3dddf7ddaa6,97db9295-e740-4097-a2a8-562d830d0291
+458721c6-5cd4-4fd5-83c6-4b21ff5f836a,haircut,2009-03-28 00:00:00+07,Prefer hypoallergenic products,e94d1c73-120e-4426-83b7-7e90abd99121,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+aa38b8bf-67e2-4591-bbc9-0242988f3181,nail_trim,2021-08-25 00:00:00+07,Brush thoroughly before service,16532bda-e8b7-47f7-b378-f48fd9aba946,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+414f08bf-591a-4271-97a0-c0252b9a49ae,grooming,2024-05-09 00:00:00+07,Check for ticks or fleas during grooming,5459b827-e3c8-4a36-9585-3771c7aec747,c644bf08-e946-472b-89da-29f6d6abac17
+e0c8b3d3-3534-46d3-b28b-5057861c4efb,bathing,2017-05-25 00:00:00+07,Use moisturizing conditioner,1de77af1-85e1-45e7-a5ca-d702869f7a3b,0a072ed0-8644-4e9b-9642-eac56eb9be23
+a6c1a405-19b5-4bd1-bd83-bb37ff2f6d61,grooming,2017-09-29 00:00:00+07,Avoid using strong shampoos,e9b60d39-cde2-46ba-bc22-b9fea4bd6213,bad92d22-dafc-4480-b866-716948d3011d
+aa5dda15-7bd7-4241-bc09-d49c615ebd94,dental_cleaning,2005-12-25 00:00:00+07,Nail trimming should be done carefully to avoid injury,150074cf-7527-4ce7-980b-a3caf316f06c,8499c576-c90e-428f-a69c-8992a8eb31b1
+3c7fa4ab-0857-4842-9eff-2345d20a84cd,haircut,2009-10-27 00:00:00+07,Do not bathe if skin is irritated,8376c56a-0b10-4421-a0ab-963b75795622,29549e64-1715-47a3-af68-a0b722e65edc
+9aea55fe-456e-4e9a-8dba-49af743cf43f,nail_trim,2015-01-17 00:00:00+07,Check for any skin irritations,36242bea-3987-42f4-a6e9-c294136a38a1,b415e80c-91a8-44d8-bc4f-7acf2515bf59
+4da31237-156f-4e7a-8c95-6fa28e54af7e,dental_cleaning,2007-02-09 00:00:00+07,Brush thoroughly before service,a9e800d9-cbc7-4a1f-a8ef-63ae9016167c,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+6b5f35f5-db30-4097-a558-f3040b820181,dental_cleaning,2016-12-16 00:00:00+07,Sensitive to certain fragrances,296acf71-fdb9-454b-b244-c232f377ffa4,b5f0b78f-45da-43a5-b4ae-916dca68495c
+8f748825-9d35-46ca-b88e-131d17a98c63,haircut,2000-05-09 00:00:00+07,Check for any skin irritations,4f16cabb-776e-4ff2-97d5-e4ff07b2dae1,a1cd9473-6617-44f4-862e-05eebcc0a439
+8f457e20-9ad7-42ee-bc94-22a7d7cf27df,nail_trim,2008-10-05 00:00:00+07,Check for parasites before grooming,4b701d02-05e1-4556-85b1-ce6f41444753,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+e0fb5743-69cc-48f4-97d5-d0e79e749c73,dental_cleaning,2024-05-04 00:00:00+07,Use only natural products,83e178a5-f15b-4bc7-9bb9-37beca36088a,bacb6ea8-4cc2-470b-a0df-7ba914009094
+78b2fd84-3444-41cb-b360-f2ed4e584693,haircut,2001-07-27 00:00:00+07,Light trimming only,fb3bb8fd-e409-4581-aeba-7ae0eb100b00,e04d6a28-c336-4ed5-a055-6e20581c18b3
+3b71c652-7412-4477-ae0e-9db2995d1fe8,grooming,2001-03-05 00:00:00+07,Use only natural products,d01d5b31-7f79-4821-9509-6e9b1788029a,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+142aa75c-8837-4fda-ba29-fc27055388a5,dental_cleaning,2019-11-11 00:00:00+07,Grooming may take longer due to pet's temperament,eb3da78a-f064-4869-b567-9b40dcdd2b14,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+f4d63ce5-6647-4722-b805-d922538f6cdc,bathing,2010-01-18 00:00:00+07,Sensitive to loud noises,89e25545-b096-4493-a78c-01ea43f77f4d,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+15d6f1d8-0653-48b7-9669-a1f2cf2c75c5,bathing,2015-01-11 00:00:00+07,Check for ticks or fleas during grooming,a28cb06a-cf84-46a2-b08f-f08135746845,584cfd66-d099-4592-9bb6-d7aa9abe6680
+85563b44-ba6c-4465-b0fc-06344d8b64ab,bathing,2018-06-30 00:00:00+07,Requires special treatment for matted fur,705e1024-da37-4d7e-b993-f09f26ff2561,b7596692-e5bf-4c37-a899-8914ed931dee
+fdf27daf-877a-4e9d-a654-2cd0ad03e139,dental_cleaning,2021-10-16 00:00:00+07,Follow up after 2 days to ensure comfort,efdf1d10-b7fa-44f8-8b3c-838755cc2121,caddb1b9-c89b-4d08-b893-bccbd5d7e2e8
+7ffae249-be1e-408d-bf31-47b760616664,grooming,2004-11-14 00:00:00+07,Use calming spray before grooming,8713357b-8795-4708-9929-b71d6defa251,584795f4-f313-47e2-b4b1-44ce3ed36153
+64dd76e7-c14f-40aa-9b90-239829b5369f,bathing,2003-02-14 00:00:00+07,Special care for elderly pet,72cd5e1f-b4ed-417e-8fb8-540038211e72,4e932fe1-3e71-4831-8ad6-2712b88204a4
+68ffb64f-0921-4cf1-8682-0473d29e4e57,bathing,2009-06-13 00:00:00+07,Needs a gentle grooming,d835304c-f623-4381-8ab7-4f3a695cc1cc,053713f3-b33f-48a3-abf5-8c2dfab04c85
+63a9832e-44f1-4aa6-b480-0cefcd1df0f3,dental_cleaning,2008-01-23 00:00:00+07,Do not trim nails,9df9a67b-8bc6-4dde-85e7-af9b5b73b755,54659c5b-01e5-4fed-a960-88e75d563c52
+6fb738e1-1d59-410d-9ffa-c62740c4bda6,bathing,2015-01-13 00:00:00+07,Check for parasites before grooming,72cfb3d7-cdc2-422d-864a-fc6dd1e9c6e8,6b61a540-14b2-4563-a68e-46122fe66488
+fbf76e0a-5021-40d4-8fbc-786a77793fde,nail_trim,2012-12-29 00:00:00+07,Use pet-safe grooming products,96c1218f-7dba-4a31-8fdf-459478324b26,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+5fdfc12b-86bc-4f33-b447-26813c5538af,haircut,2023-03-28 00:00:00+07,Nail trimming should be done carefully to avoid injury,5710388c-f97e-4937-8d7f-589fcb7df53f,c9b97c0b-98a4-4829-9116-c9371268bce6
+32fccc15-deaf-4da9-9c58-2323efb7750b,haircut,2006-12-06 00:00:00+07,Prefer hypoallergenic products,84163ddd-e60b-41e5-99bc-66dd509fc630,81caaf0a-2f77-43df-bee1-25f5d1547615
+af6e75f9-2826-4992-80a9-529732f1c7e3,haircut,2020-06-14 00:00:00+07,Prefer hypoallergenic products,7b6434b6-e3b9-45cb-a1a7-cc5e6e3d2c28,6f671115-16aa-4ad8-9036-bd8dea75fb95
+4b3c2306-064b-4f27-956f-b1bd440b3fc6,haircut,2003-11-23 00:00:00+07,Avoid using strong shampoos,068d19f6-6285-4bf4-a129-c310f4493dab,5cb4db40-4a0b-4504-878a-1813c2d56473
+9e33877d-e0f0-4365-a44f-99dcd9ef1408,bathing,2005-07-16 00:00:00+07,Maintain gentle temperature for bath,51bb1368-c9e3-4cf7-bd83-831a270dec2b,c61acd9c-bad9-4353-8957-429c6b2e702e
+552da778-4cd9-43a7-85d2-2951e3213734,nail_trim,2009-05-06 00:00:00+07,Avoid water near ears,163165b1-39b4-4c92-9460-4a554947f10f,f21964c5-db3e-4b57-81fe-b6b0bcba8f80
+ef35d911-fed3-44f4-9f4c-673307034623,haircut,2015-04-22 00:00:00+07,Sensitive to loud noises,f71c5e15-766c-46dc-b3ac-1414357ad421,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+568e3d97-082c-4a4b-a0ea-c6fcc069dd66,bathing,2010-04-10 00:00:00+07,Check for parasites before grooming,e8016f48-4fc2-441b-b2bc-3148e51534f0,23ee3c69-ea03-450b-8523-16abc931ebc0
+d623c415-3db8-4ae8-826f-6f7939e61fe5,nail_trim,2009-05-29 00:00:00+07,Check for parasites before grooming,d282b561-29c5-40f1-aaa8-23caea6252ce,5f0cf5be-a023-40cd-a4a6-f03ea0144a04
+0cb15533-3c62-41a1-a452-535632465998,haircut,2019-12-27 00:00:00+07,Sensitive to certain fragrances,757cdc3e-1cab-4feb-aa96-d41c71400f30,cf36da84-c96d-4d6c-a257-c4d6b69dee9d
+6cb76044-8ba9-4b15-b4c4-954df9e36fb0,grooming,2017-05-19 00:00:00+07,Use only natural products,9971e47d-05b2-4707-8789-29766b522f8b,e4a7c82c-8e42-4c1e-b1ea-6ce6fbb43d68
+a8fd8b96-ee53-49b2-b627-1dc81b2483a7,nail_trim,2013-06-23 00:00:00+07,Grooming needs to be done regularly for healthy coat,59556840-fbd9-4fa7-adb2-e0d6028628f3,040a1b87-271d-48cd-8906-3b584bf768aa
+1f1e214b-b51d-4238-8ea4-8fc703a542fd,haircut,2010-09-22 00:00:00+07,Grooming may take longer due to pet's temperament,0a73f3f0-0604-4ef2-aeea-0ffda0e40381,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+7e8a3585-6f19-43db-87e6-1300b2185241,haircut,2002-12-25 00:00:00+07,Prefer hypoallergenic products,954ca36f-6872-4736-b823-a4529ae9e44c,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+36a82816-1571-4f05-9b2d-eb8c84b26bfa,grooming,2014-08-29 00:00:00+07,Grooming needs to be done regularly for healthy coat,361d49db-944f-4007-a623-df4128038312,b7596692-e5bf-4c37-a899-8914ed931dee
+4a9f8b5c-48f0-45a1-87f5-27cf62704bd5,haircut,2011-10-11 00:00:00+07,Check for ticks or fleas during grooming,add25e35-e056-456c-bb6b-1047ff57ee82,6ee9f494-b192-4be5-a671-f47866777a74
+87406d46-aa9d-48ff-a829-61bcea17c25b,dental_cleaning,2002-09-07 00:00:00+07,Brush thoroughly before service,b806a382-066b-43cd-a0eb-d3bb4abe6652,077a90f8-ebb6-492c-9c71-0930e8856a36
+6501b955-71cd-410e-a01b-cc6baa86aff0,grooming,2011-03-21 00:00:00+07,Sensitive to loud noises,e6af1acf-679d-416b-906e-3e103c7f2e53,5c642651-6e83-4014-9788-82665cb2620d
+d9393cb4-efd9-4bf9-8054-0f0bee5abdb1,grooming,2025-03-19 00:00:00+07,Avoid water near ears,36242bea-3987-42f4-a6e9-c294136a38a1,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+0291b3ed-d0d1-4a8d-9fde-0411d7a1a650,bathing,2014-04-09 00:00:00+07,Check for parasites before grooming,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,4cd2e87d-c440-45dd-9d4f-f5a573ca7699
+47f58975-5292-4b59-b192-892a9ff8855e,bathing,2013-04-15 00:00:00+07,Check for any skin irritations,b8d070b7-813f-4d85-ae7f-f7fc2f14b7d1,f631237c-8a08-4b8a-a368-8a4233404dd6
+cd75ee3d-8ed8-4537-915b-388b1eea221e,bathing,2013-12-29 00:00:00+07,Requires special treatment for matted fur,a28e9e76-ff7e-4950-b133-dbb8e65e48e9,96ed3445-5a7f-4f2c-aded-5c82df8aa250
+7b8d15b6-2a29-402f-8a62-9d172a10c320,haircut,2003-01-21 00:00:00+07,Use pet-safe grooming products,a28e9e76-ff7e-4950-b133-dbb8e65e48e9,bd10350f-2fb6-41fe-827d-d8342db442cd
+4f9e55f6-131f-4758-a05e-dcbcce8fe0e9,nail_trim,2012-12-26 00:00:00+07,Sensitive to certain fragrances,e210c4ef-870b-4356-875d-5f5b42834704,442d9052-e7ae-4445-abee-0d54ab499a27
+9f2e4ba4-67c4-4665-b8c2-32a16b239fa0,bathing,2006-03-21 00:00:00+07,Grooming needs to be done regularly for healthy coat,e07692ed-96f4-4804-a609-ceb62b2c8a82,dab552dd-9544-48ef-9438-a9def7ca4f13
+3b4f5bb9-15ea-4f98-902e-ef5b306c7533,nail_trim,2011-05-15 00:00:00+07,Check for ticks or fleas during grooming,8189d2d0-82e4-4e4d-9188-bef20b418d58,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+5bb70b8f-d7c1-49b7-aad2-fdf3436e5d30,dental_cleaning,2013-05-01 00:00:00+07,Use calming spray before grooming,aaf95118-634a-4f6e-9571-055da423695a,1a40a0d2-cec2-4514-901d-97f352b3c471
+320f017d-23f1-42fc-85e9-f498461b7b4b,haircut,2014-06-18 00:00:00+07,Needs a gentle grooming,ee61a974-6f1c-4765-8b60-df0c6cd68dd2,51e64ff7-28e8-47c5-84dc-813faea5b4f9
+082f25cf-19f9-4546-97b8-58afd63fa4c9,grooming,2008-10-01 00:00:00+07,Requires special treatment for matted fur,1b99fe3c-2542-46bc-be55-248bc61ab4fb,a09b0c77-bb1c-4cbf-9c2f-a456fe2ae06e
+8d9f0df6-fdb5-4715-ac97-ebe45cd99612,dental_cleaning,2020-03-11 00:00:00+07,Use calming spray before grooming,cec364de-f2d8-41ae-ab02-8876e9c8d3f6,e0116204-1c52-4e68-ae53-0b079a01da2e
+63523fa3-b789-40f6-94cc-16394a2d2bfd,grooming,2001-05-29 00:00:00+07,Use pet-safe grooming products,17d207a4-f86a-452a-bd4f-8306830038e6,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+b7c5286d-0773-4fa2-9479-6efe4e32dad7,haircut,2017-05-15 00:00:00+07,Brush thoroughly before service,10ecee5b-d158-40b7-af44-87539370238b,b83de6fa-efa0-49b7-ade0-51e04b85aba8
+54181871-d2c0-4fae-80a4-c8baa4fe4900,bathing,2018-11-20 00:00:00+07,Do not bathe if skin is irritated,9ca7d901-4382-468a-94b4-f071dbf79409,54659c5b-01e5-4fed-a960-88e75d563c52
+90e5dae8-e41d-45f2-b228-cb75428b5d5a,bathing,2009-11-17 00:00:00+07,Check for ticks or fleas during grooming,096edec6-d5a9-49cf-a8f1-a43e5d6f0753,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+0b5a7e5b-ddf0-4c3f-8ef2-79c1e5864e34,bathing,2017-10-20 00:00:00+07,Check for parasites before grooming,d923d340-3b31-4b52-8589-ca4ff4fa4150,60809305-1e07-42bd-9013-30093d6c919c
+c53f1b54-d9ca-4365-8587-45d89c72b51c,bathing,2017-10-25 00:00:00+07,Special care for elderly pet,9fa27500-109b-4d28-93e2-8064e0ccc4c1,ca3ef9ee-70e3-4531-ab54-57ee5febade5
+c6697efe-d81e-4cb0-b32c-3d0d09dfe542,dental_cleaning,2021-05-05 00:00:00+07,Use calming spray before grooming,7a3e7990-c270-4e91-a3e2-6f93d2c0e08f,5b5cde7a-2f25-46ff-81dd-ae2c11ff456b
+0ed6e54d-fef7-4e45-964b-f369095e3f35,haircut,2013-12-28 00:00:00+07,Check for parasites before grooming,718a3c1b-7b12-4a76-9562-28c0eaa11ddc,6957b22d-260a-44b5-874d-a5d4d63f27e1
+20fc5273-4e2a-4691-9222-ee291b66874a,dental_cleaning,2022-10-01 00:00:00+07,Grooming may take longer due to pet's temperament,112d3eec-d415-4b5b-b3e7-8ffcaba8b537,632f0415-ff55-4937-9a9c-4ebc4e370876
+36723af3-d9ba-4adb-aac9-bd30b3650609,nail_trim,2005-03-09 00:00:00+07,Use moisturizing conditioner,14cd0932-795c-4f30-9475-15912d193a4a,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+215c6668-fa4f-4aec-8a51-5ef80df8e83d,haircut,2017-01-01 00:00:00+07,Requires special treatment for matted fur,4f485a86-5015-4a35-bb06-b238ac192c9a,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+896a887d-6917-4afd-a463-b928efd5acb8,grooming,2016-02-01 00:00:00+07,Grooming may take longer due to pet's temperament,d7b5451b-679d-40c0-af56-f240e122a467,e5532741-5577-422e-9105-28d7929467f5
+a81ae783-a25f-4d74-b41d-4375a2e19fb5,grooming,2019-11-15 00:00:00+07,Grooming needs to be done regularly for healthy coat,9e78ae5c-5f95-42d2-b666-a9dd03119802,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+60bddc05-c5c1-4715-a039-2cf891fa2a88,grooming,2017-07-05 00:00:00+07,Do not trim nails,15c45032-67c3-45bf-b6c7-98f0dca765cb,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+8ec504fb-9cf9-443d-96ba-b8ea7ad6f385,nail_trim,2021-04-23 00:00:00+07,Use calming spray before grooming,267f44aa-975a-455d-a7ee-dc1e49b6393f,43c4431c-e919-4d11-82e8-74e354761952
+c03930e5-fec9-4b16-ab18-78b613ab2f6d,nail_trim,2006-06-09 00:00:00+07,Grooming needs to be done regularly for healthy coat,e9badd63-dcda-4640-ae87-c861253e041e,aef3b0db-6d52-4f5a-ba55-54f053a5f9df
+ab94c296-501a-4edb-85d6-2457c5c76487,dental_cleaning,2009-02-05 00:00:00+07,Nail trimming should be done carefully to avoid injury,38177840-0164-48e6-b0b0-2ea61d66c686,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+d8737c3d-35fa-4171-94b1-565b54c3e401,bathing,2015-02-21 00:00:00+07,Special care for coat,10ecee5b-d158-40b7-af44-87539370238b,01243cca-3841-4158-b375-4cf95720f081
+e30ba1d0-3cf5-440a-ae8a-8bf08c5fb418,nail_trim,2003-10-29 00:00:00+07,Use only natural products,7e2d3690-938c-4be4-9151-7041c6285692,13045b39-8260-4d94-af01-87616eb0ab79
+797a0de0-5105-4f20-8813-01a98229dd55,haircut,2023-12-21 00:00:00+07,Maintain gentle temperature for bath,e769e4f1-901f-4e22-8446-ef70e43b8be4,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+8b703a1d-ce94-4e7a-88d3-4d58a98a006e,haircut,2023-03-28 00:00:00+07,Requires special treatment for matted fur,4d8688bb-9a98-436d-a050-08573fa2b641,b5f0b78f-45da-43a5-b4ae-916dca68495c
+64c4ed47-bb29-4ab7-b4e8-343ee7591091,nail_trim,2002-05-19 00:00:00+07,Check for any skin irritations,17189cc6-6f61-469f-84d1-b1d0cdf319a2,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+cb4e36b5-51c5-458b-8656-9782e0285b52,dental_cleaning,2025-01-19 00:00:00+07,Check for parasites before grooming,7bde1619-ec65-4129-b324-ef5730e4b675,31a63e63-51a3-4eb4-b5c3-5f92e3bebfaa
+a6fe4aaa-2347-422f-a117-cd71f4ac9c09,nail_trim,2010-08-16 00:00:00+07,Check for any skin irritations,6278525f-be5e-4638-8f91-ee2ccf2abc9c,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+8976a607-0363-44fb-87a4-d1630c199fe2,dental_cleaning,2013-06-08 00:00:00+07,Requires special treatment for matted fur,4d4083c5-b92d-45ca-a799-57e3c8091b07,961b9265-d2ee-4aaf-a872-af1b990318ed
+02e534d3-0caa-46ba-a19f-1a426e5ba3da,haircut,2013-08-07 00:00:00+07,Avoid using strong shampoos,3dc40ec9-7a61-45ab-81ac-bb1949648822,4f21b0a5-d33b-4de6-9ced-d8866f7c8539
+b1eaaa6d-8301-4738-87c3-92b80a7d0321,grooming,2012-04-11 00:00:00+07,Do not trim nails,0f7c4fc6-e523-4fb6-a298-5fcdddddd301,961b9265-d2ee-4aaf-a872-af1b990318ed
+2e8e5b5d-566c-4d15-82d5-700f407eaf33,bathing,2021-09-23 00:00:00+07,Needs a gentle grooming,b2a04c9f-ca6f-40c0-b915-9c85da5b003e,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+4736c076-aced-402d-88b1-e1a6dd32f1c9,dental_cleaning,2011-01-29 00:00:00+07,Prefer hypoallergenic products,73f34633-fc0a-4003-b10c-0b753fe4b144,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+2ecab1ba-256b-4dff-bd5d-444308dd637a,grooming,2021-09-26 00:00:00+07,Grooming needs to be done regularly for healthy coat,9ca7d901-4382-468a-94b4-f071dbf79409,f8d173cf-1ae4-4886-90ee-d3019db2162e
+d14b4abf-7d26-46cc-9162-2c13084735ff,grooming,2007-10-05 00:00:00+07,Do not bathe if skin is irritated,d025fd47-1808-4260-8054-4c069c95f53e,f8d173cf-1ae4-4886-90ee-d3019db2162e
+16a52351-7265-4efd-b25b-af6de6bebb66,dental_cleaning,2007-01-13 00:00:00+07,Do not bathe if skin is irritated,59cc566a-e1b3-47a4-b07d-89c774966c76,0e87a3e7-2191-4089-92f8-3002cf1acd57
+dcfc6e2e-cc68-47fc-a3e6-3f6d030e824b,haircut,2014-07-22 00:00:00+07,Use calming spray before grooming,ca54ac2b-b401-423b-8375-6373894365d4,81caaf0a-2f77-43df-bee1-25f5d1547615
+29d073de-4998-4cb3-ab18-7b8f4cf9935e,dental_cleaning,2002-11-27 00:00:00+07,Avoid water near ears,1e2e9bd8-0237-4e50-bb6c-42cc25a7856d,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+29e51e00-bcb7-4ca7-903b-4c131c02e40e,bathing,2018-09-20 00:00:00+07,Check for parasites before grooming,e29fedaa-b14d-4ae2-94c2-6ee0d1a62561,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+99892a76-7937-4964-bf7f-f078eee8ea57,grooming,2011-08-20 00:00:00+07,Follow up after 2 days to ensure comfort,36242bea-3987-42f4-a6e9-c294136a38a1,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+e1d2353e-0b0f-42a6-905f-e4171e9cff42,bathing,2016-04-21 00:00:00+07,Avoid water near ears,0951aa15-3041-4024-b4c4-6abbf56c6303,5718e850-a7b4-4973-8bc7-9024e8de7f1c
+6abee582-3be3-4255-90e8-775b4757fd80,haircut,2018-07-03 00:00:00+07,Maintain gentle temperature for bath,f2b1cd35-e54e-4a67-93b0-5247840f205c,f631237c-8a08-4b8a-a368-8a4233404dd6
+e6549fb1-44df-4f48-b2f3-d4f7f2c27136,haircut,2008-11-17 00:00:00+07,Follow up after 2 days to ensure comfort,61bf5f44-55dc-43c3-84e8-e24d8664c53b,957a5eaf-f85e-406d-b864-44455a6c92dc
+871934f2-fbbb-4c68-bfbb-28085366272c,dental_cleaning,2018-10-28 00:00:00+07,Special care for elderly pet,ed83e990-9486-42eb-a7ac-635e19cba957,84b08ece-2ce5-4a1d-b2b8-6a11ed82048f
+ef5fb253-545a-409f-81ab-9b2c40d2ac52,haircut,2024-02-10 00:00:00+07,Special care for coat,4368c2c0-58f7-46be-aa78-42e27102143a,97411cb2-9dc1-4db1-9523-c24003fd502c
+3be95ba0-0a3b-4db2-877c-d548770dbfa6,nail_trim,2020-11-29 00:00:00+07,Requires special treatment for matted fur,e09c82c0-e574-4619-9629-11b9ab9c27ff,4b64f4f9-d58e-4758-b992-69b21387726a
+42d5da11-fc01-427c-8c53-bee9a6659c4d,bathing,2020-05-31 00:00:00+07,Prefer hypoallergenic products,7dfe235a-1abc-4042-83fa-7a8103cb06c5,534d5877-bacf-4e22-a22a-898589831cc1
+72f28b00-c237-4f9d-a0eb-51dff26faadd,grooming,2023-03-21 00:00:00+07,Use soft brush for sensitive skin,fa0901aa-8a13-4906-ad44-f0f7987249f6,cf153a58-1b1e-4956-8e3a-2164310edfd0
+8c8821ff-3d60-4141-b11d-da0e533853b4,nail_trim,2019-12-26 00:00:00+07,Special care for coat,5c28493f-b0e7-45bd-82ce-efccf69e8158,4bdd6d6a-c33f-428a-9daf-982ba21473ff
+cc855588-77dd-4dca-a451-5049cbbdc137,dental_cleaning,2019-06-10 00:00:00+07,Use soft brush for sensitive skin,88167653-c95d-4216-af1c-c80e04a3dd11,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+e6d3f1d2-cc93-480e-b2e6-47a2e80b6a4c,grooming,2020-11-21 00:00:00+07,Grooming needs to be done regularly for healthy coat,3cfd514e-ee99-49b7-810a-4fdc29757802,b83de6fa-efa0-49b7-ade0-51e04b85aba8
+2b7f1557-d0b4-4908-bd2d-2afdfb479107,haircut,2002-08-13 00:00:00+07,Light trimming only,3c89cf60-a76f-474d-9aa7-70c0210eb11d,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+26fa4b9b-4ce3-43c2-9ef9-5bce705fcaf8,dental_cleaning,2000-10-04 00:00:00+07,Light trimming only,25f01b18-7067-4a73-a15f-20140606bb6f,5c5025c2-8b1c-43c7-ab57-1b686817c021
+1a23d441-858c-4b63-a140-7f7c7c7e5ce5,grooming,2009-08-19 00:00:00+07,Do not bathe if skin is irritated,77949b3f-457d-4e0d-99e0-a1871877606a,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+752980cc-9c76-429b-bbdb-9920fae342b0,dental_cleaning,2007-03-20 00:00:00+07,Check for any skin irritations,15c45032-67c3-45bf-b6c7-98f0dca765cb,374a2bb2-1a11-4b74-a691-4e61fcff7b92
+fc9ca6c7-5260-43d2-955e-728fea79239d,haircut,2017-09-05 00:00:00+07,Avoid using strong shampoos,006368a9-0a16-4195-9a78-f81dc1080b98,37b45687-12ed-4813-b74e-1b7d420e0ef4
+1de9bc1d-6fa5-4d26-953f-aaa578d6cfb6,haircut,2001-01-04 00:00:00+07,Prefer hypoallergenic products,5497b1fb-2fbf-40e0-8f29-7f385a9c9366,b01e6877-4437-4dbe-9ec7-8100d13cbee7
+b12358a7-949f-4ee0-bae4-af402eb8d997,bathing,2019-12-05 00:00:00+07,Avoid water near ears,2a60737c-e6fc-4b05-b85e-cad5fb0d6ad3,b9af1687-9551-4e56-99d9-da4a3051a29a
+38f09276-9231-481d-9e15-007b9be1e126,haircut,2024-05-05 00:00:00+07,Requires special treatment for matted fur,a6f8fceb-2441-4650-a916-4fa71ac374f4,b379e324-1b90-4a95-8983-4fed36413fb9
+ccaa1eef-7a55-4ef4-b9d4-1bbd73abebbf,grooming,2002-06-15 00:00:00+07,Prefer hypoallergenic products,341dbedb-b88f-4e11-9cf0-36509b293ca4,6957b22d-260a-44b5-874d-a5d4d63f27e1
+ba4ab66d-6ff1-49b2-96a4-d24bfd6d8afe,dental_cleaning,2001-10-20 00:00:00+07,Follow up after 2 days to ensure comfort,3f087283-5360-4c82-9ad9-abb52f382932,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+4fa5ce17-8637-4f88-8346-ce411ab34350,nail_trim,2015-03-19 00:00:00+07,Follow up after 2 days to ensure comfort,2611ac50-55f7-4189-a610-ae5f8aa905bb,b59dd49f-466b-4c15-ae05-0db8ab810263
+d6d3ef6c-c1e2-463a-abb8-f6997e27f10b,bathing,2000-08-14 00:00:00+07,Use moisturizing conditioner,5c28493f-b0e7-45bd-82ce-efccf69e8158,fc6d272a-e514-4b83-91ce-fd9154554f00
+ca46888e-6121-4cc9-8c6f-129d5b309659,grooming,2009-02-11 00:00:00+07,Sensitive to loud noises,09c1ea0a-6710-4d1b-bed8-5396475c5c12,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+ff3333ca-f57c-42a3-a641-5c47918cc063,bathing,2020-08-26 00:00:00+07,Check for any skin irritations,4f1ca377-9235-42f6-816c-584b8a6f3e00,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+c74dd3ea-3667-4c63-9c8f-8ed96946536e,grooming,2007-07-22 00:00:00+07,Requires special treatment for matted fur,0c813b29-c3ad-4129-b499-5615c6513b3f,e4148937-626c-4053-9e9e-df25343e0bb9
+09a8f118-e870-4915-9bd9-a911af583186,haircut,2004-06-14 00:00:00+07,Use pet-safe grooming products,705e1024-da37-4d7e-b993-f09f26ff2561,b415e80c-91a8-44d8-bc4f-7acf2515bf59
+4914be42-118f-4f34-9f9a-15f5e0d59f73,haircut,2013-12-07 00:00:00+07,Do not trim nails,844b3a6e-971c-4fad-9f2b-cb5d93853247,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+c1f44cca-a23c-4790-b8b4-f3dff829c5cf,grooming,2024-09-23 00:00:00+07,Do not bathe if skin is irritated,58a899bf-cb78-42aa-928a-da4c2561174b,4cae8538-ecff-4cc6-a8cc-cd89f1e6c8ca
+6811b20b-e940-4d3d-b2e5-3337d59f8b8b,bathing,2023-08-31 00:00:00+07,Check for parasites before grooming,385df729-382f-40d0-bd47-7b960a6b9a69,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+fe808a98-897f-4d86-a3f7-8577c08d1735,dental_cleaning,2005-05-03 00:00:00+07,Nail trimming should be done carefully to avoid injury,848e03d2-ef79-42df-ad34-391ab46ba218,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+682496cd-32ed-46fc-b1c4-eec255a80ab6,haircut,2014-05-28 00:00:00+07,Avoid water near ears,b1a09f92-b04a-4818-96b2-0be947e1e017,7f44bc47-938d-4677-a6e2-976d863435cc
+0834ff95-912a-4704-8cf2-0db2cd7ebcf0,grooming,2005-10-10 00:00:00+07,Check for ticks or fleas during grooming,61c99207-4e6f-4b22-ab54-ec93e8bf3d3f,464699eb-0703-45d4-a294-b2c21e3de0e4
+b257fb81-c088-4396-8e99-f72983290b2b,grooming,2021-06-24 00:00:00+07,Nail trimming should be done carefully to avoid injury,dd575b3c-3bb2-48d7-8c65-343a81840349,e3600f3a-6cbc-42af-b097-62cdcc6b5021
+ff44949e-553d-4b11-b5db-581c2dc97d51,haircut,2016-05-06 00:00:00+07,Nail trimming should be done carefully to avoid injury,f8d34c38-c823-4c24-b58f-321990f3f81c,464699eb-0703-45d4-a294-b2c21e3de0e4
+4df6c829-1a11-4264-8f34-a2fb85e4e780,haircut,2020-04-20 00:00:00+07,Nail trimming should be done carefully to avoid injury,03042c53-f849-4b54-99e1-6442b45c6ba8,ab5db6a6-a808-4948-9d58-9768db0fc32f
+2bb498cf-2268-4db4-bffb-8bad583dd6d5,bathing,2003-09-14 00:00:00+07,Follow up after 2 days to ensure comfort,dd575b3c-3bb2-48d7-8c65-343a81840349,cf153a58-1b1e-4956-8e3a-2164310edfd0
+d424b741-34ec-48af-b13f-e1f4eb580e05,nail_trim,2001-10-05 00:00:00+07,Do not trim nails,7e5b8a28-8ff1-4d4c-b8d6-4953370ee2fa,af1aa844-aee3-46bf-b18f-4b7e7abf396d
+4b2c46ba-0a79-45ca-a2ed-ec1a2120579f,grooming,2013-03-13 00:00:00+07,Do not bathe if skin is irritated,de54da6c-ee4a-49f7-895e-97d666cf62b9,81caaf0a-2f77-43df-bee1-25f5d1547615
+f7a5e89d-b29e-4c1b-9f8a-021496e6fe5d,grooming,2009-02-04 00:00:00+07,Grooming may take longer due to pet's temperament,b1ebf5ee-0ab9-4a90-a35c-d578b718cf1b,a9154f06-e973-4529-bcf3-fc7733cc28f7
+fccb4076-f862-498f-85f0-fac2f79f5256,grooming,2001-12-20 00:00:00+07,Use moisturizing conditioner,1438c2f6-6aa8-4cbe-9048-744449944f56,8fec7236-ae69-4cdc-8e32-be45be2ea437
+6fe4a2ae-7ba2-4129-8b2f-dac3ef98886c,bathing,2024-03-30 00:00:00+07,Avoid water near ears,ddb17a4f-6a92-4d5e-a6ba-6967602d1056,4cd2e87d-c440-45dd-9d4f-f5a573ca7699
+9ab9a955-b909-40a1-b5ad-a9276ca159c5,haircut,2005-06-09 00:00:00+07,Maintain gentle temperature for bath,c88600b8-df9d-4c2d-b2cb-86733564be90,5c5025c2-8b1c-43c7-ab57-1b686817c021
+ebfb368a-8c9d-4745-a8f8-d2c3993a7f93,haircut,2001-12-11 00:00:00+07,Grooming needs to be done regularly for healthy coat,75a3ff38-296d-4b61-b49b-0af20be0b674,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+22db4984-52fd-4e91-b3d6-93083bfb1289,nail_trim,2003-06-19 00:00:00+07,Sensitive to certain fragrances,afd766f9-c01c-4fee-a99b-0ab47c257792,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+ee7a8109-00b2-440c-a8c0-462d86924ed4,haircut,2009-12-25 00:00:00+07,Check for any skin irritations,b3a5dd66-0876-4ab8-8edc-700754c26428,caf6b969-eb23-400f-836e-41f9c55a0e4e
+bb6ddafa-772b-4e25-a27d-2fd2959a276c,haircut,2001-11-09 00:00:00+07,Avoid using strong shampoos,d6077d57-dc3a-46eb-b32b-323954e90f47,0ad70aa8-4b6d-43d3-883a-42f1fafbbcf9
+93a38339-6283-4b1f-b050-66b826769dd9,haircut,2010-03-25 00:00:00+07,Follow up after 2 days to ensure comfort,0d715760-99c5-4267-a44c-7c8f2329b49f,19d9742c-f9ff-446f-958a-0fbe788bd943
+07a94146-83d6-47ad-9d6a-db4f03e08cc8,haircut,2015-03-06 00:00:00+07,Sensitive to certain fragrances,267f44aa-975a-455d-a7ee-dc1e49b6393f,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+5f55baa3-5602-407d-9b6a-9fa80bd324bc,nail_trim,2001-04-20 00:00:00+07,Grooming needs to be done regularly for healthy coat,ff934437-8570-4a1f-bb0c-4e0f6caaf470,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+97797610-8e2b-4ce8-bafe-7e12c378d326,nail_trim,2019-12-19 00:00:00+07,Avoid water near ears,8d3bfb0e-47c8-4dfa-93eb-be5f3393a619,5fe1fd70-b82d-4c74-99fe-613b6da89ece
+febd4ef9-7f45-49a8-94c2-85dba4ee0468,dental_cleaning,2017-01-20 00:00:00+07,Needs a gentle grooming,4a196194-f1e7-4bda-84f5-b10624b32665,961b9265-d2ee-4aaf-a872-af1b990318ed
+0c5736a7-766c-4044-b49a-e3bcc34d611c,grooming,2007-10-23 00:00:00+07,Sensitive to certain fragrances,f204a971-8391-431d-b0ce-75bb4ff9d597,43c4431c-e919-4d11-82e8-74e354761952
+8012639f-0f74-4fbb-ade0-87c311686afd,haircut,2001-03-10 00:00:00+07,Light trimming only,eb83ecf7-0eb0-4f98-9974-0af12e9517c8,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+477c5f5f-29ab-4062-a6e1-4fb7fcde69f4,bathing,2024-11-03 00:00:00+07,Nail trimming should be done carefully to avoid injury,15539fb7-5196-4065-94fb-ce1de20ef922,e844c362-bc62-430b-9bc0-4f818eef866a
+be34be45-e6ce-47ad-bce1-99b06bbd8ff5,haircut,2013-01-29 00:00:00+07,Avoid water near ears,571d6646-e1f3-4172-9db2-14acb61e2b17,8499c576-c90e-428f-a69c-8992a8eb31b1
+75d71a91-903c-4959-bbcf-4df93995fe4f,dental_cleaning,2003-02-16 00:00:00+07,Grooming needs to be done regularly for healthy coat,015e45c3-df0f-4924-a81b-c64c779e4ee8,961b9265-d2ee-4aaf-a872-af1b990318ed
+35921f25-b366-4525-a0e4-438b750e8a06,dental_cleaning,2007-03-28 00:00:00+07,Requires special treatment for matted fur,a2a36d98-966f-462c-accc-6a145db4decc,bacb6ea8-4cc2-470b-a0df-7ba914009094
+b408eb23-4a01-4a87-9a05-1a8d11e13d47,nail_trim,2011-04-07 00:00:00+07,Use moisturizing conditioner,5ac30d13-e122-4186-a978-65f23849829f,cf36da84-c96d-4d6c-a257-c4d6b69dee9d
+aff2f924-783f-477f-9ed8-0ea50cc1340d,bathing,2015-07-20 00:00:00+07,Use soft brush for sensitive skin,238928ce-02e6-4a6f-b75c-00aa6b522476,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+4c3a0a9d-ddd8-4472-a6e4-97f61cabcc9b,nail_trim,2024-10-13 00:00:00+07,Special care for coat,3466823c-2331-4901-b121-c37edc72d70c,c61acd9c-bad9-4353-8957-429c6b2e702e
+655cb2c0-bac8-4219-aa95-81bf1187b5c9,haircut,2024-06-20 00:00:00+07,Requires special treatment for matted fur,5d3d5f77-389b-4a6a-b003-6761e259877c,4e932fe1-3e71-4831-8ad6-2712b88204a4
+c7ced690-b6c1-4e58-ad31-fb1441f3490b,grooming,2022-03-07 00:00:00+07,Do not bathe if skin is irritated,2c6b520f-d553-487d-aef8-e5b6aee0361a,e0116204-1c52-4e68-ae53-0b079a01da2e
+13b934e6-99dc-4a72-bd7e-f14426261539,haircut,2016-06-27 00:00:00+07,Do not bathe if skin is irritated,ab94cbb9-579e-4a5f-bb62-cc258e75b579,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+1ae55a67-63fa-4488-af11-3cce121fa2d3,haircut,2018-07-12 00:00:00+07,Special care for coat,9d49a59c-710b-4ed2-8162-cb587f14d7a1,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+c005364d-9ec4-4bd1-b37f-037e2123dbb0,haircut,2018-01-30 00:00:00+07,Sensitive to loud noises,4a84714f-4e16-46d9-9d33-82f4440b5313,ca3ef9ee-70e3-4531-ab54-57ee5febade5
+469395c0-90c6-4189-ba9d-488ada856a38,dental_cleaning,2003-04-26 00:00:00+07,Check for any skin irritations,757cdc3e-1cab-4feb-aa96-d41c71400f30,97411cb2-9dc1-4db1-9523-c24003fd502c
+5c59439f-f2fe-4ff3-bf7d-5dd1e9b2b935,grooming,2003-09-10 00:00:00+07,Maintain gentle temperature for bath,027ed66c-bb1d-4dab-9076-67c814f1563f,b770bf74-e2a7-4bb6-99be-61c91d3546a5
+520c02b9-9ea3-46c8-8a3b-1f2904709eac,haircut,2009-08-05 00:00:00+07,Use soft brush for sensitive skin,8dcd586e-2bd1-4eef-b071-0c0c93feb1e6,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+9cc12b3a-8395-4940-a9bf-7eba53896839,bathing,2005-06-23 00:00:00+07,Special care for coat,98d025fe-c7f9-4a03-b0ee-a07c2583e244,0e87a3e7-2191-4089-92f8-3002cf1acd57
+7b139af1-1c40-4519-8580-ba778ee6f4f5,nail_trim,2012-03-12 00:00:00+07,Prefer hypoallergenic products,e0557840-c760-498b-8f70-25789d31a44b,74a63dc4-b751-47a6-bd4a-b88d15949325
+100915c4-8135-47c1-b89f-cb9ab05a9558,dental_cleaning,2001-06-19 00:00:00+07,Sensitive to certain fragrances,8db7306b-820b-451a-885d-ebfa864dc3ed,e4148937-626c-4053-9e9e-df25343e0bb9
+1cbd8a2a-35d1-4be0-84a3-d0d8b815a0c0,nail_trim,2024-02-01 00:00:00+07,Nail trimming should be done carefully to avoid injury,e4fc071c-236a-49c6-8902-1ec2bccf7695,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+f0fa72c7-aebb-44e0-a1fb-362a9ab599f3,bathing,2021-03-31 00:00:00+07,Use calming spray before grooming,4137d753-246a-4bcc-b4d7-4adf7b9fe4e0,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+5c299b53-8e6f-497b-b543-5e98768b9bd5,nail_trim,2020-07-15 00:00:00+07,Use calming spray before grooming,a15dee96-7e82-4cdb-aa37-adde6776c726,ca3ef9ee-70e3-4531-ab54-57ee5febade5
+6185d880-7930-42dd-9d08-008c80ea67c6,grooming,2005-07-04 00:00:00+07,Do not bathe if skin is irritated,6da51d96-5970-40e0-b256-1d1757be4a05,c61acd9c-bad9-4353-8957-429c6b2e702e
+2045b027-95ba-44e0-9689-e3b217148a7d,haircut,2004-02-16 00:00:00+07,Use pet-safe grooming products,9c861093-52a1-42c6-a02b-4ec440c5f13a,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+a6db139b-9b2c-4e7a-a9c6-b85cc7a04ab1,haircut,2004-07-03 00:00:00+07,Do not bathe if skin is irritated,8593ece9-8db7-4f51-b04f-0119c5932259,cac42993-c181-43e9-a21e-faa65a3ce402
+afb46d91-e369-474c-a110-2251909da7c7,bathing,2018-06-26 00:00:00+07,Avoid water near ears,d57ce81b-0815-4149-bc93-6a636bceb738,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+1196a8ce-4bf2-493f-b62c-a9cbd4e3680d,dental_cleaning,2000-12-30 00:00:00+07,Sensitive to certain fragrances,4d4083c5-b92d-45ca-a799-57e3c8091b07,17baa183-d4c9-4ff8-9720-4242540e2095
+c0732c6e-033f-48f3-a600-33a5719e25ac,bathing,2024-06-13 00:00:00+07,Nail trimming should be done carefully to avoid injury,65debe89-1187-4b46-94cc-f5eba97ec98d,caf6b969-eb23-400f-836e-41f9c55a0e4e
+6eb4a5e7-8b1d-41df-865a-cecf5c257752,grooming,2008-06-21 00:00:00+07,Avoid water near ears,bd4d7f07-8273-4c6e-9bdb-ad68eaee5e7e,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+a980580b-524e-493e-b116-d390286cc024,bathing,2017-04-04 00:00:00+07,Special care for elderly pet,8da930e2-f1c4-4eba-bc3d-87da6daf5661,7f44bc47-938d-4677-a6e2-976d863435cc
+f5d69989-d93c-49cb-8cf2-f48056c7ea14,nail_trim,2008-03-10 00:00:00+07,Requires special treatment for matted fur,3c3afb7b-016d-4f1a-8cf3-8f115bc09da6,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+a7cdc962-d2d2-4944-a8b7-9deca365afdf,dental_cleaning,2024-01-31 00:00:00+07,Use soft brush for sensitive skin,d4e9a132-3b6c-4e7a-8db2-8d19514426d1,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+922de2dc-008f-43b1-b919-1f1c7de52aaf,haircut,2014-04-08 00:00:00+07,Check for any skin irritations,9971e47d-05b2-4707-8789-29766b522f8b,8499c576-c90e-428f-a69c-8992a8eb31b1
+a03f5722-6e7d-4d18-9c92-d9ce3a717383,bathing,2007-01-16 00:00:00+07,Brush thoroughly before service,169d004b-aae2-4a86-87cc-85aa07522757,bacb6ea8-4cc2-470b-a0df-7ba914009094
+e7a20eea-5494-4179-bb1e-b85fd102be86,nail_trim,2012-04-03 00:00:00+07,Use soft brush for sensitive skin,3c89cf60-a76f-474d-9aa7-70c0210eb11d,b5f0b78f-45da-43a5-b4ae-916dca68495c
+e4ee5bd1-157e-476e-9d16-29efe1c2c07d,nail_trim,2022-10-07 00:00:00+07,Grooming may take longer due to pet's temperament,3cfd514e-ee99-49b7-810a-4fdc29757802,caf6b969-eb23-400f-836e-41f9c55a0e4e
+818b1cb5-0a06-4ed1-9f42-2b736a99b79e,haircut,2008-01-28 00:00:00+07,Special care for coat,8376c56a-0b10-4421-a0ab-963b75795622,2dd1b5c7-db3a-4a91-82e3-af96d3ef3da3
+d934a11e-6331-49e9-9dc0-fb470d8b4525,grooming,2022-03-28 00:00:00+07,Avoid water near ears,0fff6024-e34d-4a66-8e20-b35ee6bf6dae,8e4a4238-c039-46f0-93c0-68c688f7d6ef
+d80a6fbf-bea0-431c-8dab-aeb4e244e31f,dental_cleaning,2011-05-23 00:00:00+07,Do not trim nails,c4ab27b4-8d23-4ae7-9467-e6cc33395b3e,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+73100711-bc05-4989-981f-7d10bb6f6c95,nail_trim,2013-02-22 00:00:00+07,Sensitive to certain fragrances,eea32b22-e3e6-4c24-bd97-86a026095d6f,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+8d4dc85c-c1bd-49fa-8320-01397de782ff,bathing,2016-03-29 00:00:00+07,Avoid using strong shampoos,c1ce3765-ce2d-4646-96d7-9f9580dcf99e,5c5025c2-8b1c-43c7-ab57-1b686817c021
+7d6874dd-0ae1-46db-912e-fe764008fbb0,bathing,2007-01-25 00:00:00+07,Do not trim nails,c6751772-f498-446e-b657-f3244d9f00b2,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+741bbc3f-fea4-4c05-8efc-105a9444b3bc,dental_cleaning,2012-06-02 00:00:00+07,Light trimming only,d01a372a-cbc9-43aa-8d63-6452a5a708f3,97411cb2-9dc1-4db1-9523-c24003fd502c
+ad2dc2bf-5142-4960-8670-d852cfd0a724,grooming,2010-09-19 00:00:00+07,Check for any skin irritations,f9b23567-c2b4-48c5-8bd6-138ef151f9cc,040a1b87-271d-48cd-8906-3b584bf768aa
+951ee17f-76c1-4db7-8d95-43dc58fe0134,grooming,2009-02-06 00:00:00+07,Grooming needs to be done regularly for healthy coat,7a28c42e-ba22-4077-a96b-1d7875d77581,a1cd9473-6617-44f4-862e-05eebcc0a439
+1ba0bee7-ce78-41f3-a7b2-012bab7dcd23,dental_cleaning,2000-04-19 00:00:00+07,Do not bathe if skin is irritated,caf82e82-ed24-4545-83d9-e2fe0d32a200,13045b39-8260-4d94-af01-87616eb0ab79
+3a28b461-2d2b-4c5c-9523-e9c6d2c055e6,bathing,2013-11-19 00:00:00+07,Do not trim nails,83e178a5-f15b-4bc7-9bb9-37beca36088a,0e87a3e7-2191-4089-92f8-3002cf1acd57
+9a6fb2c0-f2c1-42b3-9a25-a59eb807f1d7,grooming,2019-03-02 00:00:00+07,Avoid using strong shampoos,b6b68282-7b86-493f-8901-31ccdbeb7fa1,0e87a3e7-2191-4089-92f8-3002cf1acd57
+6c4d1142-d289-48f6-b1ac-145697f02cc2,nail_trim,2023-09-07 00:00:00+07,Grooming needs to be done regularly for healthy coat,9a9d9406-0ddb-4f16-aebe-1811426fba9a,464699eb-0703-45d4-a294-b2c21e3de0e4
+2f5c0030-c81e-4783-8cec-0206afbe8c53,dental_cleaning,2016-05-19 00:00:00+07,Nail trimming should be done carefully to avoid injury,2c6b520f-d553-487d-aef8-e5b6aee0361a,23ee3c69-ea03-450b-8523-16abc931ebc0
+f21dd341-d441-42aa-8693-e3ad92c73b38,grooming,2002-07-21 00:00:00+07,Do not bathe if skin is irritated,88988eaf-59df-4829-baae-cafda02b8a42,0ad70aa8-4b6d-43d3-883a-42f1fafbbcf9
+4b44e387-6de9-4074-affe-93a334363d35,bathing,2021-08-06 00:00:00+07,Grooming needs to be done regularly for healthy coat,096106f0-eb6c-405b-8920-10dce9cb24d1,4e932fe1-3e71-4831-8ad6-2712b88204a4
+5389ebbe-7e30-4804-b4ee-eba4ea23524d,dental_cleaning,2006-08-03 00:00:00+07,Needs a gentle grooming,319924a2-5772-458a-abf8-d2b567a71e85,5f0cf5be-a023-40cd-a4a6-f03ea0144a04
+94e4052f-4a6c-4c2f-8939-56bdf8fc13cd,haircut,2014-06-22 00:00:00+07,Sensitive to certain fragrances,c6b4d40b-5ef4-450c-9326-7bae9d7a2593,02a4f188-45da-477d-952c-3a401d8a7a52
+a4ca4a0a-d6a6-4391-88da-dd67544980ee,bathing,2025-03-18 00:00:00+07,Check for ticks or fleas during grooming,1a729b63-0d02-4804-a3fc-6edaaff81e3b,8fec7236-ae69-4cdc-8e32-be45be2ea437
+8faad329-94d9-468f-87eb-24eb7ff2e0a5,bathing,2021-03-12 00:00:00+07,Brush thoroughly before service,ee89b3bd-5785-4056-9167-aca82823f943,8e4a4238-c039-46f0-93c0-68c688f7d6ef
+01d3c3d5-debf-40eb-a724-deeee6e852b7,bathing,2011-08-26 00:00:00+07,Use only natural products,be065e77-0f84-4eea-92e6-0d13b9ea0159,1a21fac8-684b-4f13-b265-3c2234080641
+6f6bcd13-a3df-4a4d-917c-c505a24d075c,nail_trim,2002-03-07 00:00:00+07,Do not trim nails,db111980-fe5a-43b0-ad5d-34c533156717,077a90f8-ebb6-492c-9c71-0930e8856a36
+561c2e87-6282-4742-a02f-3c21557474a2,nail_trim,2007-02-16 00:00:00+07,Grooming may take longer due to pet's temperament,6e472953-640c-4332-b855-0d45ad4a01a5,150468d5-9310-434f-9853-ac9c9a13c384
+deae33e8-c8df-45e8-8554-fa693fef068b,dental_cleaning,2010-09-26 00:00:00+07,Light trimming only,50f74885-9987-4c4e-969f-ab628a8a2daa,b7596692-e5bf-4c37-a899-8914ed931dee
+91ff27fb-37af-45d4-a8a0-09b46c6cb8ef,haircut,2024-10-29 00:00:00+07,Avoid using strong shampoos,4271fc2f-2ce7-4c20-b39d-838ccda03f40,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+7ffea911-f128-4fe2-862c-ef3070c88d70,haircut,2015-12-11 00:00:00+07,Grooming may take longer due to pet's temperament,936a7893-331b-4762-9b1d-17b0c39309d4,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+04b95b73-8ccc-4953-8060-c16c42eeb630,nail_trim,2011-11-14 00:00:00+07,Check for parasites before grooming,4ed56c35-e82d-4fd9-befd-f13ca8f0561b,aef3b0db-6d52-4f5a-ba55-54f053a5f9df
+68191772-70c3-4bef-bdb7-424c0d1e3bf8,nail_trim,2016-07-25 00:00:00+07,Grooming needs to be done regularly for healthy coat,f6ab528a-8481-4ce4-a7bf-1bd7c0df1ec0,4b3bba6d-399c-4450-9fdf-b2a7a50e6787
+d70c4d15-3433-4490-800c-bee6ec66d5b5,dental_cleaning,2015-03-22 00:00:00+07,Nail trimming should be done carefully to avoid injury,150074cf-7527-4ce7-980b-a3caf316f06c,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+79103840-631a-4821-9fa9-4d78a4f7c978,grooming,2001-06-20 00:00:00+07,Maintain gentle temperature for bath,af202511-fa12-437d-bbca-203adf69817b,caddb1b9-c89b-4d08-b893-bccbd5d7e2e8
+6c406ff5-93c0-4514-a145-c445a98ff309,bathing,2019-02-25 00:00:00+07,Requires special treatment for matted fur,81edc088-b15b-41b4-b83a-1286a28abe26,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+bbfa614d-413d-4613-bd2e-e7cd248e0be6,nail_trim,2024-08-27 00:00:00+07,Use soft brush for sensitive skin,46617c5b-d0a3-4fb7-ad24-0e093db40b2e,988a967b-7d8d-42f9-81ec-a5fdbfae1f01
+ccf6b16f-c39f-4cfc-b695-bbd807040866,nail_trim,2011-06-01 00:00:00+07,Sensitive to certain fragrances,0733260d-0492-45ce-a4bc-76ba5257bbbe,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+3702cbc5-37e2-46b2-9549-78823a83f830,dental_cleaning,2022-11-09 00:00:00+07,Brush thoroughly before service,e56dc717-0613-4d47-a1ae-ab6acc2e57c3,5b5cde7a-2f25-46ff-81dd-ae2c11ff456b
+602a562b-65c0-4d00-97d5-4ca2df3ad630,grooming,2016-11-14 00:00:00+07,Sensitive to certain fragrances,a9098263-6436-48ad-804b-1700696f24d7,5c77e60f-5497-438b-aee3-b20c46a31a64
+24ca66e0-3ff5-41b2-a255-41e15e19e22e,haircut,2017-02-08 00:00:00+07,Maintain gentle temperature for bath,f7abc95b-584c-4e0f-b790-f71d2a340dc2,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+25ae4369-d863-4fe8-81f6-ffdf3b40bb32,grooming,2013-06-29 00:00:00+07,Requires special treatment for matted fur,12387f5a-6d27-4d41-9cc9-4e4eedf92525,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+6a6604a9-a1aa-48a4-90aa-120e6de023c4,haircut,2009-08-30 00:00:00+07,Sensitive to certain fragrances,cee899b4-5394-4897-8be3-8052bf22ecd1,b9af1687-9551-4e56-99d9-da4a3051a29a
+3342701e-0fb2-48b8-ade3-4b8274fff90e,nail_trim,2013-12-25 00:00:00+07,Special care for coat,1fff87ef-2da2-4a3e-9b19-5ccca572a2a3,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+c04198b8-50d2-4bb7-8ed0-2eb2c2dcf894,dental_cleaning,2022-08-04 00:00:00+07,Use soft brush for sensitive skin,a91206e0-5f6a-4c56-91c3-43dc9010546e,bd10350f-2fb6-41fe-827d-d8342db442cd
+91dbf641-8206-45b1-87b4-b704d5108681,nail_trim,2023-07-30 00:00:00+07,Grooming may take longer due to pet's temperament,9ec5abfe-1ad4-42d7-8681-37040b70e020,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+f1931721-bbda-48c7-91c3-ad8dcbbd1aac,nail_trim,2002-08-17 00:00:00+07,Special care for coat,d055c564-7f3e-4e38-9f39-e40d191dfa7d,0a072ed0-8644-4e9b-9642-eac56eb9be23
+3b49d389-71df-4d5d-b52d-9ea0207704e8,bathing,2014-01-06 00:00:00+07,Follow up after 2 days to ensure comfort,8662b0d4-9a08-403e-83a2-34afe3340912,caf6b969-eb23-400f-836e-41f9c55a0e4e
+de91518f-e1c9-4da1-b635-6b81c0dfda25,grooming,2017-06-26 00:00:00+07,Check for ticks or fleas during grooming,71f03022-977e-430e-b295-f1768c643d71,aef3b0db-6d52-4f5a-ba55-54f053a5f9df
+a7c732a6-a9a7-43f7-be32-874f954fd49c,grooming,2007-10-03 00:00:00+07,Nail trimming should be done carefully to avoid injury,44c789bb-51a8-4c5b-b0e6-97aa3969e71d,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+21f17713-1e6d-478a-865e-04b67fb17e53,dental_cleaning,2022-07-30 00:00:00+07,Use moisturizing conditioner,6d18b4f1-21ee-445c-a04d-214804a86bb0,5e7a318c-92b3-4796-8436-311a8fd9a466
+1253af28-285f-49d9-96b6-5a0acec5c438,grooming,2007-11-10 00:00:00+07,Do not bathe if skin is irritated,d23db24c-ade5-473d-adc3-f766daf76179,0a072ed0-8644-4e9b-9642-eac56eb9be23
+953e74f1-12d8-44d2-bb44-cd2134e3e570,dental_cleaning,2020-04-12 00:00:00+07,Check for ticks or fleas during grooming,4fd24f65-2c91-4e41-b202-dd26e84804cf,5cb4db40-4a0b-4504-878a-1813c2d56473
+dc48f8aa-100f-4c1f-81d5-caeb813d8eb6,dental_cleaning,2008-01-05 00:00:00+07,Check for ticks or fleas during grooming,83e178a5-f15b-4bc7-9bb9-37beca36088a,b83de6fa-efa0-49b7-ade0-51e04b85aba8
+32b51c63-64f6-4e66-b4de-dd1264223d6e,haircut,2006-01-17 00:00:00+07,Do not bathe if skin is irritated,1c0b5317-a6c7-4753-8bd0-eb5a7d5be61b,0a8c3faa-c02a-4045-a3bc-ab29aa3e3d6a
+c4d6cba0-49fe-4035-8284-a0d72ce49b00,haircut,2005-03-29 00:00:00+07,Nail trimming should be done carefully to avoid injury,0fc4ecca-da27-4555-aafb-074d5824b48f,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+1b463980-5109-4d7f-b759-02834104e02b,dental_cleaning,2001-11-02 00:00:00+07,Nail trimming should be done carefully to avoid injury,1f4398bd-85db-4201-8fcb-2b0256fbd806,4b3bba6d-399c-4450-9fdf-b2a7a50e6787
+d6975447-ab29-4daf-a8ab-a1f6e4d75998,bathing,2009-11-23 00:00:00+07,Use moisturizing conditioner,73f34633-fc0a-4003-b10c-0b753fe4b144,fc6d272a-e514-4b83-91ce-fd9154554f00
+868e7be2-dd91-42a5-89a0-a2c350e3c988,grooming,2013-03-06 00:00:00+07,Check for parasites before grooming,ad87a358-e4d1-41b0-bd5b-589417af7dca,e4a7c82c-8e42-4c1e-b1ea-6ce6fbb43d68
+a4cde3d5-12bf-4791-acd8-aae51c253283,dental_cleaning,2019-03-18 00:00:00+07,Nail trimming should be done carefully to avoid injury,f5cff3ef-9b8c-45b6-ab0a-0f72b270f624,464699eb-0703-45d4-a294-b2c21e3de0e4
+f5631e5e-0d07-4fe4-a51e-94626df4a8ed,haircut,2014-03-23 00:00:00+07,Check for any skin irritations,b65558a7-1b5d-41b3-9049-4adec914595c,4e932fe1-3e71-4831-8ad6-2712b88204a4
+8e1335fd-5db7-40bd-b12d-2a2b8857e999,grooming,2016-03-07 00:00:00+07,Light trimming only,670375f3-33f1-4291-b0c2-9c1848062723,2ca717d2-57a7-476d-a893-97b64971cd27
+5e474df3-58bc-48b1-82c9-0675ebb9be6c,bathing,2021-03-23 00:00:00+07,Use soft brush for sensitive skin,7d949d5f-6c8c-44a7-a5d7-1320dd9a5c4e,7f44bc47-938d-4677-a6e2-976d863435cc
+95341ec5-25c0-415c-a7d2-e8e338e35b98,bathing,2014-12-01 00:00:00+07,Avoid using strong shampoos,6da51d96-5970-40e0-b256-1d1757be4a05,01243cca-3841-4158-b375-4cf95720f081
+417edd80-0ec3-4120-ae19-590d66a0dc22,haircut,2012-09-08 00:00:00+07,Check for any skin irritations,c3f3103d-4e38-443d-944f-da70938a93d9,ca3ef9ee-70e3-4531-ab54-57ee5febade5
+ffbf361b-17bb-4d49-b96d-4914655ae208,haircut,2012-11-01 00:00:00+07,Avoid using strong shampoos,01afda33-4224-4bb1-abf1-a4eead65f486,150468d5-9310-434f-9853-ac9c9a13c384
+58953351-74d6-4f1d-af12-dc2269ee830a,dental_cleaning,2007-12-11 00:00:00+07,Use pet-safe grooming products,cdefc6af-a8db-4ec9-a427-0a3633bdf986,bd10350f-2fb6-41fe-827d-d8342db442cd
+adf7ae64-4f65-4163-b59c-d0b26756e0f0,dental_cleaning,2021-03-07 00:00:00+07,Use only natural products,3da4497a-a3b3-48d6-bf7c-32ed2458eb20,31a63e63-51a3-4eb4-b5c3-5f92e3bebfaa
+8a9565cc-546b-457b-8a88-1bed56f6c015,nail_trim,2007-05-23 00:00:00+07,Check for parasites before grooming,5c28493f-b0e7-45bd-82ce-efccf69e8158,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+57ea6ca6-de9b-44e0-a308-39517b021902,haircut,2021-11-17 00:00:00+07,Special care for elderly pet,21c9bfde-d049-461a-99c1-c7dedb351431,bacb6ea8-4cc2-470b-a0df-7ba914009094
+7ee928a7-da5b-4dd5-805a-c4f2a9d1ba07,haircut,2023-04-04 00:00:00+07,Use calming spray before grooming,09bdaa62-9e57-49eb-a7db-6eef5535cc1c,b269d019-21fc-4990-bd31-33fd8165458b
+a8c1bc15-534c-4687-be37-1e0cb84b16a2,bathing,2007-08-15 00:00:00+07,Use pet-safe grooming products,6015afbb-807c-4211-919b-c1dc75f738f0,d4ef2080-b6c0-4f1a-971a-6eeb074bb4d9
+9db34873-9eed-4c1a-bac1-dbe02d894e60,haircut,2012-05-11 00:00:00+07,Nail trimming should be done carefully to avoid injury,fc4e8bad-5e4f-4b59-93b7-049e872085aa,c9b97c0b-98a4-4829-9116-c9371268bce6
+083c2115-e23d-408c-952d-ce5ce5e0d7fc,dental_cleaning,2009-05-29 00:00:00+07,Use soft brush for sensitive skin,0d715760-99c5-4267-a44c-7c8f2329b49f,5718e850-a7b4-4973-8bc7-9024e8de7f1c
+05ce0a37-53bd-4078-9158-cece27aae8c3,bathing,2021-08-04 00:00:00+07,Brush thoroughly before service,f7abc95b-584c-4e0f-b790-f71d2a340dc2,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+4dcfce0d-a94d-4453-87d3-525f4144be7e,nail_trim,2009-09-01 00:00:00+07,Use pet-safe grooming products,a426775f-c22a-4d0c-8955-8c06f84eff4a,762e8ac4-f21a-4cbf-a141-0f107166bb8a
+a7a71569-9bc7-4f46-82fb-e16102ba86d6,nail_trim,2014-05-23 00:00:00+07,Avoid using strong shampoos,d1d999d7-a788-4705-aabd-36ff9bb3759d,b5f0b78f-45da-43a5-b4ae-916dca68495c
+99f5532b-f1dc-467e-9af2-cde248dd21bf,bathing,2006-11-06 00:00:00+07,Brush thoroughly before service,15c45032-67c3-45bf-b6c7-98f0dca765cb,43c4431c-e919-4d11-82e8-74e354761952
+47089c1f-b2ab-4866-92cb-0f1f7556cfeb,dental_cleaning,2021-02-06 00:00:00+07,Use moisturizing conditioner,ea61edeb-35c1-45cd-a852-42239e77c6d5,220e3838-5b19-4bf4-b019-1d3c4fe08fc8
+ab121e02-03ac-4eb8-9d9a-4cb18316bd03,haircut,2007-08-22 00:00:00+07,Grooming needs to be done regularly for healthy coat,2d967b16-4415-47c2-8bd1-4dd6c6353df8,92699c19-4f09-4cf1-9f70-f1fa69476481
+30682394-bd23-425a-9557-d5ae01d9e165,bathing,2001-08-02 00:00:00+07,Grooming needs to be done regularly for healthy coat,c26a3fa0-15ff-4053-b2fb-aeaf78c626ca,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+09bfb1f0-e481-40ec-aad6-8373423a1a20,bathing,2022-09-19 00:00:00+07,Brush thoroughly before service,e6c34b7a-1832-4f1a-b751-c0f6820a0452,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+f94df18d-c475-4b0b-b15f-a5f6834e2e27,haircut,2020-03-31 00:00:00+07,Use calming spray before grooming,1005abe2-49db-4a81-9124-f586b6538995,157cea7b-93f6-4484-8c7c-3b8dd2488616
+8ed6361b-dc04-433c-a1f7-4fd22b29f73d,haircut,2008-10-11 00:00:00+07,Use calming spray before grooming,8818c648-a163-4e53-9000-f20cc498cc10,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+4b694c17-de31-4f3f-a78d-8b913b285de7,haircut,2006-03-06 00:00:00+07,Light trimming only,ee68e791-3df9-4b14-9bc4-ce180b8109a0,957a5eaf-f85e-406d-b864-44455a6c92dc
+1c5c75d3-3072-44b0-9618-7b0a553a650d,dental_cleaning,2001-04-08 00:00:00+07,Light trimming only,03aa1a49-12f4-4e5c-a13e-367e1ceace89,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+e1880bd8-8c3f-40b3-a9ca-4f12a043aba9,haircut,2016-08-31 00:00:00+07,Requires special treatment for matted fur,972712f5-955d-46f9-af14-4741f563752e,b269d019-21fc-4990-bd31-33fd8165458b
+da8fda9a-407a-4da1-9d17-eacdb28cebe7,grooming,2004-11-20 00:00:00+07,Use moisturizing conditioner,546a3ae8-b984-4d3a-bb59-c7437e267f3f,80fcff5f-14af-4221-9273-3279125ac847
+66da5fa1-570e-402d-b246-7d05b0c0c64f,haircut,2018-04-10 00:00:00+07,Special care for elderly pet,6a3a5d31-1218-4cad-9fd1-0bfea15d14d3,cad85ce6-23de-4cc4-9e49-fac639778dac
+7ec256e8-1213-43b3-a2e9-491ccdb601f5,nail_trim,2005-11-16 00:00:00+07,Grooming needs to be done regularly for healthy coat,428b403a-d9a3-403f-84f7-27c5a478a6c0,c73856a3-e8e4-4941-910f-accbddbb7da6
+2c445c79-49a2-497b-a885-e93ce78bcd6d,haircut,2003-04-14 00:00:00+07,Use calming spray before grooming,02a8ed0a-7b63-4100-a76a-068cc0bec848,d0ef698d-7228-4260-9fe7-1dcee2f78b72
+aeee14e4-0def-4ec7-8c51-e688e761b2a6,grooming,2023-12-20 00:00:00+07,Nail trimming should be done carefully to avoid injury,64e62669-a81a-4068-b62d-e6af67c8a559,74a63dc4-b751-47a6-bd4a-b88d15949325
+7f2f3106-14cf-4a72-bc71-cf68bd42f84f,nail_trim,2002-05-12 00:00:00+07,Light trimming only,8593ece9-8db7-4f51-b04f-0119c5932259,957a5eaf-f85e-406d-b864-44455a6c92dc
+8e274334-4d9f-42ce-a243-75cf61e1e020,bathing,2019-09-05 00:00:00+07,Use calming spray before grooming,22b5e085-e962-4784-8755-9bb63cb94944,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+aa171812-edb4-4dd2-a4ee-11c29142e422,bathing,2013-04-21 00:00:00+07,Sensitive to certain fragrances,954ca36f-6872-4736-b823-a4529ae9e44c,97411cb2-9dc1-4db1-9523-c24003fd502c
+ba17ddfa-c3e8-4a3f-8c2d-ead64dae661a,nail_trim,2001-06-20 00:00:00+07,Special care for elderly pet,7d895ca3-33d3-4f00-9cf9-81b52615fbc4,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+40110660-dbea-4049-8716-6d92e9ce50a4,nail_trim,2023-07-30 00:00:00+07,Do not trim nails,b28d355c-7f53-4ef3-a0e4-074c9b872219,077a90f8-ebb6-492c-9c71-0930e8856a36
+ca0e0a88-187e-46de-9645-e537618f0fc2,nail_trim,2018-08-30 00:00:00+07,Use moisturizing conditioner,3edc8dba-debe-463d-9032-d99ee1097bc6,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+045d78b2-934b-44a4-8d7c-99bbefc65dea,haircut,2022-04-15 00:00:00+07,Check for any skin irritations,4bc793d2-a334-4e1a-a9ae-9c87161bb818,bd10350f-2fb6-41fe-827d-d8342db442cd
+46f194ad-85a3-4292-ba6e-f2e2ad6c5ba2,haircut,2014-06-18 00:00:00+07,Check for parasites before grooming,b1ebf5ee-0ab9-4a90-a35c-d578b718cf1b,c3fe3fdb-cea2-4a62-be78-4c10714d61c8
+52cb7ae9-8eb5-455f-b9ed-d7a44876f266,bathing,2020-03-15 00:00:00+07,Brush thoroughly before service,3917bbba-6f7c-4c12-93b2-bef08bf6ee49,5e7a318c-92b3-4796-8436-311a8fd9a466
+663fc831-fda8-4232-a88d-35fbcf157d4e,nail_trim,2003-04-20 00:00:00+07,Check for any skin irritations,cc29295a-524a-45d8-85eb-96ccbda82117,b9af1687-9551-4e56-99d9-da4a3051a29a
+10f98830-a6e0-46de-b954-92e713127cf8,dental_cleaning,2008-01-22 00:00:00+07,Light trimming only,8555049c-c3ac-4486-b97d-aef91727ac98,157cea7b-93f6-4484-8c7c-3b8dd2488616
+ae77d2e3-799e-4330-99b4-785c8c896baf,haircut,2013-04-14 00:00:00+07,Grooming needs to be done regularly for healthy coat,aaf95118-634a-4f6e-9571-055da423695a,6f671115-16aa-4ad8-9036-bd8dea75fb95
+6be94118-8f36-4695-a6fd-0046afbfd316,dental_cleaning,2008-11-24 00:00:00+07,Use moisturizing conditioner,09e1d207-b425-4afd-a554-719abc98cc7a,8e4d5275-6031-481e-b56b-496700291e5a
+018fd4c1-8d5e-44d7-8311-3189dc146767,dental_cleaning,2000-10-28 00:00:00+07,Follow up after 2 days to ensure comfort,e1d846ed-16af-42a9-aa64-32d2a66ed597,84b08ece-2ce5-4a1d-b2b8-6a11ed82048f
+9bbb8208-175d-424b-a021-9270c86c8fed,nail_trim,2013-12-18 00:00:00+07,Special care for elderly pet,3015b4da-583e-428e-a76c-84a164cc8d0b,96ed3445-5a7f-4f2c-aded-5c82df8aa250
+7aa627c1-32e3-494e-affd-9e9f77367d81,dental_cleaning,2007-05-20 00:00:00+07,Do not bathe if skin is irritated,3015b4da-583e-428e-a76c-84a164cc8d0b,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+82212600-1312-4cff-ac4a-5b7afe0a08d3,dental_cleaning,2020-09-26 00:00:00+07,Check for ticks or fleas during grooming,f2d29c90-540d-4080-8d6c-360eb40b2fc2,a9c5e2ec-1b94-40ad-8462-960f685889f1
+f4873f04-03f7-4340-8d88-a1f1be8bf28e,haircut,2024-01-28 00:00:00+07,Use calming spray before grooming,07fc710e-c608-4d59-baac-af983dc9c878,1a8f0baa-4439-4a42-9fe4-f655b0c68c8b
+bc119f2c-597a-4b34-b9c1-f1de85f98aa3,dental_cleaning,2024-06-13 00:00:00+07,Use pet-safe grooming products,90f8ec11-9327-43a6-bd2e-417933bbac44,8208f0f1-fb11-404f-81fb-e0fe2fc481e0
+52679289-f9b2-482e-8815-de17362ccdc9,nail_trim,2010-01-11 00:00:00+07,Use soft brush for sensitive skin,ec904843-154d-4a26-87ab-1612a2f1bf23,fc6d272a-e514-4b83-91ce-fd9154554f00
+b37a1864-02c0-4dae-aeff-39f979c5ad5c,dental_cleaning,2014-10-14 00:00:00+07,Do not trim nails,7b89ba28-fad0-40e6-a3f4-ddfa85d25243,e0116204-1c52-4e68-ae53-0b079a01da2e
+59f5903d-f71d-450f-b7b3-cc452a4d019d,dental_cleaning,2022-07-07 00:00:00+07,Needs a gentle grooming,d8ded7bb-e333-4f85-95fc-bf26c834ba49,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+a09edf2e-133f-4f65-a43a-c203b7673ee4,grooming,2022-01-19 00:00:00+07,Do not trim nails,6015afbb-807c-4211-919b-c1dc75f738f0,b83de6fa-efa0-49b7-ade0-51e04b85aba8
+938d1744-84c9-4bff-a4a4-28fe0bddc917,grooming,2012-02-23 00:00:00+07,Check for any skin irritations,ed5a4a3e-bf39-45bf-bc0c-038060123146,b269d019-21fc-4990-bd31-33fd8165458b
+ff9d0759-e9b2-428d-8944-27d1e8c88c85,grooming,2003-10-02 00:00:00+07,Follow up after 2 days to ensure comfort,f2d29c90-540d-4080-8d6c-360eb40b2fc2,442d9052-e7ae-4445-abee-0d54ab499a27
+9781d963-6f52-4d76-ac19-e3db002f7c1e,dental_cleaning,2012-08-29 00:00:00+07,Check for parasites before grooming,89e25545-b096-4493-a78c-01ea43f77f4d,8499c576-c90e-428f-a69c-8992a8eb31b1
+4917c3d7-0ab3-4f57-a037-5f25bc8afcbc,bathing,2015-06-17 00:00:00+07,Avoid using strong shampoos,7ffc7668-d9e5-45bc-af3a-2379424ed931,0211b722-86d3-40b2-afbc-84e904f09f4e
+42c77165-c3fa-4846-938a-c8b7a0721165,dental_cleaning,2016-04-28 00:00:00+07,Avoid water near ears,cc475ac1-20c4-47f7-9fc8-98a636c8d711,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+76cd13d3-0fd1-4c06-9bc3-b9c64134390c,dental_cleaning,2018-08-06 00:00:00+07,Do not bathe if skin is irritated,de2dee97-7c5b-4aa9-ae9f-470b240338c7,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+575924ec-2e09-4de2-90ba-6acaaf34623c,haircut,2017-07-19 00:00:00+07,Prefer hypoallergenic products,a04cbcb6-e33e-4a51-b11b-411e1e7f6375,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+413391b8-a0ba-44b6-9f0d-5bf44567c8eb,nail_trim,2006-05-01 00:00:00+07,Light trimming only,23c79e4a-013c-42ea-a7cb-899b0126681f,4e932fe1-3e71-4831-8ad6-2712b88204a4
+7df0bdd0-cc42-4949-9487-31f9c7c1a6eb,haircut,2000-10-30 00:00:00+07,Use moisturizing conditioner,244d0e3a-0635-4767-ae48-446dc0e5a96c,dd38f3c5-c57d-4b6e-88e7-627db081ffa9
+5ac30bb5-3e90-46ea-a200-76e22be593f4,nail_trim,2014-06-04 00:00:00+07,Grooming needs to be done regularly for healthy coat,5464b7ec-5901-4646-bb5b-245cefacdd3c,e4231f86-48ee-4219-bd63-ff9090eb6d6e
+942d0a6c-54ed-44aa-a221-48712deb44b1,nail_trim,2019-04-30 00:00:00+07,Use calming spray before grooming,41ba9490-a053-4f8b-8ded-a56506a8848f,584795f4-f313-47e2-b4b1-44ce3ed36153
+3e9315ef-16e3-4d28-820c-271d05643b8b,grooming,2016-06-30 00:00:00+07,Use only natural products,d055c564-7f3e-4e38-9f39-e40d191dfa7d,60809305-1e07-42bd-9013-30093d6c919c
+96cb7df1-e069-4b73-b495-56f9e51aa890,dental_cleaning,2018-07-09 00:00:00+07,Nail trimming should be done carefully to avoid injury,e58a15cb-1763-4c73-bdf5-eee463d49b39,b415e80c-91a8-44d8-bc4f-7acf2515bf59
+9445a6c2-7f49-41db-b9b4-7c8da4f429c0,dental_cleaning,2020-07-06 00:00:00+07,Avoid water near ears,f5a3ca12-b7f4-49e6-a8ff-31a77ab839df,5cb4db40-4a0b-4504-878a-1813c2d56473
+4e649400-6dfa-4c5a-8a20-7a1819342545,grooming,2007-01-11 00:00:00+07,Do not bathe if skin is irritated,9e130484-b8e6-4b07-b228-c4f8918da7a6,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+cf802c4e-6a00-4da7-ac1d-3875a632bf14,nail_trim,2011-12-07 00:00:00+07,Grooming needs to be done regularly for healthy coat,1de77af1-85e1-45e7-a5ca-d702869f7a3b,6ee9f494-b192-4be5-a671-f47866777a74
+8e3fb063-d367-4da6-9c15-812a49939515,grooming,2005-02-22 00:00:00+07,Nail trimming should be done carefully to avoid injury,50b05382-74d3-4961-a39e-dcd01337cf74,96ed3445-5a7f-4f2c-aded-5c82df8aa250
+39f5eef5-974e-4c68-b0f5-512c478d08ae,bathing,2002-12-02 00:00:00+07,Avoid using strong shampoos,fec7e619-2cbd-4a5c-bfb3-7963d1c71e41,72deb1e3-6649-4abe-9f87-2ba435e88b12
+8528ef11-e67b-473d-8bb0-87fa37fc1b42,bathing,2002-08-01 00:00:00+07,Special care for elderly pet,9666090f-8967-4134-b03a-7296f01b8a34,b59dd49f-466b-4c15-ae05-0db8ab810263
+e6ee7dd9-6d24-4e5f-a1c3-b09ab9cb2002,grooming,2016-05-10 00:00:00+07,Use moisturizing conditioner,ed5a4a3e-bf39-45bf-bc0c-038060123146,6143512c-f7d1-41bd-bacf-fd4cd790b297
+cbeb0085-ff67-4ab5-8d65-f8a9d95adc88,bathing,2016-12-03 00:00:00+07,Nail trimming should be done carefully to avoid injury,6015afbb-807c-4211-919b-c1dc75f738f0,e003d879-2744-42a9-91b5-132a097f5fb4
+07d071a8-2c71-4d84-ba93-50b731352c40,grooming,2005-01-09 00:00:00+07,Follow up after 2 days to ensure comfort,d9d056c7-0323-4873-b549-472677cf43dc,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+1cdb8e04-cdf5-4095-a28a-e01526acd3d7,haircut,2005-01-16 00:00:00+07,Maintain gentle temperature for bath,b1bc9f4d-c3c8-45bb-9c54-fd062797c9aa,b269d019-21fc-4990-bd31-33fd8165458b
+823900cd-8adf-405b-ab0b-07e59f28185e,haircut,2019-04-06 00:00:00+07,Use calming spray before grooming,a1916aa4-ec11-4495-97d5-44ce12898601,77f8434e-5ce3-4408-b567-f8574252c188
+8e6a9370-4a01-44cb-98b7-745f749efb5d,haircut,2009-02-09 00:00:00+07,Special care for elderly pet,78cfbc3e-df02-427c-80e4-84326a83d084,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+c89a4a29-d653-4fb0-a94c-c2b8a4e8c568,grooming,2017-02-24 00:00:00+07,Do not bathe if skin is irritated,eb67eb7b-3792-435b-97f3-5c8b7d470cb3,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+e09513f0-2248-4c31-bd21-fefcba6a3f7e,nail_trim,2005-10-07 00:00:00+07,Special care for coat,c1cd5474-44e7-4ff9-8806-3324339c0850,5f535337-bab2-4ecc-a0c7-26ef763a13fd
+1c4d1faa-3a74-4252-8de4-a8d4c174ade8,nail_trim,2013-11-02 00:00:00+07,Use calming spray before grooming,fec7e619-2cbd-4a5c-bfb3-7963d1c71e41,17baa183-d4c9-4ff8-9720-4242540e2095
+c8ebaec8-639a-4337-ae50-f7492c2968f8,dental_cleaning,2010-03-07 00:00:00+07,Special care for elderly pet,f2d29c90-540d-4080-8d6c-360eb40b2fc2,0211b722-86d3-40b2-afbc-84e904f09f4e
+f93201e1-a777-4e03-8301-db386a06992f,grooming,2020-11-05 00:00:00+07,Check for any skin irritations,296acf71-fdb9-454b-b244-c232f377ffa4,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+2a3c2142-cb02-4894-90c1-41818498a0e4,bathing,2002-05-30 00:00:00+07,Special care for elderly pet,14d52c19-69c2-4d30-a444-1d699ab539b0,8208f0f1-fb11-404f-81fb-e0fe2fc481e0
+531b2339-d716-4afe-bc34-c04bc95d9569,dental_cleaning,2006-11-03 00:00:00+07,Needs a gentle grooming,dc75706f-e161-4c9d-ae03-576d8fa52cf8,84b08ece-2ce5-4a1d-b2b8-6a11ed82048f
+4c715a9f-0b96-4dff-9cbc-d8ed2ed95223,bathing,2012-02-12 00:00:00+07,Use moisturizing conditioner,e4419437-65c8-4112-a763-d860fb424ba7,84ca2cb0-55ec-4c3b-b258-341578559ccb
+1cdeb43b-5d6e-4699-90e8-22a708efcea4,nail_trim,2020-05-02 00:00:00+07,Use pet-safe grooming products,c1219163-751a-4be0-a1f6-4ed9cdada29c,6b61a540-14b2-4563-a68e-46122fe66488
+3d624ee4-7ece-4494-88e4-6ebe574afb06,haircut,2007-06-29 00:00:00+07,Prefer hypoallergenic products,2bc6488d-c085-4162-9001-fb8f2af42ee6,8fec7236-ae69-4cdc-8e32-be45be2ea437
+f73beacb-d126-45bd-8ca6-0d96a2a7b6c2,nail_trim,2020-04-06 00:00:00+07,Needs a gentle grooming,73f34633-fc0a-4003-b10c-0b753fe4b144,1a40a0d2-cec2-4514-901d-97f352b3c471
+c3cf8d59-7560-4310-a13f-9265c039100d,haircut,2009-01-10 00:00:00+07,Needs a gentle grooming,7530e934-d46c-469b-b6b6-4775637fe0f3,957a5eaf-f85e-406d-b864-44455a6c92dc
+01394990-a011-4936-abf1-79b379c76a6d,bathing,2018-01-27 00:00:00+07,Check for any skin irritations,118a0be2-6210-42b9-b701-52b6d5be8254,33c4428c-6710-43f6-b9d5-05745b2e97e0
+f2629e9f-2d6d-492e-a18e-e7360655a447,bathing,2004-05-24 00:00:00+07,Avoid using strong shampoos,c6fe74b9-6c36-498e-8e6d-f3c8aa569ff7,caf6b969-eb23-400f-836e-41f9c55a0e4e
+f9fe4054-c82a-460a-98d4-0b0cac27d1db,grooming,2005-12-20 00:00:00+07,Maintain gentle temperature for bath,b1535528-e718-4625-85b0-3174066cfc7b,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+2a73d754-d5d8-4fbb-87e0-46b7463ba87c,haircut,2011-09-30 00:00:00+07,Check for any skin irritations,8dcd586e-2bd1-4eef-b071-0c0c93feb1e6,6f671115-16aa-4ad8-9036-bd8dea75fb95
+96f08c07-68c7-4f85-afa2-4e6a3a7a2f1a,bathing,2005-06-30 00:00:00+07,Prefer hypoallergenic products,04548bbb-4234-45cc-9b8d-15c8a9ffb494,464699eb-0703-45d4-a294-b2c21e3de0e4
+9436b8fe-db64-4033-bd01-b35a64fe98c8,haircut,2011-04-28 00:00:00+07,Do not trim nails,02f13063-8cef-412e-b562-30084a731528,0741df1d-e8e1-4360-86b4-368827bcf00c
+30f4b3c8-4d5f-4e2a-9e68-6cd3503af968,bathing,2018-10-10 00:00:00+07,Use moisturizing conditioner,b6fc902c-f1a6-4e87-8f9d-ab951eaa3d79,4bdd6d6a-c33f-428a-9daf-982ba21473ff
+a3bb4da0-78e3-4b5c-9884-eaedc46b77e8,dental_cleaning,2025-03-07 00:00:00+07,Use calming spray before grooming,a2488b26-7e1d-4171-9483-8ccdc75d2906,961b9265-d2ee-4aaf-a872-af1b990318ed
+f1339177-b867-49a2-9b0c-db9948e58aa6,bathing,2023-12-23 00:00:00+07,Light trimming only,15c45032-67c3-45bf-b6c7-98f0dca765cb,43c4431c-e919-4d11-82e8-74e354761952
+476046aa-b566-46e1-b1d0-9f42c6dedbe3,dental_cleaning,2014-06-02 00:00:00+07,Use soft brush for sensitive skin,4fb4dd1a-92d7-4d4c-90ab-656b73b32b38,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+11fd4a39-2d33-49b6-93b6-4ec2000a465e,haircut,2010-12-23 00:00:00+07,Maintain gentle temperature for bath,a69a5ad1-d278-403a-b93d-3bfb1be741f6,442d9052-e7ae-4445-abee-0d54ab499a27
+125a4f7a-78eb-4d72-b860-de78107f154c,dental_cleaning,2021-09-04 00:00:00+07,Grooming may take longer due to pet's temperament,e6a920ce-8d5f-4d93-bf7d-cfc0aa9e6b9e,60809305-1e07-42bd-9013-30093d6c919c
+1c2bb908-a4ab-41a0-a8ae-94e5f177d4f7,grooming,2017-06-29 00:00:00+07,Use only natural products,e110060e-aedb-442b-96c2-afd42bb7736c,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+04996f3a-73e2-40b5-ae32-af49e5a8d578,bathing,2020-10-07 00:00:00+07,Needs a gentle grooming,afd766f9-c01c-4fee-a99b-0ab47c257792,150468d5-9310-434f-9853-ac9c9a13c384
+77824c50-798b-4e35-9fb5-ea30d3ed00cf,grooming,2024-09-23 00:00:00+07,Special care for elderly pet,3237775a-58a8-4918-b161-69e0f7cfa512,c9b97c0b-98a4-4829-9116-c9371268bce6
+dcced3e0-5a0e-4405-b8c8-6cfddc8fa646,dental_cleaning,2002-10-29 00:00:00+07,Needs a gentle grooming,da8c110f-9a5e-4bcc-ad5d-441345e95c19,157cea7b-93f6-4484-8c7c-3b8dd2488616
+71e9dff2-ae60-41e5-809d-a87325db4ae6,dental_cleaning,2004-02-13 00:00:00+07,Grooming needs to be done regularly for healthy coat,d3861b52-5da1-4c9c-a8a9-0c9226868fdf,97db9295-e740-4097-a2a8-562d830d0291
+88542eba-f261-4ed3-b32b-488ee8ce254c,bathing,2004-01-30 00:00:00+07,Maintain gentle temperature for bath,79d6ca70-eaa8-42cc-9324-8ede7331f90d,b59dd49f-466b-4c15-ae05-0db8ab810263
+2725709a-6eca-48ca-9cfa-77596944821f,bathing,2013-11-30 00:00:00+07,Do not trim nails,c3555a76-11f6-4352-9e21-0cd89320b30d,4e932fe1-3e71-4831-8ad6-2712b88204a4
+ee04beb2-af96-4183-992c-c1267cc752bc,bathing,2010-08-24 00:00:00+07,Avoid water near ears,6015afbb-807c-4211-919b-c1dc75f738f0,0741df1d-e8e1-4360-86b4-368827bcf00c
+05d5c4bc-3710-441c-8f50-cce031b27b35,haircut,2020-09-11 00:00:00+07,Grooming needs to be done regularly for healthy coat,d96386d7-e0f2-45a2-8857-0edaeae4a3ba,fb81a400-08a2-4f98-96c7-71a296b3c40f
+d28e5a7d-9c96-40fd-9bc4-cad22250da61,nail_trim,2020-01-04 00:00:00+07,Do not bathe if skin is irritated,296acf71-fdb9-454b-b244-c232f377ffa4,6b61a540-14b2-4563-a68e-46122fe66488
+1f02390b-a550-48f3-a18e-d64992b53e5a,nail_trim,2016-12-28 00:00:00+07,Avoid water near ears,5ae08177-06b5-4f81-aaf6-4cf934ce6094,60809305-1e07-42bd-9013-30093d6c919c
+28be4c83-afb2-4e08-89c6-624d339bf4cb,grooming,2003-01-18 00:00:00+07,Check for parasites before grooming,eb3da78a-f064-4869-b567-9b40dcdd2b14,e0116204-1c52-4e68-ae53-0b079a01da2e
+828f21f1-dbb9-48f3-8a0b-970f6c405e53,grooming,2019-04-13 00:00:00+07,Use calming spray before grooming,61200e27-d365-4fa0-9ad4-6eb485585f0f,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+7d74a278-182e-46fe-81d8-065154eede69,bathing,2003-07-28 00:00:00+07,Check for ticks or fleas during grooming,e3672997-91b1-4afe-b91f-376e964551d1,aef3b0db-6d52-4f5a-ba55-54f053a5f9df
+257d5cd8-74ce-4337-9d13-52341e631042,bathing,2022-04-05 00:00:00+07,Follow up after 2 days to ensure comfort,21f4819d-574f-4876-ba63-243fa86d1b1c,4f21b0a5-d33b-4de6-9ced-d8866f7c8539
+91058f81-674a-4f80-a91d-741bd53616ce,bathing,2002-09-28 00:00:00+07,Special care for coat,cff5f08e-8c59-4620-9253-648c48b3f0c3,4e932fe1-3e71-4831-8ad6-2712b88204a4
+31969f0b-8db8-48f3-a06b-d5ede481a757,dental_cleaning,2012-08-05 00:00:00+07,Sensitive to loud noises,c2d0ad91-fd6b-4dbf-99e3-6929b76c60ac,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+5d68437a-caa2-4498-ac6d-80216321f19f,nail_trim,2013-12-18 00:00:00+07,Nail trimming should be done carefully to avoid injury,4137d753-246a-4bcc-b4d7-4adf7b9fe4e0,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+d869845d-9df9-4e9b-b35e-35aabb58e233,dental_cleaning,2014-08-18 00:00:00+07,Check for ticks or fleas during grooming,c19684bb-1b68-467a-99f2-b979207e0917,4bdd6d6a-c33f-428a-9daf-982ba21473ff
+cb53e923-1452-43e6-abe5-6c6f324d21f6,grooming,2001-04-29 00:00:00+07,Use soft brush for sensitive skin,e1837943-af7e-4583-a917-258c4a5734e6,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+7ea88813-5156-4f2d-9b5d-fd94dcded606,haircut,2001-08-11 00:00:00+07,Use calming spray before grooming,12387f5a-6d27-4d41-9cc9-4e4eedf92525,dab552dd-9544-48ef-9438-a9def7ca4f13
+9f986d3b-653f-4621-b499-959564a23e11,nail_trim,2006-12-17 00:00:00+07,Use only natural products,2bc6488d-c085-4162-9001-fb8f2af42ee6,2dd1b5c7-db3a-4a91-82e3-af96d3ef3da3
+b72833ce-b37b-4048-bee7-8fc99ccb367e,haircut,2018-01-25 00:00:00+07,Check for any skin irritations,6c1cc0b1-df56-4104-86e6-bd992115b0c1,5cb4db40-4a0b-4504-878a-1813c2d56473
+06265554-a58d-4196-b998-663d43c0cbed,nail_trim,2020-12-23 00:00:00+07,Check for any skin irritations,5ff3524c-6c80-4bc6-aae5-1ca5ba91e8c7,c4b787c3-cfab-490f-b8b5-81e862eecf83
+3e2193fd-e857-4f98-863d-144ec35ec589,nail_trim,2016-05-02 00:00:00+07,Grooming needs to be done regularly for healthy coat,4c151b1b-524b-4dc8-b463-937c320a9bf1,762e8ac4-f21a-4cbf-a141-0f107166bb8a
+689c743c-3bbf-41ab-8965-48109a3bb756,nail_trim,2022-02-10 00:00:00+07,Nail trimming should be done carefully to avoid injury,b01bc21e-dacb-41d6-b36c-7ad15cc55ccb,d4ef2080-b6c0-4f1a-971a-6eeb074bb4d9
+b6aaf4f8-0300-42a6-b53b-d2265602ba90,nail_trim,2011-03-06 00:00:00+07,Prefer hypoallergenic products,8777936c-4df4-4ae7-94f6-b20445fe500b,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+ea1070b9-12ec-42e3-80b6-9ac7440a0531,grooming,2013-11-17 00:00:00+07,Requires special treatment for matted fur,bfeb2221-9c64-4565-8d41-e875ff2f1fa4,efae3282-968d-4f23-980d-677010c1fb51
+7b066389-a150-4277-bd50-7df25e3d62dc,grooming,2022-04-11 00:00:00+07,Use pet-safe grooming products,09e1d207-b425-4afd-a554-719abc98cc7a,d2ad82d1-f686-481c-9a29-765ad1fd2a1b
+e9150f16-de66-4e1e-94f9-36f497cc2213,dental_cleaning,2022-01-11 00:00:00+07,Follow up after 2 days to ensure comfort,fc63b5e5-7685-4163-a115-bebf51564ce1,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+ce758ac0-3156-42a3-9b29-9d28dd9baa48,dental_cleaning,2008-07-08 00:00:00+07,Brush thoroughly before service,51bb1368-c9e3-4cf7-bd83-831a270dec2b,f8d173cf-1ae4-4886-90ee-d3019db2162e
+11e1c988-db9b-4243-b26b-111976ee2fdd,grooming,2015-10-19 00:00:00+07,Requires special treatment for matted fur,92ace293-975a-47aa-87b1-4ea0ff3a2c76,ab5db6a6-a808-4948-9d58-9768db0fc32f
+2818ac91-e945-4115-8494-ee02ab24b339,dental_cleaning,2021-10-14 00:00:00+07,Needs a gentle grooming,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+a93f2994-09d0-4873-9ef8-6a49a5ca3372,haircut,2002-10-04 00:00:00+07,Needs a gentle grooming,f516bd7a-1650-4733-9ef7-bd51ecda02e9,150468d5-9310-434f-9853-ac9c9a13c384
+f296c9ba-e939-4c2f-8c93-80e14f278b87,nail_trim,2002-06-19 00:00:00+07,Avoid using strong shampoos,7530e934-d46c-469b-b6b6-4775637fe0f3,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+dc201760-246f-457e-a7e5-f1f53c4aadc8,grooming,2024-07-25 00:00:00+07,Special care for elderly pet,2dd069a0-1b53-42f0-afba-3502ee82d49c,4f21b0a5-d33b-4de6-9ced-d8866f7c8539
+f9d18d84-7183-4002-8b87-c7e5e1095726,nail_trim,2005-10-13 00:00:00+07,Use only natural products,8b7a3a37-169d-4126-b74b-9ddc17741041,508d26b7-1d68-43c2-b124-6bf3ca0a9f98
+be0c8a9e-8008-4bd6-a2d7-5d4cdef4db70,dental_cleaning,2023-04-13 00:00:00+07,Check for parasites before grooming,234f4d30-e4bd-4ff8-ad23-420ef6aa8dd4,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+91682ed5-d432-436d-83f8-cab8afbd9555,bathing,2004-01-01 00:00:00+07,Special care for elderly pet,4937d174-e699-4ee0-b1ce-777bf1863282,a09b0c77-bb1c-4cbf-9c2f-a456fe2ae06e
+0ca06851-2581-4a34-8b25-d9922a2e2779,bathing,2025-03-17 00:00:00+07,Use only natural products,51bb1368-c9e3-4cf7-bd83-831a270dec2b,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+8142626d-b292-43b5-a54d-d60a65b2e208,nail_trim,2000-07-05 00:00:00+07,Do not bathe if skin is irritated,c1ff8221-ce72-49cd-9113-ae96371f94ab,e3600f3a-6cbc-42af-b097-62cdcc6b5021
+901dd4b3-220f-47cd-b901-3ac96b031a4d,dental_cleaning,2019-01-30 00:00:00+07,Use only natural products,6a3a5d31-1218-4cad-9fd1-0bfea15d14d3,534d5877-bacf-4e22-a22a-898589831cc1
+8cbc26bc-32a7-43ab-bdfe-c682518cf405,haircut,2004-06-13 00:00:00+07,Use moisturizing conditioner,822ff7dc-39ac-451d-873e-6ab8d195a904,2d93dcee-7b81-4aa2-94f0-c1ca4772c4f8
+9de5d442-5a5e-4555-9c1e-e8821b20e608,dental_cleaning,2003-10-05 00:00:00+07,Sensitive to certain fragrances,e58a15cb-1763-4c73-bdf5-eee463d49b39,efae3282-968d-4f23-980d-677010c1fb51
+65ecd98c-07ad-4150-b2c4-3a1e14aaecdc,bathing,2004-02-03 00:00:00+07,Grooming may take longer due to pet's temperament,99689026-9a61-4526-8a60-24766e2bc02d,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+177830e7-b405-49a4-9a07-1875ad09c12b,nail_trim,2020-03-14 00:00:00+07,Sensitive to loud noises,ec904843-154d-4a26-87ab-1612a2f1bf23,81caaf0a-2f77-43df-bee1-25f5d1547615
+28dc3abd-4a2a-4a68-9d7c-3fc25770c552,nail_trim,2016-08-06 00:00:00+07,Brush thoroughly before service,166d21c9-aacd-4aa0-863c-b502530abf4d,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+1d8c2dda-8bc1-41af-ad11-089f9b946485,bathing,2006-08-05 00:00:00+07,Use only natural products,25f01b18-7067-4a73-a15f-20140606bb6f,8499c576-c90e-428f-a69c-8992a8eb31b1
+744ce7fc-0744-4e86-aa63-f068922cfead,dental_cleaning,2003-11-06 00:00:00+07,Maintain gentle temperature for bath,3917bbba-6f7c-4c12-93b2-bef08bf6ee49,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+7cfabfa3-99cc-48aa-8fbe-0091adf44b47,nail_trim,2002-02-14 00:00:00+07,Requires special treatment for matted fur,2a92dc9f-8a97-4fb7-9e7b-62354384cc7c,81caaf0a-2f77-43df-bee1-25f5d1547615
+d085c004-335d-49e4-bd0d-939955563ada,bathing,2007-03-21 00:00:00+07,Requires special treatment for matted fur,9ee154a7-2d22-4570-8c38-6839eaa86565,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+f9e3a098-7af1-4720-8666-be939ffe6ac4,grooming,2001-03-20 00:00:00+07,Follow up after 2 days to ensure comfort,4e644076-1568-408e-bef9-4239fa92ee76,acafc289-d4eb-4e89-a6fa-907b89ba74fd
+334efd95-9575-4554-8f76-57415604196a,grooming,2008-12-29 00:00:00+07,Do not trim nails,d01d5b31-7f79-4821-9509-6e9b1788029a,120c31f0-f20e-4e69-a4ad-024f7cbc7518
+ee0a3254-2112-4851-87a5-bff602302bfa,haircut,2006-02-15 00:00:00+07,Special care for elderly pet,2a76ce0a-8787-4d08-a099-4ec07973eb2e,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+f6e53ea3-189c-4714-8d35-9f3cf9070df5,dental_cleaning,2007-12-14 00:00:00+07,Check for parasites before grooming,9208f49c-f730-4c75-aee4-bca3dc66a95d,584795f4-f313-47e2-b4b1-44ce3ed36153
+a8ae6578-ddaf-473e-bb1c-cf0fd1f08709,bathing,2004-09-15 00:00:00+07,Do not trim nails,3ce9e1fa-ff89-41bf-aebc-deb5726ed997,6ac97a4a-3cb7-426f-9f16-ea700a4749d7
+6533c8a7-ab33-44fb-ae16-6f47e3a528e6,nail_trim,2016-03-14 00:00:00+07,Use soft brush for sensitive skin,4c151b1b-524b-4dc8-b463-937c320a9bf1,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+b7d231e6-1d9d-4328-90e9-aa0026a5b095,haircut,2003-10-17 00:00:00+07,Grooming may take longer due to pet's temperament,2cee435f-86b6-46da-be8a-c36259d08424,5cb4db40-4a0b-4504-878a-1813c2d56473
+206b19fd-b37e-4df9-9332-abc1f9109b0a,grooming,2014-10-04 00:00:00+07,Nail trimming should be done carefully to avoid injury,826a4730-b3e8-4857-a7dd-2c813c32a0cc,1a21fac8-684b-4f13-b265-3c2234080641
+4ffc31c3-e8fc-4b13-9217-24e377426cca,dental_cleaning,2008-09-29 00:00:00+07,Maintain gentle temperature for bath,a447c278-6a5f-4353-a9fe-7e96a4bba80d,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+8d90384e-8ce7-436c-b743-acf850da3723,nail_trim,2010-12-24 00:00:00+07,Grooming may take longer due to pet's temperament,2bc6488d-c085-4162-9001-fb8f2af42ee6,f8d173cf-1ae4-4886-90ee-d3019db2162e
+120c0102-c327-4718-9d02-a9f8f0497fc3,nail_trim,2023-10-17 00:00:00+07,Follow up after 2 days to ensure comfort,9666090f-8967-4134-b03a-7296f01b8a34,c4b787c3-cfab-490f-b8b5-81e862eecf83
+b6197b0e-7c8d-4bf7-963d-536e8b923673,haircut,2014-04-17 00:00:00+07,Special care for coat,79d6ca70-eaa8-42cc-9324-8ede7331f90d,f8d173cf-1ae4-4886-90ee-d3019db2162e
+18fbbbce-9c78-4470-8632-6931811fee35,haircut,2015-01-04 00:00:00+07,Requires special treatment for matted fur,a447c278-6a5f-4353-a9fe-7e96a4bba80d,903c2b5f-e3ea-499b-bb3b-0b0119fe8b0d
+58f97137-0d36-419f-9e72-0959eb9ffe99,grooming,2013-02-15 00:00:00+07,Light trimming only,c884c326-a1b6-4b2a-a383-798441b48d79,961b9265-d2ee-4aaf-a872-af1b990318ed
+882ee194-f083-45cb-8526-3de407549303,bathing,2004-08-17 00:00:00+07,Maintain gentle temperature for bath,48057bf2-b1e2-4ab8-be05-c815a01dfdec,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+1424840b-8800-4c25-9eac-4d9a4116393e,haircut,2003-08-07 00:00:00+07,Follow up after 2 days to ensure comfort,0fff6024-e34d-4a66-8e20-b35ee6bf6dae,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+5c940f0e-5e38-4a5f-a2cc-d329ed7f76e6,bathing,2003-07-31 00:00:00+07,Maintain gentle temperature for bath,1570fb23-fc76-420f-bf9d-2b9ff9c9a21d,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+b44b2e4e-fa45-48b5-afa9-0828d4dd32f9,nail_trim,2004-09-15 00:00:00+07,Use moisturizing conditioner,4f1ca377-9235-42f6-816c-584b8a6f3e00,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+a2942937-a531-4aeb-9216-6f1f70fbaae1,dental_cleaning,2020-10-25 00:00:00+07,Check for parasites before grooming,f2f4dc34-73ce-4ea2-97b1-20793cba965a,6b61a540-14b2-4563-a68e-46122fe66488
+714b4f41-5829-4404-94c9-d25b94c9bdd9,grooming,2001-11-06 00:00:00+07,Maintain gentle temperature for bath,9759651f-644a-46e3-9bea-d8b23f664599,0a8c3faa-c02a-4045-a3bc-ab29aa3e3d6a
+dc783e5c-234f-4647-a392-0151675629b9,haircut,2004-07-02 00:00:00+07,Requires special treatment for matted fur,04c841f5-b24b-46c3-91f2-3738617903ad,0e87a3e7-2191-4089-92f8-3002cf1acd57
+dabf2ce8-3ea4-4fa8-bdf1-f0d68fbfee43,nail_trim,2002-07-19 00:00:00+07,Sensitive to certain fragrances,ba9642d2-edec-482e-8bd4-f25edeb6f0b9,5cb4db40-4a0b-4504-878a-1813c2d56473
+5bd43b13-d4c5-45d0-b906-23e65c9be3ab,nail_trim,2002-12-28 00:00:00+07,Requires special treatment for matted fur,2fbf9828-be69-4fc7-99f8-5729e11284bb,13045b39-8260-4d94-af01-87616eb0ab79
+5764a5fc-451a-4f4c-a7b6-b42a153e122e,dental_cleaning,2000-05-10 00:00:00+07,Special care for coat,83f2e9dc-6e6e-4d60-9aae-56f197c5eebd,2b3f83d3-249b-4c26-816e-2bf68a066252
+bd637c49-1d08-4cae-8be6-c67eb1c58efd,grooming,2016-10-10 00:00:00+07,Grooming needs to be done regularly for healthy coat,df56c542-b8cd-4cad-8353-fb9d9e77e5f9,6619e9c2-cd0c-4d63-abb5-300cff1107ba
+a8365e63-e672-428e-ba8a-7e46bd99b820,grooming,2008-07-16 00:00:00+07,Nail trimming should be done carefully to avoid injury,ea12037f-f1a1-42f0-b06e-a84fc44e0d9b,5cb4db40-4a0b-4504-878a-1813c2d56473
+873e864e-5ad1-4b8c-8b22-699da7265f11,dental_cleaning,2010-07-09 00:00:00+07,Do not bathe if skin is irritated,17d207a4-f86a-452a-bd4f-8306830038e6,1a21fac8-684b-4f13-b265-3c2234080641
+bea048ca-03a8-4a91-80ae-5819a1d4d6e5,nail_trim,2017-01-30 00:00:00+07,Use only natural products,b04e9254-2716-4bfe-8d75-597e242398e0,0a072ed0-8644-4e9b-9642-eac56eb9be23
+3dd7a4a5-de1e-4440-82e2-2638c735829d,nail_trim,2021-09-21 00:00:00+07,Maintain gentle temperature for bath,50b05382-74d3-4961-a39e-dcd01337cf74,69df9a5e-187b-464b-b5f0-84e4bf10dfdb
+50130657-455a-4aff-98bb-c95b0fa5a0d7,dental_cleaning,2018-12-11 00:00:00+07,Maintain gentle temperature for bath,ca1ab56f-afe6-4f92-bdd0-b9a6a13623d3,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+90166b10-e7e5-41c9-bb35-64d5d6b4ece9,haircut,2020-11-12 00:00:00+07,Follow up after 2 days to ensure comfort,1209a5c9-cfaf-4b90-aa86-b83b37de1fb6,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+e65e7f0a-3313-489a-b802-0f1cb0814348,dental_cleaning,2003-03-15 00:00:00+07,Prefer hypoallergenic products,2630324a-3051-4a98-8b97-91ae8fb94342,584795f4-f313-47e2-b4b1-44ce3ed36153
+6318b353-3ad7-4a25-a6c9-05b3f05f80ae,dental_cleaning,2011-09-08 00:00:00+07,Sensitive to certain fragrances,7b89ba28-fad0-40e6-a3f4-ddfa85d25243,077a90f8-ebb6-492c-9c71-0930e8856a36
+8c6066f8-0ba3-495e-b443-5f0636cb5909,dental_cleaning,2014-10-19 00:00:00+07,Grooming needs to be done regularly for healthy coat,fc1918e4-2cb4-4297-ac17-4c7378f9d459,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+ba84073e-3150-4fc3-86f6-e302a3797abc,haircut,2011-02-10 00:00:00+07,Avoid using strong shampoos,8c3e4560-dda6-4ee8-89ce-cf907260682b,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+4287482b-389d-4a9c-9c30-14c467aae50a,dental_cleaning,2021-03-30 00:00:00+07,Nail trimming should be done carefully to avoid injury,ee68e791-3df9-4b14-9bc4-ce180b8109a0,33c4428c-6710-43f6-b9d5-05745b2e97e0
+7128f506-7c5e-4a4e-b3c9-327f6e11504d,nail_trim,2003-09-29 00:00:00+07,Use calming spray before grooming,e4ebe071-6b1b-439b-9b61-7f6f6ec4addb,8499c576-c90e-428f-a69c-8992a8eb31b1
+cec37e85-3b55-4ad5-a393-ff8db61962b2,nail_trim,2000-10-22 00:00:00+07,Check for ticks or fleas during grooming,b6da4323-c71a-4aeb-80a5-7f3fb4cd0c89,97411cb2-9dc1-4db1-9523-c24003fd502c
+6e2f495d-8290-4ef1-9cc7-ef5324490846,haircut,2018-05-28 00:00:00+07,Special care for coat,0ff70ff6-4c2d-4e13-87a0-e6631672a6b1,5e7a318c-92b3-4796-8436-311a8fd9a466
+877b1723-c609-4be7-991c-06d9bda79e70,dental_cleaning,2015-10-24 00:00:00+07,Use pet-safe grooming products,3becd0b9-8ce5-4991-a3c0-dd6f96f17ec5,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+00892136-6e58-4164-b202-4e25b5d8cb8d,haircut,2002-07-05 00:00:00+07,Use moisturizing conditioner,776abc1e-9882-4b5a-bc3b-77d978e9b76e,d4ef2080-b6c0-4f1a-971a-6eeb074bb4d9
+e84b03c6-7c24-4205-9370-6727900eb4de,grooming,2011-12-12 00:00:00+07,Brush thoroughly before service,59281984-ea6b-423a-a868-a7a602d8738d,13045b39-8260-4d94-af01-87616eb0ab79
+7e31367a-7ffd-4111-b495-8bd755072bd9,grooming,2024-03-15 00:00:00+07,Follow up after 2 days to ensure comfort,2c6b520f-d553-487d-aef8-e5b6aee0361a,cf36da84-c96d-4d6c-a257-c4d6b69dee9d
+e631ab8a-c4ec-4981-86ae-51db34a6500e,grooming,2016-01-04 00:00:00+07,Sensitive to loud noises,7b392dab-96b8-46b6-aa45-2af5c25bb57e,e5532741-5577-422e-9105-28d7929467f5
+1061f1d0-8a83-4423-85bc-85c0198f5749,dental_cleaning,2004-10-23 00:00:00+07,Maintain gentle temperature for bath,4b701d02-05e1-4556-85b1-ce6f41444753,cad85ce6-23de-4cc4-9e49-fac639778dac
+252b04e0-7844-4938-bfc6-35608e708e20,haircut,2015-08-24 00:00:00+07,Special care for coat,87b74b98-063a-4a61-9c88-1a67b03d9212,29549e64-1715-47a3-af68-a0b722e65edc
+5cae28f3-d592-4f27-a285-4d02c5fdcc46,bathing,2000-05-27 00:00:00+07,Avoid using strong shampoos,9bd1c5f2-101c-433c-8aad-ca72f666342b,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+fb159757-09e4-4129-92ac-16375c7cd339,nail_trim,2016-07-19 00:00:00+07,Special care for elderly pet,7ef7924c-dcc7-44ce-8552-9d2488236c9f,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+3ea9b203-42e2-45a1-b251-d35fc5b4a719,dental_cleaning,2018-05-14 00:00:00+07,Check for parasites before grooming,29802eba-4f5d-46f5-a5bb-340c050c9509,c9b97c0b-98a4-4829-9116-c9371268bce6
+a1862138-feb2-49a4-9adb-d9225769c6da,grooming,2012-10-06 00:00:00+07,Use moisturizing conditioner,802e1fdb-da6b-4638-b0ce-c09c9dd34c1f,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+b06fb606-2ee0-4c45-bbaf-7b3034616686,haircut,2016-05-25 00:00:00+07,Prefer hypoallergenic products,c2d0ad91-fd6b-4dbf-99e3-6929b76c60ac,01243cca-3841-4158-b375-4cf95720f081
+a3f020fc-1a98-443c-975e-ce9ad488399c,nail_trim,2005-05-28 00:00:00+07,Sensitive to certain fragrances,c0696452-0f58-4a3d-81d4-8f8217e2e326,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+3313ff82-08dc-460e-adf5-8e2ba412aa75,bathing,2001-08-20 00:00:00+07,Avoid using strong shampoos,1b99fe3c-2542-46bc-be55-248bc61ab4fb,e3600f3a-6cbc-42af-b097-62cdcc6b5021
+a049c06c-4925-4cb2-8727-8a3f9fef1caa,bathing,2004-12-30 00:00:00+07,Check for any skin irritations,8da930e2-f1c4-4eba-bc3d-87da6daf5661,72deb1e3-6649-4abe-9f87-2ba435e88b12
+15494479-eca7-452e-b11a-c0c966a4f186,grooming,2004-07-25 00:00:00+07,Do not bathe if skin is irritated,1d9df0aa-de70-4fe1-b8e5-0c781e0f77cc,1a40a0d2-cec2-4514-901d-97f352b3c471
+b273ee7a-e651-4d8f-8aff-02444755d3b6,nail_trim,2011-01-28 00:00:00+07,Sensitive to certain fragrances,7108f2f2-88b3-4330-beb0-c2da5aea9e56,150468d5-9310-434f-9853-ac9c9a13c384
+21f174ae-01c4-4f30-a51b-12a88cf5ded8,dental_cleaning,2023-06-02 00:00:00+07,Avoid using strong shampoos,6e187917-9f02-4b25-ac96-9cf88f6da229,d4ef2080-b6c0-4f1a-971a-6eeb074bb4d9
+024af4d7-c232-4f31-9e94-d1745fb1b9ac,dental_cleaning,2009-11-29 00:00:00+07,Follow up after 2 days to ensure comfort,2db0408b-74ec-42d2-a56a-fb481596deca,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+5c3e5f2a-36f4-4b46-b2f2-86ea96f31cbb,bathing,2004-09-16 00:00:00+07,Grooming needs to be done regularly for healthy coat,c19684bb-1b68-467a-99f2-b979207e0917,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+53e3963d-f079-4bb2-a11c-b7a7e9e1444d,nail_trim,2022-02-02 00:00:00+07,Grooming needs to be done regularly for healthy coat,ffadda56-6cab-4558-92a9-fc0e23ea20b8,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+77331957-f736-4aa7-818f-12fedc43fb27,haircut,2012-05-05 00:00:00+07,Nail trimming should be done carefully to avoid injury,e4ff1db5-0ec2-4f58-9878-36d06738cd0b,8e4d5275-6031-481e-b56b-496700291e5a
+2e774b5d-d80c-446e-8369-5bfa4ee4b214,haircut,2014-04-28 00:00:00+07,Check for parasites before grooming,9cdd4d2c-3cf5-4cc8-9a49-2a490cb79817,eb6f2b61-b3f7-427e-bb7e-a932ad0355ac
+ca0a90e5-163a-4a3d-b2db-981c9ab3d509,dental_cleaning,2022-08-02 00:00:00+07,Maintain gentle temperature for bath,d68e5572-4d2c-484e-ab85-e87126248d5d,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+5a3bc06e-b23b-4c8c-a447-f49f9aac8c40,bathing,2011-04-14 00:00:00+07,Do not bathe if skin is irritated,d9d056c7-0323-4873-b549-472677cf43dc,17baa183-d4c9-4ff8-9720-4242540e2095
+708e8066-8dfa-4d9e-8100-a2417f6b2567,grooming,2022-04-11 00:00:00+07,Special care for elderly pet,adc68f5f-f61a-4ce2-b4cd-81d756be1207,dab552dd-9544-48ef-9438-a9def7ca4f13
+4ae51745-ca0d-41c8-8397-c6876a725094,bathing,2002-11-25 00:00:00+07,Do not trim nails,a2a36d98-966f-462c-accc-6a145db4decc,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+d79b4b72-ed56-4e66-b645-55ebade41438,nail_trim,2017-01-18 00:00:00+07,Use only natural products,ecb32ee0-b2b8-4137-a2f3-f2706b0cdaf7,b415e80c-91a8-44d8-bc4f-7acf2515bf59
+37989523-326c-4a71-ad6b-cd9940210174,nail_trim,2024-05-01 00:00:00+07,Special care for coat,4fb4dd1a-92d7-4d4c-90ab-656b73b32b38,b1b11210-6b4f-4632-ab7c-f37db90d09f8
+930c8685-fde8-4202-b8b3-dc5a1274e07a,dental_cleaning,2003-08-28 00:00:00+07,Sensitive to loud noises,130b5e46-871c-48f5-bde2-b08cef09f7a7,988a967b-7d8d-42f9-81ec-a5fdbfae1f01
+bcb5a826-ba1d-41d0-b26a-8094343981b1,dental_cleaning,2016-04-25 00:00:00+07,Prefer hypoallergenic products,8662b0d4-9a08-403e-83a2-34afe3340912,1a21fac8-684b-4f13-b265-3c2234080641
+ca66871a-0a14-4112-9749-f18e57fe37ce,haircut,2011-10-26 00:00:00+07,Check for ticks or fleas during grooming,edb4a7a6-ae5d-4415-a415-6a431155968f,43846b2c-e792-4f9c-8cb2-3534fc607fc3
+8f66af61-4968-46c9-95ad-9ad38257c154,grooming,2025-03-21 00:00:00+07,Use soft brush for sensitive skin,068d19f6-6285-4bf4-a129-c310f4493dab,584cfd66-d099-4592-9bb6-d7aa9abe6680
+d694e41f-2386-4b47-850c-cd32cd997cf2,grooming,2024-03-05 00:00:00+07,Grooming needs to be done regularly for healthy coat,1e7aec40-f6dc-4358-8471-57b7c97aab0a,a9c5e2ec-1b94-40ad-8462-960f685889f1
+dfe8783c-fd80-47a2-a5c6-39f2ee3f06b6,haircut,2016-05-09 00:00:00+07,Needs a gentle grooming,78b93210-e6c9-48f3-8e3d-9570eff0de36,97411cb2-9dc1-4db1-9523-c24003fd502c
+7a0c5415-f41d-4d69-a9b7-6a2b47c090eb,bathing,2009-02-03 00:00:00+07,Use pet-safe grooming products,705e1024-da37-4d7e-b993-f09f26ff2561,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+6d870a25-5f0e-45f3-b28d-640a04ec78af,grooming,2006-01-10 00:00:00+07,Avoid using strong shampoos,28646e6d-1e78-43b2-8484-4f52c1973426,80fcff5f-14af-4221-9273-3279125ac847
+0a07d3dd-0dd9-43fa-9460-4a1e0725dcb9,nail_trim,2015-08-05 00:00:00+07,Needs a gentle grooming,30ef067c-9196-402c-877d-9d1db71b72e8,1a8f0baa-4439-4a42-9fe4-f655b0c68c8b
+7ed8b7cc-8e03-45e7-ab4b-2de738081b19,haircut,2012-11-05 00:00:00+07,Grooming may take longer due to pet's temperament,4fd24f65-2c91-4e41-b202-dd26e84804cf,8cda449c-acc1-47a6-9fa0-661db32b0ee8
+b5353ab2-c0f2-4f76-abd9-9c102b831419,bathing,2011-11-14 00:00:00+07,Check for ticks or fleas during grooming,993b04c4-4714-423b-a146-41246db840c3,97db9295-e740-4097-a2a8-562d830d0291
+4a6ac37e-8521-48bb-862c-17232cb82769,nail_trim,2005-06-21 00:00:00+07,Brush thoroughly before service,cc475ac1-20c4-47f7-9fc8-98a636c8d711,fc6d272a-e514-4b83-91ce-fd9154554f00
+aaaf9f25-d8c7-4b3a-98ef-c6ce02cc5473,grooming,2018-10-23 00:00:00+07,Requires special treatment for matted fur,8d3bfb0e-47c8-4dfa-93eb-be5f3393a619,02a4f188-45da-477d-952c-3a401d8a7a52
+673d149d-bca3-4df0-bc77-5cc06494d9ec,haircut,2003-07-31 00:00:00+07,Special care for coat,15321462-387b-490a-b456-54a1c1594de7,5c5025c2-8b1c-43c7-ab57-1b686817c021
+a3240dc6-edee-4b3a-a7b6-dd110fb0cb1b,grooming,2003-08-12 00:00:00+07,Check for parasites before grooming,c19684bb-1b68-467a-99f2-b979207e0917,5c5025c2-8b1c-43c7-ab57-1b686817c021
+7f45d75c-1675-4987-bd84-2c5cff156ff8,dental_cleaning,2002-02-26 00:00:00+07,Grooming may take longer due to pet's temperament,a426775f-c22a-4d0c-8955-8c06f84eff4a,6b61a540-14b2-4563-a68e-46122fe66488
+f7f73e21-b848-461f-bcc7-5922b07a4c80,haircut,2011-11-09 00:00:00+07,Use pet-safe grooming products,4c415e95-dd98-42b8-ad87-3e49ecd4f778,f631237c-8a08-4b8a-a368-8a4233404dd6
+91f78e07-9bd6-41cc-9f68-bde5fb8823b7,bathing,2007-03-15 00:00:00+07,Special care for coat,ec0e9980-927e-4a34-a346-edae5493fa15,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+920989db-636e-4f12-9041-92f188c31ef8,haircut,2023-06-10 00:00:00+07,Grooming needs to be done regularly for healthy coat,7530e934-d46c-469b-b6b6-4775637fe0f3,6143512c-f7d1-41bd-bacf-fd4cd790b297
+32a80c5a-e0a3-4b6b-a1fc-cfc6dccf2733,haircut,2004-07-30 00:00:00+07,Maintain gentle temperature for bath,844b3a6e-971c-4fad-9f2b-cb5d93853247,43c4431c-e919-4d11-82e8-74e354761952
+ebcac18d-fb58-48c5-bd37-af518c2e0b19,bathing,2021-09-08 00:00:00+07,Needs a gentle grooming,d573e202-1bd0-4004-ae75-e8145064aa6e,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+841474f7-6a60-4fab-b54d-9be48ff9b143,dental_cleaning,2014-03-29 00:00:00+07,Light trimming only,02f13063-8cef-412e-b562-30084a731528,9f072d7e-2ae1-4992-a02b-3eb96c2c338e
+3e736629-c2c7-413c-974c-ced6308c0811,nail_trim,2019-05-31 00:00:00+07,Prefer hypoallergenic products,cda1676e-aa8d-4c8e-bd30-d3e69804dbc3,f21964c5-db3e-4b57-81fe-b6b0bcba8f80
+c2b1c0e8-e53c-45e1-be8a-d4a8e5b50e64,dental_cleaning,2014-12-22 00:00:00+07,Grooming needs to be done regularly for healthy coat,7906d196-8ef1-49cc-8839-4c7b8eb7ef93,053713f3-b33f-48a3-abf5-8c2dfab04c85
+e68f4816-d9b3-4252-9d97-4063681a525a,nail_trim,2016-10-26 00:00:00+07,Use moisturizing conditioner,244d0e3a-0635-4767-ae48-446dc0e5a96c,19d9742c-f9ff-446f-958a-0fbe788bd943
+decd1815-6afc-4288-9f04-91c99bf64e3b,bathing,2003-02-06 00:00:00+07,Avoid using strong shampoos,7ff28d7e-cde4-49a0-83a7-0caefc60d694,fb6b964e-04c4-4866-b44e-d5dcd4aee43b
+fd66546b-6fe8-4994-8ce0-add99cee3a21,haircut,2016-11-14 00:00:00+07,Use moisturizing conditioner,ae128c7c-66a9-49cf-afd2-83cc3d64db44,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+7cc1760c-744c-4568-b36d-d18dbeab9938,nail_trim,2005-09-04 00:00:00+07,Prefer hypoallergenic products,292d090c-4513-43fa-a1f2-e5d2fb5cb344,0741df1d-e8e1-4360-86b4-368827bcf00c
+7a8e9ed9-3656-4da8-a39a-14c838e65ba5,grooming,2014-11-22 00:00:00+07,Prefer hypoallergenic products,09e1d207-b425-4afd-a554-719abc98cc7a,a9154f06-e973-4529-bcf3-fc7733cc28f7
+f13419b6-a590-4153-a439-e49456bf8cca,bathing,2010-03-20 00:00:00+07,Nail trimming should be done carefully to avoid injury,ae8758aa-bead-4549-a230-d597b2e7cba2,5869bfbc-a256-45e2-96a2-e375bbafbfd9
+82adb17a-b019-4159-816e-f72ea57f5905,dental_cleaning,2021-11-01 00:00:00+07,Check for parasites before grooming,f039db84-1055-415d-a317-a29fd4152989,6143512c-f7d1-41bd-bacf-fd4cd790b297
+01ea33e2-ea66-456e-becb-de156315c16a,bathing,2008-07-22 00:00:00+07,Use pet-safe grooming products,3cd6f461-0b1e-45dc-8710-610a08f9631d,4e932fe1-3e71-4831-8ad6-2712b88204a4
+015eaac1-efd3-4e4b-bc46-f107e81c81d7,nail_trim,2019-04-27 00:00:00+07,Nail trimming should be done carefully to avoid injury,2eb76cff-f204-4575-bcbf-8075dfda1264,e003d879-2744-42a9-91b5-132a097f5fb4
+a3345a17-3991-4fea-a081-b67ef9d4a0ae,grooming,2010-05-09 00:00:00+07,Check for ticks or fleas during grooming,48057bf2-b1e2-4ab8-be05-c815a01dfdec,6e133ba4-95f8-4352-92c2-a29b7f509c4a
+c19eed5a-7e5e-498d-b9e6-7f39a5872cfc,bathing,2005-09-08 00:00:00+07,Special care for elderly pet,a6f8fceb-2441-4650-a916-4fa71ac374f4,e0116204-1c52-4e68-ae53-0b079a01da2e
+8135839e-d091-4703-bf8c-a2bf337c9159,bathing,2005-04-02 00:00:00+07,Use pet-safe grooming products,01afda33-4224-4bb1-abf1-a4eead65f486,57b602e5-c2c9-4358-b15d-651412f69401
+545102ed-4151-41cd-9098-605eda57c330,nail_trim,2012-07-19 00:00:00+07,Do not trim nails,78cfbc3e-df02-427c-80e4-84326a83d084,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+4672a8d8-eafd-420b-932a-57c751f1c1f5,dental_cleaning,2005-03-16 00:00:00+07,Special care for coat,8ea2e63e-7f94-4a91-b6e8-59add5558d0f,cad85ce6-23de-4cc4-9e49-fac639778dac
+01e1b6a6-c2f8-45cb-8324-45e5767823a9,bathing,2013-05-23 00:00:00+07,Check for any skin irritations,78cfbc3e-df02-427c-80e4-84326a83d084,33c4428c-6710-43f6-b9d5-05745b2e97e0
+96e29c64-b91f-498d-9a28-0a2881a7b7f7,bathing,2010-03-17 00:00:00+07,Prefer hypoallergenic products,77fcdc60-b939-430b-a06e-f77282278c24,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+44d6e770-0bb6-477d-8e9c-32f9c282df7d,haircut,2001-10-12 00:00:00+07,Special care for elderly pet,2a76ce0a-8787-4d08-a099-4ec07973eb2e,4e932fe1-3e71-4831-8ad6-2712b88204a4
+5bee808e-e5f4-42dc-a12b-932eb9e5424f,nail_trim,2002-07-16 00:00:00+07,Use soft brush for sensitive skin,519643d4-81fa-48b0-affd-c69d0c597e31,77f8434e-5ce3-4408-b567-f8574252c188
+af18b40b-dfd4-4d75-9964-d3078a7e88f9,haircut,2006-05-02 00:00:00+07,Prefer hypoallergenic products,db5393fd-3226-41f0-9487-690c9ecf39ef,84ca2cb0-55ec-4c3b-b258-341578559ccb
+bdad3726-3cf6-4965-b5da-8f3b5ea333e3,bathing,2017-02-12 00:00:00+07,Nail trimming should be done carefully to avoid injury,c22a2045-d2dd-4c26-b879-33c0387e64f3,60809305-1e07-42bd-9013-30093d6c919c
+6c3e30ed-9d74-4b27-8acb-9cd74378a7f3,bathing,2021-08-10 00:00:00+07,Sensitive to loud noises,662c16ed-055c-4647-ad20-b9d33e46f973,5f0cf5be-a023-40cd-a4a6-f03ea0144a04
+be52f0aa-0788-4d42-9c4d-379e323a2ae7,dental_cleaning,2014-04-05 00:00:00+07,Check for any skin irritations,f2b480b4-2c14-4408-ad3d-4b482935ee02,4bdd6d6a-c33f-428a-9daf-982ba21473ff
+f06349da-163c-4a88-9a1a-187cc7563373,nail_trim,2008-11-05 00:00:00+07,Prefer hypoallergenic products,0c619f11-8b8b-4b3c-99d7-d1b4c5c9901a,bd10350f-2fb6-41fe-827d-d8342db442cd
+ed3aa69c-3d9a-48ff-ac5c-ac5a37c27195,nail_trim,2014-06-03 00:00:00+07,Do not bathe if skin is irritated,03b295af-a0ba-4501-a612-4b2d8a217511,71d9f58d-33f7-49f3-8a79-ac7b1bf10909
+c2c880a2-bab9-46f2-aa17-bd02439e83ff,grooming,2023-06-30 00:00:00+07,Do not bathe if skin is irritated,db5393fd-3226-41f0-9487-690c9ecf39ef,c9640fd1-3aec-4cfc-b534-85beaaba08cb
+53355285-53f8-4227-a70e-7fca13c776de,dental_cleaning,2022-12-07 00:00:00+07,Grooming needs to be done regularly for healthy coat,1a8ec2d9-3ea5-4de4-9bec-2258e28491ef,29549e64-1715-47a3-af68-a0b722e65edc
+65f53248-9da0-4ac5-bb04-e6dfa0d29b3d,bathing,2019-06-13 00:00:00+07,Grooming needs to be done regularly for healthy coat,59cc566a-e1b3-47a4-b07d-89c774966c76,33c4428c-6710-43f6-b9d5-05745b2e97e0
+f6e1fbf2-a3e3-4a1e-9925-86dda6451f78,nail_trim,2006-10-10 00:00:00+07,Avoid using strong shampoos,8662b0d4-9a08-403e-83a2-34afe3340912,92699c19-4f09-4cf1-9f70-f1fa69476481
+6ab72d93-dfe5-4643-9521-0eaba532e4a9,grooming,2016-07-08 00:00:00+07,Do not trim nails,e2055e4a-ae8b-4dbb-a509-b718abcce79b,6619e9c2-cd0c-4d63-abb5-300cff1107ba
+b422090f-f504-4ef5-b115-b466c56c506e,nail_trim,2020-03-27 00:00:00+07,Use only natural products,4fd47e02-f976-4c0b-ad3f-889d0d8422c5,1c08946a-c7af-40ef-a6ff-d7e31e52fd24
+599a5e97-38d2-4290-a088-5bb5aa7ca304,nail_trim,2005-12-29 00:00:00+07,Grooming needs to be done regularly for healthy coat,4b668ac7-19ce-497c-8ad8-90987e0823f6,8499c576-c90e-428f-a69c-8992a8eb31b1
+e0314bf7-02f0-4736-a7c1-fb665138f69f,nail_trim,2023-07-02 00:00:00+07,Use soft brush for sensitive skin,514c18e5-a6fd-4129-9186-0bf5dee7db72,a9c5e2ec-1b94-40ad-8462-960f685889f1
+e8b4fd50-d0f2-4e78-88fc-5236d2620500,bathing,2007-08-18 00:00:00+07,Light trimming only,603db6ae-0601-48e0-a3a4-969a1fe250f1,6b61a540-14b2-4563-a68e-46122fe66488
+5d19ef09-30fe-40ee-a154-596230363e3d,grooming,2022-10-18 00:00:00+07,Grooming may take longer due to pet's temperament,a6f8fceb-2441-4650-a916-4fa71ac374f4,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+40067345-80e9-46b1-9c55-96ad9a2050f1,dental_cleaning,2016-09-23 00:00:00+07,Use moisturizing conditioner,af202511-fa12-437d-bbca-203adf69817b,bb7d95ae-576a-4f6f-b81a-3e7fc9ae07ee
+6f1dd0c7-7332-4ea4-abca-819f8aba4b79,grooming,2022-06-09 00:00:00+07,Avoid using strong shampoos,b1b80f4c-2385-4316-be74-35f3efac0a4a,71d9f58d-33f7-49f3-8a79-ac7b1bf10909
+097c33ae-034f-41e2-b367-9ad40df9eb88,dental_cleaning,2016-12-19 00:00:00+07,Nail trimming should be done carefully to avoid injury,d573e202-1bd0-4004-ae75-e8145064aa6e,8a7bfd8d-5084-4b13-9d81-28eb21111aa7
+4e16e3f9-f2d6-4707-910f-9beb622e94cd,haircut,2008-04-20 00:00:00+07,Brush thoroughly before service,abcc5604-0a3c-40f9-a3c7-238c2ad3b784,5c642651-6e83-4014-9788-82665cb2620d
+3c7664c4-d848-4899-baa6-9d3a6c0cf9c6,nail_trim,2014-12-22 00:00:00+07,Use moisturizing conditioner,23a26a73-d271-4886-8d72-f3cf435196de,2d93dcee-7b81-4aa2-94f0-c1ca4772c4f8
+d405a1bd-e88a-43f2-bf87-b9693a3e83d2,grooming,2014-11-02 00:00:00+07,Maintain gentle temperature for bath,3cd6f461-0b1e-45dc-8710-610a08f9631d,d31e1b88-beeb-42eb-abdb-08c4316c61b6
+6b31529b-6705-49c5-ab71-3e1e70910328,bathing,2011-08-17 00:00:00+07,Prefer hypoallergenic products,6648775e-f18e-44f0-8d11-4bc4b823925b,6619e9c2-cd0c-4d63-abb5-300cff1107ba
+20862cb6-b6ae-4602-9941-8680e05f4410,grooming,2018-07-01 00:00:00+07,Do not bathe if skin is irritated,04f2eab9-66ac-4f19-8f51-b8028fde8a47,60809305-1e07-42bd-9013-30093d6c919c
+6792892a-5fe0-4405-93d8-b71c0308098a,bathing,2023-09-19 00:00:00+07,Prefer hypoallergenic products,c840a15f-d3ab-4cea-bfd5-05daac8ea95f,3d0bbbf0-73bf-4e5e-8e66-fd267720a19f
+9aeb27fd-27da-4cd6-9375-d88ca8c3b2c9,haircut,2005-12-12 00:00:00+07,Requires special treatment for matted fur,eb83ecf7-0eb0-4f98-9974-0af12e9517c8,33c4428c-6710-43f6-b9d5-05745b2e97e0
+d66525bb-6688-4f25-b501-0cc101bb67f1,dental_cleaning,2018-07-30 00:00:00+07,Do not trim nails,eaa81121-3ad8-4e8a-a9d1-6b776b93276c,84ca2cb0-55ec-4c3b-b258-341578559ccb
+77a3e196-6955-456e-8480-dabdef2660a2,nail_trim,2018-05-24 00:00:00+07,Nail trimming should be done carefully to avoid injury,883831ce-2496-4d9d-b367-f969002f56fd,4cd2e87d-c440-45dd-9d4f-f5a573ca7699
+4d7f5322-c609-41e5-a0a7-0b6ad71e4479,dental_cleaning,2024-08-11 00:00:00+07,Avoid using strong shampoos,1edf9c6b-032f-4a36-ba5a-8f6b3ab48fa0,84b08ece-2ce5-4a1d-b2b8-6a11ed82048f
+56a49065-99c5-4044-8458-23ca0be141bb,bathing,2015-02-28 00:00:00+07,Grooming needs to be done regularly for healthy coat,4f458f1e-ba8b-49a2-a502-08ba5defd30c,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+02221272-f966-42a9-8d8b-818c73432f72,grooming,2015-09-11 00:00:00+07,Sensitive to certain fragrances,f041642b-7718-46b9-9340-ccb138653c5c,d0ef698d-7228-4260-9fe7-1dcee2f78b72
+cc687b21-7f11-4fa8-a49e-80bbc7401449,dental_cleaning,2007-06-22 00:00:00+07,Maintain gentle temperature for bath,7a28c42e-ba22-4077-a96b-1d7875d77581,86df1b87-0747-4748-8bf7-17dd9c4c13fc
+797569f8-dc99-4f8b-98da-786840b2058d,bathing,2020-01-07 00:00:00+07,Check for ticks or fleas during grooming,10ecee5b-d158-40b7-af44-87539370238b,b01e6877-4437-4dbe-9ec7-8100d13cbee7
+4f9b48e9-46bc-4314-95ad-d1f50d3e919d,grooming,2002-01-20 00:00:00+07,Sensitive to certain fragrances,b5aed7d4-3528-4579-a54d-55a4de291e65,077a90f8-ebb6-492c-9c71-0930e8856a36
+d96fff8b-584f-4c93-a81b-c019b9ffa0d6,nail_trim,2021-08-31 00:00:00+07,Use moisturizing conditioner,3c3afb7b-016d-4f1a-8cf3-8f115bc09da6,43c4431c-e919-4d11-82e8-74e354761952
+3088d1fd-f813-43f7-8cd2-156e8c071a50,grooming,2017-08-30 00:00:00+07,Check for parasites before grooming,1e2e9bd8-0237-4e50-bb6c-42cc25a7856d,4695f1c4-91b6-48e3-9704-f1ae9eb62f5b
+67d36bcc-7be0-4dbd-8192-3939ccc5b488,nail_trim,2013-05-14 00:00:00+07,Avoid using strong shampoos,3237775a-58a8-4918-b161-69e0f7cfa512,71d9f58d-33f7-49f3-8a79-ac7b1bf10909
+7bb11585-626f-40e8-9b3a-9b34f048b2e7,bathing,2018-12-15 00:00:00+07,Light trimming only,a1916aa4-ec11-4495-97d5-44ce12898601,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+f6b094cd-80f7-4b5d-85e9-2213bf0a46af,bathing,2005-12-15 00:00:00+07,Do not trim nails,2a92dc9f-8a97-4fb7-9e7b-62354384cc7c,464699eb-0703-45d4-a294-b2c21e3de0e4
+310b1d45-4f4e-4e40-a27e-f2547d60c98d,grooming,2020-11-06 00:00:00+07,Use moisturizing conditioner,88fdf28d-2ddc-4d75-9364-74c765f50d99,993c6e15-a6ea-4bc9-bd58-64773ddb30f8
+96ac5b94-3b1d-4a8a-8651-4bbadd4c77e2,bathing,2003-03-07 00:00:00+07,Use soft brush for sensitive skin,ee89b3bd-5785-4056-9167-aca82823f943,c6abbc2c-7d04-4c0e-80e7-6a098f97b5f8
+4c3a3bdd-8e6d-49b5-ab02-f310a965fe89,nail_trim,2008-09-22 00:00:00+07,Sensitive to certain fragrances,9565de19-a700-4cb9-80f8-f0db344d9eed,6f08563a-f27f-4ce3-af0c-982f1f18d4f9
+9f51feea-07f6-4ce2-a5b1-819d57124a9f,haircut,2008-12-14 00:00:00+07,Avoid using strong shampoos,7a51f436-9a32-4536-bc1b-346d5e49d70b,96ed3445-5a7f-4f2c-aded-5c82df8aa250
+190a2f5a-0eea-41d8-8325-2387cbd5c2d4,dental_cleaning,2024-09-27 00:00:00+07,Use moisturizing conditioner,499fd2af-ef12-43cf-bec9-c134ae1ce6f5,8499c576-c90e-428f-a69c-8992a8eb31b1
+0ab45266-0cc4-4ba9-8697-d084801729e2,bathing,2023-07-23 00:00:00+07,Needs a gentle grooming,9e7613a5-5a9f-4055-8ead-47f2f04e0910,a1cd9473-6617-44f4-862e-05eebcc0a439
+1cbdcd80-4c79-4e04-9126-dab1c6a5e950,haircut,2009-05-02 00:00:00+07,Sensitive to certain fragrances,04c841f5-b24b-46c3-91f2-3738617903ad,02a4f188-45da-477d-952c-3a401d8a7a52
+8e7a2761-f26c-49ba-a1d3-f047dfa5f574,haircut,2020-06-28 00:00:00+07,Use moisturizing conditioner,09e1d207-b425-4afd-a554-719abc98cc7a,e003d879-2744-42a9-91b5-132a097f5fb4
+9db20c41-4f0c-47e3-a156-67f78846f25a,bathing,2022-11-29 00:00:00+07,Prefer hypoallergenic products,94cc370f-a26b-41f3-9174-b98162412757,157cea7b-93f6-4484-8c7c-3b8dd2488616
+53f2b8a2-0cec-42d9-9fdb-48bce9a99831,dental_cleaning,2019-02-16 00:00:00+07,Use only natural products,4bc793d2-a334-4e1a-a9ae-9c87161bb818,442d9052-e7ae-4445-abee-0d54ab499a27
+abdbef3f-dd95-4a6d-b816-9dc47e39abd8,haircut,2023-01-27 00:00:00+07,Sensitive to loud noises,c1219163-751a-4be0-a1f6-4ed9cdada29c,464699eb-0703-45d4-a294-b2c21e3de0e4
+a51ba3b3-164c-49a4-8298-fc34ca6e0da2,bathing,2001-09-07 00:00:00+07,Follow up after 2 days to ensure comfort,03aa1a49-12f4-4e5c-a13e-367e1ceace89,af047efc-d7ea-49c6-8e0e-842aa9cef34e
+c9b81a7f-85cc-4c52-b0ba-3344d99583b1,nail_trim,2021-02-28 00:00:00+07,Check for parasites before grooming,edb4a7a6-ae5d-4415-a415-6a431155968f,4cd2e87d-c440-45dd-9d4f-f5a573ca7699
+2a4c6a9b-88de-46fa-84ba-fd4eebe33dfc,dental_cleaning,2020-08-11 00:00:00+07,Grooming may take longer due to pet's temperament,b5bf2003-07a5-4a83-95c7-bde84f67ff39,60809305-1e07-42bd-9013-30093d6c919c
+22c97387-f8b9-40bc-a39e-ec5be133b896,dental_cleaning,2006-12-28 00:00:00+07,Do not trim nails,129dddce-b727-4801-b7ae-ada4001755db,71d9f58d-33f7-49f3-8a79-ac7b1bf10909
+f8f50438-61cf-4396-8821-7f3b271fe0e4,nail_trim,2004-12-08 00:00:00+07,Nail trimming should be done carefully to avoid injury,aac13d4b-c4e6-4fea-817a-d246f8a7ce84,1a40a0d2-cec2-4514-901d-97f352b3c471
+bcbe6635-502c-46b2-bb6e-f3c3df7f17e5,grooming,2018-01-21 00:00:00+07,Use pet-safe grooming products,ae128c7c-66a9-49cf-afd2-83cc3d64db44,077a90f8-ebb6-492c-9c71-0930e8856a36
+145ed07f-4ddb-4f77-a3d1-e1b6542e1fd2,haircut,2006-02-17 00:00:00+07,Light trimming only,18fbc7e9-efd6-41cf-bb07-93c5d0e1ecbe,0b5f28ce-e11a-4589-aa3d-b49b50d329c2
+b52c4149-17eb-4ae1-be63-a920eb0c5c74,dental_cleaning,2016-01-07 00:00:00+07,Use only natural products,d20e6792-4e8e-4ab4-a58f-5298f827b596,31a63e63-51a3-4eb4-b5c3-5f92e3bebfaa
+a170f667-3728-4b69-b95d-eaac13842138,dental_cleaning,2006-07-11 00:00:00+07,Use calming spray before grooming,54be3ba9-06c1-4bfe-8844-414bc51dd42e,af1aa844-aee3-46bf-b18f-4b7e7abf396d
+16eb63f6-d52c-4683-978d-96d1e1177c70,bathing,2002-12-28 00:00:00+07,Prefer hypoallergenic products,75f265bf-fa8b-4e82-bb8f-8cdfd79e7c26,58c495c4-74f4-4b79-979a-0415e9c6e6d1
+948711af-8791-4f4b-95a8-683629de8ddc,dental_cleaning,2004-12-26 00:00:00+07,Special care for coat,0b15599f-eae9-4f19-b84c-071a57dd93f8,53d5c300-566d-4631-bb65-9b816561c56d
+5815747d-27e9-4338-936d-3ead294e26ee,nail_trim,2022-04-04 00:00:00+07,Use pet-safe grooming products,ae373ed0-17c0-4b60-a408-46267eda2355,af1aa844-aee3-46bf-b18f-4b7e7abf396d
+e9c0194e-1d3c-446b-a6a3-047da20c8bcc,nail_trim,2019-12-06 00:00:00+07,Check for parasites before grooming,f4925076-e5d4-4a26-8186-92f0fd5c6453,b5f0b78f-45da-43a5-b4ae-916dca68495c
+cf161e50-05a3-4614-b4fd-9de97bf99410,grooming,2017-06-07 00:00:00+07,Maintain gentle temperature for bath,5459b827-e3c8-4a36-9585-3771c7aec747,584cfd66-d099-4592-9bb6-d7aa9abe6680
+894178b5-19f7-4c07-b5fb-7b70adc2fd99,grooming,2018-04-08 00:00:00+07,Check for any skin irritations,f5cff3ef-9b8c-45b6-ab0a-0f72b270f624,8e4d5275-6031-481e-b56b-496700291e5a
+68359b4a-e702-4bbb-9fe2-de791e1f9c03,grooming,2017-07-30 00:00:00+07,Use moisturizing conditioner,60de1c36-b269-4862-a123-d2a49b37d90d,cf9d8bad-6337-4911-b05b-991c0cd2a52a
+31ebf5a6-16f6-4675-935a-787b79aab909,nail_trim,2015-08-16 00:00:00+07,Grooming needs to be done regularly for healthy coat,71f03022-977e-430e-b295-f1768c643d71,b1ef3d0d-da58-4be4-88b9-0e8b8bef3ee4
+a7341898-55a8-4aee-a6be-c813144595df,dental_cleaning,2018-09-08 00:00:00+07,Brush thoroughly before service,6dfda04c-3210-477b-bf6f-e57239a65844,91cf4dce-7dfa-418f-b6cf-5d4a14394b29
+1e4b8d87-b37e-4a96-ad3b-575f8e2c2f98,dental_cleaning,2022-02-22 00:00:00+07,Avoid water near ears,09f5120e-798c-4e49-b817-79f828cd4df0,e0116204-1c52-4e68-ae53-0b079a01da2e
+574bbd42-92e6-4fa2-a649-983688d30c30,bathing,2020-06-29 00:00:00+07,Use calming spray before grooming,95f202b1-53d9-4207-9f95-2c37992b74fc,da10b97e-86e8-4788-8edb-c41f9ac63ae4
+0798dd6d-0d8a-42f7-a15c-40fc6112eedc,grooming,2004-11-04 00:00:00+07,Requires special treatment for matted fur,9bd1c5f2-101c-433c-8aad-ca72f666342b,7d5c62ab-dcb8-4dd1-8de9-12c0787c4367
+3e363ec3-78da-44b9-87c1-2e6f4f650afe,nail_trim,2008-02-10 00:00:00+07,Special care for coat,a9e800d9-cbc7-4a1f-a8ef-63ae9016167c,83d8516d-c8f4-4b2a-a804-aeaf64784d76
+79936e9d-413d-4630-bd40-a94626be57b3,bathing,2023-04-30 00:00:00+07,Nail trimming should be done carefully to avoid injury,4b804877-02bf-49b8-a583-a3bc3cb0c182,37b45687-12ed-4813-b74e-1b7d420e0ef4
+9b6a71e3-d10f-4815-b747-ade3a5cebd8d,nail_trim,2001-09-15 00:00:00+07,Avoid water near ears,d055c564-7f3e-4e38-9f39-e40d191dfa7d,7ecf7727-7970-47fb-a86b-72ba25d6f4c8
+46293f2c-125e-4bc5-8f26-8d27e36138c5,bathing,2020-06-21 00:00:00+07,Check for parasites before grooming,a28e9e76-ff7e-4950-b133-dbb8e65e48e9,af1aa844-aee3-46bf-b18f-4b7e7abf396d
+3eab0128-302f-4037-850e-23efddcfc3c8,bathing,2023-01-22 00:00:00+07,Requires special treatment for matted fur,e1d45bb2-7558-4174-89f2-221a3e7fdccd,0a072ed0-8644-4e9b-9642-eac56eb9be23
+2ccb36a7-965b-4c4b-965e-e0cc61c064e2,haircut,2008-06-06 00:00:00+07,Brush thoroughly before service,2cee435f-86b6-46da-be8a-c36259d08424,150468d5-9310-434f-9853-ac9c9a13c384

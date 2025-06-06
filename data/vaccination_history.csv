@@ -1,0 +1,1001 @@
+vaccination_id,vaccine_name,date_given,next_due,notes,pet_id,vet_id
+857bdffb-161a-43f5-bbe5-727a4e4166b5,Leptospira,10/24/2020,11/27/2018,Check vaccination record for upcoming boosters,1e08ff63-aa08-4a61-aa0b-bb7f6e3679f3,95c9f549-e476-434d-b53f-87e302fddb14
+5771f864-cbfb-442e-9a67-5b62c120cf30,Feline Calicivirus,11/26/2017,4/18/2011,Do not bathe pet for 24 hours,0c813b29-c3ad-4129-b499-5615c6513b3f,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+fc60f46a-2434-46f1-8235-7a981c75e78b,Panleukopenia),11/23/2012,5/22/2000,Do not bathe pet for 24 hours,99689026-9a61-4526-8a60-24766e2bc02d,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+d6e473fa-d86c-4a9d-a4dd-bc67b82862dc,Parainfluenza),11/12/2008,1/11/2025,Inform vet if pet is pregnant or ill,4b804877-02bf-49b8-a583-a3bc3cb0c182,d01b7e67-8401-4e15-b7f3-a215096b478c
+e0f85a4f-ee3e-4dd7-b4ef-edd663dc68e0,Leptospirosis,3/7/2002,4/23/2007,Vaccination may cause temporary loss of appetite,7a3e7990-c270-4e91-a3e2-6f93d2c0e08f,4168f51d-c2fe-4952-8416-57868f4035e0
+524fbebc-a88b-4abb-b84d-b00f571dd3b6,Leptospira,8/29/2024,11/26/2024,Do not expose to unvaccinated animals for a few days,d7f5ebb8-4da7-46ca-81dc-02df51635999,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+a4bf9757-3ee3-46fd-ac7f-6ee7f1dc6f76,H3N8 Canine Influenza,10/13/2003,4/13/2015,Watch for excessive itching or swelling,4eeabad7-d2e5-41d6-a67a-c477a7baf4cb,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+c0964a55-2940-471c-b9ee-62edce16add0,Feline Rhinotracheitis,12/7/2015,11/11/2022,Common side effects may include mild fever,a5606f66-456e-4e56-9467-4218068ae1dc,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+ef92b423-6a1c-492c-8298-1ff14c2383b6,Canine Influenza,5/24/2018,4/15/2004,Ensure pet is up-to-date with previous vaccinations,a6e5b3a8-6c42-4cbb-b715-2cbcbe678151,700f536e-1c77-40d0-900d-b2b70b429a87
+bf1171ae-14e7-4fcb-93af-e66dd8b2cc7d,DHPP (Canine Distemper,11/19/2021,12/21/2015,Notify vet of any unusual behavior or signs post-vaccination,757c0f35-7afc-4376-a3a2-cb7a6d035703,df24be23-3319-49ac-a0cf-bacd4af8629e
+a83032c6-7f36-46fd-b64b-64055055c407,H3N2 Canine Influenza,1/29/2003,7/3/2024,Keep pet calm after vaccination,21c9bfde-d049-461a-99c1-c7dedb351431,b80215bc-fe1b-4781-98da-6b63b6dd2469
+e911dafc-c448-45d5-af6e-f58820ead1dd,FIP (Feline Infectious Peritonitis),5/2/2013,7/13/2024,Vaccination may cause temporary loss of appetite,95e8f4ea-50bf-491b-a649-4b1864673b68,df66b46d-76b3-4966-962f-d90b54965ac7
+4fae37c6-a490-4e96-80e4-cdf0a60a3582,Canine Influenza,2/18/2021,11/7/2000,Avoid strenuous exercise for 24 hours,24874bfa-d5dc-4afc-91ca-181a69e90cd2,f43409fc-6e08-4b76-822a-b1f151010f5b
+14218090-6620-491d-ad7b-3fa078ec4e45,Hepatitis,4/11/2009,11/3/2019,Common side effects may include mild fever,77ac57b7-2992-4588-af0e-63cbd0967d4d,4168f51d-c2fe-4952-8416-57868f4035e0
+02bd0db4-2601-45ff-8b43-f436e95f4e04,RCP (Feline Rhinotracheitis,5/4/2001,3/21/2007,Follow-up appointment required in 2 weeks,96c1218f-7dba-4a31-8fdf-459478324b26,816d02ba-3bbf-4d46-b116-e33da7f614c9
+fbf6ceb1-e03e-4f5a-8540-e4a04bfe05f7,Kennel Cough,10/23/2021,6/6/2001,Common side effects may include mild fever,054a7c2c-2baa-470b-9e34-27415496242f,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+380f6680-8157-4098-b8d9-c46db4517074,Feline Panleukopenia,4/26/2007,9/13/2023,Inform vet if pet is pregnant or ill,ef3a091f-d9c0-46cd-bbb9-a205a37c04cd,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+dd347be7-ffa5-423c-a8f5-48aa7e107e24,Lyme Disease,8/15/2010,5/20/2004,Avoid stress for the next few days,a5606f66-456e-4e56-9467-4218068ae1dc,21c929ea-69b1-4422-823b-35f2b4a913a9
+a14cc73e-1c9a-40c5-a9e1-8e1758e35eb5,Feline Panleukopenia,7/2/2001,12/5/2008,Vaccination may cause temporary loss of appetite,2367d2fc-bdc1-4402-aab5-4e20e7af8274,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+e82ca301-39eb-418d-abba-b48b6dbf0180,Tetanus,3/10/2009,2/19/2024,Administer any prescribed post-vaccination medication,b2a04c9f-ca6f-40c0-b915-9c85da5b003e,d15a3590-f9ff-4cce-a728-56d6221344ba
+3965cc7c-50f4-4197-9eee-f8297674a689,Lyme Disease,1/31/2015,6/26/2016,Check vaccination record for upcoming boosters,2bba2aa6-ceca-4bb6-82a9-46613185f2e1,7a278e2d-3850-4e08-b66b-8810c81fb30e
+a0cbf459-3434-4f46-ba3f-dca869fd8df7,Feline Calicivirus,6/8/2002,11/4/2019,Check vaccination record for upcoming boosters,b1b80f4c-2385-4316-be74-35f3efac0a4a,6cf5e671-a006-4a0a-a550-87b2a42e0123
+2afb6d46-cbe2-4ae8-b669-201ff86d0970,FIP (Feline Infectious Peritonitis),1/10/2012,6/13/2000,Administer booster shot in 3 weeks,5c220490-eaf8-4966-9fa2-1dbfc86527f2,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+49a5d31d-0f52-46a9-adf2-8172bfd93cf0,RCP (Feline Rhinotracheitis,1/23/2024,1/17/2010,Follow-up appointment required in 2 weeks,e9badd63-dcda-4640-ae87-c861253e041e,df66b46d-76b3-4966-962f-d90b54965ac7
+e9483e55-a35f-4217-a015-ae015b1332f5,RCP (Feline Rhinotracheitis,7/10/2004,6/22/2009,Notify vet of any unusual behavior or signs post-vaccination,d025fd47-1808-4260-8054-4c069c95f53e,7a278e2d-3850-4e08-b66b-8810c81fb30e
+cf190ab8-1b06-4fcd-8e02-5835192366af,Feline Rhinotracheitis,5/24/2007,4/30/2009,Keep pet calm after vaccination,98a430c0-803c-496e-a88b-25362fc2f4b0,c754e3c3-83fb-442b-8366-702e27264941
+648187b3-fe2d-4c56-a3c0-d604ca3f69e0,Leptospirosis,7/31/2008,5/25/2001,Keep pet calm after vaccination,97a25edc-ed42-4917-810e-55bde52bc59d,6420d4a4-df96-479c-bbf0-cfb2d078ecf7
+f39957c2-0fa3-43a5-bdb4-8def2067b15b,Parainfluenza,6/27/2010,9/21/2014,Keep pet indoors after vaccination,0ff70ff6-4c2d-4e13-87a0-e6631672a6b1,30e5dac2-99e4-4a74-852e-b400c2018e19
+c4bf18bf-59bc-4bb0-8480-09781227ce61,Lyme Disease,3/5/2009,7/6/2016,Do not bathe pet for 24 hours,a447c278-6a5f-4353-a9fe-7e96a4bba80d,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+31046695-ca89-4d3f-93f0-efd889958876,Adenovirus,4/14/2010,11/28/2017,Do not bathe pet for 24 hours,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+34a13dfa-c62c-42fb-a963-e672271f102d,Bordetella,10/19/2024,4/26/2002,Administer booster shot in 3 weeks,62adca0a-c8b2-4baa-b912-2b3fd0f4aa19,5138111f-d091-413b-91ea-6e3775feaf50
+f13aaf66-6150-436a-9694-da25aad59349,Bordetella,2/2/2003,10/29/2009,Administer any prescribed post-vaccination medication,ea773fed-233a-4886-a665-efeb3011c0a7,97230189-175a-4da4-8a7c-49397292c68b
+b6f6bcf8-c9f3-44ab-96ef-323dbc81610e,Feline Panleukopenia,12/27/2015,2/2/2001,Avoid strenuous exercise for 24 hours,545db5bf-894c-4466-9df0-f7ef28c07eec,105597e4-2d76-445a-9dbf-bde5a3b43468
+bfc20e59-28b3-4f3e-b00b-20a3468a3c3d,Hepatitis,8/28/2024,11/4/2008,Check vaccination record for upcoming boosters,1f4398bd-85db-4201-8fcb-2b0256fbd806,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+9c86b586-3431-4783-ab6e-17f09db3f8e9,Bordetella Bronchiseptica,12/11/2013,4/13/2021,Administer booster shot in 3 weeks,ea05749b-7ec0-40f7-8418-7379ad85c8cb,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+d483dea6-77ec-4271-8e86-335b9a291f99,RCP (Feline Rhinotracheitis,11/6/2016,1/24/2002,swelling at injection site,21c9bfde-d049-461a-99c1-c7dedb351431,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+67e606b0-fd20-440a-acd8-93487aa21370,Bordetella Bronchiseptica,8/17/2019,3/7/2020,swelling at injection site,a5b22202-998b-4fe9-ad87-643428ceb899,8107fe7f-b2ed-410c-bee6-e4031dad6450
+1266f703-8a68-44dc-9100-e421091e4511,Canine Influenza,2/5/2016,11/23/2022,Do not expose to unvaccinated animals for a few days,e349f5b6-ce76-4dda-bdb6-b7a87c832248,869eecfc-f289-447a-abda-c96b192d9079
+716a2d12-10c2-49cb-895b-c35c5565e5cd,Parvovirus,8/12/2000,6/2/2024,Avoid strenuous exercise for 24 hours,d8ded7bb-e333-4f85-95fc-bf26c834ba49,e9e79837-7736-46ba-980c-9590776a4e68
+120e2e9a-1188-4841-873e-7ecc3a0dfb76,Calicivirus,1/31/2017,8/11/2002,Keep pet indoors after vaccination,1d9df0aa-de70-4fe1-b8e5-0c781e0f77cc,1c42e31c-c28b-4345-8116-39641c629011
+bb7498b3-f5ad-426d-8f35-242c243e9a64,Calicivirus,11/5/2018,9/12/2011,Do not feed immediately after vaccination,ae373ed0-17c0-4b60-a408-46267eda2355,80ba6dea-0188-4dcd-b625-2a6960147fca
+0eca4c2f-cffb-4a9b-840e-4cdc193516b2,Feline Rhinotracheitis,6/25/2013,6/21/2013,Keep pet indoors after vaccination,9bd1c5f2-101c-433c-8aad-ca72f666342b,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+b7a69e09-79eb-4c28-9ab5-28c0d1d2f1ac,Distemper,2/1/2017,8/9/2013,Follow-up appointment required in 2 weeks,fc4e8bad-5e4f-4b59-93b7-049e872085aa,59dec043-c4be-45c4-8284-816ead71a20f
+9724dfbc-b1df-4797-9d73-dce0c9a57654,Lyme Disease,6/9/2018,10/26/2008,Administer booster shot in 3 weeks,e80b9a3f-88c1-4027-9757-b8a8c84bddcc,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+a936696a-c9e2-46cf-a1b9-93b084d7a93b,Adenovirus,5/31/2017,5/15/2014,Do not bathe pet for 24 hours,db9660ff-ceac-44cf-84ee-8f49f2fa7eda,7d70ed67-a9b0-428b-a58d-04291a486adb
+3ed74f61-a0e0-4cc3-9174-473119ed8344,Calicivirus,7/12/2022,10/11/2023,Do not feed immediately after vaccination,2bc6488d-c085-4162-9001-fb8f2af42ee6,d2f12571-b206-4b77-a85c-5a887bc11300
+2e779911-9c9a-4e12-b3e3-757e5f0d3e2d,Adenovirus,3/27/2016,11/14/2006,Observe for signs of allergic reaction,4f458f1e-ba8b-49a2-a502-08ba5defd30c,d3cee14d-a1c3-4e19-ab98-92b4990320de
+596dc680-ba3b-46a1-9e0c-489c5f682db4,Panleukopenia),1/25/2011,3/22/2023,Notify vet of any unusual behavior or signs post-vaccination,b65558a7-1b5d-41b3-9049-4adec914595c,80ba6dea-0188-4dcd-b625-2a6960147fca
+c1522d76-f4eb-4e9a-b88b-57e9a9ac7211,H3N8 Canine Influenza,6/14/2008,3/2/2011,Inform vet if pet is pregnant or ill,94cc370f-a26b-41f3-9174-b98162412757,d01b7e67-8401-4e15-b7f3-a215096b478c
+466c8338-a4f2-4d79-8f96-b21231b522bb,Hepatitis,7/20/2005,2/14/2019,Ensure pet is up-to-date with previous vaccinations,12e89008-feb3-4e69-bcfe-07ba55dbbf2c,df66b46d-76b3-4966-962f-d90b54965ac7
+42d11d0c-ddb1-45cf-82c1-44c90d69fa44,Bordetella Bronchiseptica,4/29/2005,7/3/2003,Do not expose to unvaccinated animals for a few days,3444665e-ca20-42b2-9e4a-d59ca9539bb7,591d2afe-1b54-49b2-b807-3dfbe357b606
+a2c06430-4073-4da7-b729-bf71b91e5e7e,Leptospira,9/8/2005,4/20/2012,Vaccination may cause temporary loss of appetite,e1fb409c-8b55-483d-8a1e-8d25d4b517fe,d15a3590-f9ff-4cce-a728-56d6221344ba
+76d1ff32-a95a-4827-bfb4-b10267355cb2,Distemper,5/6/2022,8/1/2011,Do not bathe pet for 24 hours,399d853c-27fd-472d-8f17-d19762b5b684,869eecfc-f289-447a-abda-c96b192d9079
+f26fb084-2c48-4af9-8e9e-5782382f2a7b,Hepatitis,12/16/2008,3/12/2022,Common side effects may include mild fever,e3672997-91b1-4afe-b91f-376e964551d1,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+523b0d0f-d5dd-46d7-a592-ea4505540807,RCP (Feline Rhinotracheitis,6/15/2010,10/11/2009,Follow-up appointment required in 2 weeks,3d84e5d1-9b93-4e81-9c5e-ef9d9ae381a0,214b2ba1-82ec-4777-9c73-11930c64b1f3
+93c01e41-7646-43eb-b611-960f4605b12d,Lyme Disease,10/3/2000,3/10/2013,swelling at injection site,385df729-382f-40d0-bd47-7b960a6b9a69,95f7dd28-b84a-4567-81c0-e53695328131
+dae306b6-5428-4899-a151-a0cdd1d41580,Leptospira,12/25/2021,10/5/2001,Check vaccination record for upcoming boosters,ea05749b-7ec0-40f7-8418-7379ad85c8cb,71388745-ca94-490e-b396-5d964572341c
+e093d591-00f1-45f4-b855-9862e1c01274,Parainfluenza),2/27/2017,3/20/2006,Notify vet of any unusual behavior or signs post-vaccination,c6b4d40b-5ef4-450c-9326-7bae9d7a2593,10fcbf43-8537-4af0-900f-a2fd5d375c54
+d02f8d74-5400-422c-a9bc-e52bd1fb8391,Bordetella Bronchiseptica,5/29/2007,1/5/2017,Vaccination may cause temporary loss of appetite,78d8e84d-751c-4340-9d07-41ed49c8b858,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+9fd2dad8-0072-4039-b4c4-94f3fba9db0a,Lyme Disease,11/14/2014,2/21/2014,Administer booster shot in 3 weeks,12e89008-feb3-4e69-bcfe-07ba55dbbf2c,c754e3c3-83fb-442b-8366-702e27264941
+755007a6-d1b8-4c9c-a4a2-9566ebe80edc,Parvovirus,12/6/2005,4/11/2014,Administer any prescribed post-vaccination medication,5c220490-eaf8-4966-9fa2-1dbfc86527f2,a475c392-782c-4a95-a3d5-e0d6b81de409
+017ab207-4e15-47df-88a1-b67f012caba9,Adenovirus,7/22/2012,6/15/2007,Follow-up appointment required in 2 weeks,9cdd4d2c-3cf5-4cc8-9a49-2a490cb79817,6fa17213-2997-478f-88e3-7f421a65d670
+c50b7863-3b42-4886-bad7-9e83c56953b4,Parvovirus,11/9/2009,12/18/2011,Common side effects may include mild fever,e94d1c73-120e-4426-83b7-7e90abd99121,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+7d19914d-7a11-43d4-883f-fc0dcbe5d693,Feline Leukemia,3/23/2020,8/14/2011,Vaccination may cause temporary loss of appetite,1e69582e-747e-43ed-b860-a858d8da72b5,8ffbf7a9-f8f8-4617-b701-0e2d1de36733
+82cf3926-e57b-46ed-8291-67e81847efb8,Bordetella,6/5/2016,3/28/2005,Follow-up appointment required in 2 weeks,025d899a-f6c1-4004-8dfe-f539ce180292,f9afc424-5634-40df-ae60-96d332a70aa6
+80a8a9b1-1bab-4dd0-be95-c9a2e9c48964,Bordetella,11/28/2015,10/7/2019,Watch for excessive itching or swelling,ffadda56-6cab-4558-92a9-fc0e23ea20b8,700f536e-1c77-40d0-900d-b2b70b429a87
+3c75c910-4c6f-40c3-9420-3af20c869bd2,RCP (Feline Rhinotracheitis,7/28/2008,5/23/2000,Inform vet if pet is pregnant or ill,7890afaa-ff01-4666-a2a5-3e76fab902c0,e502413f-1446-4859-ad29-42cf0b23affc
+f5890b05-7c13-40a2-9246-a496a93b7f20,Canine Influenza,7/1/2019,8/6/2013,Observe for signs of allergic reaction,16532bda-e8b7-47f7-b378-f48fd9aba946,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+12cae57a-cea1-49c7-b705-bcbdcdffab57,Lyme Disease,9/13/2014,2/24/2008,Inform vet if pet is pregnant or ill,23c79e4a-013c-42ea-a7cb-899b0126681f,22cfc2d6-a583-4199-a599-69af90e6be42
+8c745e97-54b5-4b7c-9475-d4a14094b23d,RCP (Feline Rhinotracheitis,4/16/2008,3/29/2019,Common side effects may include mild fever,4ed56c35-e82d-4fd9-befd-f13ca8f0561b,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+f6c4c578-47b3-45f7-8cfe-cfb51f055391,Leptospira,4/4/2009,5/11/2000,Administer any prescribed post-vaccination medication,fc8670c4-9da9-4abe-9b70-8654d896a0a4,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+a57c5a0d-82a0-4893-8827-dd47a35b3681,DHPP (Canine Distemper,11/16/2016,10/19/2010,Administer any prescribed post-vaccination medication,0e738742-c8dd-4eee-971f-9c6f76e255d1,2b504649-8c6f-44f3-8d5e-d2f45d47deab
+f8bb34ac-7bcc-44eb-92a3-9d6926315b3d,Leptospirosis,8/7/2022,11/27/2000,Ensure pet is up-to-date with previous vaccinations,cba0e14a-29f0-4f82-af2b-5fe40262bc88,d3ead0f3-f2ff-4a9d-bbae-6fedf298b34f
+79f0487f-7461-44ad-9558-1c366ec531b8,Adenovirus,12/20/2020,10/9/2016,Monitor for side effects,c1ce3765-ce2d-4646-96d7-9f9580dcf99e,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+4c7a712c-8c52-4582-a31e-326291d687b5,Lyme Disease,11/4/2006,3/4/2017,Monitor for side effects,9c733839-903a-46f4-a180-38461e3e83dd,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+dda669ec-407b-4f53-8746-38e1ab475b5b,Feline Leukemia,8/10/2020,4/20/2021,Administer any prescribed post-vaccination medication,802e1fdb-da6b-4638-b0ce-c09c9dd34c1f,6a0a4d57-c67c-4659-8e49-da88220a4104
+c841d86e-7e4e-4434-a3d5-3a5939b5d3bd,Panleukopenia),7/12/2011,4/15/2020,swelling at injection site,ec0a0546-3a39-4992-8869-46ab5629474d,046e7437-99b9-4910-810c-ba512baf5dc9
+09a35f8b-96fc-4ce5-9568-2d0aec67b53c,RCP (Feline Rhinotracheitis,12/14/2011,3/9/2013,Inform vet if pet is pregnant or ill,4f1ca377-9235-42f6-816c-584b8a6f3e00,b5f494d8-05cf-48d2-97b1-4cc74c26f9ab
+45dfb987-7033-498a-a3d5-928a50316f07,Parvovirus,4/16/2009,12/18/2001,Vaccination may cause temporary loss of appetite,75f265bf-fa8b-4e82-bb8f-8cdfd79e7c26,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+22fa74b7-b400-4d17-bc86-5c0c5dae8cf3,Panleukopenia),7/2/2013,7/17/2016,Follow-up appointment required in 2 weeks,ae8758aa-bead-4549-a230-d597b2e7cba2,d43a714f-e588-45a0-89db-17076cfbc3ab
+a376b14b-771f-4f27-88ac-542bfb593ed2,Bordetella Bronchiseptica,11/9/2005,8/8/2023,Follow-up appointment required in 2 weeks,d8ded7bb-e333-4f85-95fc-bf26c834ba49,956c1eba-3a3a-4144-93eb-bb682410af5b
+110f4a00-e5bd-45ec-b920-36fdd048b5b0,FIP (Feline Infectious Peritonitis),4/8/2023,4/8/2013,Ensure pet is up-to-date with previous vaccinations,a5606f66-456e-4e56-9467-4218068ae1dc,e502413f-1446-4859-ad29-42cf0b23affc
+8e6131c3-b5c7-47ca-a553-406f27ca9c99,Hepatitis,6/25/2010,4/3/2024,or lethargy,57b4910e-5e99-4f14-be3e-c2043f2e391a,6fa17213-2997-478f-88e3-7f421a65d670
+447e2b9e-b8e9-4c25-9cb9-89948d7f9d3a,Tetanus,12/18/2018,6/30/2019,Avoid stress for the next few days,95e8f4ea-50bf-491b-a649-4b1864673b68,80e707c4-4c40-40f5-adc9-927fcae80f17
+c04e5a74-0bec-4a36-abc3-daf54616ffa5,Leptospirosis,4/20/2007,9/26/2014,Monitor for side effects,8bfac1fc-9244-45bc-9afc-6abf2409d87c,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+95f235dd-f7a3-42b7-afc5-28779f3661fd,Hepatitis,11/12/2004,1/20/2023,Watch for excessive itching or swelling,2d967b16-4415-47c2-8bd1-4dd6c6353df8,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+b0442fc1-3131-48f9-922f-88004248d530,Bordetella,11/4/2002,8/4/2020,Inform vet if pet is pregnant or ill,09bdaa62-9e57-49eb-a7db-6eef5535cc1c,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+16804056-72a3-4e57-8350-dc0bd4092e95,Tetanus,8/28/2022,7/22/2015,Ensure pet is hydrated,01d0d18c-2bb4-4908-9f4d-006ac1ff8f75,e502413f-1446-4859-ad29-42cf0b23affc
+7a66cd90-2be7-4891-8f9d-ce5cbe664c5c,RCP (Feline Rhinotracheitis,7/4/2021,3/27/2014,Inform vet if pet is pregnant or ill,5c59de5a-b366-42cc-8704-a9242096b302,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+ac4317cd-94f7-4c17-b7e8-e13a8c7e4ce5,Parainfluenza),7/7/2009,11/24/2013,Keep pet calm after vaccination,a2488b26-7e1d-4171-9483-8ccdc75d2906,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+dc7eb221-90bc-4153-a88c-64c9b72d72f8,Rabies (3-year),4/19/2020,7/15/2001,Do not feed immediately after vaccination,deac51da-45c8-4acc-a13b-489b2e86b036,816d02ba-3bbf-4d46-b116-e33da7f614c9
+a321ac21-2238-4da6-838e-d796eb89aab7,Tetanus,10/20/2002,4/1/2004,Follow-up appointment required in 2 weeks,7bd7850f-d872-462f-88ff-9b26a60bae72,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+82ebb360-a848-4b9d-a940-e7327f9464b5,Hepatitis,5/30/2014,10/5/2009,Monitor for side effects,be3db934-cad0-4a9c-b76d-a34579d7c918,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+4d04e005-4dd1-4642-8d00-4191c08a004f,Leptospirosis,3/26/2011,10/12/2014,or lethargy,b0170a07-bd63-43b4-96ac-53954f06e833,97230189-175a-4da4-8a7c-49397292c68b
+47ed4a80-5ad6-4de8-a649-04c061c8637c,Calicivirus,11/15/2011,12/3/2002,Vaccination may cause temporary loss of appetite,c09ca923-2e35-4806-9ab7-a5c0f2c5da08,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+06cb958c-807a-4ed2-97aa-7127cf757afa,Panleukopenia),4/4/2002,4/26/2016,Follow-up appointment required in 2 weeks,234f4d30-e4bd-4ff8-ad23-420ef6aa8dd4,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+9a7bfc2b-4ff4-4f87-a953-954f6d6ee6f4,Bordetella Bronchiseptica,5/28/2002,12/29/2018,Keep pet calm after vaccination,88fdf28d-2ddc-4d75-9364-74c765f50d99,d3cee14d-a1c3-4e19-ab98-92b4990320de
+230e251d-639b-428c-acdd-e1a0fe578f6a,Leptospira,10/30/2003,9/24/2009,Ensure pet is up-to-date with previous vaccinations,2a60737c-e6fc-4b05-b85e-cad5fb0d6ad3,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+0ca295e7-8b69-40bc-9fb1-38e5869ed8c1,Feline Leukemia,11/23/2000,9/17/2018,Administer any prescribed post-vaccination medication,a5606f66-456e-4e56-9467-4218068ae1dc,fd06252f-695b-42c5-bb7b-3050556b7cdf
+d3c59352-c5c2-4f1f-814c-d2f1087c19a1,Parvovirus,7/25/2003,5/21/2006,Ensure pet is hydrated,5626bf47-0d66-4e43-8801-fc57b9f18a71,59dec043-c4be-45c4-8284-816ead71a20f
+c4ddac38-b49b-44b5-ad54-af320a1d46ab,Adenovirus,7/7/2013,6/22/2019,Keep pet indoors after vaccination,d7b5451b-679d-40c0-af56-f240e122a467,fdabea79-f3ff-4311-93b4-9976c17350f5
+103d48eb-faa9-4d99-9ef8-4ea4a4ad7355,Adenovirus,10/8/2005,6/18/2018,Keep pet calm after vaccination,9095f0da-0c60-417d-884b-1d5502a2f1f7,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+371d5f8a-8630-4d63-8ed2-f38d2698be13,Parainfluenza,3/23/2002,9/23/2009,Administer any prescribed post-vaccination medication,cc625c43-53cf-485d-937e-b64cb0969119,75139bb8-d800-42c7-9545-c9d3cfa628c1
+724b1d48-063c-4b08-9d52-284ec8a653ec,H3N8 Canine Influenza,9/5/2014,1/11/2011,Ensure pet is hydrated,1f4398bd-85db-4201-8fcb-2b0256fbd806,95f7dd28-b84a-4567-81c0-e53695328131
+96727994-4f3e-4d9a-9ce2-f0b64ff155f3,Panleukopenia),8/2/2019,2/23/2013,Administer booster shot in 3 weeks,55effc01-1faa-47ab-b7c0-c8d412b592f0,5138111f-d091-413b-91ea-6e3775feaf50
+551108a1-a875-4666-b48c-335292c06d27,Feline Leukemia,7/15/2021,5/2/2022,Check vaccination record for upcoming boosters,f638cee4-7ffc-404c-9ffe-b2572bb36f60,97230189-175a-4da4-8a7c-49397292c68b
+be3d5f56-cde9-45eb-b45b-286f5980b1d7,Parainfluenza),7/28/2003,3/8/2008,Administer booster shot in 3 weeks,4fc6aec5-4bdd-42f5-be37-9932eafdc799,5138111f-d091-413b-91ea-6e3775feaf50
+7a2e6fa0-e9e5-49d5-840f-9ee20d353123,Panleukopenia),5/5/2018,9/7/2017,Keep pet indoors after vaccination,e8016f48-4fc2-441b-b2bc-3148e51534f0,8ffbf7a9-f8f8-4617-b701-0e2d1de36733
+4e2dde2a-07ac-4b0d-ac7b-8b78c5544aec,Feline Chlamydia,3/21/2023,4/9/2002,Watch for excessive itching or swelling,bd4d7f07-8273-4c6e-9bdb-ad68eaee5e7e,337f4d29-5977-4e76-b493-41dd50e41a3f
+7ba5ac83-316f-42a9-a3d8-919ec278f1c7,DHPP (Canine Distemper,8/29/2018,7/2/2015,Administer booster shot in 3 weeks,178ae01b-e24b-4da5-b24c-cebc307ace6e,95c9f549-e476-434d-b53f-87e302fddb14
+6ed8219a-79bc-4017-898c-13531c8ad898,Canine Influenza,1/8/2017,8/19/2004,Avoid strenuous exercise for 24 hours,545db5bf-894c-4466-9df0-f7ef28c07eec,53f34619-10ca-4e6b-9bb9-98af7cf40298
+2892307e-8537-438c-8826-353523fca116,Canine Influenza,8/24/2003,3/28/2019,Vaccination may cause temporary loss of appetite,c6343714-900f-4610-86dc-b9d8e00c2aeb,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+c4dac9ad-8aa5-45ae-aea6-1f1ca2376efa,Feline Panleukopenia,6/25/2002,8/6/2002,Ensure pet is hydrated,0849079d-1456-4aa1-95e8-785120c59ef8,6c20c901-e144-4ebf-a523-3d974f2e7022
+d089ddc2-cdf9-433f-85f0-d9c074018302,FIP (Feline Infectious Peritonitis),5/13/2015,8/30/2020,Keep pet calm after vaccination,7c4a95c7-91d1-4b30-9960-b8698f4119ef,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+7a5a6df4-b70d-44db-b8eb-89d48650e362,Bordetella,2/14/2012,9/19/2022,Administer any prescribed post-vaccination medication,afd766f9-c01c-4fee-a99b-0ab47c257792,816d02ba-3bbf-4d46-b116-e33da7f614c9
+2d68b32c-fb1f-4ab7-9194-e0774ca6f2eb,Parvovirus,11/9/2007,9/16/2020,Vaccination may cause temporary loss of appetite,222ae62d-1f6d-4a36-b697-c27ade0d3d93,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+b17b117a-041d-4506-8a74-8508a2197083,Leptospira,12/5/2001,12/14/2023,Do not expose to unvaccinated animals for a few days,a72e7468-263c-498a-bf53-67a1a67345de,9ee0535d-01e8-499d-ad87-ac1f07201d3a
+ce5c42ab-3717-4120-adc2-b81c924d9c58,Kennel Cough,3/12/2007,11/11/2007,Vaccination may cause temporary loss of appetite,78cfbc3e-df02-427c-80e4-84326a83d084,1e92cf7f-0bbb-4227-bb3e-ba7afbff168f
+b77352e7-e0e1-4b5b-b277-2f8017881472,Tetanus,6/7/2018,6/12/2010,Do not expose to unvaccinated animals for a few days,d3861b52-5da1-4c9c-a8a9-0c9226868fdf,6c20c901-e144-4ebf-a523-3d974f2e7022
+aa86c967-86d8-4f24-a631-841426850f7a,H3N2 Canine Influenza,2/15/2005,3/6/2011,Avoid stress for the next few days,66c49056-f194-49fe-bbf8-d32aa37f24f3,3c3068a5-c174-476a-aba0-6d6d40d097ce
+26a70107-4b7c-449a-9301-e4e4759560c6,Feline Chlamydia,3/30/2018,10/25/2013,Administer booster shot in 3 weeks,ad87a358-e4d1-41b0-bd5b-589417af7dca,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+ced3131d-6ac2-46be-a7c7-bf42624f1944,Leptospira,8/2/2002,3/20/2020,Avoid strenuous exercise for 24 hours,89e25545-b096-4493-a78c-01ea43f77f4d,6b000f15-eaa0-4b50-84c5-386276863b15
+82403380-bd48-4e85-834d-a35d3e2c1702,Bordetella Bronchiseptica,1/11/2007,11/18/2013,Do not expose to unvaccinated animals for a few days,2db0408b-74ec-42d2-a56a-fb481596deca,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+07606b63-76f8-492b-9f44-1725e15bde32,Parainfluenza,11/9/2020,8/20/2004,Vaccination may cause temporary loss of appetite,fb722a1f-1da9-4095-970b-7a83962507d5,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+ae6a770f-cb02-4ca6-818f-4bb19b7ffa2a,Parvovirus,3/3/2020,3/16/2012,Ensure pet is up-to-date with previous vaccinations,ab2c0e90-750a-4340-a2c6-49af96100dfa,d3cee14d-a1c3-4e19-ab98-92b4990320de
+cc51d130-832b-42b3-88b1-7796389c0b05,Feline Leukemia,7/13/2002,2/10/2022,Keep pet calm after vaccination,78b93210-e6c9-48f3-8e3d-9570eff0de36,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+4cd8f0bc-7a9c-41ec-beff-293f82b36603,H3N8 Canine Influenza,2/1/2011,10/20/2006,Do not feed immediately after vaccination,8b898ef6-4a22-49b6-8ba1-a0acc964e3f9,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+35e9f621-56e1-4d82-b0e1-a7a2ff9e2272,Hepatitis,6/28/2019,12/1/2009,Do not feed immediately after vaccination,81edc088-b15b-41b4-b83a-1286a28abe26,6fa17213-2997-478f-88e3-7f421a65d670
+d51ab220-54c3-4645-a284-700767de059a,Calicivirus,9/4/2003,4/26/2004,Observe for signs of allergic reaction,5459b827-e3c8-4a36-9585-3771c7aec747,10fcbf43-8537-4af0-900f-a2fd5d375c54
+388bba8f-0a9f-4ac2-b1e3-9763a3022b2e,Feline Panleukopenia,2/6/2009,10/12/2005,Monitor for side effects,b96cd56f-c123-4edf-b364-46cd0d6c9d95,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+cc1eb6a2-1062-4eda-9520-f653fe422bae,Feline Chlamydia,9/30/2000,11/13/2021,Inform vet if pet is pregnant or ill,4023d06e-7905-48a7-b40b-13ca8303b9e2,df24be23-3319-49ac-a0cf-bacd4af8629e
+8498a895-8b55-42da-879a-83be06b5328f,Feline Leukemia,1/20/2019,3/16/2006,Ensure pet is hydrated,7dfe235a-1abc-4042-83fa-7a8103cb06c5,337f4d29-5977-4e76-b493-41dd50e41a3f
+c5f4139c-a2d6-4626-af0d-8a13b060be92,Parainfluenza),7/13/2020,4/4/2025,Check vaccination record for upcoming boosters,46ed17bb-daca-480e-8362-c0d3241dbd46,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+e2834842-0e37-4ed0-b606-93c96f161e23,Panleukopenia),6/29/2000,4/24/2019,Do not bathe pet for 24 hours,234f4d30-e4bd-4ff8-ad23-420ef6aa8dd4,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+4da16a4a-6d4a-4cb6-b623-712a36637ae2,Canine Influenza,10/12/2009,3/1/2017,Observe for signs of allergic reaction,d6077d57-dc3a-46eb-b32b-323954e90f47,ea3e2dde-50c4-4441-ad45-fbc007839840
+e80c7105-d96f-4ebb-a34a-323856c29e7c,DHPP (Canine Distemper,4/14/2006,4/15/2015,Ensure pet is up-to-date with previous vaccinations,9e130484-b8e6-4b07-b228-c4f8918da7a6,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+e40c20bc-8e1a-486c-babf-9fa488297075,Kennel Cough,10/18/2013,4/12/2019,Inform vet if pet is pregnant or ill,80cc7538-dca8-4a90-9194-794acb3f3bee,bd837107-da76-4455-ab90-2f15ed49f2ed
+50df528a-7299-4a22-9802-b8ee49d1f3b7,Parainfluenza,3/29/2020,10/15/2002,Administer any prescribed post-vaccination medication,24874bfa-d5dc-4afc-91ca-181a69e90cd2,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+f2ceaa24-896a-4bc2-9a20-ca6b96c1ea9a,Tetanus,12/9/2003,11/18/2021,Monitor for side effects,b5b080a0-b1d3-4606-b187-d43e36304a9c,105597e4-2d76-445a-9dbf-bde5a3b43468
+6c72a8c1-ffd8-4b95-8f0d-46d9f68dd2e8,Hepatitis,3/14/2011,10/7/2024,Avoid stress for the next few days,75f265bf-fa8b-4e82-bb8f-8cdfd79e7c26,956c1eba-3a3a-4144-93eb-bb682410af5b
+08717a7a-0ba0-4e41-bbd9-c65acc6a8a82,Hepatitis,6/30/2010,6/9/2019,Do not feed immediately after vaccination,a16e75a2-5a08-4b1b-91f1-892a5cd3a1e9,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+f4c400cd-c472-48c0-abc8-3b87da61f0dc,Panleukopenia),11/19/2005,10/21/2019,swelling at injection site,4c71fa66-ef01-4a08-bee1-acfed0c2ef96,b3763f22-e06d-40db-b94f-25fbd158a4f0
+372a2ccf-e6c5-4496-b038-3327b0b51383,RCP (Feline Rhinotracheitis,12/20/2014,10/20/2011,Inform vet if pet is pregnant or ill,faf9ea24-6d04-400d-bb1b-7db0458d8080,fdabea79-f3ff-4311-93b4-9976c17350f5
+734664eb-c34b-47f5-8901-0f3808bf4659,H3N2 Canine Influenza,5/15/2006,5/7/2001,Keep pet indoors after vaccination,adfa3be8-e8b8-4378-b9cd-82f17dce6eac,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+6516e11b-fbad-4c5c-8189-8254e603b934,Lyme Disease,6/18/2022,5/30/2005,Notify vet of any unusual behavior or signs post-vaccination,4f16cabb-776e-4ff2-97d5-e4ff07b2dae1,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+59b3e7a2-879c-4b83-80f1-6f9347c45aa4,Rabies,1/23/2006,4/28/2012,Do not feed immediately after vaccination,fa5bc1aa-2c39-46b6-9730-be031bc35ee6,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+b2fe648d-6ae2-4afb-8c8f-8eca72c98735,Tetanus,9/18/2008,10/4/2009,Avoid stress for the next few days,c09ca923-2e35-4806-9ab7-a5c0f2c5da08,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+fed68c48-ed4f-48ef-b348-5b22371d790c,Leptospira,12/23/2020,8/15/2004,Follow-up appointment required in 2 weeks,17cafc27-582c-4861-a81b-091b8ecc47f2,21c929ea-69b1-4422-823b-35f2b4a913a9
+9d749fa0-33f2-4caa-8062-7487987f8187,Hepatitis,12/31/2007,7/26/2023,Do not bathe pet for 24 hours,fcef82bf-6ea3-4c52-af51-b24efea02214,5f897080-971b-414a-836b-f285cdd7664d
+7e8e42f5-8cc8-4c58-983d-1ff4606e90b2,Parvovirus,9/19/2002,11/10/2004,swelling at injection site,cba3088a-064c-4261-82d2-0c2719d3b33a,59a5799b-f267-4a79-9919-35e5524f32e8
+6341dfc5-d3f3-49d1-a4b9-ce829179d405,Feline Calicivirus,5/6/2024,2/4/2004,Keep pet indoors after vaccination,0f7c4fc6-e523-4fb6-a298-5fcdddddd301,0f10e7c0-877b-45c0-bd18-4d9efdd46061
+8afbeda2-a606-4371-9192-ae43239d9402,Feline Chlamydia,4/17/2006,9/7/2002,swelling at injection site,17ffb86f-ca01-4510-8814-7fbe335bf200,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+2858f3ee-c0bd-45a4-a50c-f04bae938030,Adenovirus,11/2/2004,4/21/2015,Do not expose to unvaccinated animals for a few days,429b95f4-b7d2-49bc-8f3e-27ec1bb3ea62,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+fd56fcc9-3e5a-4337-8bbf-0c99bbbe3326,Leptospirosis,10/25/2008,7/29/2002,Do not bathe pet for 24 hours,aaa41528-d2cc-438f-acb3-91bad204c94a,4910bbcc-43c9-4354-9475-d68f3084f2c0
+83c4728a-6b3a-46de-9557-80c21518e518,Bordetella Bronchiseptica,6/25/2023,1/29/2007,Keep pet indoors after vaccination,cc29295a-524a-45d8-85eb-96ccbda82117,df66b46d-76b3-4966-962f-d90b54965ac7
+bb0377f6-f161-44b8-9629-c9d22baaae02,Bordetella Bronchiseptica,8/9/2021,6/11/2008,Check vaccination record for upcoming boosters,a95936c5-6d60-4c2b-88ab-89eab4fc8a5e,b3763f22-e06d-40db-b94f-25fbd158a4f0
+7f584304-c039-48da-abb3-0f46b1d5344a,Panleukopenia),11/26/2000,5/9/2005,Ensure pet is hydrated,d01d5b31-7f79-4821-9509-6e9b1788029a,bd46dcb1-77be-4bd9-9ea1-628bd24763ab
+eb9d1161-341f-4623-94bf-cbb0062a5a4a,Feline Calicivirus,9/15/2003,1/31/2023,Avoid stress for the next few days,6f0e4d04-9b5b-4a23-b3a7-0febffd0aa6e,df66b46d-76b3-4966-962f-d90b54965ac7
+3412bdb9-69a1-4779-8e78-db39bd4fdc86,Feline Panleukopenia,6/20/2016,1/25/2010,Administer any prescribed post-vaccination medication,757c0f35-7afc-4376-a3a2-cb7a6d035703,e502413f-1446-4859-ad29-42cf0b23affc
+9ecfa2ae-6ef9-48f7-8d6b-0563d0c14dbb,Feline Calicivirus,8/31/2010,12/23/2005,Monitor for side effects,3f0d0721-1d23-4cdf-881a-ec1a3ca46701,105597e4-2d76-445a-9dbf-bde5a3b43468
+159afd86-aa59-4d1b-b167-fce02ac8c905,Parainfluenza,6/30/2022,4/4/2012,Common side effects may include mild fever,4fb4dd1a-92d7-4d4c-90ab-656b73b32b38,3889a284-e09b-4474-9570-0900d8832a1d
+049d2b99-1836-44e1-b219-3e4e4bdbf4ae,Panleukopenia),8/25/2022,6/5/2014,Ensure pet is hydrated,fe8b150a-4ed6-469b-a4b1-c0f7603b56ef,1c42e31c-c28b-4345-8116-39641c629011
+0449e941-23df-4c81-92b5-10fd9336c152,Feline Calicivirus,5/9/2022,12/3/2017,Administer any prescribed post-vaccination medication,3cfd514e-ee99-49b7-810a-4fdc29757802,3889a284-e09b-4474-9570-0900d8832a1d
+6888d223-df3c-4bdc-bde8-3912e1b00e7d,Parainfluenza,2/8/2015,4/10/2002,Vaccination may cause temporary loss of appetite,1a729b63-0d02-4804-a3fc-6edaaff81e3b,046e7437-99b9-4910-810c-ba512baf5dc9
+4c7ad878-6461-4d34-9357-ad153f36c664,Leptospirosis,11/7/2010,8/1/2004,Follow-up appointment required in 2 weeks,fa0901aa-8a13-4906-ad44-f0f7987249f6,d15a3590-f9ff-4cce-a728-56d6221344ba
+f6f4b0bb-9270-4c6c-9ebf-c8b3b9f181c0,Parainfluenza,8/28/2017,3/2/2007,Administer any prescribed post-vaccination medication,95879d7e-c04d-4edb-8a23-2a74930c5c86,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+383ae945-3e1b-47ab-8388-2079561ab758,Tetanus,3/23/2018,5/19/2010,Follow-up appointment required in 2 weeks,13df93bf-e079-444c-b0f1-bd237586e3da,71388745-ca94-490e-b396-5d964572341c
+32ba5e76-acc0-40d1-b812-e53ba774c1eb,Feline Leukemia,12/5/2014,8/20/2000,Administer any prescribed post-vaccination medication,c7c0af68-6b0e-43b2-adf8-4c784db05ee4,59dec043-c4be-45c4-8284-816ead71a20f
+bc9f09c0-c4d5-4fde-9391-81d2a241785a,H3N8 Canine Influenza,4/11/2023,7/11/2011,swelling at injection site,e9badd63-dcda-4640-ae87-c861253e041e,8107fe7f-b2ed-410c-bee6-e4031dad6450
+0c1bf816-61a7-4792-a784-708b60dfa4ee,Parvovirus,12/30/2013,5/24/2011,Notify vet of any unusual behavior or signs post-vaccination,b7bc2bdb-1d5e-4f28-833e-bd9ff246225c,bd837107-da76-4455-ab90-2f15ed49f2ed
+fed553c1-ab20-43ca-9d17-4aaba78fea59,RCP (Feline Rhinotracheitis,6/8/2022,3/1/2020,swelling at injection site,b28d355c-7f53-4ef3-a0e4-074c9b872219,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+6446effe-bb25-41a9-90fa-d40650081145,Bordetella Bronchiseptica,8/29/2019,11/7/2003,Keep pet indoors after vaccination,5fa999dd-65b5-49c9-9624-cdc96d2ae483,39305a66-22f1-4f41-a3ca-438e5ac802ea
+f8ccb542-0ac9-4234-ad0b-c07c1fcd2935,Parainfluenza),4/25/2018,8/7/2003,Ensure pet is hydrated,4522cf6e-56fd-40af-b62a-dfcc329391f3,e35e3077-e068-434f-b35b-34afcae9c7d4
+145c1947-d6b6-4c90-8e3b-c776eaddbcf3,Parainfluenza),3/11/2013,3/10/2025,Avoid stress for the next few days,9ca7d901-4382-468a-94b4-f071dbf79409,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+c36a25a2-9dd5-48c6-aac7-a70ca52dc1e3,Feline Rhinotracheitis,1/7/2023,2/27/2002,Monitor for side effects,b5aed7d4-3528-4579-a54d-55a4de291e65,fdabea79-f3ff-4311-93b4-9976c17350f5
+6a440797-b664-48eb-bb08-77d45f73b0c1,Parvovirus,1/28/2001,11/7/2014,Avoid stress for the next few days,6015afbb-807c-4211-919b-c1dc75f738f0,1e92cf7f-0bbb-4227-bb3e-ba7afbff168f
+6dc58a81-c555-471c-a860-8fc40a1925df,Leptospirosis,6/25/2001,4/3/2011,Follow-up appointment required in 2 weeks,f943f177-1444-4e52-9ac1-e6a9fc60a8d9,fdabea79-f3ff-4311-93b4-9976c17350f5
+8cf7414b-d898-4071-ae99-85a676689535,H3N8 Canine Influenza,3/2/2021,10/2/2003,Observe for signs of allergic reaction,972712f5-955d-46f9-af14-4741f563752e,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+f39376e6-fea5-4c49-a147-28bc45901782,Feline Calicivirus,7/31/2023,12/26/2003,Ensure pet is up-to-date with previous vaccinations,ae373ed0-17c0-4b60-a408-46267eda2355,e30d0ea4-f63b-466a-917e-916943b69f42
+a1d7e5cd-ec13-40c3-abe9-05c43836cb57,RCP (Feline Rhinotracheitis,2/13/2024,9/12/2022,Avoid strenuous exercise for 24 hours,70999efa-cf49-46dc-9cdf-87afe1d7d146,f3b84fd6-6e2d-4f54-848d-38f5ad8149aa
+6a8a8f82-8ecb-4e1e-b8b8-469cfab02700,Leptospira,3/28/2005,9/16/2002,Avoid stress for the next few days,8bfac1fc-9244-45bc-9afc-6abf2409d87c,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+e279299c-79ee-49b3-8c54-f594f95bc035,Feline Rhinotracheitis,8/2/2006,10/25/2019,or lethargy,70999efa-cf49-46dc-9cdf-87afe1d7d146,80e707c4-4c40-40f5-adc9-927fcae80f17
+774655d9-4952-4b0c-a5ac-7ff64d1a5be0,Parainfluenza,7/10/2009,9/13/2019,Common side effects may include mild fever,05b68909-d1db-4382-b1a0-bf35abacd281,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+e16e6323-636f-4129-b3d2-3a88b6740fd9,RCP (Feline Rhinotracheitis,11/12/2007,6/4/2002,Monitor for side effects,ba9642d2-edec-482e-8bd4-f25edeb6f0b9,d3e25d60-5188-44d7-b270-9838793a6661
+b83eec9c-30a0-4c64-83e7-40d0d3416b2b,Parainfluenza),11/19/2019,8/19/2000,Administer booster shot in 3 weeks,5c28493f-b0e7-45bd-82ce-efccf69e8158,8b3bf1eb-e145-4462-b600-02bb14e25c69
+a27e1c6c-d130-419b-bdf9-ecf92acabbd9,Parvovirus,3/1/2024,11/30/2012,Observe for signs of allergic reaction,8376c56a-0b10-4421-a0ab-963b75795622,7d70ed67-a9b0-428b-a58d-04291a486adb
+42754b53-0b43-452a-88ab-71c343ebf941,Feline Calicivirus,8/10/2021,8/5/2024,Administer any prescribed post-vaccination medication,b8d070b7-813f-4d85-ae7f-f7fc2f14b7d1,75139bb8-d800-42c7-9545-c9d3cfa628c1
+9320a9fb-ad7b-4678-a846-231a045d6eac,Parvovirus,11/25/2006,8/26/2009,Vaccination may cause temporary loss of appetite,9fd27752-623e-4655-adc1-787642f4ece3,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+b05371f9-78d8-42c5-b204-9fc3c1ddc2d3,Bordetella,8/12/2015,11/6/2021,Do not bathe pet for 24 hours,4cedd81d-3c34-4a04-a972-8cdfa28bcae8,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+3c8e49ce-7195-42ef-8ac8-5978584d9041,Hepatitis,1/1/2004,3/19/2024,Watch for excessive itching or swelling,23a26a73-d271-4886-8d72-f3cf435196de,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+caa58df0-de2e-44f1-974a-37d9bb930688,Parainfluenza),11/24/2007,6/30/2009,Avoid strenuous exercise for 24 hours,1c84f6cd-4028-4ff6-b458-115fe66cf7e1,6a0a4d57-c67c-4659-8e49-da88220a4104
+f030b1be-38f4-4f8b-8029-302ea77ca13e,Feline Leukemia,9/29/2023,2/25/2019,Keep pet indoors after vaccination,fb02f08d-d13b-45ca-9b7a-11c902b84efb,d01b7e67-8401-4e15-b7f3-a215096b478c
+cf8160d4-9dbd-44dd-896d-bf2992022cde,H3N8 Canine Influenza,12/27/2014,11/10/2019,Ensure pet is hydrated,c6b4d40b-5ef4-450c-9326-7bae9d7a2593,c754e3c3-83fb-442b-8366-702e27264941
+d6f0c581-0de2-41f2-89a0-d1f2f1651d02,Feline Panleukopenia,7/3/2023,2/2/2022,swelling at injection site,f2a5e3b8-e3e4-4b7e-ac36-eb57a6ae8f6d,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+a704a63a-1371-47f2-ad18-3576a77b6932,Lyme Disease,11/17/2006,8/16/2006,Watch for excessive itching or swelling,670375f3-33f1-4291-b0c2-9c1848062723,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+cc0fd587-501b-4c83-93ef-1f98bc497f91,FIP (Feline Infectious Peritonitis),2/14/2014,6/27/2008,Do not bathe pet for 24 hours,777ed98f-87c3-41ee-99c3-ea73a6778eaa,0f10e7c0-877b-45c0-bd18-4d9efdd46061
+a63e58b1-4e08-4eed-a6cd-952bebcd3ab3,Feline Calicivirus,11/6/2016,7/14/2009,Do not expose to unvaccinated animals for a few days,662c16ed-055c-4647-ad20-b9d33e46f973,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+b8d5ac9f-0ac0-4d7d-a374-6601bccf9196,Adenovirus,5/1/2019,4/12/2001,Do not feed immediately after vaccination,0a88c297-c96d-431b-af6c-19d0c1110cd4,ea3e2dde-50c4-4441-ad45-fbc007839840
+d5cc762b-9382-4610-b400-ab47307af2d9,Tetanus,6/19/2005,3/3/2013,Follow-up appointment required in 2 weeks,b802b0d7-da8e-4ec5-a924-57c1e1a05bb9,59dec043-c4be-45c4-8284-816ead71a20f
+5a65018a-0ac4-4d2d-bfb7-69ee0cbe55d4,Canine Influenza,12/6/2002,3/28/2012,Do not expose to unvaccinated animals for a few days,2f9d43d0-cf82-4121-9030-f53fa87ca46f,3889a284-e09b-4474-9570-0900d8832a1d
+f007d586-9f8d-4505-9f28-2be3a4493cbc,Feline Rhinotracheitis,9/27/2017,8/19/2009,Common side effects may include mild fever,88902bcf-4e25-425b-ba18-260fd4999679,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+1a544886-d2c5-4e05-a38a-2a54374cbe6f,Feline Leukemia,1/6/2007,3/25/2019,Common side effects may include mild fever,5ac30d13-e122-4186-a978-65f23849829f,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+f443e7ea-c381-4059-a12a-f20fe15508ae,FIP (Feline Infectious Peritonitis),7/30/2015,7/5/2003,Inform vet if pet is pregnant or ill,e21871d1-5140-4db2-be24-a27e9f2dc412,04503ce2-1243-46f9-ae42-1af6f8ad168b
+214dbb44-b273-4255-bcbe-95bf2ed59a7a,Rabies,4/21/2000,10/23/2000,Ensure pet is hydrated,d72df793-4b67-427f-adf7-e8f1e183cdde,29b3f44e-fea8-4bc0-ae38-f02354458167
+5f868ab3-df51-4c6e-8f7b-09e61ca8d8ae,H3N8 Canine Influenza,11/27/2010,10/26/2020,or lethargy,0ff70ff6-4c2d-4e13-87a0-e6631672a6b1,7a278e2d-3850-4e08-b66b-8810c81fb30e
+b747d85b-da11-4fea-97e8-994cc95bbdfc,Distemper,5/30/2011,7/15/2005,Do not feed immediately after vaccination,8b898ef6-4a22-49b6-8ba1-a0acc964e3f9,3889a284-e09b-4474-9570-0900d8832a1d
+d45fda51-8022-4a19-a74b-96a73f4ca341,Adenovirus,11/7/2000,9/18/2021,Common side effects may include mild fever,545db5bf-894c-4466-9df0-f7ef28c07eec,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+269925d0-ab10-4533-9961-c5eecf2b2c48,RCP (Feline Rhinotracheitis,5/16/2005,11/16/2004,Notify vet of any unusual behavior or signs post-vaccination,adfa3be8-e8b8-4378-b9cd-82f17dce6eac,c1ef28d6-ed37-4772-932d-1c00976284d9
+7f443e58-d413-4b84-a1a3-776747f5dd44,H3N8 Canine Influenza,2/22/2002,9/14/2010,Ensure pet is hydrated,335f95dd-d0ee-4ada-89de-5592df58c571,21c929ea-69b1-4422-823b-35f2b4a913a9
+a0288b96-e0c7-4f1b-bdd8-67a08d0df16e,Kennel Cough,12/31/2011,7/22/2003,Avoid stress for the next few days,efc95c2e-d74b-47b2-a068-11f635ad070d,6fa17213-2997-478f-88e3-7f421a65d670
+88c0e36f-33fb-4dce-87b6-bf1914921463,Calicivirus,9/26/2000,4/15/2013,Do not bathe pet for 24 hours,801fb69a-f6a6-4514-b940-316a898c9e61,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+dd95a342-1a43-4fe7-b418-68f750a51e17,Leptospirosis,10/29/2022,9/4/2009,Do not feed immediately after vaccination,4c415e95-dd98-42b8-ad87-3e49ecd4f778,3889a284-e09b-4474-9570-0900d8832a1d
+8f4fafce-0dc4-4cac-ae6b-89146f7a7986,Kennel Cough,9/15/2002,1/10/2024,Ensure pet is up-to-date with previous vaccinations,48057bf2-b1e2-4ab8-be05-c815a01dfdec,b80215bc-fe1b-4781-98da-6b63b6dd2469
+389df24c-e7dc-4e53-aa67-cf2a539f251c,Bordetella Bronchiseptica,9/20/2010,2/23/2009,Observe for signs of allergic reaction,4f1ca377-9235-42f6-816c-584b8a6f3e00,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+51fba7c5-559c-4786-943d-6208f83d7c33,Bordetella,9/22/2003,9/5/2017,Ensure pet is hydrated,ffb63a11-70e2-441a-b839-00bd81731e5d,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+e7d646b4-4674-4470-b7d6-446a9c7afa2b,Rabies,6/19/2008,9/6/2021,Common side effects may include mild fever,a95d488b-4958-4df8-94ba-12549e6f18b6,816d02ba-3bbf-4d46-b116-e33da7f614c9
+230fca85-307d-44ba-8ab7-5f2c7f4bae36,Kennel Cough,12/29/2023,9/28/2019,Administer booster shot in 3 weeks,7c9b7338-f994-4d4d-89be-728ab23744f6,e9e79837-7736-46ba-980c-9590776a4e68
+083b3a6c-453b-476b-9db7-5ab16b5e8504,Parainfluenza,6/2/2015,7/13/2017,Keep pet calm after vaccination,7ffc7668-d9e5-45bc-af3a-2379424ed931,ea3e2dde-50c4-4441-ad45-fbc007839840
+bd733373-843d-435f-8425-7c891537b350,Parvovirus,11/6/2003,5/24/2016,Inform vet if pet is pregnant or ill,6015afbb-807c-4211-919b-c1dc75f738f0,59dec043-c4be-45c4-8284-816ead71a20f
+4f62b71b-da46-4983-bcb4-49ac48d1d926,Parvovirus,2/14/2005,6/6/2022,Common side effects may include mild fever,09cf2458-e432-4b1c-aee4-4df29c336069,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+79057c6a-bed4-4c5e-9c50-d92466069a79,Kennel Cough,7/6/2023,11/18/2004,Do not feed immediately after vaccination,7890afaa-ff01-4666-a2a5-3e76fab902c0,d3b1e076-fa39-451b-978c-1ec5f2ab9e62
+49e8cbf1-a892-4a8b-9be4-46c9fd70dc19,DHPP (Canine Distemper,5/6/2016,3/17/2015,Inform vet if pet is pregnant or ill,ceead4a3-ab2e-4c55-b5fe-84415bb65021,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+8443cc32-f6f7-48b7-b97c-53228320c382,Feline Rhinotracheitis,3/19/2025,10/9/2001,Keep pet calm after vaccination,1438c2f6-6aa8-4cbe-9048-744449944f56,ea3e2dde-50c4-4441-ad45-fbc007839840
+45f40bb7-d585-4559-8fae-2db91a2c7ad9,Rabies,1/6/2002,6/16/2023,Administer booster shot in 3 weeks,46617c5b-d0a3-4fb7-ad24-0e093db40b2e,e502413f-1446-4859-ad29-42cf0b23affc
+81d132ca-c7c5-46e7-963d-8da04243f162,Hepatitis,5/25/2005,10/22/2019,Keep pet indoors after vaccination,ca1ab56f-afe6-4f92-bdd0-b9a6a13623d3,06879170-70e7-47e0-804c-214d61f5d003
+d7a6ac37-6ce2-4bd5-b678-e8ea421a34ab,Parainfluenza),2/7/2009,11/29/2023,Follow-up appointment required in 2 weeks,2d967b16-4415-47c2-8bd1-4dd6c6353df8,06879170-70e7-47e0-804c-214d61f5d003
+a9ddd416-08a3-46ad-aff5-2eb338c62917,Feline Calicivirus,7/6/2005,2/14/2005,or lethargy,6f0e4d04-9b5b-4a23-b3a7-0febffd0aa6e,9b6f2907-e03b-468e-a800-42764939c755
+739a1376-07c9-4470-a9d0-708c56c1fc6a,FIP (Feline Infectious Peritonitis),3/11/2021,9/3/2003,Do not bathe pet for 24 hours,ef3a091f-d9c0-46cd-bbb9-a205a37c04cd,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+03c644e8-1230-469d-9ee1-32e8f87f31fc,Adenovirus,12/29/2003,4/23/2009,Keep pet indoors after vaccination,365ee33b-9646-43e5-83b8-2546b5480f4c,71388745-ca94-490e-b396-5d964572341c
+7f314239-dd68-4534-ad0d-d04004754bc6,Parvovirus,8/11/2017,2/27/2018,Do not feed immediately after vaccination,04e305e3-97ac-4931-9455-905d990261c7,214b2ba1-82ec-4777-9c73-11930c64b1f3
+76b29fad-539b-4b78-a7ef-b4a0ecd8e784,Canine Influenza,2/10/2019,9/20/2003,Keep pet indoors after vaccination,cc59d324-dc52-46a3-82c3-c8b6de17aa47,b80215bc-fe1b-4781-98da-6b63b6dd2469
+6146f52e-9e30-42bd-ae34-7dcf71546d5b,Hepatitis,10/15/2009,7/9/2010,swelling at injection site,32faff9a-b68a-402b-8c9e-e30b51aa326c,6a0a4d57-c67c-4659-8e49-da88220a4104
+2a5b62b7-6f6c-4ec0-a2a5-f2bf4c0e4a24,Tetanus,10/21/2013,3/16/2024,Administer booster shot in 3 weeks,95f202b1-53d9-4207-9f95-2c37992b74fc,95c9f549-e476-434d-b53f-87e302fddb14
+7fccf805-5657-4e96-8f69-f86ef721b61a,Hepatitis,10/16/2009,2/2/2014,Keep pet indoors after vaccination,2eaf0b8c-1cf0-46ba-80be-6bef77acc6da,59a5799b-f267-4a79-9919-35e5524f32e8
+dd0983a6-948b-4a60-9935-c3c8067331d6,Leptospirosis,3/9/2003,7/9/2020,Monitor for side effects,c6751772-f498-446e-b657-f3244d9f00b2,6cf5e671-a006-4a0a-a550-87b2a42e0123
+a4eb7408-6778-44be-b36a-eb44281fc60b,Leptospira,7/8/2001,12/16/2008,Monitor for side effects,a9098263-6436-48ad-804b-1700696f24d7,b8c284f0-4876-4617-b087-5fe5b9485996
+55ff7edf-2c88-4117-bfcd-86cbc8d4ed9d,RCP (Feline Rhinotracheitis,6/23/2021,8/3/2014,swelling at injection site,f805851d-ed4e-41db-8b0f-81e0c0d440d6,f9afc424-5634-40df-ae60-96d332a70aa6
+3fe24cd4-0b72-47af-9da6-d69efbbc263b,Panleukopenia),3/4/2025,12/26/2008,Administer any prescribed post-vaccination medication,cbcb30ca-398d-44ef-be68-a93c03bf2dc4,75139bb8-d800-42c7-9545-c9d3cfa628c1
+6c483a81-18d1-4e9e-91f6-1daac821024e,Parvovirus,2/2/2013,2/24/2013,Observe for signs of allergic reaction,ec0a0546-3a39-4992-8869-46ab5629474d,ea3e2dde-50c4-4441-ad45-fbc007839840
+1eb39f7f-21b8-4e95-866a-1babd85cf85b,Distemper,11/17/2024,7/9/2005,Common side effects may include mild fever,f5d8ee98-5daa-44c4-9a3c-28b984846a6f,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+1eb24e85-a8b0-4df7-8874-2d088ab7567a,H3N8 Canine Influenza,12/7/2005,12/4/2000,Ensure pet is up-to-date with previous vaccinations,8713357b-8795-4708-9929-b71d6defa251,82852627-7d5e-4d6e-8721-4a2572fe0a35
+e9860aed-1659-4c6e-b23a-71bd0cc6166b,Hepatitis,11/15/2016,1/9/2002,Inform vet if pet is pregnant or ill,19da9197-600c-49ae-ba8b-47c6b3dc388c,d3ead0f3-f2ff-4a9d-bbae-6fedf298b34f
+1d17a6b2-3f6e-415c-a0b5-5d862dd441fb,Panleukopenia),5/23/2003,12/21/2007,Do not expose to unvaccinated animals for a few days,a2a36d98-966f-462c-accc-6a145db4decc,80e707c4-4c40-40f5-adc9-927fcae80f17
+6bfbc7cc-9ac1-4867-aa6a-a4875203a124,Tetanus,7/3/2014,10/22/2002,Ensure pet is hydrated,02f13063-8cef-412e-b562-30084a731528,59dec043-c4be-45c4-8284-816ead71a20f
+5d5b42da-160a-44b8-b27c-87cbde5a7767,Panleukopenia),11/29/2000,3/2/2007,Do not feed immediately after vaccination,f2a5e3b8-e3e4-4b7e-ac36-eb57a6ae8f6d,10fcbf43-8537-4af0-900f-a2fd5d375c54
+83cd457c-0caf-47a6-9222-68f368c97778,Feline Leukemia,2/26/2024,5/4/2001,Administer booster shot in 3 weeks,19da9197-600c-49ae-ba8b-47c6b3dc388c,3c3068a5-c174-476a-aba0-6d6d40d097ce
+5a6bfe03-fc6d-426b-a526-9a956bbfa44b,Feline Rhinotracheitis,4/1/2002,8/26/2010,Common side effects may include mild fever,e349f5b6-ce76-4dda-bdb6-b7a87c832248,09362660-6239-438a-ad9f-ff478ca8e70c
+b4bc87fe-6d09-4874-b6e5-1184d10a8a58,Hepatitis,11/11/2006,4/26/2007,or lethargy,adfa3be8-e8b8-4378-b9cd-82f17dce6eac,6a0a4d57-c67c-4659-8e49-da88220a4104
+6721f29b-2ece-43e7-9ea0-267e41d29387,Hepatitis,11/29/2011,7/3/2002,swelling at injection site,f5778c4f-3696-4aa1-ba5a-abe9ad5502a1,2b504649-8c6f-44f3-8d5e-d2f45d47deab
+bf998621-07be-4a9f-bc5e-841d197bc155,Parvovirus,4/25/2008,5/21/2000,Do not expose to unvaccinated animals for a few days,696f53ce-08c3-417c-8012-a660db7647a2,d15a3590-f9ff-4cce-a728-56d6221344ba
+1b7f3b26-7c8a-4c8e-8835-77265df3a423,Hepatitis,5/12/2006,1/10/2014,Avoid stress for the next few days,a4ee4d1d-e043-4491-acf2-bd245fc4bc91,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+e3d03e74-c1b5-4390-b30d-ad06c0193bdf,Kennel Cough,9/24/2024,10/7/2001,Inform vet if pet is pregnant or ill,eaa81121-3ad8-4e8a-a9d1-6b776b93276c,869eecfc-f289-447a-abda-c96b192d9079
+aad4b795-e722-4fc1-b944-d6cdc9b780ff,Feline Rhinotracheitis,11/14/2007,5/26/2023,Follow-up appointment required in 2 weeks,1e9a3ab0-d67c-4c90-95de-79e05602974b,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+3e25eeb3-9825-4bea-86b8-8f25a4a0dd11,Parainfluenza,11/16/2006,10/31/2010,Vaccination may cause temporary loss of appetite,335f95dd-d0ee-4ada-89de-5592df58c571,59dec043-c4be-45c4-8284-816ead71a20f
+4751cdce-6131-452c-8a93-708ea1e11af8,Feline Calicivirus,9/7/2006,5/23/2017,Administer booster shot in 3 weeks,3b445bb8-9c08-4ab3-b64a-30b08afdde40,a475c392-782c-4a95-a3d5-e0d6b81de409
+10da1f7a-48da-4c55-878e-deb36bca7edd,Feline Panleukopenia,9/5/2014,3/29/2012,Do not feed immediately after vaccination,77ac57b7-2992-4588-af0e-63cbd0967d4d,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+b136ffbb-4678-44eb-b0f7-021c2a73bbfc,Bordetella,2/17/2015,5/18/2006,Administer any prescribed post-vaccination medication,9971e47d-05b2-4707-8789-29766b522f8b,bd46dcb1-77be-4bd9-9ea1-628bd24763ab
+a161148c-5d1b-433e-bcac-ed581e85b0a5,Parainfluenza,5/8/2023,7/15/2013,Administer booster shot in 3 weeks,a69aacbf-3964-4f3e-97e4-362789883077,30e5dac2-99e4-4a74-852e-b400c2018e19
+e8688238-d194-4f35-ac67-e4aa0de2221b,Hepatitis,1/11/2011,12/20/2024,Do not feed immediately after vaccination,cad89368-b77e-4c2d-a731-2ea3ea41fdba,97230189-175a-4da4-8a7c-49397292c68b
+f9541456-dd85-4dde-98b5-7b2ee78cada8,Feline Leukemia,6/11/2024,7/30/2016,Watch for excessive itching or swelling,03aa1a49-12f4-4e5c-a13e-367e1ceace89,75139bb8-d800-42c7-9545-c9d3cfa628c1
+3dc33f79-c125-4b85-99c1-b9351ee0aa12,Bordetella,4/21/2016,5/23/2004,Do not feed immediately after vaccination,621344eb-f52c-4402-8160-fe984dd8736b,1dc3a843-bff8-4aaf-8900-61d38a92e100
+49d85752-db1f-43f8-93fc-fa80ff458f66,RCP (Feline Rhinotracheitis,10/10/2011,11/22/2020,Watch for excessive itching or swelling,3c3afb7b-016d-4f1a-8cf3-8f115bc09da6,869eecfc-f289-447a-abda-c96b192d9079
+cf0f51c3-4957-4a02-b179-276497e00e34,RCP (Feline Rhinotracheitis,11/12/2020,12/20/2011,Ensure pet is up-to-date with previous vaccinations,eea32b22-e3e6-4c24-bd97-86a026095d6f,0f10e7c0-877b-45c0-bd18-4d9efdd46061
+d23661fc-1dcb-4aa0-8002-711b1721e836,RCP (Feline Rhinotracheitis,6/17/2002,6/17/2017,Vaccination may cause temporary loss of appetite,e09c82c0-e574-4619-9629-11b9ab9c27ff,d2f12571-b206-4b77-a85c-5a887bc11300
+0448fc89-5d9c-4c7f-88dc-60b90d4e19e1,Hepatitis,3/23/2023,7/10/2009,Check vaccination record for upcoming boosters,a69aacbf-3964-4f3e-97e4-362789883077,a475c392-782c-4a95-a3d5-e0d6b81de409
+b2393f54-69c7-415f-b585-ebc67754eb0b,Hepatitis,9/26/2023,7/15/2018,or lethargy,e12cc029-0968-441e-aa38-89806d4cb8be,df66b46d-76b3-4966-962f-d90b54965ac7
+81c45172-cb09-4fe5-b899-28e1cb24990b,Feline Rhinotracheitis,10/9/2022,6/19/2019,swelling at injection site,c88600b8-df9d-4c2d-b2cb-86733564be90,c1f8d5b1-96ce-4dd2-86e3-c2e451a21f59
+a08f0930-1599-4306-a4b1-b28d89e3bea5,Distemper,8/12/2023,10/9/2013,swelling at injection site,5ae08177-06b5-4f81-aaf6-4cf934ce6094,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+051df839-e3f2-4fe6-a5ed-ad6cd2c449bf,Feline Panleukopenia,7/13/2017,8/9/2024,Check vaccination record for upcoming boosters,800462fd-14f0-4e1e-b1b7-338dbcad1b36,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+b9ba7887-7730-4c45-8927-b86db1de6177,Lyme Disease,10/20/2008,6/13/2006,Check vaccination record for upcoming boosters,4368c2c0-58f7-46be-aa78-42e27102143a,d01b7e67-8401-4e15-b7f3-a215096b478c
+310a684c-69e4-4d3c-850b-91a4ab5dc848,Kennel Cough,12/20/2016,7/29/2019,Keep pet indoors after vaccination,5ca3739f-6c36-44b0-a5c5-eb1803a2e45e,7be01214-248a-4ca1-a35f-e6a24b140cb8
+c1bff343-bfa9-4508-86e5-e2a82714ea90,Leptospira,7/26/2012,12/27/2015,Avoid stress for the next few days,a6e5b3a8-6c42-4cbb-b715-2cbcbe678151,22cfc2d6-a583-4199-a599-69af90e6be42
+16df01ce-7158-4cc4-91c8-6c7735b15a81,Parvovirus,9/28/2010,12/3/2010,Common side effects may include mild fever,6b0ecb9d-b0a4-4ce5-936b-82ba0ec2a65e,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+e5a4e54a-a257-4f43-b341-754139e9656c,Rabies (3-year),3/12/2005,6/18/2011,Avoid strenuous exercise for 24 hours,d0a2487b-6713-410c-b4c5-e445ee5dcdc9,e30d0ea4-f63b-466a-917e-916943b69f42
+baf91e12-5115-4093-aa35-31cc139d4b8a,DHPP (Canine Distemper,5/19/2024,7/22/2010,Administer any prescribed post-vaccination medication,911cc0d9-0418-4fec-89f4-bda98b877c77,7a278e2d-3850-4e08-b66b-8810c81fb30e
+0f66ee10-63b0-4678-a3fc-fc4210f6f409,RCP (Feline Rhinotracheitis,5/4/2019,3/21/2007,Common side effects may include mild fever,a17ba3ae-9a18-4da4-9db1-dc54dbe3089b,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+38f6358a-9d1c-46a9-8ad3-735476bd2c8b,Parainfluenza,5/13/2002,10/7/2010,Watch for excessive itching or swelling,a2488b26-7e1d-4171-9483-8ccdc75d2906,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+321a1c17-4d47-448e-b5e2-40369efdf54d,Parainfluenza),10/20/2021,2/8/2015,Check vaccination record for upcoming boosters,e4ff1db5-0ec2-4f58-9878-36d06738cd0b,d3b1e076-fa39-451b-978c-1ec5f2ab9e62
+c5a135ac-3030-43a5-a88b-e8419edccda8,Bordetella,12/12/2004,6/27/2016,Do not expose to unvaccinated animals for a few days,f6f8e8b2-23db-405a-b929-205287d06466,bd837107-da76-4455-ab90-2f15ed49f2ed
+c7eb33e5-2150-410c-9011-6209c52c41d7,Rabies (3-year),10/28/2005,12/5/2003,swelling at injection site,ebc29199-8075-4fcc-a0bd-011a19069ef9,6a0a4d57-c67c-4659-8e49-da88220a4104
+3512b149-bea3-4bd1-ab7f-38b16da75592,Bordetella Bronchiseptica,9/29/2015,6/4/2000,Inform vet if pet is pregnant or ill,335f95dd-d0ee-4ada-89de-5592df58c571,fd06252f-695b-42c5-bb7b-3050556b7cdf
+0da9a3b7-af59-4298-b9a2-be5433dd4e7f,DHPP (Canine Distemper,4/29/2016,5/28/2024,Keep pet calm after vaccination,618878ec-a529-4830-ab7d-1e631b71bf9a,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+b6aa861f-5415-4b39-a52b-8a8f71f7f02e,DHPP (Canine Distemper,10/29/2006,2/15/2008,Common side effects may include mild fever,49f3d542-a0e9-4eca-af41-d6209da94b6a,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+0546b65f-ce34-4af9-a511-bce6cac86481,Calicivirus,8/25/2006,10/3/2016,Keep pet indoors after vaccination,ede2a112-4dc8-44ab-ae5f-755491048120,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+00440275-3c4e-46ee-ad1a-5e6d33f7d6c0,Feline Panleukopenia,2/4/2025,6/9/2010,Avoid strenuous exercise for 24 hours,068d19f6-6285-4bf4-a129-c310f4493dab,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+537f68ee-5860-4f2a-91ea-93d50208a31e,Calicivirus,7/29/2000,7/25/2023,Inform vet if pet is pregnant or ill,04c841f5-b24b-46c3-91f2-3738617903ad,21c929ea-69b1-4422-823b-35f2b4a913a9
+0774a58f-7529-4401-a509-69434fcf80ee,Leptospirosis,7/22/2016,10/13/2017,Avoid strenuous exercise for 24 hours,cc625c43-53cf-485d-937e-b64cb0969119,6c20c901-e144-4ebf-a523-3d974f2e7022
+bc02bf85-7b2d-4d28-8d4c-dda96301cc2a,Feline Rhinotracheitis,12/14/2004,9/21/2000,Ensure pet is up-to-date with previous vaccinations,6152ccaf-9ef6-457e-af00-668545057059,d15a3590-f9ff-4cce-a728-56d6221344ba
+e1d1b6e4-50ef-472a-b3c4-1846f11891b2,Panleukopenia),11/16/2010,12/17/2000,Do not feed immediately after vaccination,7ff28d7e-cde4-49a0-83a7-0caefc60d694,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+84c319cf-87d7-48e3-912d-ac4e0214d09b,Lyme Disease,6/15/2015,2/17/2013,Inform vet if pet is pregnant or ill,95e8f4ea-50bf-491b-a649-4b1864673b68,fdabea79-f3ff-4311-93b4-9976c17350f5
+03387c44-18d4-4ba7-97e2-e225ba15a82f,Feline Leukemia,5/27/2017,7/11/2008,Administer any prescribed post-vaccination medication,096106f0-eb6c-405b-8920-10dce9cb24d1,6c20c901-e144-4ebf-a523-3d974f2e7022
+46b6fc37-04f9-4011-bc6b-86f60c4b894c,Feline Chlamydia,8/8/2014,1/2/2025,Avoid strenuous exercise for 24 hours,9208f49c-f730-4c75-aee4-bca3dc66a95d,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+049b7323-584c-4afb-a3ec-ef1a681fedef,Parainfluenza),9/15/2000,10/16/2001,Common side effects may include mild fever,150074cf-7527-4ce7-980b-a3caf316f06c,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+b6a071eb-a930-471e-9127-b2ccba352c35,Leptospira,7/14/2014,3/29/2018,Follow-up appointment required in 2 weeks,ee68e791-3df9-4b14-9bc4-ce180b8109a0,7d70ed67-a9b0-428b-a58d-04291a486adb
+51292d60-0cb7-4db6-9e04-6e02175641d4,Parainfluenza),1/11/2004,11/30/2009,Do not bathe pet for 24 hours,6232e7cc-423c-444d-b34a-9b49bec84a5e,5138111f-d091-413b-91ea-6e3775feaf50
+36a3f84e-e3c2-4aba-bdad-b9f46c50c592,Feline Chlamydia,5/11/2018,6/6/2023,Administer booster shot in 3 weeks,96c8922a-4db5-49b7-be1e-8a11445e9863,6cf5e671-a006-4a0a-a550-87b2a42e0123
+0dc12776-bed5-47b2-a957-4cd064558c2e,Hepatitis,5/23/2011,11/19/2021,Avoid strenuous exercise for 24 hours,d1f0d10a-59b5-4e0c-aa9c-2f3b7a698305,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+0fac19e9-9587-4ed6-9921-fc6b3f0c60c0,Adenovirus,1/12/2010,11/25/2024,swelling at injection site,c535ca16-27a5-4563-aac9-7759839986ac,59dec043-c4be-45c4-8284-816ead71a20f
+9d53ccaa-882c-4679-afd6-82fa79efbd35,Distemper,1/13/2004,5/1/2009,or lethargy,f753bb95-c45c-4ea4-a024-a14c0f5725f7,8107fe7f-b2ed-410c-bee6-e4031dad6450
+fa28d618-e1d8-43d0-9fac-e463f5612b1a,Parvovirus,11/25/2010,9/1/2023,or lethargy,b1634ad1-24cd-4e3a-9340-24e14a77e375,30e5dac2-99e4-4a74-852e-b400c2018e19
+c7c61968-b482-48b3-a304-604732dd6090,Feline Panleukopenia,3/29/2012,5/29/2000,Common side effects may include mild fever,ad87a358-e4d1-41b0-bd5b-589417af7dca,7be01214-248a-4ca1-a35f-e6a24b140cb8
+916ef5fd-1499-4361-96a1-236e8956b335,Hepatitis,12/16/2016,2/1/2024,Follow-up appointment required in 2 weeks,7890afaa-ff01-4666-a2a5-3e76fab902c0,80e707c4-4c40-40f5-adc9-927fcae80f17
+628c9647-57dc-4921-b05b-532aabc28cd6,Feline Panleukopenia,3/22/2013,7/8/2017,Avoid stress for the next few days,a1072a55-b24b-419b-9987-f153ebdece25,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+5ce83a84-4a9a-4600-a502-a5fcf74430e6,Tetanus,5/1/2021,6/16/2012,or lethargy,c1219163-751a-4be0-a1f6-4ed9cdada29c,6fa17213-2997-478f-88e3-7f421a65d670
+9cc2d27a-6e5e-424c-ade2-ae289d292f8c,FIP (Feline Infectious Peritonitis),7/15/2002,2/12/2003,Check vaccination record for upcoming boosters,0e738742-c8dd-4eee-971f-9c6f76e255d1,956c1eba-3a3a-4144-93eb-bb682410af5b
+f0e01937-b8f5-4780-8926-600f5088b528,Hepatitis,5/30/2015,1/11/2025,Ensure pet is hydrated,92436b90-c90c-4c38-b5a4-ffdf36c58700,bd837107-da76-4455-ab90-2f15ed49f2ed
+b7e8d310-4f6a-48c7-a6de-b111fa5b849d,H3N8 Canine Influenza,2/6/2004,6/30/2010,Ensure pet is up-to-date with previous vaccinations,0482cede-0349-4474-be2b-7ffe4b8313a3,2b504649-8c6f-44f3-8d5e-d2f45d47deab
+d2db154f-7902-4da0-923d-004ab66fe428,Bordetella Bronchiseptica,12/18/2012,9/19/2012,Administer booster shot in 3 weeks,7ef7924c-dcc7-44ce-8552-9d2488236c9f,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+d5655f69-4a5c-45e8-8636-6f1416751ea2,Panleukopenia),4/30/2009,9/29/2001,Ensure pet is up-to-date with previous vaccinations,3f4260a4-790a-491f-95d6-3edbd4a4ea1d,7be01214-248a-4ca1-a35f-e6a24b140cb8
+bf24af52-2281-4aa0-b2c2-f59ab5f26bcb,Parainfluenza),7/12/2017,4/28/2023,Follow-up appointment required in 2 weeks,89e25545-b096-4493-a78c-01ea43f77f4d,de52a307-8248-4c00-977c-f4160d9cd3e8
+5c62a77a-1690-48d1-8697-801b54bd41b2,Feline Leukemia,2/28/2011,11/1/2005,Check vaccination record for upcoming boosters,fdb2cc9d-acb2-4170-a0bf-b8c272666f97,09362660-6239-438a-ad9f-ff478ca8e70c
+4f4c2891-1af3-4823-aeb4-3a4c9835c9d0,Bordetella Bronchiseptica,5/6/2022,5/8/2006,Monitor for side effects,5de2b801-d835-4e8a-998c-22c85bca4dde,e502413f-1446-4859-ad29-42cf0b23affc
+2b386d7f-ada1-49e0-812d-4e5ba4d7a4b5,FIP (Feline Infectious Peritonitis),10/19/2019,5/23/2014,Follow-up appointment required in 2 weeks,4a84714f-4e16-46d9-9d33-82f4440b5313,046e7437-99b9-4910-810c-ba512baf5dc9
+2503d3f7-af4b-4397-94a0-58e22110e6e9,FIP (Feline Infectious Peritonitis),10/27/2021,2/21/2007,Check vaccination record for upcoming boosters,17f5cedd-07ab-4433-b1bf-9b9978bacaca,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+93546f20-66c4-4deb-bf8d-a9e2dcda78d4,Parvovirus,2/21/2010,12/31/2006,Avoid stress for the next few days,d3daead7-cc5e-4fdb-91e5-9415ed53f667,bd46dcb1-77be-4bd9-9ea1-628bd24763ab
+3fdd6456-7069-45cb-96fa-367602b53b4b,Kennel Cough,9/22/2006,2/15/2019,Avoid stress for the next few days,e2511fd2-14de-4064-8b22-e06b11773541,214b2ba1-82ec-4777-9c73-11930c64b1f3
+27863a40-abc4-41f9-8ebd-f69c7d74ba34,Parvovirus,6/25/2009,8/26/2017,Check vaccination record for upcoming boosters,dae3f1c9-588e-44fd-b076-b4f60c49dca7,80ba6dea-0188-4dcd-b625-2a6960147fca
+dc58a1eb-3902-4fb3-94fd-bb5e87f35414,Rabies,1/24/2004,12/26/2017,Watch for excessive itching or swelling,f217d766-f029-4018-8140-90d34c7b1a74,95c9f549-e476-434d-b53f-87e302fddb14
+9b02084a-b151-46b0-869f-1c0342162475,Parainfluenza,1/9/2013,1/22/2007,swelling at injection site,a14dc6c0-ef5c-493f-b041-202c836127f2,b3763f22-e06d-40db-b94f-25fbd158a4f0
+e9fe00fd-d168-4fae-8bda-8a65aa042419,Bordetella Bronchiseptica,9/11/2024,11/21/2017,Common side effects may include mild fever,ee61a974-6f1c-4765-8b60-df0c6cd68dd2,95c9f549-e476-434d-b53f-87e302fddb14
+ee35c151-ba39-46c1-af69-424ce98fa968,FIP (Feline Infectious Peritonitis),3/8/2018,3/11/2007,or lethargy,b1535528-e718-4625-85b0-3174066cfc7b,7a278e2d-3850-4e08-b66b-8810c81fb30e
+93171e91-c481-4dfe-a990-f09c06b9b36d,Hepatitis,11/29/2011,3/30/2001,Monitor for side effects,95879d7e-c04d-4edb-8a23-2a74930c5c86,95f7dd28-b84a-4567-81c0-e53695328131
+3dbcdb79-7dfb-4b6c-9720-8ea8947f5eb0,H3N2 Canine Influenza,3/3/2012,12/29/2017,Common side effects may include mild fever,038859ae-548c-4a42-9ff4-10221e03af9c,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+6df02c0d-fe53-4cc7-b5f9-aa569524a40e,Parvovirus,2/10/2005,3/3/2012,Keep pet indoors after vaccination,cba3088a-064c-4261-82d2-0c2719d3b33a,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+dc30bcc7-ec85-4360-b82c-6b31b98590de,Feline Rhinotracheitis,8/15/2016,6/19/2019,Follow-up appointment required in 2 weeks,757cdc3e-1cab-4feb-aa96-d41c71400f30,fa708656-df65-46b0-b7a7-05d398594045
+f497abc8-b282-43d0-be6b-8127ebcf7e0b,Bordetella,8/17/2023,12/22/2022,Ensure pet is hydrated,849772cd-2337-485e-ac23-9da0738e0f2e,6b000f15-eaa0-4b50-84c5-386276863b15
+70a9e964-6f73-41f1-bd0c-5e58e03c37e3,Parvovirus,8/27/2008,3/13/2022,Avoid strenuous exercise for 24 hours,394c4462-f367-427f-862d-54906998acd5,df24be23-3319-49ac-a0cf-bacd4af8629e
+597400bd-1af7-4071-b0e7-8f7b935a7d9b,Panleukopenia),5/28/2004,7/12/2010,Observe for signs of allergic reaction,657278f4-1796-4bbc-8041-e4ea58723c39,b894e284-d6ea-487f-a6b8-a77c33ade36d
+806e59d8-a14b-4c4f-a469-3755f6dd3433,Bordetella,2/26/2025,3/30/2001,Check vaccination record for upcoming boosters,7e5b8a28-8ff1-4d4c-b8d6-4953370ee2fa,e9e79837-7736-46ba-980c-9590776a4e68
+47a513df-ba53-447b-9e79-d01c29cb9690,Feline Leukemia,6/6/2021,8/26/2024,Inform vet if pet is pregnant or ill,6eba9fca-32ae-4001-a877-e62849d8c085,d3ead0f3-f2ff-4a9d-bbae-6fedf298b34f
+5b625749-73ca-43df-94ac-a586273e22b2,Leptospirosis,8/28/2004,1/2/2019,Monitor for side effects,484a1dec-c732-46d1-afaa-8d57e7ee642b,df24be23-3319-49ac-a0cf-bacd4af8629e
+ebbb15ad-3ba7-4741-8bfa-9bf8adc6d5a2,Feline Panleukopenia,2/27/2024,4/29/2016,Do not expose to unvaccinated animals for a few days,fc8670c4-9da9-4abe-9b70-8654d896a0a4,337f4d29-5977-4e76-b493-41dd50e41a3f
+3241e146-bf86-4aab-a815-66a0108dad0b,Canine Influenza,11/2/2004,8/13/2000,Monitor for side effects,109de33c-13df-46d6-a475-5c2aa94492ee,bd837107-da76-4455-ab90-2f15ed49f2ed
+d6e7e818-f058-4b73-aad8-0d6b6ae39d74,Bordetella Bronchiseptica,4/11/2020,3/18/2012,Do not feed immediately after vaccination,4039c7c6-b9b3-45e5-90eb-dd20a3da6d06,df66b46d-76b3-4966-962f-d90b54965ac7
+39ad585d-64c8-4477-a9d6-dcd9159f3c26,Bordetella,10/16/2003,5/24/2007,Notify vet of any unusual behavior or signs post-vaccination,c02153b0-21c8-47e6-a572-4c972d1b1ecb,b3763f22-e06d-40db-b94f-25fbd158a4f0
+ae65083e-8fe6-4539-8400-7a056895f380,Rabies (3-year),8/29/2015,7/12/2011,Observe for signs of allergic reaction,7a01cd5c-cb34-4dcb-80d0-a24796a2eb9b,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+1fecd1d8-7212-4baf-9107-5d5527f3e308,Distemper,7/20/2001,1/29/2015,Monitor for side effects,adc68f5f-f61a-4ce2-b4cd-81d756be1207,6a0a4d57-c67c-4659-8e49-da88220a4104
+d5564230-25ea-4550-9647-e57d1a184efd,Parvovirus,12/2/2016,5/18/2024,Inform vet if pet is pregnant or ill,ae57b097-22ea-47b7-8598-ece09d470d07,105597e4-2d76-445a-9dbf-bde5a3b43468
+1fb6677e-f8ee-4cf1-804e-b87e619c653d,Feline Leukemia,5/15/2020,5/18/2021,Administer any prescribed post-vaccination medication,b0df19e1-8d94-42ff-8c13-96e6c389501a,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+e76d4282-b7cf-4c07-99e8-20b0fab4aef1,Kennel Cough,5/27/2022,12/27/2020,Ensure pet is up-to-date with previous vaccinations,b0eb7254-70fb-4563-af51-ca8d5ec4f950,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+350ac7de-ef22-484e-9bd3-afce5d8aea0c,Leptospirosis,2/7/2024,5/13/2024,or lethargy,e6c34b7a-1832-4f1a-b751-c0f6820a0452,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+6c489e2b-297a-4e3c-b809-bed392fe9bda,Feline Chlamydia,4/15/2004,7/27/2012,Inform vet if pet is pregnant or ill,b1bc9f4d-c3c8-45bb-9c54-fd062797c9aa,9028ba15-2fb3-4724-a2f6-dc3a41079583
+8583a97b-e5aa-4e2d-9997-05f4ba8694c2,H3N8 Canine Influenza,2/24/2018,5/24/2008,Observe for signs of allergic reaction,c3a09cb6-41b1-4d42-b8da-79746c5dd01c,36cf5e41-9389-49c2-a270-f71fed091abf
+95dc22bc-009f-4e1c-a750-b8102eaa979d,Rabies (3-year),1/18/2022,5/6/2024,Do not expose to unvaccinated animals for a few days,1005abe2-49db-4a81-9124-f586b6538995,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+ed62897c-9059-42c9-9658-805867b46af9,H3N2 Canine Influenza,8/28/2014,7/19/2016,Follow-up appointment required in 2 weeks,0b715ab3-518f-4346-8c25-9243b7da3659,c1ef28d6-ed37-4772-932d-1c00976284d9
+f601c03b-417a-4e89-bb86-f444168114b9,Parvovirus,12/9/2007,11/10/2011,Common side effects may include mild fever,c0696452-0f58-4a3d-81d4-8f8217e2e326,700f536e-1c77-40d0-900d-b2b70b429a87
+0b0b7f80-d879-413f-a3ad-8348d7d96244,Panleukopenia),3/12/2025,12/11/2005,Administer booster shot in 3 weeks,9ee16fbe-13e2-49b2-801c-e361569b8e06,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+3b284bdb-38ee-4f6e-86f4-8b88822587a2,Parainfluenza),9/17/2013,4/8/2005,Follow-up appointment required in 2 weeks,4da6066d-d9f6-41d4-a413-e157bb3b0194,06879170-70e7-47e0-804c-214d61f5d003
+a00397a4-dba6-4fe7-9266-192e61b466dc,Feline Panleukopenia,3/17/2015,8/20/2003,Avoid strenuous exercise for 24 hours,05ac4367-4e7b-4b91-ba6f-f4fc787d31b1,b3763f22-e06d-40db-b94f-25fbd158a4f0
+f0def1c3-9789-4f87-a36d-45ef37e757dd,Hepatitis,6/4/2019,8/27/2011,Administer booster shot in 3 weeks,ed58ab22-b9f3-421a-ad5d-7a59611d2e7c,46a18e9b-874f-465c-9eeb-9f42b5c782de
+fb79fddf-c5e5-4812-b3d8-bba9338dea81,Feline Rhinotracheitis,9/14/2024,11/7/2009,Observe for signs of allergic reaction,e2055e4a-ae8b-4dbb-a509-b718abcce79b,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+b477adb5-a97b-436e-931f-bebb39777d99,Leptospira,10/24/2022,1/4/2020,Ensure pet is up-to-date with previous vaccinations,50f74885-9987-4c4e-969f-ab628a8a2daa,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+0049f52d-ae92-447e-ae04-4dd460f39c19,FIP (Feline Infectious Peritonitis),12/19/2021,9/12/2020,Ensure pet is hydrated,7e2d3690-938c-4be4-9151-7041c6285692,b894e284-d6ea-487f-a6b8-a77c33ade36d
+1c6137e3-48b8-46b2-97c4-e528df5d0524,H3N8 Canine Influenza,10/26/2024,9/23/2002,Monitor for side effects,7c4a95c7-91d1-4b30-9960-b8698f4119ef,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+14f8dfea-5e41-43e8-a71a-d08f619beb05,Hepatitis,4/12/2016,4/16/2020,Avoid strenuous exercise for 24 hours,78b73a45-f9b1-49f9-a9e6-7a53094957cc,d15a3590-f9ff-4cce-a728-56d6221344ba
+3371156f-04fc-426d-bb91-56dc647f98c4,DHPP (Canine Distemper,4/23/2020,6/6/2018,Follow-up appointment required in 2 weeks,147de1f9-7333-47cf-ac61-b7b79847f341,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+7b60a466-ead5-4e06-b6c4-c146b38f6e54,Feline Chlamydia,10/27/2004,6/21/2004,Avoid strenuous exercise for 24 hours,7244ab62-cfeb-4f81-8f5e-d4ef94b4fa83,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+507c6517-1a85-4b45-9c2a-0561d572fb8d,H3N2 Canine Influenza,7/12/2004,12/17/2008,Do not feed immediately after vaccination,da35e4f9-6fe9-457f-986d-f3f1fdac5393,4a845538-fa02-4876-a72a-6362160493fe
+4fc54a39-0c69-410d-a7ae-79fcab4d60cf,DHPP (Canine Distemper,11/9/2013,1/17/2017,Notify vet of any unusual behavior or signs post-vaccination,bb30275b-c1fb-4ef5-bb6c-a75c743cac30,f9afc424-5634-40df-ae60-96d332a70aa6
+b67b90ba-d244-48fa-811d-eed55cf18e2d,Feline Rhinotracheitis,11/13/2024,4/18/2021,Inform vet if pet is pregnant or ill,e4b3a930-178a-4a0f-80ac-461b255dd1fa,bd837107-da76-4455-ab90-2f15ed49f2ed
+25f0ddb9-16f0-4525-a4f2-0403fb084069,Kennel Cough,1/12/2018,9/9/2002,Follow-up appointment required in 2 weeks,77fcdc60-b939-430b-a06e-f77282278c24,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+c70d796e-abe0-41ac-aee7-bb13f3c9987f,Rabies (3-year),5/12/2004,7/9/2009,Ensure pet is up-to-date with previous vaccinations,a509db99-b28f-44a3-a187-d3f246c77183,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+994fe724-1197-49d7-a7c8-8ac06ba50c66,Kennel Cough,1/30/2019,5/18/2012,Keep pet indoors after vaccination,30bc7df3-4ad8-42b6-aee9-a0750c134b16,95f7dd28-b84a-4567-81c0-e53695328131
+7d037c26-62eb-4566-9b32-bf8b058b2c45,Panleukopenia),9/30/2004,2/10/2008,Watch for excessive itching or swelling,cba0e14a-29f0-4f82-af2b-5fe40262bc88,82852627-7d5e-4d6e-8721-4a2572fe0a35
+2f8aa7b0-38eb-4e92-afbd-4f3dd0a55a9d,Tetanus,12/27/2006,7/16/2011,Do not feed immediately after vaccination,eaa81121-3ad8-4e8a-a9d1-6b776b93276c,5f897080-971b-414a-836b-f285cdd7664d
+c2e8193b-d3a2-4ee1-8b28-e6d907d77265,RCP (Feline Rhinotracheitis,10/24/2019,4/4/2020,Follow-up appointment required in 2 weeks,365ee33b-9646-43e5-83b8-2546b5480f4c,1c42e31c-c28b-4345-8116-39641c629011
+c4569d5d-0c78-43f8-9888-adefd411107f,Lyme Disease,11/28/2019,5/7/2001,Inform vet if pet is pregnant or ill,5191db42-5abf-479f-b68a-5de58f5b1683,58834369-c955-4e18-a6e1-62214dbea66d
+deb3694b-8d2b-41e8-97b8-57b5433afe0e,Hepatitis,6/16/2017,7/22/2012,Do not feed immediately after vaccination,afd766f9-c01c-4fee-a99b-0ab47c257792,1e92cf7f-0bbb-4227-bb3e-ba7afbff168f
+a3a6f06d-5827-4a36-8dd6-4de35ed60cc3,Parainfluenza),4/27/2023,7/11/2012,Keep pet calm after vaccination,e210c4ef-870b-4356-875d-5f5b42834704,3c3068a5-c174-476a-aba0-6d6d40d097ce
+d7ca24cf-a51e-4ab4-ab12-13f12d5e959a,Calicivirus,2/10/2015,11/29/2010,Ensure pet is up-to-date with previous vaccinations,a6ccf259-d6b8-4bb2-8de7-f80625979d08,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+4a51422d-8ae1-44c6-94c2-e672c4851711,H3N2 Canine Influenza,4/30/2010,10/7/2016,Do not bathe pet for 24 hours,12387f5a-6d27-4d41-9cc9-4e4eedf92525,d3cee14d-a1c3-4e19-ab98-92b4990320de
+0cd6b62e-9d39-4fdd-b717-0e415bfea237,Parvovirus,4/27/2016,8/15/2008,Watch for excessive itching or swelling,a1d464d3-79b0-484e-8213-179f4a621adf,1e92cf7f-0bbb-4227-bb3e-ba7afbff168f
+89da1b12-2ccf-4bd8-b31a-e16e5ad9d651,Parainfluenza),2/7/2002,4/19/2012,Notify vet of any unusual behavior or signs post-vaccination,9ee16fbe-13e2-49b2-801c-e361569b8e06,e9e79837-7736-46ba-980c-9590776a4e68
+1aa617ef-c08a-4360-93f9-778e6283f07d,Lyme Disease,7/24/2013,5/6/2010,Observe for signs of allergic reaction,591df15c-7315-494a-89c6-45115057a79d,59a5799b-f267-4a79-9919-35e5524f32e8
+3ca2b853-728e-4569-a00d-68508b9d54ec,Hepatitis,5/5/2015,9/5/2021,Observe for signs of allergic reaction,d4e9a132-3b6c-4e7a-8db2-8d19514426d1,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+c1e54ab8-4acd-4566-8d99-12f25258f52f,RCP (Feline Rhinotracheitis,1/13/2014,5/22/2001,Avoid stress for the next few days,3917bbba-6f7c-4c12-93b2-bef08bf6ee49,06879170-70e7-47e0-804c-214d61f5d003
+2a70e9f2-61e2-4f00-be39-1070563e5d60,FIP (Feline Infectious Peritonitis),2/28/2024,5/6/2004,Administer any prescribed post-vaccination medication,8f242f5c-c178-44c4-92cc-df30cddf8472,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+5cbcc3e3-9ef5-4b07-b723-05ced4f3ffc2,Feline Calicivirus,10/25/2004,4/17/2012,Check vaccination record for upcoming boosters,d409da47-e2e5-4d4f-9789-12eb3203abee,f3b84fd6-6e2d-4f54-848d-38f5ad8149aa
+187329ba-cff2-422e-b7f3-82e423506d1f,DHPP (Canine Distemper,8/8/2014,11/5/2000,Monitor for side effects,c7ae30a3-9a64-4b8e-ac90-9ac30f694f9b,6c20c901-e144-4ebf-a523-3d974f2e7022
+34f6a045-5694-4ccc-8bed-3d4cb9c09444,RCP (Feline Rhinotracheitis,10/11/2006,7/21/2015,Ensure pet is hydrated,1e69582e-747e-43ed-b860-a858d8da72b5,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+2b888364-5aa4-444c-9593-902089356f08,Rabies,7/17/2023,9/10/2010,Follow-up appointment required in 2 weeks,c6343714-900f-4610-86dc-b9d8e00c2aeb,9028ba15-2fb3-4724-a2f6-dc3a41079583
+4b6e38d4-d703-47cb-b5d7-89bd6ac7c91e,Panleukopenia),11/23/2014,8/8/2017,Keep pet calm after vaccination,52e48542-2079-4e0b-b68d-19f05eeec384,3c3068a5-c174-476a-aba0-6d6d40d097ce
+fa09cb69-e2b4-4b9d-83fd-4374f2528661,Lyme Disease,11/6/2005,2/16/2017,Observe for signs of allergic reaction,44536867-5812-4df4-8a36-11e16742f63e,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+898ed4b0-1e29-4724-a926-428a1eb74abc,Rabies,4/20/2004,1/2/2011,or lethargy,a91206e0-5f6a-4c56-91c3-43dc9010546e,c1ef28d6-ed37-4772-932d-1c00976284d9
+1a950f21-6fd7-427e-b5c6-18304533da1d,Panleukopenia),6/18/2004,8/11/2024,Do not feed immediately after vaccination,31d44094-4da4-4d32-bab0-31996c99e1dd,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+1d8b828d-c259-4a3a-9071-23f79a252854,Feline Panleukopenia,8/30/2022,6/3/2009,or lethargy,ea12037f-f1a1-42f0-b06e-a84fc44e0d9b,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+0c8616b1-cbb7-45c2-83ab-efbf9cb5d28e,RCP (Feline Rhinotracheitis,2/22/2019,6/7/2021,Ensure pet is hydrated,7530e934-d46c-469b-b6b6-4775637fe0f3,6fa17213-2997-478f-88e3-7f421a65d670
+092b2ec1-49b3-4d91-ab3a-aea175734429,Leptospira,1/20/2018,7/2/2024,Keep pet calm after vaccination,7c624bf5-2163-4593-9f84-c4e4ba8ae6fc,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+87b6418d-2c71-45ed-90ce-116abb92b892,Adenovirus,7/14/2011,10/3/2003,or lethargy,a9b9319f-4483-4c73-b42c-67266444c6e1,7d70ed67-a9b0-428b-a58d-04291a486adb
+5c40a6f5-ce06-4906-88d9-5b5b7d2a9c5e,Bordetella Bronchiseptica,1/1/2010,9/16/2018,Ensure pet is hydrated,77ac57b7-2992-4588-af0e-63cbd0967d4d,ea3e2dde-50c4-4441-ad45-fbc007839840
+2cfb9c70-894b-498d-8b62-0b2a231def17,Rabies,9/6/2007,2/16/2008,Ensure pet is up-to-date with previous vaccinations,5c28782b-8ee7-49a3-b4c3-cf5c5cc9f808,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+90c3629e-c0d8-4b14-91db-ec5ff8d1f613,Kennel Cough,9/16/2002,9/26/2020,Avoid stress for the next few days,621344eb-f52c-4402-8160-fe984dd8736b,a475c392-782c-4a95-a3d5-e0d6b81de409
+62aeb281-9691-4704-9f06-dbec395032ae,Feline Chlamydia,5/25/2020,1/2/2023,Do not bathe pet for 24 hours,220a70a8-2ef7-4e12-8364-34e6c05fa862,105597e4-2d76-445a-9dbf-bde5a3b43468
+2821ddc1-7b38-4b5a-9aea-cd8fa53eb6ee,Feline Panleukopenia,2/23/2025,6/27/2021,Inform vet if pet is pregnant or ill,fc4e8bad-5e4f-4b59-93b7-049e872085aa,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+38daeaa5-7a59-4383-aa80-43dbfc36f92f,Parvovirus,6/30/2009,8/9/2016,Inform vet if pet is pregnant or ill,526cae3c-fa6e-478d-a439-d9298f9e38d2,d2f12571-b206-4b77-a85c-5a887bc11300
+2bee6725-7b89-440d-9bf6-53edcdbe13e5,Lyme Disease,7/1/2024,10/13/2005,Monitor for side effects,62adca0a-c8b2-4baa-b912-2b3fd0f4aa19,06879170-70e7-47e0-804c-214d61f5d003
+791c8ead-0b18-44d2-968e-f87ba2559a89,Parvovirus,3/22/2017,12/11/2003,or lethargy,4b40d7ca-e27e-40f5-bed1-8ea599e5e388,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+331111e3-e4ed-4856-b6e7-5c8ec770d0e3,Calicivirus,10/1/2004,7/6/2018,Avoid strenuous exercise for 24 hours,c7c0af68-6b0e-43b2-adf8-4c784db05ee4,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+bdae11f6-c092-422b-80e9-f7be60f513b4,Rabies,8/31/2013,6/17/2024,Do not expose to unvaccinated animals for a few days,e8016f48-4fc2-441b-b2bc-3148e51534f0,71388745-ca94-490e-b396-5d964572341c
+56675421-72e2-4272-b1c9-6889cf4370b7,Feline Panleukopenia,5/16/2011,3/22/2007,Do not expose to unvaccinated animals for a few days,a28e9e76-ff7e-4950-b133-dbb8e65e48e9,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+72edf4a2-b2fb-4230-8c8f-afb5386c65e5,RCP (Feline Rhinotracheitis,10/27/2011,12/18/2018,Follow-up appointment required in 2 weeks,ae128c7c-66a9-49cf-afd2-83cc3d64db44,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+0995833f-e433-4170-b151-148937412bc9,RCP (Feline Rhinotracheitis,4/18/2001,8/5/2006,Do not bathe pet for 24 hours,2ab7c6b1-9dee-42ff-a67e-4392d905de0f,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+e4217479-b7bd-49b7-8f51-a325adf8bd1b,Hepatitis,2/22/2020,10/14/2003,Watch for excessive itching or swelling,e80b9a3f-88c1-4027-9757-b8a8c84bddcc,36cf5e41-9389-49c2-a270-f71fed091abf
+af6af16f-3c83-445e-a506-bc32fdfdeab5,Lyme Disease,5/4/2019,1/8/2018,Observe for signs of allergic reaction,edb4a7a6-ae5d-4415-a415-6a431155968f,c1f8d5b1-96ce-4dd2-86e3-c2e451a21f59
+e2e5af0f-08f3-4590-8d65-d60e7b7c6efa,Rabies,3/20/2017,5/8/2004,Watch for excessive itching or swelling,c26a3fa0-15ff-4053-b2fb-aeaf78c626ca,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+23fda7a2-fca8-47f2-bace-b439327c65e4,Kennel Cough,10/15/2022,9/30/2011,Do not bathe pet for 24 hours,c3a09cb6-41b1-4d42-b8da-79746c5dd01c,9ee0535d-01e8-499d-ad87-ac1f07201d3a
+f64dd33e-a68e-455a-b033-49fc12bf02ab,Feline Panleukopenia,10/11/2000,1/28/2011,or lethargy,1b608ce3-1ead-476d-a019-5902c7f64212,97230189-175a-4da4-8a7c-49397292c68b
+c2172825-c300-41f5-a370-6ebd81ea3575,H3N8 Canine Influenza,4/30/2019,8/15/2003,Observe for signs of allergic reaction,6dfda04c-3210-477b-bf6f-e57239a65844,b5f494d8-05cf-48d2-97b1-4cc74c26f9ab
+4d9ec3c9-ea2a-4bf7-b76b-fe0ccab36400,Feline Rhinotracheitis,4/2/2009,5/1/2020,Administer any prescribed post-vaccination medication,c95c572d-095f-44ae-9320-13ae6e532571,de52a307-8248-4c00-977c-f4160d9cd3e8
+133376cf-f16a-4cc7-918b-25d6c76076dd,Lyme Disease,10/11/2009,6/15/2022,Follow-up appointment required in 2 weeks,ba9642d2-edec-482e-8bd4-f25edeb6f0b9,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+805e57b8-59ab-454b-8062-3f31004bea6f,Hepatitis,11/20/2021,12/23/2003,Watch for excessive itching or swelling,5c2d504f-ecf2-4959-8c7c-97bc6bf97a44,59a5799b-f267-4a79-9919-35e5524f32e8
+0abab9d9-7505-44a6-9ac4-1ef9fa861a58,Bordetella,9/19/2021,12/26/2012,Vaccination may cause temporary loss of appetite,4d4c37a3-90f6-48ec-ac3c-21b5754a6eaf,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+29916fa7-bce8-4e69-aba1-d82294f6502f,Bordetella,2/15/2003,10/25/2010,Follow-up appointment required in 2 weeks,f2b480b4-2c14-4408-ad3d-4b482935ee02,7be01214-248a-4ca1-a35f-e6a24b140cb8
+bb0bba0c-8b86-41a8-9f24-4a27a0775804,Leptospirosis,5/25/2000,6/18/2019,Ensure pet is up-to-date with previous vaccinations,1e08ff63-aa08-4a61-aa0b-bb7f6e3679f3,22cfc2d6-a583-4199-a599-69af90e6be42
+db6fe407-c152-404b-b542-9e2433def3f8,Feline Chlamydia,3/28/2010,4/25/2007,Vaccination may cause temporary loss of appetite,eb83ecf7-0eb0-4f98-9974-0af12e9517c8,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+d8aef495-4816-42d1-826a-2ae3d40af983,Feline Calicivirus,8/20/2001,11/8/2003,Do not feed immediately after vaccination,3da4497a-a3b3-48d6-bf7c-32ed2458eb20,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+f0113e63-d37b-4095-a4bd-57de6cb9c04c,Bordetella Bronchiseptica,11/19/2018,1/31/2019,Inform vet if pet is pregnant or ill,71f03022-977e-430e-b295-f1768c643d71,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+9ebd87f3-dccf-4ed0-9bdf-6aa43c19c68e,Rabies (3-year),9/22/2004,12/6/2009,Follow-up appointment required in 2 weeks,a4772a62-5d00-4bf3-89df-895070c4e2a2,22cfc2d6-a583-4199-a599-69af90e6be42
+88bad4b8-9774-4532-8645-22eb636becdd,Distemper,8/6/2003,5/18/2020,Do not bathe pet for 24 hours,f48a95d3-269b-46ee-9167-27c1f8efff2b,39305a66-22f1-4f41-a3ca-438e5ac802ea
+30bc0f48-fef8-4fa5-88ae-33deefcfec7a,Leptospirosis,3/20/2007,6/1/2019,Inform vet if pet is pregnant or ill,04548bbb-4234-45cc-9b8d-15c8a9ffb494,de52a307-8248-4c00-977c-f4160d9cd3e8
+305f3f6b-c5b0-4f48-bdfa-2296cd282549,Distemper,10/12/2001,9/21/2012,Check vaccination record for upcoming boosters,eb3da78a-f064-4869-b567-9b40dcdd2b14,6c20c901-e144-4ebf-a523-3d974f2e7022
+60729c71-ba31-437c-9164-c97cc22914bb,Adenovirus,9/17/2010,10/4/2004,Avoid stress for the next few days,4eeabad7-d2e5-41d6-a67a-c477a7baf4cb,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+9ac20b3e-dcf8-48e7-8f89-8f51c7709128,Rabies,2/25/2018,7/11/2008,Keep pet calm after vaccination,8b7a3a37-169d-4126-b74b-9ddc17741041,3c3068a5-c174-476a-aba0-6d6d40d097ce
+9226903e-dba7-4903-8a2b-6e5b14f7d7bd,Feline Chlamydia,5/30/2021,6/7/2008,Observe for signs of allergic reaction,ab2c0e90-750a-4340-a2c6-49af96100dfa,7d70ed67-a9b0-428b-a58d-04291a486adb
+9434407c-47c6-4e5a-89e0-d6deec4a36a5,Kennel Cough,11/14/2005,2/18/2014,Administer booster shot in 3 weeks,78b93210-e6c9-48f3-8e3d-9570eff0de36,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+7b6c067f-6d39-4c50-b42a-b44b4a08178c,Adenovirus,7/13/2001,11/23/2020,Follow-up appointment required in 2 weeks,3dc40ec9-7a61-45ab-81ac-bb1949648822,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+f80c273c-4c3d-4d1b-8dda-26887360bda3,Feline Calicivirus,7/4/2012,4/20/2009,Do not feed immediately after vaccination,7530e934-d46c-469b-b6b6-4775637fe0f3,75139bb8-d800-42c7-9545-c9d3cfa628c1
+743dc469-2f91-48a4-b1ac-0fe68308c9df,Lyme Disease,12/26/2023,2/12/2011,Watch for excessive itching or swelling,fdb2cc9d-acb2-4170-a0bf-b8c272666f97,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+dd23a01f-c0cd-4449-ad79-1434c7e9cea4,Bordetella Bronchiseptica,3/20/2004,5/29/2014,Watch for excessive itching or swelling,2e6e18f4-6a77-461a-9a9b-5e53b4ed2012,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+c1274c25-9e8d-45ba-8bf4-1e06b0534839,Feline Leukemia,8/13/2020,6/27/2000,Watch for excessive itching or swelling,32faff9a-b68a-402b-8c9e-e30b51aa326c,f43409fc-6e08-4b76-822a-b1f151010f5b
+9474b381-3a91-452e-b044-52fd7d234706,Feline Calicivirus,8/24/2022,11/3/2024,Observe for signs of allergic reaction,efa44530-d0c6-427d-b471-fc591a47fae9,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+e6147128-fac7-46e9-8735-a0b91c1adc24,RCP (Feline Rhinotracheitis,1/18/2017,8/31/2008,Do not expose to unvaccinated animals for a few days,a6ccf259-d6b8-4bb2-8de7-f80625979d08,fd06252f-695b-42c5-bb7b-3050556b7cdf
+e863439f-2ca6-45b1-86a8-14481b1d56e7,FIP (Feline Infectious Peritonitis),7/16/2016,3/11/2018,Follow-up appointment required in 2 weeks,0951aa15-3041-4024-b4c4-6abbf56c6303,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+c71e43fe-19d5-4a8c-b152-1b94ae8e7d6e,Lyme Disease,11/19/2005,8/23/2010,Watch for excessive itching or swelling,5ac30d13-e122-4186-a978-65f23849829f,b80215bc-fe1b-4781-98da-6b63b6dd2469
+e2facdee-1c23-4c6f-83d5-6cf3004d61ae,Parvovirus,6/14/2020,8/20/2011,Common side effects may include mild fever,3237775a-58a8-4918-b161-69e0f7cfa512,b5f494d8-05cf-48d2-97b1-4cc74c26f9ab
+c4818295-5e37-4cbd-8d54-7d194885cef7,Panleukopenia),9/17/2002,4/21/2008,Do not bathe pet for 24 hours,adfa3be8-e8b8-4378-b9cd-82f17dce6eac,7a278e2d-3850-4e08-b66b-8810c81fb30e
+a3958116-6be6-4905-8581-ab550bd537c6,Distemper,5/12/2014,4/15/2015,Administer any prescribed post-vaccination medication,1ed8a34d-dc8d-43b1-b5a8-269859ca47d2,2b504649-8c6f-44f3-8d5e-d2f45d47deab
+a52805fc-95ed-4739-8f3e-144c452cca52,Hepatitis,4/26/2012,3/16/2015,Administer any prescribed post-vaccination medication,97a25edc-ed42-4917-810e-55bde52bc59d,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+edc4397b-c5ac-44f3-84be-37b5937d1a5c,Panleukopenia),6/16/2014,7/30/2018,Keep pet calm after vaccination,ceead4a3-ab2e-4c55-b5fe-84415bb65021,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+21251766-5023-4a33-b4d5-26d21caebcaa,Panleukopenia),6/10/2015,12/17/2020,Do not expose to unvaccinated animals for a few days,9759651f-644a-46e3-9bea-d8b23f664599,816d02ba-3bbf-4d46-b116-e33da7f614c9
+9a390830-a9ad-4f47-8b21-b55adf64dcea,Bordetella Bronchiseptica,3/13/2009,8/5/2014,swelling at injection site,12387f5a-6d27-4d41-9cc9-4e4eedf92525,fa708656-df65-46b0-b7a7-05d398594045
+348c57fa-f57b-4d9b-ae9f-8cce76531008,Lyme Disease,5/16/2024,6/25/2024,Vaccination may cause temporary loss of appetite,2f8c62da-853b-4d30-91dc-beef9a376ce8,105597e4-2d76-445a-9dbf-bde5a3b43468
+c06747d1-644e-4ca4-b887-7bec549dd3a7,Parainfluenza,8/9/2024,6/16/2016,Do not feed immediately after vaccination,8d3bfb0e-47c8-4dfa-93eb-be5f3393a619,1c42e31c-c28b-4345-8116-39641c629011
+864246c7-e8e1-4ff9-84f7-344ec902a45b,FIP (Feline Infectious Peritonitis),6/14/2007,11/23/2010,swelling at injection site,129dddce-b727-4801-b7ae-ada4001755db,816d02ba-3bbf-4d46-b116-e33da7f614c9
+51936894-9e95-43e4-b3eb-d3fa6062ba3c,Feline Leukemia,9/24/2013,8/12/2012,Ensure pet is hydrated,efa44530-d0c6-427d-b471-fc591a47fae9,869eecfc-f289-447a-abda-c96b192d9079
+f7cc0791-d7d7-4269-a10e-4c7ec32caf2a,Kennel Cough,7/30/2004,12/22/2008,Inform vet if pet is pregnant or ill,d0ec1cd0-1952-46b0-837c-4ee573b01e1a,b8c284f0-4876-4617-b087-5fe5b9485996
+99552cf0-bb12-455a-a2b7-044cf74e946b,Bordetella,10/6/2002,6/20/2007,Notify vet of any unusual behavior or signs post-vaccination,ab2c0e90-750a-4340-a2c6-49af96100dfa,5138111f-d091-413b-91ea-6e3775feaf50
+faeb9503-d747-4af2-bb9d-48789c22d21b,Feline Rhinotracheitis,10/31/2000,1/28/2016,Avoid stress for the next few days,e1d846ed-16af-42a9-aa64-32d2a66ed597,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+afb4c268-b69c-4e98-ad14-2bd18184ee1e,Parainfluenza,6/2/2008,12/8/2006,Inform vet if pet is pregnant or ill,1f4398bd-85db-4201-8fcb-2b0256fbd806,e30d0ea4-f63b-466a-917e-916943b69f42
+ed634fdc-f11a-40e3-99f8-83b023dfeb03,Parvovirus,4/17/2012,7/16/2023,Keep pet indoors after vaccination,fc1918e4-2cb4-4297-ac17-4c7378f9d459,d15a3590-f9ff-4cce-a728-56d6221344ba
+1abff50b-06bb-40cb-9572-6e6e64d176de,H3N2 Canine Influenza,11/28/2008,10/21/2018,Monitor for side effects,9edb3065-9fb9-4486-bf9a-9d85e9ebe6c3,8ffbf7a9-f8f8-4617-b701-0e2d1de36733
+81c34b37-8bd6-4677-b628-76dca884167f,Feline Calicivirus,3/31/2008,12/5/2005,Monitor for side effects,1e4b5267-fe5d-4fb4-97a3-4b4fe8d890b3,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+cd6cc3b6-bef9-458b-a332-a2819663d3b2,Rabies,1/18/2019,3/6/2011,Do not feed immediately after vaccination,756ecb0c-7955-4b41-a3d1-fd0323b7cd7d,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+27d4d6b9-f23b-4125-8d70-c1a9f8859aa6,H3N8 Canine Influenza,11/24/2006,12/8/2022,Do not feed immediately after vaccination,657278f4-1796-4bbc-8041-e4ea58723c39,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+f8da559f-f526-436f-987c-aba880f89361,Rabies,10/10/2006,6/8/2005,Ensure pet is hydrated,8f9871a8-a6bd-4f15-8e91-a9f740e6c4ad,fa708656-df65-46b0-b7a7-05d398594045
+07b2f16e-91c9-4b9d-95f4-f9e4709b3f18,Feline Leukemia,1/30/2018,10/28/2021,or lethargy,af202511-fa12-437d-bbca-203adf69817b,9ee0535d-01e8-499d-ad87-ac1f07201d3a
+6771ad38-ff33-4e9e-8673-286538b9f526,Calicivirus,11/25/2006,6/28/2011,Monitor for side effects,eea32b22-e3e6-4c24-bd97-86a026095d6f,3889a284-e09b-4474-9570-0900d8832a1d
+fc8a4b38-a5da-49f8-97d1-caf785377e4d,H3N8 Canine Influenza,7/30/2007,5/12/2022,Follow-up appointment required in 2 weeks,78b73a45-f9b1-49f9-a9e6-7a53094957cc,6fa17213-2997-478f-88e3-7f421a65d670
+14d2f0cb-6b5b-4991-a9fc-94035d727502,Parainfluenza),9/20/2006,2/21/2016,Common side effects may include mild fever,44c789bb-51a8-4c5b-b0e6-97aa3969e71d,9b6f2907-e03b-468e-a800-42764939c755
+137187dd-23e2-433e-a349-ae20c4118b1e,Leptospira,1/24/2019,11/29/2002,Notify vet of any unusual behavior or signs post-vaccination,e07692ed-96f4-4804-a609-ceb62b2c8a82,58834369-c955-4e18-a6e1-62214dbea66d
+f1db2178-4822-497d-832e-1731582bd68b,Parvovirus,12/22/2007,4/29/2022,Administer booster shot in 3 weeks,1a8ec2d9-3ea5-4de4-9bec-2258e28491ef,80ba6dea-0188-4dcd-b625-2a6960147fca
+4a717fb9-fea2-4bf2-b5ee-be2b127684c8,Hepatitis,12/31/2006,12/8/2014,Avoid stress for the next few days,7a51f436-9a32-4536-bc1b-346d5e49d70b,d3e25d60-5188-44d7-b270-9838793a6661
+89ed961f-9c59-469b-8507-f17718bdabe1,Parvovirus,7/2/2019,10/13/2016,swelling at injection site,faf9ea24-6d04-400d-bb1b-7db0458d8080,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+544bb9eb-b07d-49ab-87f2-86edf678c5bf,RCP (Feline Rhinotracheitis,7/30/2012,6/30/2001,Do not feed immediately after vaccination,cdefc6af-a8db-4ec9-a427-0a3633bdf986,46a18e9b-874f-465c-9eeb-9f42b5c782de
+60e7559c-77b1-4ef0-b57c-fe0e84830a04,Hepatitis,2/17/2014,3/21/2010,Follow-up appointment required in 2 weeks,b2e4da60-9a59-465f-b9d8-ba7567589194,c1ef28d6-ed37-4772-932d-1c00976284d9
+c9d6b223-e05a-41db-a615-aa49149e59ee,Parvovirus,2/20/2020,2/13/2013,Observe for signs of allergic reaction,4f1ca377-9235-42f6-816c-584b8a6f3e00,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+9dc7858c-8377-4e9d-9916-44bbe89216d8,Kennel Cough,2/6/2007,12/28/2024,Follow-up appointment required in 2 weeks,2367d2fc-bdc1-4402-aab5-4e20e7af8274,b8c284f0-4876-4617-b087-5fe5b9485996
+e5b3ca7d-3017-4f78-96a2-03ed32d71a83,Bordetella Bronchiseptica,3/5/2021,3/5/2014,Administer booster shot in 3 weeks,b4556c90-88ae-49eb-a24c-dd76cb758ec3,95f7dd28-b84a-4567-81c0-e53695328131
+f21b9b42-9418-499b-bc61-0cded3e8868d,Rabies (3-year),3/27/2001,8/27/2012,Do not feed immediately after vaccination,13df93bf-e079-444c-b0f1-bd237586e3da,1dc3a843-bff8-4aaf-8900-61d38a92e100
+cf2ba92c-872b-4e1d-b351-c6f562d169fe,Adenovirus,11/27/2023,7/6/2011,Ensure pet is hydrated,4fd24f65-2c91-4e41-b202-dd26e84804cf,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+d727ce9c-dc9c-400e-8dd5-bc862091a1b7,Feline Leukemia,11/29/2009,3/22/2018,Ensure pet is up-to-date with previous vaccinations,cdb54622-9949-4ff3-a811-d54d8f91f8bd,fdabea79-f3ff-4311-93b4-9976c17350f5
+14c83ca0-74ce-416d-8eca-9586aef5c7bd,Leptospira,11/14/2008,6/26/2021,Keep pet calm after vaccination,130b5e46-871c-48f5-bde2-b08cef09f7a7,9b6f2907-e03b-468e-a800-42764939c755
+443914ac-4e89-4078-bb21-e653a6a16bb1,Feline Rhinotracheitis,8/8/2016,6/18/2009,Vaccination may cause temporary loss of appetite,b0eb7254-70fb-4563-af51-ca8d5ec4f950,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+19121aed-3b90-4ef4-8ad6-4b9b6558226e,H3N2 Canine Influenza,10/14/2002,12/11/2015,Keep pet calm after vaccination,c2d0ad91-fd6b-4dbf-99e3-6929b76c60ac,5f897080-971b-414a-836b-f285cdd7664d
+fd2e3ec6-88af-455d-8579-dd93afb82043,Panleukopenia),1/29/2025,2/12/2019,Keep pet calm after vaccination,7530e934-d46c-469b-b6b6-4775637fe0f3,4168f51d-c2fe-4952-8416-57868f4035e0
+a4060a85-3ca4-47ac-b4b5-9c083c1085b9,Hepatitis,9/2/2001,10/20/2002,Avoid stress for the next few days,0c619f11-8b8b-4b3c-99d7-d1b4c5c9901a,95f7dd28-b84a-4567-81c0-e53695328131
+e89be5bf-2ffe-49e7-94d1-da599ba9a91b,Feline Calicivirus,8/24/2007,2/26/2009,Vaccination may cause temporary loss of appetite,b96cd56f-c123-4edf-b364-46cd0d6c9d95,fd06252f-695b-42c5-bb7b-3050556b7cdf
+0807d266-16f4-4131-8730-ff070be04b38,Parainfluenza),1/23/2012,8/11/2022,Vaccination may cause temporary loss of appetite,aaa41528-d2cc-438f-acb3-91bad204c94a,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+044365fb-6a7c-4be5-bf0c-1451f8970912,Hepatitis,11/9/2017,4/4/2012,Ensure pet is hydrated,5464b7ec-5901-4646-bb5b-245cefacdd3c,8107fe7f-b2ed-410c-bee6-e4031dad6450
+721555bc-ad84-4ff9-baa0-aa482de2b33b,Distemper,1/17/2025,11/16/2005,Observe for signs of allergic reaction,61c99207-4e6f-4b22-ab54-ec93e8bf3d3f,46a18e9b-874f-465c-9eeb-9f42b5c782de
+c4f23d9e-b330-4796-8010-5b8e17a4c01e,Rabies (3-year),10/17/2021,6/21/2012,Check vaccination record for upcoming boosters,77949b3f-457d-4e0d-99e0-a1871877606a,d3e25d60-5188-44d7-b270-9838793a6661
+1690e5c1-cee2-40d5-8fbe-cecb14fb4b92,Feline Calicivirus,3/8/2020,6/20/2016,Administer any prescribed post-vaccination medication,bdecc5ff-1be5-4e5d-98d6-eaf137bd1a1b,82852627-7d5e-4d6e-8721-4a2572fe0a35
+6de8117b-3d48-410c-83ca-370c57a2368e,Feline Chlamydia,2/23/2007,5/5/2008,Monitor for side effects,23a26a73-d271-4886-8d72-f3cf435196de,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+e95c6290-f8d3-4126-a030-2e9250177b4d,RCP (Feline Rhinotracheitis,2/8/2014,10/14/2009,Vaccination may cause temporary loss of appetite,849772cd-2337-485e-ac23-9da0738e0f2e,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+50551f9d-f2cc-4db0-9935-b499f61dfc8d,Feline Calicivirus,6/1/2005,10/23/2005,Administer booster shot in 3 weeks,95f202b1-53d9-4207-9f95-2c37992b74fc,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+73c70424-c11b-43b3-ac55-ec356ad99231,Parainfluenza),7/3/2003,2/13/2007,Keep pet calm after vaccination,af202511-fa12-437d-bbca-203adf69817b,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+c09b913f-aca5-425f-904c-5bcc0c63e8f2,Hepatitis,1/3/2001,1/10/2011,Check vaccination record for upcoming boosters,fb722a1f-1da9-4095-970b-7a83962507d5,e502413f-1446-4859-ad29-42cf0b23affc
+f4044487-6274-4baf-a167-9b661bd7f83c,Calicivirus,12/11/2022,6/14/2004,Administer booster shot in 3 weeks,c02153b0-21c8-47e6-a572-4c972d1b1ecb,df24be23-3319-49ac-a0cf-bacd4af8629e
+ca13f39c-49eb-4fba-a0a1-8ec2189a5d5e,Parainfluenza),3/20/2013,8/13/2019,Monitor for side effects,4b40d7ca-e27e-40f5-bed1-8ea599e5e388,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+632701d3-cd8c-44e1-be3a-926878bbcaa9,Hepatitis,3/12/2009,8/14/2000,Do not feed immediately after vaccination,cda1676e-aa8d-4c8e-bd30-d3e69804dbc3,46a18e9b-874f-465c-9eeb-9f42b5c782de
+1b206009-a9d3-45e6-9616-22a3155dafa4,DHPP (Canine Distemper,5/2/2019,10/23/2022,Administer booster shot in 3 weeks,ffadda56-6cab-4558-92a9-fc0e23ea20b8,d3cee14d-a1c3-4e19-ab98-92b4990320de
+b2124f7d-423e-4bc5-9a81-e6561a650eef,Calicivirus,5/13/2014,1/17/2024,Monitor for side effects,800462fd-14f0-4e1e-b1b7-338dbcad1b36,22cfc2d6-a583-4199-a599-69af90e6be42
+2118e0b7-74f3-49d8-b96d-94b8951ed492,Leptospira,4/3/2016,11/7/2010,swelling at injection site,05b68909-d1db-4382-b1a0-bf35abacd281,80ba6dea-0188-4dcd-b625-2a6960147fca
+259e620f-12c5-41e6-a5d5-cc57cbc38a80,DHPP (Canine Distemper,1/10/2003,1/25/2010,Check vaccination record for upcoming boosters,bc4e8803-d22a-4c91-b29e-a6d2f47bfa8f,105597e4-2d76-445a-9dbf-bde5a3b43468
+4e297794-d1fd-4e25-a99f-22d3bab48320,Lyme Disease,6/7/2013,5/27/2014,Monitor for side effects,cc625c43-53cf-485d-937e-b64cb0969119,4a845538-fa02-4876-a72a-6362160493fe
+50466b34-3309-4eff-a46d-11042450600f,Feline Chlamydia,7/19/2003,12/14/2003,Common side effects may include mild fever,d68e5572-4d2c-484e-ab85-e87126248d5d,6b000f15-eaa0-4b50-84c5-386276863b15
+bd0c8efb-10f4-43d5-a51a-e3c56038a650,Bordetella,12/27/2016,9/8/2015,Ensure pet is up-to-date with previous vaccinations,068d19f6-6285-4bf4-a129-c310f4493dab,06879170-70e7-47e0-804c-214d61f5d003
+544ab0a7-6811-4f5f-b38a-1f0d5e51dc30,Rabies,8/28/2005,4/10/2015,Notify vet of any unusual behavior or signs post-vaccination,b5b080a0-b1d3-4606-b187-d43e36304a9c,fd06252f-695b-42c5-bb7b-3050556b7cdf
+ef531b2d-0961-411a-8056-47dc5b4252dd,Adenovirus,3/22/2006,8/17/2024,Ensure pet is hydrated,b0df19e1-8d94-42ff-8c13-96e6c389501a,30e5dac2-99e4-4a74-852e-b400c2018e19
+9d4d2834-e13e-4ce6-8c42-21eccb64edd6,Rabies (3-year),4/20/2018,8/25/2013,Administer any prescribed post-vaccination medication,70999efa-cf49-46dc-9cdf-87afe1d7d146,06879170-70e7-47e0-804c-214d61f5d003
+81fadca5-bfda-478a-8385-a6cbd072c6bc,Bordetella,11/17/2014,5/7/2022,Vaccination may cause temporary loss of appetite,2f8c62da-853b-4d30-91dc-beef9a376ce8,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+b8462ce5-e3c5-4dc4-af01-25a558ccc2b9,Feline Leukemia,2/17/2021,4/19/2002,Common side effects may include mild fever,d95f48cc-616a-4d5d-83ff-96027977d47d,6fa17213-2997-478f-88e3-7f421a65d670
+ee95135d-1a3b-467d-a7c1-04d201c32b19,Feline Calicivirus,1/6/2020,7/14/2013,Keep pet calm after vaccination,fa9c6476-df8a-4e72-8606-a335d1b159ad,95f7dd28-b84a-4567-81c0-e53695328131
+653d19c4-6aa0-4975-9342-e8365c752d40,Parvovirus,1/17/2024,4/4/2013,Administer booster shot in 3 weeks,a7ce1d5a-1645-4f5c-9d65-aea24e4d266e,d3b1e076-fa39-451b-978c-1ec5f2ab9e62
+25a20bd1-7880-4b3c-831c-93841ae51dfa,Bordetella Bronchiseptica,5/13/2018,9/29/2021,Common side effects may include mild fever,b2a04c9f-ca6f-40c0-b915-9c85da5b003e,3889a284-e09b-4474-9570-0900d8832a1d
+9bc070c8-dc18-470b-829a-15b0e0886f9f,Feline Leukemia,8/14/2008,12/28/2013,Watch for excessive itching or swelling,9759651f-644a-46e3-9bea-d8b23f664599,10fcbf43-8537-4af0-900f-a2fd5d375c54
+430ba6cd-400f-4abb-91e0-c4da0373e461,FIP (Feline Infectious Peritonitis),1/18/2021,3/18/2001,Check vaccination record for upcoming boosters,7609f729-8578-4b1b-96ee-3b30c08ffc49,8107fe7f-b2ed-410c-bee6-e4031dad6450
+3cbbd566-c91f-4c1f-9265-c60f249f13dd,Distemper,5/12/2011,12/8/2001,Inform vet if pet is pregnant or ill,fa5bc1aa-2c39-46b6-9730-be031bc35ee6,bd837107-da76-4455-ab90-2f15ed49f2ed
+a40f34ba-e27b-4a0e-970d-e73e7ac96dff,Hepatitis,5/10/2012,7/3/2005,Administer booster shot in 3 weeks,bc4e8803-d22a-4c91-b29e-a6d2f47bfa8f,1c42e31c-c28b-4345-8116-39641c629011
+4645c8ac-2d48-44d8-9eec-26cd4dccf035,Calicivirus,11/10/2016,10/6/2008,or lethargy,77249a40-6e97-415c-a4c7-06c75a7a213b,fd06252f-695b-42c5-bb7b-3050556b7cdf
+e7605c3d-0fde-432f-abb9-26f822442256,H3N8 Canine Influenza,9/26/2007,1/16/2009,or lethargy,8d3bfb0e-47c8-4dfa-93eb-be5f3393a619,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+cf047e9a-dd89-49d3-8269-83231c0d18ee,Parainfluenza,1/19/2023,5/26/2001,Watch for excessive itching or swelling,9fa27500-109b-4d28-93e2-8064e0ccc4c1,04503ce2-1243-46f9-ae42-1af6f8ad168b
+2b02e058-116e-4341-9e64-58253af8f187,H3N2 Canine Influenza,7/3/2022,8/5/2007,Observe for signs of allergic reaction,83e178a5-f15b-4bc7-9bb9-37beca36088a,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+15cc2422-3ec5-4e45-b624-9d97dc98298a,Distemper,2/27/2025,3/2/2025,Vaccination may cause temporary loss of appetite,dae3f1c9-588e-44fd-b076-b4f60c49dca7,d01b7e67-8401-4e15-b7f3-a215096b478c
+a328cc30-033c-4913-ad57-3a31189bbc87,Hepatitis,3/24/2005,11/21/2024,Avoid strenuous exercise for 24 hours,9edb3065-9fb9-4486-bf9a-9d85e9ebe6c3,1c42e31c-c28b-4345-8116-39641c629011
+fb78d5b3-48d1-4150-926a-0df48583ecbc,H3N8 Canine Influenza,12/17/2012,6/30/2011,Keep pet indoors after vaccination,4fd24f65-2c91-4e41-b202-dd26e84804cf,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+c6175fc4-ffdc-4374-b8ba-cb55e0e87e99,Lyme Disease,4/11/2003,5/15/2001,Notify vet of any unusual behavior or signs post-vaccination,9cac5006-6131-4f27-861e-ec24afeb778b,6cf5e671-a006-4a0a-a550-87b2a42e0123
+27a0ae4d-408f-4495-bd25-1efd8fdc16ee,RCP (Feline Rhinotracheitis,11/28/2000,1/14/2014,Notify vet of any unusual behavior or signs post-vaccination,c09ca923-2e35-4806-9ab7-a5c0f2c5da08,3c3068a5-c174-476a-aba0-6d6d40d097ce
+d541b612-c5cc-4f35-bb8d-859090899367,Rabies (3-year),5/24/2003,9/2/2016,Avoid stress for the next few days,d01d5b31-7f79-4821-9509-6e9b1788029a,956c1eba-3a3a-4144-93eb-bb682410af5b
+e1ceaffd-fdcc-4a27-a493-7d9717acb68e,Bordetella Bronchiseptica,8/23/2006,11/28/2021,Administer any prescribed post-vaccination medication,b3a5dd66-0876-4ab8-8edc-700754c26428,046e7437-99b9-4910-810c-ba512baf5dc9
+c670a54e-7105-4650-b1b1-83d7eafdbc34,Feline Panleukopenia,3/27/2006,4/6/2022,Check vaccination record for upcoming boosters,b729e684-907f-4c54-ac17-5ea91087b3d6,8b3bf1eb-e145-4462-b600-02bb14e25c69
+dffefcc7-5aa3-4761-a00a-46adfb4b34af,Calicivirus,8/27/2021,5/10/2020,Do not bathe pet for 24 hours,95e8f4ea-50bf-491b-a649-4b1864673b68,5f897080-971b-414a-836b-f285cdd7664d
+d9c3306c-a3d3-401e-a7fc-2ad4beb542a5,Parvovirus,11/25/2001,3/14/2006,Observe for signs of allergic reaction,ff934437-8570-4a1f-bb0c-4e0f6caaf470,d3cee14d-a1c3-4e19-ab98-92b4990320de
+a612d8a8-d98f-401f-9e41-b3f29122098f,Rabies,1/24/2022,11/6/2007,swelling at injection site,027ed66c-bb1d-4dab-9076-67c814f1563f,8107fe7f-b2ed-410c-bee6-e4031dad6450
+c369a21c-3d7d-42fc-8ab3-9cdd928abc20,Leptospira,10/24/2022,5/31/2022,Avoid stress for the next few days,cd5ed4c5-9469-443e-846b-05075a64f553,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+9ec9e6a3-e2f4-458b-be8a-858ae8d9e891,H3N8 Canine Influenza,7/27/2012,11/16/2014,Watch for excessive itching or swelling,96c8922a-4db5-49b7-be1e-8a11445e9863,39305a66-22f1-4f41-a3ca-438e5ac802ea
+4577ecc4-8c8e-4a78-86ef-f4ef4d03f5e8,Feline Chlamydia,4/17/2008,10/31/2017,Inform vet if pet is pregnant or ill,abcc5604-0a3c-40f9-a3c7-238c2ad3b784,ea3e2dde-50c4-4441-ad45-fbc007839840
+23f47cb4-18ac-4a86-a7cd-021b94b19e6c,Feline Calicivirus,5/8/2023,11/21/2003,swelling at injection site,caf82e82-ed24-4545-83d9-e2fe0d32a200,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+eaf8b44c-8a38-4d60-8697-031d14337319,Kennel Cough,1/10/2019,3/30/2001,Do not expose to unvaccinated animals for a few days,81edc088-b15b-41b4-b83a-1286a28abe26,f9afc424-5634-40df-ae60-96d332a70aa6
+87ede1a4-9f7e-4522-b580-5a37c0606e27,FIP (Feline Infectious Peritonitis),6/4/2023,11/23/2006,Vaccination may cause temporary loss of appetite,a20b67cf-3e27-4e49-a8af-6d2cbb168bf5,95f7dd28-b84a-4567-81c0-e53695328131
+d5aaec8a-93b8-4ac5-8dc4-ed831fdb981e,Leptospirosis,5/30/2021,6/2/2008,Check vaccination record for upcoming boosters,58f6ab49-432a-4f9e-81d0-7d4941bb4b64,8107fe7f-b2ed-410c-bee6-e4031dad6450
+3f489505-4fb7-4c5a-b077-e8335a9f54b1,Calicivirus,3/1/2003,9/16/2012,Ensure pet is hydrated,b806a382-066b-43cd-a0eb-d3bb4abe6652,de52a307-8248-4c00-977c-f4160d9cd3e8
+6808da87-a5ea-48b3-bcf0-62bcb707c1e8,Adenovirus,11/25/2016,11/16/2007,Vaccination may cause temporary loss of appetite,94b0897e-ab43-49b1-8172-7caa1edbb95a,6cf5e671-a006-4a0a-a550-87b2a42e0123
+3ace6484-590c-4e7a-9131-4a04864ba29a,H3N2 Canine Influenza,3/12/2008,8/9/2009,Inform vet if pet is pregnant or ill,fae181b5-3e54-48c1-91ff-ccc54cc5e6b2,fa708656-df65-46b0-b7a7-05d398594045
+61df8981-8a09-4a87-ad73-389d3de825da,Leptospirosis,6/12/2014,10/26/2021,Watch for excessive itching or swelling,cdefc6af-a8db-4ec9-a427-0a3633bdf986,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+0196f541-94ec-4c38-a9b1-612f924f6d3c,H3N2 Canine Influenza,11/14/2005,3/7/2004,Monitor for side effects,7c624bf5-2163-4593-9f84-c4e4ba8ae6fc,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+2178eac0-c00f-4270-9c5e-2364148f15ee,H3N8 Canine Influenza,5/23/2013,12/11/2020,Ensure pet is hydrated,7587acf0-1dd0-4dd5-b5e4-f6910fa261db,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+89ea996f-6d5d-42e0-ac2f-919118be465d,Parvovirus,4/6/2000,11/21/2023,or lethargy,59605902-8bff-49d0-a586-36f53646819b,9ee0535d-01e8-499d-ad87-ac1f07201d3a
+4f478b9f-74ff-40fa-9b83-27bd67ffe0e2,Feline Calicivirus,7/10/2011,4/20/2019,Do not bathe pet for 24 hours,a7ce1d5a-1645-4f5c-9d65-aea24e4d266e,e9e79837-7736-46ba-980c-9590776a4e68
+f177c3dd-9508-4123-baad-d4f2647ad26c,Feline Rhinotracheitis,5/26/2018,6/17/2016,Keep pet calm after vaccination,88fdf28d-2ddc-4d75-9364-74c765f50d99,22cfc2d6-a583-4199-a599-69af90e6be42
+85cd77bb-c398-4170-b867-db769c252c8f,DHPP (Canine Distemper,4/2/2002,6/29/2022,Observe for signs of allergic reaction,0e41b120-0e98-4d71-9b06-92b91a61a694,ea3e2dde-50c4-4441-ad45-fbc007839840
+259512d5-4e7b-408a-891b-f9746896fba0,Panleukopenia),8/20/2000,6/12/2024,Check vaccination record for upcoming boosters,7696e69c-2427-4fc1-8a56-21691daf8aa4,8ffbf7a9-f8f8-4617-b701-0e2d1de36733
+842b4639-6ccb-4f32-98b3-22e4794661df,Feline Panleukopenia,4/10/2008,3/9/2024,Ensure pet is hydrated,d82d3bcd-974d-4dde-9771-c590b5da0c34,fa708656-df65-46b0-b7a7-05d398594045
+f33747a1-3eff-42dc-b888-0d1777502696,Canine Influenza,6/21/2001,7/11/2019,Monitor for side effects,3444665e-ca20-42b2-9e4a-d59ca9539bb7,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+e0e4a8e4-98d0-4ace-ade8-cabd863fd062,H3N8 Canine Influenza,7/31/2011,5/6/2017,Common side effects may include mild fever,2bc6488d-c085-4162-9001-fb8f2af42ee6,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+009d968d-6f52-4681-a7c2-f804e7ad722d,Hepatitis,10/25/2011,2/25/2012,Follow-up appointment required in 2 weeks,5b842675-36fc-4ef1-b183-48f5cd85a740,d01b7e67-8401-4e15-b7f3-a215096b478c
+afb84b5f-ed59-4ad5-9608-6c38a8e767c6,Feline Rhinotracheitis,8/30/2006,10/26/2013,Ensure pet is up-to-date with previous vaccinations,0ff70ff6-4c2d-4e13-87a0-e6631672a6b1,d43a714f-e588-45a0-89db-17076cfbc3ab
+458d36b2-2780-4ebd-a012-54bdb49dd556,Adenovirus,10/6/2024,8/8/2012,swelling at injection site,9fbab8d7-2a5e-44d2-ad66-86a632d0d413,b894e284-d6ea-487f-a6b8-a77c33ade36d
+db0f85fb-c518-46ad-b044-dd00a779aea1,Hepatitis,6/13/2020,1/26/2013,Do not expose to unvaccinated animals for a few days,9be4958a-37c6-4939-8143-265111a1a8c3,80e707c4-4c40-40f5-adc9-927fcae80f17
+4479ac8e-44c2-4466-b14e-367560795ec4,Kennel Cough,4/6/2003,3/29/2013,Notify vet of any unusual behavior or signs post-vaccination,b2e4da60-9a59-465f-b9d8-ba7567589194,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+15f3c7d7-30c8-4c49-839b-0fe7fd1c3ef2,Panleukopenia),4/29/2003,12/12/2006,swelling at injection site,8b898ef6-4a22-49b6-8ba1-a0acc964e3f9,e1ddc76c-3d35-47c9-b6b2-d8655a809d57
+625abd47-a077-4fc7-9081-620e3443fca0,RCP (Feline Rhinotracheitis,10/30/2005,2/6/2011,Do not expose to unvaccinated animals for a few days,29802eba-4f5d-46f5-a5bb-340c050c9509,82852627-7d5e-4d6e-8721-4a2572fe0a35
+c97ab187-f919-4d8f-82d0-9158df56ec0d,RCP (Feline Rhinotracheitis,11/27/2003,3/7/2009,or lethargy,41e27374-efd7-470d-a8ed-4ad51ea096a9,d3ead0f3-f2ff-4a9d-bbae-6fedf298b34f
+b3500240-3374-46d0-bbdc-f039c08133ef,RCP (Feline Rhinotracheitis,1/22/2023,11/17/2021,Keep pet calm after vaccination,ab2c0e90-750a-4340-a2c6-49af96100dfa,30e5dac2-99e4-4a74-852e-b400c2018e19
+8807c54e-6491-48c1-84f6-c9053ccc806c,Parvovirus,11/16/2024,7/8/2003,Observe for signs of allergic reaction,c7c0af68-6b0e-43b2-adf8-4c784db05ee4,75139bb8-d800-42c7-9545-c9d3cfa628c1
+207472c5-6f94-490d-b2a3-c13c565b16fb,Lyme Disease,9/7/2015,7/11/2000,Observe for signs of allergic reaction,627d7686-39af-4fbc-9974-52395803caae,8ffbf7a9-f8f8-4617-b701-0e2d1de36733
+954a7a38-f901-48da-9c61-7bc753353e2d,Adenovirus,8/26/2003,1/27/2021,Vaccination may cause temporary loss of appetite,7e3ac777-1f84-4ef5-83a4-3723a9e7b82c,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+02005968-1b9d-4389-b013-35588f1a8217,Parvovirus,7/1/2014,4/3/2016,Common side effects may include mild fever,88902bcf-4e25-425b-ba18-260fd4999679,90f8c645-608f-4326-9683-6e9b91e1c469
+8ca97fa8-4261-4f7f-b896-b761b5eeda21,Feline Panleukopenia,7/24/2016,1/26/2018,Do not feed immediately after vaccination,447dc1b3-313b-4b94-8c9e-85be638de666,e35e3077-e068-434f-b35b-34afcae9c7d4
+c9cbf17b-9cd6-4163-994f-244d12b3a620,Feline Leukemia,3/7/2013,3/16/2009,Notify vet of any unusual behavior or signs post-vaccination,a26603bc-9fec-4f89-ac70-d452b0b775f2,80e707c4-4c40-40f5-adc9-927fcae80f17
+2b4775b2-b5f9-4c0d-872a-cb8749864870,Feline Rhinotracheitis,4/12/2009,3/26/2020,Administer booster shot in 3 weeks,1f4398bd-85db-4201-8fcb-2b0256fbd806,e9e79837-7736-46ba-980c-9590776a4e68
+4ed0b5e2-49e8-4af5-94b0-039c21f39d02,Parainfluenza),11/19/2021,1/25/2011,Watch for excessive itching or swelling,09c1ea0a-6710-4d1b-bed8-5396475c5c12,fa708656-df65-46b0-b7a7-05d398594045
+cd579735-8069-45b2-ad53-28e3a8863bbb,Feline Rhinotracheitis,1/14/2017,12/13/2013,Administer booster shot in 3 weeks,5497b1fb-2fbf-40e0-8f29-7f385a9c9366,9028ba15-2fb3-4724-a2f6-dc3a41079583
+133a72f1-5d33-4d6e-a1bd-ad35f8d3e9be,Lyme Disease,12/26/2021,2/16/2022,Avoid stress for the next few days,b802b0d7-da8e-4ec5-a924-57c1e1a05bb9,b8c284f0-4876-4617-b087-5fe5b9485996
+ff46e49f-e135-4334-b487-62bca395aced,Feline Calicivirus,6/28/2021,9/17/2015,Administer any prescribed post-vaccination medication,3d621d45-2391-4c6e-88db-02a0e4028685,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+52963eb0-4ae1-490e-aae0-fd794e0cd867,Panleukopenia),3/6/2013,7/5/2009,Keep pet indoors after vaccination,9fbab8d7-2a5e-44d2-ad66-86a632d0d413,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+5ab35790-0421-4b74-9a3c-86f90f294590,Feline Calicivirus,9/1/2013,11/8/2018,Check vaccination record for upcoming boosters,10ecee5b-d158-40b7-af44-87539370238b,4168f51d-c2fe-4952-8416-57868f4035e0
+ca4fb75c-9bd3-4b35-98f2-c34037100be8,Leptospirosis,8/24/2016,4/19/2015,Do not feed immediately after vaccination,4039c7c6-b9b3-45e5-90eb-dd20a3da6d06,f9afc424-5634-40df-ae60-96d332a70aa6
+42dc2a84-d9ee-4989-afd7-8f2071e0a84f,Hepatitis,1/19/2019,1/14/2001,Do not feed immediately after vaccination,6e472953-640c-4332-b855-0d45ad4a01a5,d2f12571-b206-4b77-a85c-5a887bc11300
+99f7ce06-b6f5-49bf-bb84-548aa17fc851,Parainfluenza,8/27/2008,2/14/2018,Vaccination may cause temporary loss of appetite,3fab74fe-ad48-4fb0-a8a3-ea2edf71c6d5,46a18e9b-874f-465c-9eeb-9f42b5c782de
+3ed623ef-9a7a-43a2-bf6f-e41fd7cb418b,Feline Leukemia,3/31/2025,5/10/2008,Keep pet calm after vaccination,3237775a-58a8-4918-b161-69e0f7cfa512,5f897080-971b-414a-836b-f285cdd7664d
+78291b06-26e9-4761-9ae8-f41bffdf7a47,H3N8 Canine Influenza,3/15/2020,9/10/2021,swelling at injection site,59281984-ea6b-423a-a868-a7a602d8738d,7d70ed67-a9b0-428b-a58d-04291a486adb
+34469704-b096-49ca-84e2-eb51f8c915ad,Rabies,7/1/2001,6/16/2015,Observe for signs of allergic reaction,60de1c36-b269-4862-a123-d2a49b37d90d,d15a3590-f9ff-4cce-a728-56d6221344ba
+51f28568-d67d-4d6e-a8c6-fb9ed0e57b5f,Calicivirus,2/14/2009,5/18/2008,Observe for signs of allergic reaction,a15dee96-7e82-4cdb-aa37-adde6776c726,e35e3077-e068-434f-b35b-34afcae9c7d4
+74f6619a-20a7-43ff-9e02-41837348d96b,Feline Rhinotracheitis,5/26/2018,9/8/2011,Common side effects may include mild fever,4e644076-1568-408e-bef9-4239fa92ee76,90f8c645-608f-4326-9683-6e9b91e1c469
+344a946a-71ca-4cb9-b4d0-fd1f1dce86c6,Calicivirus,10/8/2018,7/16/2023,Vaccination may cause temporary loss of appetite,026dc48f-1220-4296-befe-981f6790f06c,b80215bc-fe1b-4781-98da-6b63b6dd2469
+4305e0d0-cc3c-4019-aca1-263cd170829e,Tetanus,4/28/2017,7/6/2004,Observe for signs of allergic reaction,a98c5490-67b3-4cda-a84a-ddc2add79632,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+5d6b643f-4998-4d86-85d1-5804e757dd90,Bordetella,1/20/2006,10/27/2022,Administer any prescribed post-vaccination medication,b6b3bc2f-52ae-4d11-ad80-d1ddc296e4e3,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+0efc73bb-640d-4c8a-93db-cc425571c1dc,RCP (Feline Rhinotracheitis,11/7/2014,8/10/2015,or lethargy,f7abc95b-584c-4e0f-b790-f71d2a340dc2,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+f087f145-2556-4442-9f89-dddc1d11b2aa,FIP (Feline Infectious Peritonitis),12/20/2008,11/29/2022,Follow-up appointment required in 2 weeks,55ad24f8-9c14-47c7-a80a-50bbc4ff31ee,53f34619-10ca-4e6b-9bb9-98af7cf40298
+da1f5c8d-29e7-491e-81f7-8142511221e0,Parvovirus,12/31/2010,11/22/2019,Notify vet of any unusual behavior or signs post-vaccination,d01d5b31-7f79-4821-9509-6e9b1788029a,39305a66-22f1-4f41-a3ca-438e5ac802ea
+a07e0642-5f98-4f62-8f1f-85949396ea5c,Lyme Disease,5/12/2001,5/16/2017,Watch for excessive itching or swelling,15728fe6-2f41-40fc-b58a-6ea20520de2c,6b000f15-eaa0-4b50-84c5-386276863b15
+b7cc82d8-04ca-4e70-8e45-4631c814a160,Parainfluenza,8/11/2008,9/27/2022,Keep pet indoors after vaccination,e80b9a3f-88c1-4027-9757-b8a8c84bddcc,046e7437-99b9-4910-810c-ba512baf5dc9
+2d1daa19-ee90-4ca1-8e83-a9d72c977f09,Kennel Cough,2/1/2025,5/7/2014,Vaccination may cause temporary loss of appetite,bf2efc5e-10a4-4754-8d90-307d4fb36211,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+720c428b-c661-4d0e-9419-2af0078e375c,RCP (Feline Rhinotracheitis,11/17/2006,6/23/2020,Inform vet if pet is pregnant or ill,d01d5b31-7f79-4821-9509-6e9b1788029a,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+80dda728-25ba-46f6-a01a-31158b94a49b,Panleukopenia),11/2/2004,5/19/2009,Ensure pet is hydrated,a9098263-6436-48ad-804b-1700696f24d7,5138111f-d091-413b-91ea-6e3775feaf50
+34cdc44c-0fef-4beb-9689-01d6b5f28197,Rabies,7/7/2007,10/20/2024,Keep pet indoors after vaccination,be3db934-cad0-4a9c-b76d-a34579d7c918,36cf5e41-9389-49c2-a270-f71fed091abf
+285c7138-293f-44be-9095-604790408685,Feline Chlamydia,5/6/2014,6/29/2004,Do not feed immediately after vaccination,efdf1d10-b7fa-44f8-8b3c-838755cc2121,10fcbf43-8537-4af0-900f-a2fd5d375c54
+c639cb0c-5408-4e13-9d21-340c03524a8b,Feline Chlamydia,6/18/2003,11/8/2020,Keep pet indoors after vaccination,7b6434b6-e3b9-45cb-a1a7-cc5e6e3d2c28,8107fe7f-b2ed-410c-bee6-e4031dad6450
+297378ed-3e94-4787-bc9a-61a3cc4b8755,Rabies,7/25/2015,6/12/2009,Avoid strenuous exercise for 24 hours,79d6ca70-eaa8-42cc-9324-8ede7331f90d,9028ba15-2fb3-4724-a2f6-dc3a41079583
+eba827bb-03c8-4b0a-9a3f-453ce8cc19e1,FIP (Feline Infectious Peritonitis),9/18/2015,4/27/2021,Keep pet indoors after vaccination,8f242f5c-c178-44c4-92cc-df30cddf8472,816d02ba-3bbf-4d46-b116-e33da7f614c9
+41e4223a-304b-4d4e-b751-90a9e76c8aa9,Parainfluenza,1/18/2009,4/5/2006,Monitor for side effects,add25e35-e056-456c-bb6b-1047ff57ee82,7d70ed67-a9b0-428b-a58d-04291a486adb
+61831f32-502d-47de-ba60-38d9311d6cb1,Feline Leukemia,2/8/2015,11/4/2017,Observe for signs of allergic reaction,861002c7-7394-4522-862b-0d446b096484,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+21d8c299-ccfd-4359-a78f-9ecfdf2ee5bf,Canine Influenza,7/23/2015,6/20/2001,Watch for excessive itching or swelling,7c4a95c7-91d1-4b30-9960-b8698f4119ef,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+eb3961ee-ede0-48f9-a99b-e7a1e096128a,Parvovirus,10/11/2012,12/2/2021,Do not expose to unvaccinated animals for a few days,9d49a59c-710b-4ed2-8162-cb587f14d7a1,7be01214-248a-4ca1-a35f-e6a24b140cb8
+5fb41fe6-cfd3-4d89-9a0c-307695e45982,FIP (Feline Infectious Peritonitis),10/5/2015,10/11/2014,Avoid strenuous exercise for 24 hours,78cfbc3e-df02-427c-80e4-84326a83d084,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+b8211e16-02bd-4a7b-a886-bec7a3c4ee71,Feline Panleukopenia,10/26/2023,1/3/2013,Do not bathe pet for 24 hours,234f4d30-e4bd-4ff8-ad23-420ef6aa8dd4,06879170-70e7-47e0-804c-214d61f5d003
+327973bf-a807-4231-817b-457192e66ce2,Tetanus,4/23/2019,10/26/2005,Avoid strenuous exercise for 24 hours,f2f4dc34-73ce-4ea2-97b1-20793cba965a,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+b3d2d23a-f834-4be5-8162-5837287c474e,DHPP (Canine Distemper,2/18/2020,3/6/2007,swelling at injection site,319924a2-5772-458a-abf8-d2b567a71e85,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+186bada5-fdfb-4b00-a1ad-daae053ef7e8,Parvovirus,8/24/2004,2/5/2022,Keep pet indoors after vaccination,f941cf53-e273-47ee-a0c4-669c393d79ec,1dc3a843-bff8-4aaf-8900-61d38a92e100
+fa7ce520-857d-42a1-ad43-568c9040ee1d,Feline Calicivirus,3/16/2023,3/7/2015,Ensure pet is up-to-date with previous vaccinations,0e738742-c8dd-4eee-971f-9c6f76e255d1,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+5275abc4-617f-4a2e-8053-cb84a6d6aa94,Feline Rhinotracheitis,8/7/2023,3/7/2016,or lethargy,7b6434b6-e3b9-45cb-a1a7-cc5e6e3d2c28,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+07d2eca9-dc49-4eaf-9960-e48f76b6eb69,Distemper,5/17/2012,6/18/2015,Follow-up appointment required in 2 weeks,70999efa-cf49-46dc-9cdf-87afe1d7d146,6420d4a4-df96-479c-bbf0-cfb2d078ecf7
+fa8398bc-5653-49c2-a06c-0460bf745431,H3N8 Canine Influenza,5/15/2018,4/3/2021,Do not bathe pet for 24 hours,9ec5abfe-1ad4-42d7-8681-37040b70e020,7be01214-248a-4ca1-a35f-e6a24b140cb8
+da91ffe1-02c7-44f2-b048-0136e0c1f216,Leptospira,8/5/2012,12/22/2006,Do not feed immediately after vaccination,a711e4ef-ffdc-4ea7-95b9-cfe0c422da80,1c42e31c-c28b-4345-8116-39641c629011
+2ded9274-e082-4667-8b70-7286453c2e1c,Leptospira,4/20/2018,11/2/2014,Vaccination may cause temporary loss of appetite,16131367-5d09-465c-97ef-6a2ade734517,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+b6467ec4-003b-45c8-b7ac-d5293ae32229,RCP (Feline Rhinotracheitis,7/14/2016,4/27/2007,Monitor for side effects,f9b23567-c2b4-48c5-8bd6-138ef151f9cc,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+f8ef4f06-b375-4da0-8955-e99ce6b24b76,Leptospirosis,5/3/2015,10/28/2000,Avoid stress for the next few days,3cd6f461-0b1e-45dc-8710-610a08f9631d,e1ddc76c-3d35-47c9-b6b2-d8655a809d57
+64097b4e-6bdf-4292-9e71-20f10b293242,Feline Leukemia,12/31/2003,7/8/2018,Inform vet if pet is pregnant or ill,312d65a1-e4b9-488b-91a3-b07791123ab9,d2f12571-b206-4b77-a85c-5a887bc11300
+c1e6b37e-75a5-4faa-ab43-589ef5d3e065,Hepatitis,1/7/2014,7/27/2020,Ensure pet is up-to-date with previous vaccinations,857c7a84-2fed-453c-8705-8d6232a57c9c,c1f8d5b1-96ce-4dd2-86e3-c2e451a21f59
+11ee6da5-60ac-42c6-80a8-fce480e1352b,Feline Panleukopenia,11/22/2001,3/7/2006,Avoid stress for the next few days,37ac233a-d22c-4a53-9a4a-4d7bdaa9aa1b,fdabea79-f3ff-4311-93b4-9976c17350f5
+9dd5dce9-028d-4f0b-9d67-a1d59034118a,Feline Rhinotracheitis,6/9/2016,11/6/2004,Vaccination may cause temporary loss of appetite,f7abc95b-584c-4e0f-b790-f71d2a340dc2,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+0043e0a4-bcc5-4239-9178-123ae59ff8dd,Feline Panleukopenia,6/25/2021,9/24/2018,Follow-up appointment required in 2 weeks,e09c82c0-e574-4619-9629-11b9ab9c27ff,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+a2562460-9071-46ef-b574-e9dd1df86098,H3N8 Canine Influenza,9/9/2023,10/18/2011,Ensure pet is up-to-date with previous vaccinations,ea05749b-7ec0-40f7-8418-7379ad85c8cb,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+6b346baf-3cc1-4200-a6d8-cd35ba06227f,Feline Leukemia,10/8/2016,5/28/2019,Follow-up appointment required in 2 weeks,c6751772-f498-446e-b657-f3244d9f00b2,fd06252f-695b-42c5-bb7b-3050556b7cdf
+4adf86cf-a8aa-45c7-9038-b1c5dbac7c76,Parainfluenza),2/14/2019,4/9/2009,Check vaccination record for upcoming boosters,f466ccdc-92ce-47a2-b3a6-c08580a12891,de52a307-8248-4c00-977c-f4160d9cd3e8
+c5b23619-7d5e-4f07-99bf-a05148bdcf65,H3N8 Canine Influenza,11/11/2017,11/9/2008,Avoid stress for the next few days,37f36bed-2f2a-4df9-aad8-abc7f033d7ff,80ba6dea-0188-4dcd-b625-2a6960147fca
+045ffbcd-395b-4601-801d-918c6afe3a43,Rabies (3-year),7/2/2015,5/20/2017,Keep pet indoors after vaccination,a16e75a2-5a08-4b1b-91f1-892a5cd3a1e9,df24be23-3319-49ac-a0cf-bacd4af8629e
+c810d697-d8b5-4eae-815a-3a646cf88c6c,Rabies,10/22/2013,6/13/2021,Common side effects may include mild fever,bb30275b-c1fb-4ef5-bb6c-a75c743cac30,5f897080-971b-414a-836b-f285cdd7664d
+2aa7b7db-3f95-4d80-91c2-3fafc21a23d5,Parainfluenza,8/24/2009,9/2/2004,Avoid stress for the next few days,b2e4da60-9a59-465f-b9d8-ba7567589194,95c9f549-e476-434d-b53f-87e302fddb14
+be584aac-af2b-4a4f-a17d-8d5f600a11a5,Parainfluenza,3/14/2004,8/24/2013,Monitor for side effects,03042c53-f849-4b54-99e1-6442b45c6ba8,d3cee14d-a1c3-4e19-ab98-92b4990320de
+5cc6d2e5-7770-4893-8b6b-9d5a48a87cb2,Tetanus,1/16/2003,1/28/2022,Watch for excessive itching or swelling,f245023a-b565-49bc-845c-2859777234a8,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+c6b27221-adc1-4944-81b1-52246e11c11a,Feline Leukemia,3/17/2016,3/23/2023,Do not bathe pet for 24 hours,1ed8a34d-dc8d-43b1-b5a8-269859ca47d2,046e7437-99b9-4910-810c-ba512baf5dc9
+410513b6-7448-42e0-8734-5370e37d2a43,Feline Chlamydia,11/5/2016,10/18/2010,Vaccination may cause temporary loss of appetite,729eaac5-4ef7-4c59-8072-a8ec6b162eeb,4a845538-fa02-4876-a72a-6362160493fe
+9b004ce8-74c5-4fe9-ad23-2514addb7577,Bordetella Bronchiseptica,7/23/2001,8/21/2007,Avoid strenuous exercise for 24 hours,e4fc071c-236a-49c6-8902-1ec2bccf7695,591d2afe-1b54-49b2-b807-3dfbe357b606
+4b68557a-7871-4350-8ba5-9b0d53dd0008,Parainfluenza,12/28/2020,11/25/2024,Ensure pet is hydrated,44c789bb-51a8-4c5b-b0e6-97aa3969e71d,fdabea79-f3ff-4311-93b4-9976c17350f5
+1a0246d5-c8a3-4556-97ae-3b00fab04b92,RCP (Feline Rhinotracheitis,6/17/2010,5/9/2012,Notify vet of any unusual behavior or signs post-vaccination,c7c0af68-6b0e-43b2-adf8-4c784db05ee4,d2f12571-b206-4b77-a85c-5a887bc11300
+0fe162da-3da9-4bd5-9af2-dc423a2dd5b8,H3N8 Canine Influenza,1/11/2016,4/12/2020,Do not expose to unvaccinated animals for a few days,c88600b8-df9d-4c2d-b2cb-86733564be90,82852627-7d5e-4d6e-8721-4a2572fe0a35
+709e67c2-db6a-410f-b4fa-3191ef0c87c0,H3N8 Canine Influenza,5/25/2012,3/22/2012,Avoid strenuous exercise for 24 hours,66213735-e5a1-40e1-b987-24fc5720aa5c,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+8c0e6972-1089-4ddf-92db-6ff1f3c059ce,FIP (Feline Infectious Peritonitis),9/19/2021,9/25/2020,Avoid strenuous exercise for 24 hours,9d49a59c-710b-4ed2-8162-cb587f14d7a1,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+4410623f-5408-4da0-8770-4fca26c329a0,FIP (Feline Infectious Peritonitis),3/11/2001,6/29/2013,Keep pet indoors after vaccination,5c59de5a-b366-42cc-8704-a9242096b302,09362660-6239-438a-ad9f-ff478ca8e70c
+ce0dd23f-05dd-482c-b012-dcef1f23af32,Parainfluenza),10/1/2021,2/28/2003,Do not expose to unvaccinated animals for a few days,23c79e4a-013c-42ea-a7cb-899b0126681f,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+b69e03e3-eb8c-4019-88a8-9c2ef99e3f05,Calicivirus,2/28/2003,1/24/2005,Monitor for side effects,cba3088a-064c-4261-82d2-0c2719d3b33a,5138111f-d091-413b-91ea-6e3775feaf50
+870f9a77-c9c5-4827-a1e7-514f57f27e0b,Lyme Disease,9/1/2013,1/17/2022,Follow-up appointment required in 2 weeks,f2e50000-50e7-4a6b-a37e-8efe5b0b87a6,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+e1fa0236-168d-45ef-99d3-fd241c45a93c,Feline Panleukopenia,4/4/2012,10/7/2002,or lethargy,ea773fed-233a-4886-a665-efeb3011c0a7,80e707c4-4c40-40f5-adc9-927fcae80f17
+bbc701d6-3dc4-40e2-b4cd-cf89bc92a4ab,Bordetella Bronchiseptica,11/5/2024,1/8/2019,Do not feed immediately after vaccination,4937d174-e699-4ee0-b1ce-777bf1863282,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+0a2af553-b591-41b6-b2db-6e3a4fe026e4,Parvovirus,12/7/2019,11/13/2007,Do not bathe pet for 24 hours,3100e4e7-978f-4125-835b-9e0cff1b50c5,700f536e-1c77-40d0-900d-b2b70b429a87
+658729e7-2ecb-4a66-be5e-b6970c85653b,Parainfluenza,8/19/2020,9/30/2012,or lethargy,9759651f-644a-46e3-9bea-d8b23f664599,d3ead0f3-f2ff-4a9d-bbae-6fedf298b34f
+3cc30631-8c30-44bd-94c9-a43606c425b2,Parainfluenza,10/16/2021,3/29/2024,Administer any prescribed post-vaccination medication,5de2b801-d835-4e8a-998c-22c85bca4dde,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+128cf74f-5bec-408c-a829-146edfca6f9d,Panleukopenia),4/29/2024,10/2/2012,Check vaccination record for upcoming boosters,2dd069a0-1b53-42f0-afba-3502ee82d49c,7d70ed67-a9b0-428b-a58d-04291a486adb
+2c4af115-1de7-45da-9036-c4248828d75a,H3N2 Canine Influenza,2/17/2025,8/9/2016,Ensure pet is hydrated,4d4c37a3-90f6-48ec-ac3c-21b5754a6eaf,80ba6dea-0188-4dcd-b625-2a6960147fca
+4226b981-9a5f-4e73-b860-95d80e84bf89,Feline Chlamydia,4/19/2003,6/7/2018,Keep pet calm after vaccination,4522cf6e-56fd-40af-b62a-dfcc329391f3,95f7dd28-b84a-4567-81c0-e53695328131
+e6f69b19-301c-44e8-bfd7-004136084bc7,H3N2 Canine Influenza,10/3/2016,11/30/2020,Common side effects may include mild fever,db5393fd-3226-41f0-9487-690c9ecf39ef,bd46dcb1-77be-4bd9-9ea1-628bd24763ab
+4a6e84c3-6b55-4fe7-969d-7f2d72bf2148,Lyme Disease,5/3/2004,3/20/2010,Observe for signs of allergic reaction,522f4764-d80d-42f1-a8f7-d25bb1698ca8,04503ce2-1243-46f9-ae42-1af6f8ad168b
+2d88275b-ebb9-41a4-86b3-097a8620db8e,Feline Panleukopenia,2/3/2011,1/10/2016,Keep pet calm after vaccination,26474303-b3e5-4429-b533-6e9b75cb0017,ea3e2dde-50c4-4441-ad45-fbc007839840
+32319cb1-e304-46a3-b6d0-fc4a69019c56,Bordetella Bronchiseptica,3/3/2019,11/5/2005,Do not feed immediately after vaccination,97a25edc-ed42-4917-810e-55bde52bc59d,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+a8758170-9d28-4b14-a63b-4e4b73f3dcc9,Leptospirosis,10/29/2019,6/26/2011,Keep pet calm after vaccination,92436b90-c90c-4c38-b5a4-ffdf36c58700,46a18e9b-874f-465c-9eeb-9f42b5c782de
+1cf76bb0-f0b6-4645-9160-2c6aa292b916,Tetanus,7/20/2022,3/1/2006,Administer any prescribed post-vaccination medication,2bc9bc12-1648-4c74-8c93-5b3c15e19f3e,0f10e7c0-877b-45c0-bd18-4d9efdd46061
+fec7d1ff-6927-4f35-9161-8f7f20851850,Kennel Cough,8/9/2007,7/16/2008,Keep pet calm after vaccination,25453c7a-77a1-466a-acec-4a6955317558,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+0bdc334e-d48f-49d0-8c0e-0ce6b21aa535,RCP (Feline Rhinotracheitis,12/10/2019,4/20/2016,Avoid stress for the next few days,d542bd76-8285-4116-829c-10a6ae339482,700f536e-1c77-40d0-900d-b2b70b429a87
+20ea3953-f907-45f3-b812-c003d9872d9c,Parvovirus,10/7/2003,2/2/2024,or lethargy,130b5e46-871c-48f5-bde2-b08cef09f7a7,8107fe7f-b2ed-410c-bee6-e4031dad6450
+eb53915b-aff5-473f-9852-9be76a7d2f05,Rabies,4/6/2004,1/24/2020,Monitor for side effects,9a9d9406-0ddb-4f16-aebe-1811426fba9a,4168f51d-c2fe-4952-8416-57868f4035e0
+d4f10405-b939-4b46-8954-210025b2308a,Parvovirus,9/15/2007,8/30/2011,Observe for signs of allergic reaction,88988eaf-59df-4829-baae-cafda02b8a42,df24be23-3319-49ac-a0cf-bacd4af8629e
+b01e3d26-9763-4861-8b27-fd5f3ddafeee,Feline Leukemia,12/22/2024,8/21/2002,Inform vet if pet is pregnant or ill,c3555a76-11f6-4352-9e21-0cd89320b30d,0f10e7c0-877b-45c0-bd18-4d9efdd46061
+667d4432-3ed7-4ea5-9739-6db33de22230,Distemper,4/19/2004,10/4/2018,Avoid strenuous exercise for 24 hours,f94a782b-71f7-4d73-be5a-3f8c6750ffbf,4910bbcc-43c9-4354-9475-d68f3084f2c0
+67926619-9b8c-4a6c-b598-7061616c986c,Leptospira,1/26/2021,11/14/2004,Administer booster shot in 3 weeks,17f5cedd-07ab-4433-b1bf-9b9978bacaca,d2f12571-b206-4b77-a85c-5a887bc11300
+eca208ff-0990-4922-ae81-a561c88b61f8,Hepatitis,7/18/2014,9/16/2019,Avoid strenuous exercise for 24 hours,2fdf006f-ebfe-4d1a-b6eb-546dfc47b9ac,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+474e6bd6-7518-4ef9-b1cb-26b86689ee24,Lyme Disease,10/19/2004,1/24/2007,Ensure pet is hydrated,a26603bc-9fec-4f89-ac70-d452b0b775f2,214b2ba1-82ec-4777-9c73-11930c64b1f3
+811b144d-1f0a-42c0-9145-023a6d3a7b96,Kennel Cough,4/3/2013,5/21/2004,Vaccination may cause temporary loss of appetite,d6271cfb-f135-47b7-912b-2fb12168eed5,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+52d7924b-49ff-45af-b4bf-d132f834d18a,RCP (Feline Rhinotracheitis,1/25/2001,7/29/2004,Do not feed immediately after vaccination,16131367-5d09-465c-97ef-6a2ade734517,c754e3c3-83fb-442b-8366-702e27264941
+56c78006-70da-4a76-b334-70dbf09c8f1d,Rabies (3-year),11/20/2014,5/28/2011,Common side effects may include mild fever,41ba9490-a053-4f8b-8ded-a56506a8848f,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+9a66d2af-5931-44be-83e3-c2bc3d75498d,Canine Influenza,8/9/2019,5/6/2018,Check vaccination record for upcoming boosters,5de2b801-d835-4e8a-998c-22c85bca4dde,5138111f-d091-413b-91ea-6e3775feaf50
+06a6ac66-ea4f-454d-88be-9475d76f0f28,Feline Chlamydia,1/21/2016,9/16/2020,Ensure pet is hydrated,49f3d542-a0e9-4eca-af41-d6209da94b6a,c754e3c3-83fb-442b-8366-702e27264941
+cd4628da-d82c-4a75-8283-f3c581db0800,Calicivirus,8/17/2011,5/22/2017,Check vaccination record for upcoming boosters,1a2a0c03-67a9-4cfb-8cf2-1aab9b464b6d,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+33a35036-7fb3-4b98-b224-0bc0de0074f0,Feline Leukemia,8/17/2010,6/26/2012,Inform vet if pet is pregnant or ill,1e7aec40-f6dc-4358-8471-57b7c97aab0a,06879170-70e7-47e0-804c-214d61f5d003
+dfe31488-0224-4b6a-8dc0-c7902910f682,Parainfluenza,6/25/2016,11/15/2004,swelling at injection site,fe220202-945f-4176-b3e2-8a1f7db747b1,fd06252f-695b-42c5-bb7b-3050556b7cdf
+657bf0db-d223-481e-bb3f-46a54afe5bce,Bordetella Bronchiseptica,12/3/2000,7/31/2003,Keep pet calm after vaccination,3cd6f461-0b1e-45dc-8710-610a08f9631d,10fcbf43-8537-4af0-900f-a2fd5d375c54
+a451ebd1-ef71-491c-a8c1-68cf90b37c91,Adenovirus,4/22/2006,11/13/2001,Keep pet indoors after vaccination,7244ab62-cfeb-4f81-8f5e-d4ef94b4fa83,b80215bc-fe1b-4781-98da-6b63b6dd2469
+07738e8c-323a-4c3a-b346-7508b0faa028,Adenovirus,3/4/2020,8/20/2020,Watch for excessive itching or swelling,98a430c0-803c-496e-a88b-25362fc2f4b0,df66b46d-76b3-4966-962f-d90b54965ac7
+c699da6b-d05a-4946-b995-8e16b9bb06e0,Adenovirus,2/4/2007,7/7/2021,Keep pet calm after vaccination,dde3d981-bb99-4302-a6cd-ba63defd1d0e,337f4d29-5977-4e76-b493-41dd50e41a3f
+2f769199-1108-458e-8a17-707c69cb7ef8,Feline Rhinotracheitis,11/5/2015,10/6/2018,Common side effects may include mild fever,a16e75a2-5a08-4b1b-91f1-892a5cd3a1e9,337f4d29-5977-4e76-b493-41dd50e41a3f
+0e7ba405-10de-4a3a-8e4e-5c96a6673598,Hepatitis,12/31/2018,1/10/2022,Administer any prescribed post-vaccination medication,40ba3d5a-6228-4c87-9d68-9e10b9cb718c,556f918f-e3d9-4e1c-ba4a-7fee0e5c4e49
+3da37b17-e4a1-4e1d-9195-c4395353dff7,Bordetella,5/15/2016,10/12/2023,Inform vet if pet is pregnant or ill,17f5cedd-07ab-4433-b1bf-9b9978bacaca,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+b0e7ee47-ed72-471c-b1dd-7eaccbe7a69a,Rabies,1/17/2005,10/29/2005,Check vaccination record for upcoming boosters,6d49da75-86c9-4cd3-859d-2db04ffce7c7,80ba6dea-0188-4dcd-b625-2a6960147fca
+79f02c2d-517e-40d6-a9bb-c99b90e2be67,Parainfluenza),8/7/2000,5/3/2011,Avoid strenuous exercise for 24 hours,efc3aa29-8cbb-4fb4-ac4e-43e7b5681e6e,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+367950d8-ebdc-4f6e-91cc-0c1f5d4758cd,DHPP (Canine Distemper,6/25/2021,2/11/2025,Check vaccination record for upcoming boosters,096106f0-eb6c-405b-8920-10dce9cb24d1,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+eabafa92-f6bf-496e-aaa4-8d31a6baac15,Panleukopenia),9/5/2012,2/4/2021,Ensure pet is up-to-date with previous vaccinations,efc95c2e-d74b-47b2-a068-11f635ad070d,d2f12571-b206-4b77-a85c-5a887bc11300
+109e2c14-dcd4-4163-8de6-1cfe9553b71e,Distemper,3/20/2003,10/26/2023,Notify vet of any unusual behavior or signs post-vaccination,e94d1c73-120e-4426-83b7-7e90abd99121,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+b829be5e-c60a-4752-bdb6-fc40205dfd97,Parvovirus,5/14/2007,12/8/2005,Common side effects may include mild fever,8376c56a-0b10-4421-a0ab-963b75795622,46a18e9b-874f-465c-9eeb-9f42b5c782de
+7875ca39-0bae-4491-961f-f87562bb5e6d,Kennel Cough,3/23/2010,11/26/2011,Administer booster shot in 3 weeks,cbed58a0-44d7-459f-b0aa-45548682b4b6,df66b46d-76b3-4966-962f-d90b54965ac7
+041822fe-b98e-40e1-8933-a4c4259236cc,Lyme Disease,1/25/2001,10/21/2002,Avoid stress for the next few days,14d52c19-69c2-4d30-a444-1d699ab539b0,700f536e-1c77-40d0-900d-b2b70b429a87
+6213cb30-22e0-491c-87fa-225760c4afbd,Hepatitis,1/17/2014,7/16/2018,Ensure pet is hydrated,59556840-fbd9-4fa7-adb2-e0d6028628f3,5f897080-971b-414a-836b-f285cdd7664d
+6b38859e-c74b-4a05-a8ea-a03011f4a52b,Calicivirus,2/10/2008,2/1/2014,Avoid strenuous exercise for 24 hours,f5a3ca12-b7f4-49e6-a8ff-31a77ab839df,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+b37cc1a0-9471-47d7-9a1c-c7ce6c538c3b,Tetanus,1/16/2012,7/1/2020,Avoid stress for the next few days,484a1dec-c732-46d1-afaa-8d57e7ee642b,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+c714b549-1621-4543-bc89-71e195842002,Parvovirus,9/7/2006,8/6/2022,or lethargy,8f242f5c-c178-44c4-92cc-df30cddf8472,f3b84fd6-6e2d-4f54-848d-38f5ad8149aa
+54441bbc-6575-4898-ae29-3d147d3b01e0,Canine Influenza,11/8/2022,5/30/2010,Check vaccination record for upcoming boosters,1b608ce3-1ead-476d-a019-5902c7f64212,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+b2db140e-bd40-4a37-83eb-00bd3eaa4351,Canine Influenza,9/6/2018,3/23/2018,swelling at injection site,a69aacbf-3964-4f3e-97e4-362789883077,d3cee14d-a1c3-4e19-ab98-92b4990320de
+1d51c1f4-098d-48ef-b64a-cca8199ea314,Hepatitis,9/10/2022,12/15/2009,or lethargy,5e72b0e4-04a9-46e0-8df3-19e11a08b745,fdabea79-f3ff-4311-93b4-9976c17350f5
+35250b31-b3ca-4f2c-9a8e-8d1b03aa13d3,RCP (Feline Rhinotracheitis,1/9/2025,3/26/2019,swelling at injection site,b65558a7-1b5d-41b3-9049-4adec914595c,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+776d8387-d9e1-4d3f-b021-781e2e676e4f,Distemper,12/28/2001,5/23/2020,Administer any prescribed post-vaccination medication,d0ec1cd0-1952-46b0-837c-4ee573b01e1a,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+b38b7433-5f0a-4c10-80dc-44568e1e32e4,Hepatitis,4/24/2000,1/2/2001,Inform vet if pet is pregnant or ill,ae128c7c-66a9-49cf-afd2-83cc3d64db44,337f4d29-5977-4e76-b493-41dd50e41a3f
+ffe3156c-2ff4-4b9d-bff5-aa416905e087,H3N8 Canine Influenza,3/21/2017,5/29/2018,Administer booster shot in 3 weeks,116d59aa-5e05-41d2-9280-70d81b83118e,ee8a149b-b11c-477a-86a4-3dfbc1bd0cf9
+e34e0fb8-8bbf-4db6-a780-297781115811,Feline Chlamydia,2/22/2017,5/11/2022,Keep pet calm after vaccination,03b295af-a0ba-4501-a612-4b2d8a217511,f43409fc-6e08-4b76-822a-b1f151010f5b
+965ad0d3-c7c5-4cde-9482-feb9f12988ee,Hepatitis,12/26/2011,11/17/2016,Monitor for side effects,234f4d30-e4bd-4ff8-ad23-420ef6aa8dd4,e1ddc76c-3d35-47c9-b6b2-d8655a809d57
+a2cdae9e-70a8-4dec-9ef5-cd7b5ba92ca5,Hepatitis,11/25/2010,7/27/2010,Follow-up appointment required in 2 weeks,e80b9a3f-88c1-4027-9757-b8a8c84bddcc,337f4d29-5977-4e76-b493-41dd50e41a3f
+faa0814d-3aec-45db-912d-1c655463a853,Feline Leukemia,5/15/2006,12/28/2011,Inform vet if pet is pregnant or ill,7c9b7338-f994-4d4d-89be-728ab23744f6,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+6e437f33-f9cb-48d2-827c-ea1d6ddf77a2,Distemper,1/7/2010,1/30/2023,Keep pet calm after vaccination,220a70a8-2ef7-4e12-8364-34e6c05fa862,f3b84fd6-6e2d-4f54-848d-38f5ad8149aa
+77c6793f-32fd-49e8-89ea-536bd59b0874,Feline Chlamydia,11/19/2013,10/15/2012,Ensure pet is up-to-date with previous vaccinations,653a0499-59d0-422d-8f0e-03f2f85b32ea,3396c0f5-1d1d-48c9-8d62-59e1d84ce3ca
+7d3c1ac2-80d4-49ba-b942-4ed3b199a008,FIP (Feline Infectious Peritonitis),10/18/2020,1/28/2023,Monitor for side effects,0fc4ecca-da27-4555-aafb-074d5824b48f,214b2ba1-82ec-4777-9c73-11930c64b1f3
+3a47766f-ba6f-4d4a-9ab2-41867188029b,H3N8 Canine Influenza,12/23/2011,12/11/2010,Watch for excessive itching or swelling,22ab2c96-209c-4ac0-8d09-90453974c131,6b000f15-eaa0-4b50-84c5-386276863b15
+94ef37ca-788b-476a-b298-b273bccb22bf,Hepatitis,10/29/2018,9/16/2006,Ensure pet is up-to-date with previous vaccinations,8713357b-8795-4708-9929-b71d6defa251,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+b1761953-59c2-4420-bc7f-73f044287785,Lyme Disease,12/30/2005,4/6/2002,Keep pet calm after vaccination,3bc60ae6-7597-4c7f-9208-82a21cb8cd18,6c20c901-e144-4ebf-a523-3d974f2e7022
+06da7313-f343-46cf-886d-548edd96aa95,H3N2 Canine Influenza,8/27/2007,7/5/2004,or lethargy,6d18b4f1-21ee-445c-a04d-214804a86bb0,956c1eba-3a3a-4144-93eb-bb682410af5b
+acc8cbde-7ef6-4f06-86de-8d37436cb2dc,Parainfluenza,1/12/2017,11/19/2008,Do not feed immediately after vaccination,90f8ec11-9327-43a6-bd2e-417933bbac44,6cf5e671-a006-4a0a-a550-87b2a42e0123
+feee6c83-76e3-4c36-8dad-3f8dc60655d5,FIP (Feline Infectious Peritonitis),1/6/2013,8/1/2022,Avoid strenuous exercise for 24 hours,ec3a04ba-dcb6-406c-9ed3-36f91a617c9d,df24be23-3319-49ac-a0cf-bacd4af8629e
+74630bd8-abe5-46bf-ad73-5175bfb103fa,Parainfluenza,7/22/2008,6/21/2012,Avoid stress for the next few days,f943f177-1444-4e52-9ac1-e6a9fc60a8d9,fa708656-df65-46b0-b7a7-05d398594045
+64699456-74ee-4317-aa9d-e6fabcd7568d,Panleukopenia),2/19/2002,1/9/2019,Common side effects may include mild fever,c0696452-0f58-4a3d-81d4-8f8217e2e326,82852627-7d5e-4d6e-8721-4a2572fe0a35
+b0523ce6-df0a-4f28-8079-e0f996d1b6b9,Parvovirus,10/19/2011,11/27/2023,Keep pet calm after vaccination,d9d056c7-0323-4873-b549-472677cf43dc,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+16898801-09af-402b-8bb8-d0ac0f3e2c7f,H3N2 Canine Influenza,1/10/2018,4/27/2012,Administer booster shot in 3 weeks,a8077e71-f7bb-4441-80b5-35cf5fbe4faf,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+c6207175-e396-4b90-af07-83da30d87b49,Leptospirosis,10/13/2006,10/6/2010,Ensure pet is hydrated,fc8670c4-9da9-4abe-9b70-8654d896a0a4,d3cee14d-a1c3-4e19-ab98-92b4990320de
+b2bf2532-05dd-476b-82c8-080558da1967,Lyme Disease,1/27/2017,8/22/2009,Avoid strenuous exercise for 24 hours,844b3a6e-971c-4fad-9f2b-cb5d93853247,92fabd46-5cc7-4450-8d51-ef1a37c722c1
+6a080964-7f1d-4932-bb47-0baf1e64408f,Parainfluenza),12/24/2017,7/29/2011,Vaccination may cause temporary loss of appetite,14d52c19-69c2-4d30-a444-1d699ab539b0,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+96f47e25-e322-4303-973d-af121e1d8b24,Feline Calicivirus,3/15/2025,2/9/2020,Check vaccination record for upcoming boosters,ea07954a-0683-419a-a145-5a00849df885,fd06252f-695b-42c5-bb7b-3050556b7cdf
+27437566-2506-410e-81d7-73e5a7141935,Bordetella Bronchiseptica,6/24/2003,5/28/2020,or lethargy,b65558a7-1b5d-41b3-9049-4adec914595c,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+45a6c422-543e-4ca1-81df-5a3c9637bc23,Feline Rhinotracheitis,10/2/2014,5/28/2022,Observe for signs of allergic reaction,546a3ae8-b984-4d3a-bb59-c7437e267f3f,58834369-c955-4e18-a6e1-62214dbea66d
+cd99fa8f-63a7-4f56-926c-bdf23b67dff8,Hepatitis,9/1/2018,1/12/2025,Avoid strenuous exercise for 24 hours,4522cf6e-56fd-40af-b62a-dfcc329391f3,8b3bf1eb-e145-4462-b600-02bb14e25c69
+75375c36-2ae7-4a1d-b60f-9892ebb993d5,Leptospira,1/4/2015,4/28/2002,Notify vet of any unusual behavior or signs post-vaccination,3bc60ae6-7597-4c7f-9208-82a21cb8cd18,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+dde04a79-d16d-4a0b-af45-4375d951fbd3,Rabies (3-year),7/22/2010,3/22/2003,Keep pet indoors after vaccination,49f3d542-a0e9-4eca-af41-d6209da94b6a,8107fe7f-b2ed-410c-bee6-e4031dad6450
+49b97aaa-a0b0-4af0-8b0e-2b248bc2a6fb,Calicivirus,1/9/2004,9/28/2017,Follow-up appointment required in 2 weeks,d7b5451b-679d-40c0-af56-f240e122a467,ea3e2dde-50c4-4441-ad45-fbc007839840
+5e81b902-e5ca-4219-b201-3f3ff1cd6765,Hepatitis,7/20/2020,12/18/2012,Inform vet if pet is pregnant or ill,70784f65-01c7-43c9-9a1c-17adc884cf0e,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+9230188f-6dfb-49c4-a621-d314b88b1fd5,Feline Panleukopenia,1/21/2013,10/29/2012,Do not bathe pet for 24 hours,a98c5490-67b3-4cda-a84a-ddc2add79632,6f15ac7b-e857-41ae-b67b-b176dd8cedbc
+8e45c729-7a55-47e1-a61e-ded4b95dbcad,Feline Leukemia,12/8/2017,6/13/2003,Notify vet of any unusual behavior or signs post-vaccination,c1ce3765-ce2d-4646-96d7-9f9580dcf99e,7be01214-248a-4ca1-a35f-e6a24b140cb8
+e87fd8f0-273c-4387-a93e-4d6881b442c5,Parvovirus,5/22/2024,7/17/2022,or lethargy,1570fb23-fc76-420f-bf9d-2b9ff9c9a21d,6420d4a4-df96-479c-bbf0-cfb2d078ecf7
+0f8121c3-625e-4036-ac3e-87eea771f4b8,Parvovirus,11/29/2006,12/7/2002,Check vaccination record for upcoming boosters,78b73a45-f9b1-49f9-a9e6-7a53094957cc,04503ce2-1243-46f9-ae42-1af6f8ad168b
+2b70047e-bda6-41bd-9fd6-8e7c45758e10,H3N2 Canine Influenza,1/13/2002,12/25/2023,Avoid stress for the next few days,2a92dc9f-8a97-4fb7-9e7b-62354384cc7c,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+1197b0fc-50fd-4e13-9a5e-4583e73a909e,RCP (Feline Rhinotracheitis,6/9/2005,11/20/2001,Do not feed immediately after vaccination,46617c5b-d0a3-4fb7-ad24-0e093db40b2e,ea3e2dde-50c4-4441-ad45-fbc007839840
+a0af0d77-d1d4-4ae3-afff-0b64439c16f6,Calicivirus,3/21/2002,2/25/2005,Inform vet if pet is pregnant or ill,0733260d-0492-45ce-a4bc-76ba5257bbbe,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+63baf472-eea1-45ee-8999-9ec9a75c18c9,Leptospirosis,3/5/2003,11/26/2002,Do not bathe pet for 24 hours,04e305e3-97ac-4931-9455-905d990261c7,75139bb8-d800-42c7-9545-c9d3cfa628c1
+ab48ede0-ab26-43e7-868b-5c2af3e0a8e2,Adenovirus,9/22/2016,9/8/2018,Keep pet indoors after vaccination,757c0f35-7afc-4376-a3a2-cb7a6d035703,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+508e046b-7b96-409d-91d1-69f1ec150895,Kennel Cough,10/20/2002,8/10/2021,Keep pet indoors after vaccination,4cedd81d-3c34-4a04-a972-8cdfa28bcae8,90f8c645-608f-4326-9683-6e9b91e1c469
+61357285-2a59-43fb-83cd-707246365f8c,Bordetella,6/25/2013,1/16/2010,Vaccination may cause temporary loss of appetite,4271fc2f-2ce7-4c20-b39d-838ccda03f40,1c42e31c-c28b-4345-8116-39641c629011
+31ac96a6-0c9c-4b6b-b501-a7155c4da17f,Calicivirus,10/20/2024,9/5/2008,or lethargy,4653833b-f8dd-4000-b3f0-e9ed29c38baf,7d70ed67-a9b0-428b-a58d-04291a486adb
+47701f3d-1029-4ae9-b49b-e69162f58a03,Leptospira,8/24/2000,5/27/2023,Do not bathe pet for 24 hours,0951aa15-3041-4024-b4c4-6abbf56c6303,6c20c901-e144-4ebf-a523-3d974f2e7022
+13e0a0c5-8e34-49d3-9406-8058f727bc70,Feline Panleukopenia,8/17/2004,5/12/2003,Observe for signs of allergic reaction,9050a535-b2b8-4123-8dcd-fa6ff3e9a643,69aafdbd-6faa-404b-8997-7bbc6a2494e2
+370fe057-d78e-4653-9a9a-42c56a631bc5,Leptospirosis,10/10/2013,3/15/2004,Inform vet if pet is pregnant or ill,9faffd0a-4636-457e-9298-be6b6de89f3c,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+7c7235f7-dadf-44b6-91aa-1498927e70af,Rabies (3-year),8/25/2008,7/12/2001,Vaccination may cause temporary loss of appetite,eea32b22-e3e6-4c24-bd97-86a026095d6f,bc34e8da-60d8-4f6d-9d4f-de73f99c77d1
+9ca5dfe2-a6be-4c9f-b7fe-bc9b7b30951a,Tetanus,2/6/2013,11/20/2003,or lethargy,28646e6d-1e78-43b2-8484-4f52c1973426,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+aa98a085-177f-48df-98a5-0d164f5e6fda,Feline Panleukopenia,4/23/2009,10/27/2007,Administer booster shot in 3 weeks,03b295af-a0ba-4501-a612-4b2d8a217511,8b3bf1eb-e145-4462-b600-02bb14e25c69
+ff39c797-1d07-41ff-b247-9974c091c5ab,Rabies,5/1/2013,5/30/2011,Observe for signs of allergic reaction,7b392dab-96b8-46b6-aa45-2af5c25bb57e,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+45bf3768-e1e3-42a2-9ade-b878bf3826bd,Leptospira,1/18/2013,6/14/2011,Do not expose to unvaccinated animals for a few days,b802b0d7-da8e-4ec5-a924-57c1e1a05bb9,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+5aa5e86f-42b7-49e1-b8d8-92d57d135249,Bordetella Bronchiseptica,5/16/2007,4/21/2017,Vaccination may cause temporary loss of appetite,59281984-ea6b-423a-a868-a7a602d8738d,59dec043-c4be-45c4-8284-816ead71a20f
+1d62f979-3490-4d4b-a57a-c9b5bf3940b3,Panleukopenia),9/29/2008,11/3/2004,Avoid stress for the next few days,d3861b52-5da1-4c9c-a8a9-0c9226868fdf,ea3e2dde-50c4-4441-ad45-fbc007839840
+bb7df8e5-259b-4f26-826e-8d26ceab6af5,Bordetella,5/24/2008,1/30/2015,Ensure pet is hydrated,fc7bbb47-1165-4a10-a3e7-c3cb94e8b8e6,d15a3590-f9ff-4cce-a728-56d6221344ba
+497591a2-7d8f-42bc-85ed-847c9cc74628,Panleukopenia),11/13/2018,7/12/2010,Do not expose to unvaccinated animals for a few days,aac13d4b-c4e6-4fea-817a-d246f8a7ce84,7a278e2d-3850-4e08-b66b-8810c81fb30e
+529ca6c2-6fee-49a2-bccd-87282008195b,Tetanus,9/5/2017,12/31/2015,Vaccination may cause temporary loss of appetite,94b0897e-ab43-49b1-8172-7caa1edbb95a,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+e1bd9476-8d46-4ecf-899f-8b5febc2c2aa,H3N8 Canine Influenza,8/17/2002,9/29/2008,Avoid stress for the next few days,17cafc27-582c-4861-a81b-091b8ecc47f2,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+c268147a-8f4b-44de-810a-364f9f5ef12a,Rabies,8/16/2021,6/21/2023,Inform vet if pet is pregnant or ill,39c4369b-3440-4d17-84aa-448d1129b7bf,105597e4-2d76-445a-9dbf-bde5a3b43468
+2ba7256c-083c-4bea-9a76-977cc7bf8f3a,Feline Chlamydia,8/9/2009,5/25/2021,Administer any prescribed post-vaccination medication,f6f8e8b2-23db-405a-b929-205287d06466,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+b5926f4e-e865-4448-96b7-6408cb6b3d05,Parainfluenza),2/4/2002,10/20/2019,Avoid stress for the next few days,1bfa7434-a8f7-4b6e-85f2-eaeabfbb52c4,c754e3c3-83fb-442b-8366-702e27264941
+6891b782-8444-4517-a3f1-6811e8384999,Canine Influenza,7/29/2016,4/16/2019,Keep pet indoors after vaccination,8f9871a8-a6bd-4f15-8e91-a9f740e6c4ad,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+48880190-8e0c-40c6-a815-124629b3382b,Feline Leukemia,11/21/2017,7/17/2019,Inform vet if pet is pregnant or ill,f9b23567-c2b4-48c5-8bd6-138ef151f9cc,c1f8d5b1-96ce-4dd2-86e3-c2e451a21f59
+40f33618-2a7c-43e2-a56d-226448d366c3,Feline Panleukopenia,1/2/2006,3/26/2018,Monitor for side effects,a04cbcb6-e33e-4a51-b11b-411e1e7f6375,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+2a43ab94-fbed-4d79-a470-6909bd509758,RCP (Feline Rhinotracheitis,8/15/2011,1/27/2003,Vaccination may cause temporary loss of appetite,8189d2d0-82e4-4e4d-9188-bef20b418d58,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+eea4307d-0056-4cd6-9f87-a4a114bf533b,Parvovirus,1/3/2025,8/4/2019,or lethargy,db0bafe1-944f-438c-85ac-6430b78c7c14,d15a3590-f9ff-4cce-a728-56d6221344ba
+b5c370c8-3920-4fa1-894f-56f7eb7e500c,Hepatitis,2/11/2005,12/23/2013,Avoid stress for the next few days,b1bc9f4d-c3c8-45bb-9c54-fd062797c9aa,e35e3077-e068-434f-b35b-34afcae9c7d4
+8a3a6be6-a94c-4220-bd60-aa237f418ccc,Bordetella,5/3/2020,5/17/2020,Do not feed immediately after vaccination,2778204e-7aab-4b3e-8f06-a173c013ebd8,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+b670031e-4432-4f13-b0e0-a015dbd73b10,Canine Influenza,2/2/2003,2/21/2009,Check vaccination record for upcoming boosters,d23db24c-ade5-473d-adc3-f766daf76179,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+60bca810-cd44-4365-bb40-f20d403a28a5,Feline Chlamydia,5/6/2018,8/4/2011,Monitor for side effects,c6b4d40b-5ef4-450c-9326-7bae9d7a2593,337f4d29-5977-4e76-b493-41dd50e41a3f
+b36d6762-8040-4068-8f2f-5d5740d92343,Leptospirosis,10/24/2007,8/6/2013,Do not feed immediately after vaccination,cd841289-62e7-4caf-a6af-0a67a6096875,92fabd46-5cc7-4450-8d51-ef1a37c722c1
+c1a9a33b-c9ac-4457-8741-5f7184bd221d,Feline Rhinotracheitis,9/14/2005,3/31/2005,Watch for excessive itching or swelling,60b9326c-cd00-48ea-a2eb-5e845ba3fdc5,d01b7e67-8401-4e15-b7f3-a215096b478c
+53ede5a2-d744-40cc-a259-ffaa04f2118e,Adenovirus,10/2/2005,8/7/2008,Do not expose to unvaccinated animals for a few days,b1535528-e718-4625-85b0-3174066cfc7b,9b6f2907-e03b-468e-a800-42764939c755
+95d884d6-eacf-45c9-9120-a44c344d448a,H3N8 Canine Influenza,12/11/2010,3/13/2016,or lethargy,c05a9f65-5014-4656-956e-79e6f3022190,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+3521964c-58ae-46aa-8b5a-3f1d4b3daaaa,Bordetella Bronchiseptica,2/25/2007,10/1/2018,Keep pet indoors after vaccination,df56c542-b8cd-4cad-8353-fb9d9e77e5f9,30e5dac2-99e4-4a74-852e-b400c2018e19
+e817b14f-97fa-4d0e-8add-dd8d78a56f17,Adenovirus,9/19/2024,11/18/2011,Inform vet if pet is pregnant or ill,7b6434b6-e3b9-45cb-a1a7-cc5e6e3d2c28,f9afc424-5634-40df-ae60-96d332a70aa6
+3f44d067-e3e1-4e7e-86c5-646ff72c722c,Hepatitis,1/13/2024,5/4/2017,Do not feed immediately after vaccination,17ffb86f-ca01-4510-8814-7fbe335bf200,97230189-175a-4da4-8a7c-49397292c68b
+4eb11558-fb2d-494b-930f-524f6c9ce2cd,Distemper,6/28/2015,10/9/2008,Administer any prescribed post-vaccination medication,4d6187e9-53db-4022-ac1d-6f754a4a17ab,95c9f549-e476-434d-b53f-87e302fddb14
+fd74364e-a6f2-4b57-b2c8-af0a8e494949,Parvovirus,3/25/2024,4/2/2011,Do not expose to unvaccinated animals for a few days,b5aed7d4-3528-4579-a54d-55a4de291e65,10fcbf43-8537-4af0-900f-a2fd5d375c54
+3ee73b64-4e1f-46e2-aed3-d8f25dd5570c,Parainfluenza,8/2/2023,2/8/2011,Administer any prescribed post-vaccination medication,ec904843-154d-4a26-87ab-1612a2f1bf23,4168f51d-c2fe-4952-8416-57868f4035e0
+749f89b9-8aa5-4b96-aa2b-24d47590903d,Parvovirus,12/18/2022,3/12/2019,Keep pet indoors after vaccination,3641bbcc-2992-459a-8f00-d1c465ac073c,80e707c4-4c40-40f5-adc9-927fcae80f17
+2c49f20d-6472-4bad-a38b-ab19d5a52877,Feline Calicivirus,5/28/2005,2/27/2020,Do not feed immediately after vaccination,a98c5490-67b3-4cda-a84a-ddc2add79632,92fabd46-5cc7-4450-8d51-ef1a37c722c1
+026948a4-afd3-4118-827a-6ed0d266e7c4,Parvovirus,1/5/2022,4/19/2010,Check vaccination record for upcoming boosters,aac13d4b-c4e6-4fea-817a-d246f8a7ce84,10fcbf43-8537-4af0-900f-a2fd5d375c54
+ebe730ad-203f-4e86-9597-17f7305dcadf,H3N8 Canine Influenza,3/21/2019,1/3/2017,Ensure pet is up-to-date with previous vaccinations,319924a2-5772-458a-abf8-d2b567a71e85,b3763f22-e06d-40db-b94f-25fbd158a4f0
+6c166abf-1741-42fa-9f4f-2d23aca18d5f,Parainfluenza),1/22/2012,7/18/2002,Common side effects may include mild fever,f661f30c-a53e-47c9-8b37-74342cf535c2,a475c392-782c-4a95-a3d5-e0d6b81de409
+e4bc5e74-21ee-4f21-8580-8f92e0ee48ea,Feline Leukemia,1/28/2025,4/16/2006,Avoid strenuous exercise for 24 hours,78d8e84d-751c-4340-9d07-41ed49c8b858,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+ef3b58f8-610a-438f-9e7f-630a580471a0,Feline Panleukopenia,6/16/2018,9/10/2015,Keep pet calm after vaccination,efa44530-d0c6-427d-b471-fc591a47fae9,1e92cf7f-0bbb-4227-bb3e-ba7afbff168f
+3ca29049-6893-464d-a20c-9aa850c28abe,Bordetella Bronchiseptica,6/11/2019,8/30/2015,swelling at injection site,08ff143b-3ad5-494c-90ff-c20be2717f66,c4c8bdaa-4ad1-44a3-b1f7-8cfb09dcd7bf
+2b795d01-0763-4095-8b35-41a7ef76c706,Distemper,1/16/2019,8/29/2006,Administer booster shot in 3 weeks,0c813b29-c3ad-4129-b499-5615c6513b3f,e30d0ea4-f63b-466a-917e-916943b69f42
+079b56e9-40ab-4f90-8de5-937cb763d62a,Leptospirosis,3/21/2017,2/22/2018,Monitor for side effects,514c18e5-a6fd-4129-9186-0bf5dee7db72,f43409fc-6e08-4b76-822a-b1f151010f5b
+cbdb4adc-fee6-446a-b5e8-c9bf6e302d11,Hepatitis,12/6/2015,2/14/2006,Do not feed immediately after vaccination,83f2e9dc-6e6e-4d60-9aae-56f197c5eebd,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+555d2f02-af97-4258-acc6-beb2bdda7dfd,Leptospira,4/12/2009,2/9/2015,Avoid stress for the next few days,04e305e3-97ac-4931-9455-905d990261c7,fa708656-df65-46b0-b7a7-05d398594045
+580c29ad-6930-4570-a75d-1938e6272514,Feline Calicivirus,6/13/2024,12/19/2006,Follow-up appointment required in 2 weeks,44536867-5812-4df4-8a36-11e16742f63e,82852627-7d5e-4d6e-8721-4a2572fe0a35
+4e71077d-b540-4b5e-8263-1171c224f407,RCP (Feline Rhinotracheitis,10/25/2001,10/2/2006,Common side effects may include mild fever,dae3f1c9-588e-44fd-b076-b4f60c49dca7,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+c5ee7790-7cf6-435a-9c17-17ea8d81c4b8,Rabies,7/31/2014,12/31/2022,Vaccination may cause temporary loss of appetite,147de1f9-7333-47cf-ac61-b7b79847f341,5138111f-d091-413b-91ea-6e3775feaf50
+d567368a-3c7b-443c-b2cc-4a53e201d792,DHPP (Canine Distemper,5/12/2005,4/22/2007,swelling at injection site,58a899bf-cb78-42aa-928a-da4c2561174b,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+80e0bfa9-137f-45be-940e-d10f25f73869,Calicivirus,2/11/2025,9/13/2020,Administer any prescribed post-vaccination medication,ed83e990-9486-42eb-a7ac-635e19cba957,f9afc424-5634-40df-ae60-96d332a70aa6
+6005d8ff-5893-42b3-b8cf-e007d9619578,RCP (Feline Rhinotracheitis,7/31/2024,5/7/2017,Observe for signs of allergic reaction,4368c2c0-58f7-46be-aa78-42e27102143a,36cf5e41-9389-49c2-a270-f71fed091abf
+f257b84e-acc8-45f1-b1dc-17e51db56e41,Kennel Cough,4/15/2016,1/14/2018,Inform vet if pet is pregnant or ill,4bb3809a-5fd0-4abe-8ad9-2255b9f61b5c,b80215bc-fe1b-4781-98da-6b63b6dd2469
+589bb15b-ca87-4a59-95e9-1bc9e6f10dc4,Feline Calicivirus,5/10/2010,10/6/2013,Ensure pet is hydrated,f5a3ca12-b7f4-49e6-a8ff-31a77ab839df,8b3bf1eb-e145-4462-b600-02bb14e25c69
+f44a70b6-0902-4575-a6d4-b7cbb7983521,Parainfluenza),2/24/2018,6/21/2001,Common side effects may include mild fever,296acf71-fdb9-454b-b244-c232f377ffa4,bd837107-da76-4455-ab90-2f15ed49f2ed
+cfb45ac7-1b75-41f8-9368-2624e50ba736,Parainfluenza,5/27/2004,8/22/2019,Ensure pet is up-to-date with previous vaccinations,7244ab62-cfeb-4f81-8f5e-d4ef94b4fa83,59a5799b-f267-4a79-9919-35e5524f32e8
+c887dd9c-5d3f-4997-95ca-e53abd53da7d,FIP (Feline Infectious Peritonitis),9/30/2008,3/24/2010,Keep pet calm after vaccination,b685df17-3a69-44ba-aa5e-a3abcc18b8a8,4910bbcc-43c9-4354-9475-d68f3084f2c0
+559e000a-d130-4b3b-9165-69273b267238,H3N2 Canine Influenza,9/8/2011,6/20/2018,Vaccination may cause temporary loss of appetite,054a7c2c-2baa-470b-9e34-27415496242f,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+00bf16df-b0ed-4e49-b1fa-53a12dae1fa0,Feline Panleukopenia,12/17/2016,10/15/2013,Check vaccination record for upcoming boosters,8818c648-a163-4e53-9000-f20cc498cc10,36cf5e41-9389-49c2-a270-f71fed091abf
+8c6618b1-a81a-478c-a218-b097872d209a,Feline Rhinotracheitis,10/26/2022,11/3/2002,Watch for excessive itching or swelling,04c841f5-b24b-46c3-91f2-3738617903ad,591d2afe-1b54-49b2-b807-3dfbe357b606
+70469070-96c3-40e7-8991-567b22eb9111,Feline Rhinotracheitis,6/12/2012,6/30/2009,Administer any prescribed post-vaccination medication,0d715760-99c5-4267-a44c-7c8f2329b49f,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+4a932762-c714-47bf-ada0-7437ebae17c5,Parainfluenza,1/4/2005,4/24/2007,Check vaccination record for upcoming boosters,b87c9da3-feb5-46e9-af53-dda698175ee0,de52a307-8248-4c00-977c-f4160d9cd3e8
+751fdee7-0ca3-4fc2-b89c-5c7609a123e5,Hepatitis,9/12/2017,8/22/2017,Follow-up appointment required in 2 weeks,36242bea-3987-42f4-a6e9-c294136a38a1,673dc36e-f276-4e88-8c62-bca1dcf32ea1
+13634150-0529-42ae-ab3c-2c82dc527d62,Kennel Cough,3/22/2011,1/1/2003,Observe for signs of allergic reaction,fa0901aa-8a13-4906-ad44-f0f7987249f6,46a18e9b-874f-465c-9eeb-9f42b5c782de
+11d1c1ed-27ef-405c-b55a-fda9591f005e,Hepatitis,4/13/2011,9/6/2021,Do not feed immediately after vaccination,ffadda56-6cab-4558-92a9-fc0e23ea20b8,2145ad6c-e3bd-4fcf-ab7e-f37f9081708b
+d47c1720-3280-46e6-b7b4-e545bbc80f41,Calicivirus,1/7/2011,2/6/2019,Common side effects may include mild fever,1fff87ef-2da2-4a3e-9b19-5ccca572a2a3,e30d0ea4-f63b-466a-917e-916943b69f42
+81c0831e-3154-4c66-af34-9eb614fa2a76,FIP (Feline Infectious Peritonitis),10/23/2021,10/18/2008,Inform vet if pet is pregnant or ill,e15531e5-e450-46f5-9afd-0cdde51c03e5,21c929ea-69b1-4422-823b-35f2b4a913a9
+a3d7d75b-bd95-4fbb-91af-3bbffc30b1ad,Bordetella Bronchiseptica,9/5/2004,10/21/2019,swelling at injection site,118a0be2-6210-42b9-b701-52b6d5be8254,92fabd46-5cc7-4450-8d51-ef1a37c722c1
+5b1a5f69-912e-4a64-b4ed-b17057d5d16e,Parainfluenza,4/25/2011,5/14/2011,Ensure pet is up-to-date with previous vaccinations,afd766f9-c01c-4fee-a99b-0ab47c257792,75139bb8-d800-42c7-9545-c9d3cfa628c1
+b81e3785-c038-4c40-8084-b3844c7ad4cc,Leptospirosis,3/22/2020,4/6/2003,Watch for excessive itching or swelling,a509db99-b28f-44a3-a187-d3f246c77183,09362660-6239-438a-ad9f-ff478ca8e70c
+00a0b32d-d69c-4e69-bc45-32a8692635f7,Parainfluenza,5/26/2015,11/2/2017,or lethargy,d4e9a132-3b6c-4e7a-8db2-8d19514426d1,d3e25d60-5188-44d7-b270-9838793a6661
+eba4fe24-8393-45e6-9fdd-a3353d959526,Lyme Disease,2/7/2004,6/3/2024,Notify vet of any unusual behavior or signs post-vaccination,da8c110f-9a5e-4bcc-ad5d-441345e95c19,b3fedd10-2923-4ed9-8bdd-5a24a3351072
+e6d15ee4-2ac3-44e0-accb-ce3704402553,Leptospirosis,3/21/2005,6/23/2018,Notify vet of any unusual behavior or signs post-vaccination,60b9326c-cd00-48ea-a2eb-5e845ba3fdc5,3c3068a5-c174-476a-aba0-6d6d40d097ce
+d1733f4a-5e39-49bd-803a-2ead13e41df1,Panleukopenia),1/25/2015,4/15/2019,Ensure pet is hydrated,b0170a07-bd63-43b4-96ac-53954f06e833,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+bad86930-d3d1-400d-828f-46882584c6bf,Distemper,1/12/2008,2/21/2004,Do not bathe pet for 24 hours,c937a3d0-a8a1-4cc6-84f2-53408c11753a,95f7dd28-b84a-4567-81c0-e53695328131
+3bd89e2a-edc5-4695-8470-70df8b48e5aa,Parainfluenza,9/23/2018,6/15/2001,Ensure pet is hydrated,9208f49c-f730-4c75-aee4-bca3dc66a95d,fd06252f-695b-42c5-bb7b-3050556b7cdf
+a5b2f49a-dbfb-4876-abf7-42053799600f,Bordetella Bronchiseptica,7/13/2022,12/30/2023,Avoid stress for the next few days,52e48542-2079-4e0b-b68d-19f05eeec384,3889a284-e09b-4474-9570-0900d8832a1d
+09774a37-a70d-4439-b7e1-04cbd3ae9edc,Canine Influenza,8/28/2006,2/13/2025,Keep pet indoors after vaccination,72cd5e1f-b4ed-417e-8fb8-540038211e72,6c20c901-e144-4ebf-a523-3d974f2e7022
+884fd26f-dfdd-4d0b-be18-5957015453b1,Bordetella,1/11/2021,2/18/2009,or lethargy,657278f4-1796-4bbc-8041-e4ea58723c39,09362660-6239-438a-ad9f-ff478ca8e70c
+0bf2f368-450e-4c20-91d5-cd6ea13b416a,FIP (Feline Infectious Peritonitis),10/6/2021,1/17/2018,Common side effects may include mild fever,f2b1cd35-e54e-4a67-93b0-5247840f205c,8107fe7f-b2ed-410c-bee6-e4031dad6450
+8c445374-cbeb-4472-a32a-2bca47283fdf,Calicivirus,4/24/2017,11/16/2020,Notify vet of any unusual behavior or signs post-vaccination,81edc088-b15b-41b4-b83a-1286a28abe26,8b3bf1eb-e145-4462-b600-02bb14e25c69
+3c0bb128-c897-4df7-82c2-a4cf2ef9eed1,Rabies,7/29/2003,7/18/2006,Avoid stress for the next few days,a14dc6c0-ef5c-493f-b041-202c836127f2,09362660-6239-438a-ad9f-ff478ca8e70c
+1bcb099d-db9c-492e-8b67-fd62ba14cb43,H3N8 Canine Influenza,8/30/2019,2/20/2008,Inform vet if pet is pregnant or ill,b5bcc60c-2a11-4d59-ba94-807dfde01b6d,30e5dac2-99e4-4a74-852e-b400c2018e19
+ec9195f1-5e3e-4ffd-9c1c-b264e614de1f,Bordetella,7/28/2000,4/1/2017,Watch for excessive itching or swelling,a4772a62-5d00-4bf3-89df-895070c4e2a2,9b6f2907-e03b-468e-a800-42764939c755
+7a54d710-2244-44c4-8051-09c545bd47f1,Feline Chlamydia,3/9/2002,5/4/2012,swelling at injection site,ec0a0546-3a39-4992-8869-46ab5629474d,214b2ba1-82ec-4777-9c73-11930c64b1f3
+b538ea0c-48ff-4327-84c7-679b3ae2afbc,Parvovirus,5/2/2000,7/16/2010,Observe for signs of allergic reaction,60de1c36-b269-4862-a123-d2a49b37d90d,59dec043-c4be-45c4-8284-816ead71a20f
+7dbd5bab-6cd2-4c3e-8571-83ab70cca0e8,Feline Panleukopenia,4/6/2003,6/9/2006,Notify vet of any unusual behavior or signs post-vaccination,e94d1c73-120e-4426-83b7-7e90abd99121,2c7c2c60-3a11-4e88-abec-fd423ee25cc7
+5f276963-03a3-46af-8a28-3fbf296dc4a2,Feline Panleukopenia,8/11/2020,12/20/2006,Watch for excessive itching or swelling,94b0897e-ab43-49b1-8172-7caa1edbb95a,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+4a74979a-b986-400d-95ad-845760304e8f,Adenovirus,6/29/2012,10/22/2008,Check vaccination record for upcoming boosters,109de33c-13df-46d6-a475-5c2aa94492ee,29b3f44e-fea8-4bc0-ae38-f02354458167
+0a5f28cd-cf91-4870-9d8c-1f606d0128f1,Parainfluenza),2/29/2008,4/28/2008,Follow-up appointment required in 2 weeks,7600ce20-1a28-4a76-9833-1d98946108fe,816d02ba-3bbf-4d46-b116-e33da7f614c9
+893de57e-4b57-4e99-a2c2-fc5021da4658,Leptospirosis,11/28/2007,12/18/2007,Check vaccination record for upcoming boosters,9565de19-a700-4cb9-80f8-f0db344d9eed,2d3bda44-92a2-4581-b86a-8ca3fe33ffbc
+8e4f7c6c-8d21-43dd-b4b8-24ef7bf43720,Adenovirus,3/9/2011,9/24/2016,Watch for excessive itching or swelling,ff86b403-9646-465f-a3bc-cdd52f70e1ad,4a845538-fa02-4876-a72a-6362160493fe
+3a089d40-01f3-4d48-97e8-8baecf2c4169,Bordetella Bronchiseptica,12/6/2019,11/1/2009,Keep pet indoors after vaccination,861002c7-7394-4522-862b-0d446b096484,06879170-70e7-47e0-804c-214d61f5d003
+2e567dbd-a2fd-4c77-b32b-c25550068f26,FIP (Feline Infectious Peritonitis),7/14/2002,6/21/2007,Watch for excessive itching or swelling,7948d61f-ae30-446e-9761-d412f0722243,d3cee14d-a1c3-4e19-ab98-92b4990320de
+9a218c16-af48-4336-a260-318b15c21ff5,Calicivirus,4/10/2003,6/22/2013,Monitor for side effects,94cc370f-a26b-41f3-9174-b98162412757,6a0a4d57-c67c-4659-8e49-da88220a4104
+f77ae79e-9799-41b5-9a38-03149d48be3c,Calicivirus,9/17/2010,1/16/2019,Ensure pet is up-to-date with previous vaccinations,da8c110f-9a5e-4bcc-ad5d-441345e95c19,30e5dac2-99e4-4a74-852e-b400c2018e19
+e59d37b9-3c79-4faa-9fc8-f9b4df587e1b,RCP (Feline Rhinotracheitis,12/10/2007,8/30/2005,Administer booster shot in 3 weeks,096edec6-d5a9-49cf-a8f1-a43e5d6f0753,b8c284f0-4876-4617-b087-5fe5b9485996
+311e4012-bfd6-4dfb-aa05-6faf3799e773,Rabies (3-year),4/14/2007,4/30/2008,Monitor for side effects,c09ca923-2e35-4806-9ab7-a5c0f2c5da08,046e7437-99b9-4910-810c-ba512baf5dc9
+aa58797e-67b5-458e-af98-2c3b7cb9dd40,Feline Panleukopenia,2/13/2014,9/3/2010,Monitor for side effects,da31ac55-0fcb-4dc2-8e69-364e3aab7e0f,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+33cd0ed5-f5db-4370-aa87-e1197c90b56c,Rabies (3-year),11/25/2022,10/1/2022,Watch for excessive itching or swelling,b2ca6a45-b984-484e-b0d2-fca0d9a21a45,bd837107-da76-4455-ab90-2f15ed49f2ed
+9d9c176d-c189-474b-8755-2cb6149d9c15,Feline Leukemia,6/14/2020,10/7/2016,Do not expose to unvaccinated animals for a few days,57493e0f-585d-4317-b747-ade7ab147773,df24be23-3319-49ac-a0cf-bacd4af8629e
+6b214835-1a88-4fc3-a5d0-3867d78dd875,Rabies,5/8/2014,9/30/2021,Common side effects may include mild fever,6da51d96-5970-40e0-b256-1d1757be4a05,1c42e31c-c28b-4345-8116-39641c629011
+c8155c85-26ce-45f7-81d3-630af5cac05d,Tetanus,1/17/2005,2/24/2025,Do not expose to unvaccinated animals for a few days,e9badd63-dcda-4640-ae87-c861253e041e,5f897080-971b-414a-836b-f285cdd7664d
+b9a6af6e-702d-4bda-86d4-84184873664c,RCP (Feline Rhinotracheitis,5/9/2003,10/8/2004,Avoid strenuous exercise for 24 hours,5ca3739f-6c36-44b0-a5c5-eb1803a2e45e,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+109f6977-5ccc-4b7b-855b-7d1707cf1c89,Feline Leukemia,7/1/2023,1/19/2008,Do not feed immediately after vaccination,220a70a8-2ef7-4e12-8364-34e6c05fa862,d6f1a525-9ad0-4c0d-a041-5e8af5162844
+b4c54582-c1e0-49b6-b1da-fe1138d9b135,Leptospira,10/5/2003,10/1/2019,Common side effects may include mild fever,da8c110f-9a5e-4bcc-ad5d-441345e95c19,ff80b442-fa33-47bc-ae1c-62dfcda5af4f
+32bbd941-2808-4fb8-86e1-65cb19ba7868,Feline Rhinotracheitis,4/26/2005,5/11/2004,Keep pet indoors after vaccination,2bba2aa6-ceca-4bb6-82a9-46613185f2e1,8107fe7f-b2ed-410c-bee6-e4031dad6450
+3e33a835-f1f4-431d-ad0d-def130c8558c,Tetanus,6/19/2020,8/11/2023,Do not expose to unvaccinated animals for a few days,e4ebe071-6b1b-439b-9b61-7f6f6ec4addb,39305a66-22f1-4f41-a3ca-438e5ac802ea
+c2b06480-26ac-4b12-8a16-ff607ab8e5b9,Distemper,10/16/2000,1/26/2012,Vaccination may cause temporary loss of appetite,f5a3ca12-b7f4-49e6-a8ff-31a77ab839df,7d70ed67-a9b0-428b-a58d-04291a486adb
+7cd9e580-244d-4e4c-9a6f-ea8cc320754c,H3N8 Canine Influenza,1/11/2007,6/19/2021,Common side effects may include mild fever,429b95f4-b7d2-49bc-8f3e-27ec1bb3ea62,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+d13b651a-52af-4870-bbd8-1e7d58850961,Lyme Disease,2/4/2007,4/11/2023,Avoid stress for the next few days,589bedb9-77a9-43b5-aaa2-82beaddd5687,214b2ba1-82ec-4777-9c73-11930c64b1f3
+a1353b9d-5665-496c-82ca-737ca351a19c,Lyme Disease,1/4/2019,2/16/2022,Keep pet calm after vaccination,8189d2d0-82e4-4e4d-9188-bef20b418d58,1dc3a843-bff8-4aaf-8900-61d38a92e100
+f94e9187-99bb-41ff-ba37-a1ae7955dca8,Parvovirus,3/24/2008,1/13/2025,Watch for excessive itching or swelling,662c16ed-055c-4647-ad20-b9d33e46f973,2b504649-8c6f-44f3-8d5e-d2f45d47deab
+1a433bc9-085b-4b15-a6c3-93323cb29815,H3N2 Canine Influenza,9/1/2008,11/29/2018,Do not bathe pet for 24 hours,42271324-6763-401b-aced-8d40c81d09c6,de52a307-8248-4c00-977c-f4160d9cd3e8
+0cc2a0de-0f36-4585-9152-5260bb98b2ee,Feline Rhinotracheitis,8/27/2001,9/18/2007,Follow-up appointment required in 2 weeks,2a60737c-e6fc-4b05-b85e-cad5fb0d6ad3,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+6ffc356c-edfb-4df5-8894-a19803363dfc,Canine Influenza,3/15/2006,8/20/2019,Monitor for side effects,7609f729-8578-4b1b-96ee-3b30c08ffc49,7d70ed67-a9b0-428b-a58d-04291a486adb
+bf3cd661-a9f3-4bf8-81d6-60b31c52fceb,H3N8 Canine Influenza,12/17/2010,10/13/2018,Inform vet if pet is pregnant or ill,30ea381c-0eb2-409f-b40e-79ad9aa8c1e6,b894e284-d6ea-487f-a6b8-a77c33ade36d
+94b4f175-f084-4009-a0d3-8b0fe696d943,Parvovirus,4/2/2014,10/13/2008,Check vaccination record for upcoming boosters,60de1c36-b269-4862-a123-d2a49b37d90d,6420d4a4-df96-479c-bbf0-cfb2d078ecf7
+a3bf03ff-173e-49d4-bfba-00f71ff64146,Panleukopenia),9/30/2008,2/9/2016,Avoid stress for the next few days,3917bbba-6f7c-4c12-93b2-bef08bf6ee49,80e707c4-4c40-40f5-adc9-927fcae80f17
+1d0dcc43-b8a4-459a-a865-956caaad4313,Feline Rhinotracheitis,12/30/2015,12/19/2008,swelling at injection site,b0df19e1-8d94-42ff-8c13-96e6c389501a,df24be23-3319-49ac-a0cf-bacd4af8629e
+895880d1-2cfb-43a3-b0a5-3138cee01fbe,Parvovirus,1/2/2002,5/23/2000,Watch for excessive itching or swelling,81edc088-b15b-41b4-b83a-1286a28abe26,59dec043-c4be-45c4-8284-816ead71a20f
+525a1b40-ef53-48db-8833-cbdccfbac34a,Feline Panleukopenia,2/5/2011,4/17/2016,Do not expose to unvaccinated animals for a few days,8d3bfb0e-47c8-4dfa-93eb-be5f3393a619,6a0a4d57-c67c-4659-8e49-da88220a4104
+5dc40de1-8e47-43ad-9498-0347f5621406,DHPP (Canine Distemper,12/14/2006,3/14/2015,Ensure pet is hydrated,6c1cc0b1-df56-4104-86e6-bd992115b0c1,80ba6dea-0188-4dcd-b625-2a6960147fca
+2ee18734-3d98-4adc-a4db-4e83b1b8b564,H3N2 Canine Influenza,3/20/2019,5/2/2001,Notify vet of any unusual behavior or signs post-vaccination,a509db99-b28f-44a3-a187-d3f246c77183,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+a36a73c9-0c04-4685-8233-2eebb184ed12,H3N8 Canine Influenza,6/25/2005,11/5/2022,or lethargy,d8ded7bb-e333-4f85-95fc-bf26c834ba49,06879170-70e7-47e0-804c-214d61f5d003
+ba3bd2f0-c363-435a-b253-7c4e140feaa6,Bordetella Bronchiseptica,2/23/2006,7/31/2023,Keep pet indoors after vaccination,98b80704-616e-434a-8f4e-391c54777521,d3b1e076-fa39-451b-978c-1ec5f2ab9e62
+10873d19-d0ac-46d5-b16f-c6908c4e7253,Feline Panleukopenia,3/2/2022,6/29/2008,Administer any prescribed post-vaccination medication,0849079d-1456-4aa1-95e8-785120c59ef8,29b3f44e-fea8-4bc0-ae38-f02354458167
+dc9f947e-9b27-418f-b71e-13a0de0f0a9c,H3N8 Canine Influenza,6/24/2006,11/28/2009,Do not bathe pet for 24 hours,cad89368-b77e-4c2d-a731-2ea3ea41fdba,6fa17213-2997-478f-88e3-7f421a65d670
+ef79b72f-833e-4ee4-8416-16091c8f5a60,FIP (Feline Infectious Peritonitis),2/4/2023,3/26/2019,Administer any prescribed post-vaccination medication,7609f729-8578-4b1b-96ee-3b30c08ffc49,4910bbcc-43c9-4354-9475-d68f3084f2c0
+9db7d201-4e90-4491-a240-80cd2804b757,Panleukopenia),2/28/2003,2/27/2008,or lethargy,ab92cd41-049f-4527-849c-ccaaa16832ea,fa708656-df65-46b0-b7a7-05d398594045
+07c74420-b1e6-4cc9-a748-8d7c6d790637,Panleukopenia),11/4/2003,8/19/2007,Do not expose to unvaccinated animals for a few days,f039db84-1055-415d-a317-a29fd4152989,816d02ba-3bbf-4d46-b116-e33da7f614c9
+4ac3b48a-6f8e-462c-8b05-975bc9b92425,Parainfluenza,11/16/2024,1/29/2018,Ensure pet is hydrated,eb013a56-91ed-4812-af16-aedfb87eb87e,6a0a4d57-c67c-4659-8e49-da88220a4104
+c8c51c16-3ed5-47c3-8e3b-709e5ba7b6ae,Feline Rhinotracheitis,3/14/2011,8/29/2019,Do not expose to unvaccinated animals for a few days,118a0be2-6210-42b9-b701-52b6d5be8254,6a0a4d57-c67c-4659-8e49-da88220a4104
+f4119b55-f135-458a-ac85-925fa3430b04,Bordetella Bronchiseptica,7/26/2010,9/19/2009,Ensure pet is hydrated,9c733839-903a-46f4-a180-38461e3e83dd,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+e7beadf8-edba-46c7-99ee-972b12a287f7,FIP (Feline Infectious Peritonitis),9/14/2007,8/17/2011,Watch for excessive itching or swelling,1a8ec2d9-3ea5-4de4-9bec-2258e28491ef,30e5dac2-99e4-4a74-852e-b400c2018e19
+93580bb5-e414-4825-9aa7-0dc8fba34dfa,Leptospira,12/15/2001,12/16/2024,Common side effects may include mild fever,244d0e3a-0635-4767-ae48-446dc0e5a96c,8b3bf1eb-e145-4462-b600-02bb14e25c69
+2dd362e1-0f75-419d-995b-59188f7d28e1,Bordetella,9/10/2012,4/28/2003,Avoid strenuous exercise for 24 hours,096106f0-eb6c-405b-8920-10dce9cb24d1,de52a307-8248-4c00-977c-f4160d9cd3e8
+3928bc42-2a3f-4ff3-8148-9f54eb927a48,Kennel Cough,8/26/2018,7/2/2019,Ensure pet is up-to-date with previous vaccinations,ffb63a11-70e2-441a-b839-00bd81731e5d,b8c284f0-4876-4617-b087-5fe5b9485996
+35a1ebbb-7cdb-4d1b-8cfc-4a98e4d1e18d,Bordetella Bronchiseptica,9/3/2017,3/20/2005,or lethargy,59605902-8bff-49d0-a586-36f53646819b,4168f51d-c2fe-4952-8416-57868f4035e0
+03277087-bd15-45ff-9ac1-1fc35af62818,H3N8 Canine Influenza,11/9/2023,3/27/2010,Do not feed immediately after vaccination,bd4d7f07-8273-4c6e-9bdb-ad68eaee5e7e,c1ef28d6-ed37-4772-932d-1c00976284d9
+ed7027cf-9589-4150-8845-1e6fe1cd541a,Parainfluenza,11/25/2010,5/27/2015,Common side effects may include mild fever,b1535528-e718-4625-85b0-3174066cfc7b,6cf5e671-a006-4a0a-a550-87b2a42e0123
+dd345278-d23f-4b8f-b3e0-46f97a7c7e78,Parainfluenza,1/23/2013,2/4/2006,Ensure pet is up-to-date with previous vaccinations,169d004b-aae2-4a86-87cc-85aa07522757,6420d4a4-df96-479c-bbf0-cfb2d078ecf7
+c3af4fbb-e259-406d-b063-5fea9ea41bd2,H3N8 Canine Influenza,10/19/2024,6/25/2010,Administer booster shot in 3 weeks,361d49db-944f-4007-a623-df4128038312,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+81636ec9-01c9-42f2-a152-f15953d0a03a,Distemper,12/29/2022,3/9/2024,Check vaccination record for upcoming boosters,d9d056c7-0323-4873-b549-472677cf43dc,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+91e718e5-e29a-4f75-80c9-0d6c62239ae9,Parvovirus,6/13/2012,4/7/2002,Watch for excessive itching or swelling,74059941-117c-490e-b070-d4d88d33def8,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+e4b96725-0882-4238-8e4c-e5f535a89aa0,Distemper,12/4/2017,1/5/2003,Common side effects may include mild fever,2018a24d-1c67-4e56-8a28-4baaa15c514e,4168f51d-c2fe-4952-8416-57868f4035e0
+de9c5d0c-8e71-48b9-bcff-403d81648658,Distemper,7/18/2024,10/1/2011,Do not feed immediately after vaccination,d282b561-29c5-40f1-aaa8-23caea6252ce,e9e79837-7736-46ba-980c-9590776a4e68
+e8a580b5-a3f1-4cba-8b30-416128f1e477,Bordetella Bronchiseptica,11/20/2010,8/29/2014,Do not feed immediately after vaccination,23a054f9-6f0c-472c-8d43-27198f683dd3,06879170-70e7-47e0-804c-214d61f5d003
+8e6c73ab-b464-4b95-95d6-0473c0c93fd3,Panleukopenia),6/12/2012,5/4/2014,Notify vet of any unusual behavior or signs post-vaccination,01afda33-4224-4bb1-abf1-a4eead65f486,4168f51d-c2fe-4952-8416-57868f4035e0
+e36b1c2b-0e02-4512-9515-a1823c990119,Parvovirus,9/1/2018,5/24/2006,Watch for excessive itching or swelling,c1ff8221-ce72-49cd-9113-ae96371f94ab,b5f494d8-05cf-48d2-97b1-4cc74c26f9ab
+c3c6ce66-482c-4e14-b3d8-73bf7c51db5b,Feline Leukemia,4/14/2003,7/11/2000,Administer booster shot in 3 weeks,a15dee96-7e82-4cdb-aa37-adde6776c726,3c3068a5-c174-476a-aba0-6d6d40d097ce
+639851e5-3308-487c-a7dc-f5bc4d2036c0,Panleukopenia),8/11/2000,3/10/2019,or lethargy,dc4b6ba0-50d5-4c58-85ff-51a875d2f2cc,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+03a37019-86ad-469e-af8f-0a8d86e51b1b,Feline Rhinotracheitis,6/23/2022,6/13/2013,Follow-up appointment required in 2 weeks,fc8670c4-9da9-4abe-9b70-8654d896a0a4,b8c284f0-4876-4617-b087-5fe5b9485996
+2beab145-210d-4134-9214-91264197385a,RCP (Feline Rhinotracheitis,9/3/2008,10/13/2002,Administer any prescribed post-vaccination medication,9a65cc96-f605-42cd-acf8-61a6eb23a047,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+f9388d0c-952b-40e3-a2e1-32f9b0b9e7e0,Feline Panleukopenia,1/31/2022,8/8/2022,swelling at injection site,77fcdc60-b939-430b-a06e-f77282278c24,d15a3590-f9ff-4cce-a728-56d6221344ba
+92091ddd-432c-4e02-84d3-28cc04e3c93f,Feline Chlamydia,8/1/2014,11/23/2001,Keep pet calm after vaccination,18fbc7e9-efd6-41cf-bb07-93c5d0e1ecbe,7d70ed67-a9b0-428b-a58d-04291a486adb
+0c16714d-d808-4baa-aebf-c6a0a61143f0,Kennel Cough,1/26/2001,1/23/2001,Keep pet indoors after vaccination,bc4e8803-d22a-4c91-b29e-a6d2f47bfa8f,6c20c901-e144-4ebf-a523-3d974f2e7022
+337fb547-31c3-43a3-a861-aba5b50d66d8,Calicivirus,11/26/2004,11/6/2007,Keep pet calm after vaccination,c6751772-f498-446e-b657-f3244d9f00b2,e9e79837-7736-46ba-980c-9590776a4e68
+04301cf5-746f-41a5-b102-0ac1bfeb7d61,Leptospira,1/3/2013,3/9/2024,Keep pet calm after vaccination,757c0f35-7afc-4376-a3a2-cb7a6d035703,10fcbf43-8537-4af0-900f-a2fd5d375c54
+e27891e6-9777-42a0-ab77-fc8a0cce44fb,Distemper,11/27/2007,6/14/2001,Observe for signs of allergic reaction,0f7c4fc6-e523-4fb6-a298-5fcdddddd301,58834369-c955-4e18-a6e1-62214dbea66d
+26039ea8-7557-4d63-8b52-d82214254280,Parvovirus,8/12/2013,4/20/2008,Notify vet of any unusual behavior or signs post-vaccination,4b40d7ca-e27e-40f5-bed1-8ea599e5e388,e35e3077-e068-434f-b35b-34afcae9c7d4
+e74b2289-2ee5-4e45-859a-86076a4487b4,Leptospirosis,7/4/2012,9/24/2020,or lethargy,78b73a45-f9b1-49f9-a9e6-7a53094957cc,d43a714f-e588-45a0-89db-17076cfbc3ab
+be115d47-bf2a-4357-bb13-bcd43d97597e,H3N8 Canine Influenza,10/23/2019,11/22/2005,Administer any prescribed post-vaccination medication,32e35a4b-70a0-4bb1-9d63-1cdb7029918f,ea3e2dde-50c4-4441-ad45-fbc007839840
+397d78cb-8570-4be7-b5ca-de6f02864331,Panleukopenia),7/23/2018,7/17/2014,Do not expose to unvaccinated animals for a few days,ea12037f-f1a1-42f0-b06e-a84fc44e0d9b,3889a284-e09b-4474-9570-0900d8832a1d
+63d6c3c1-2134-4c24-bdc5-f13986924450,Feline Calicivirus,11/29/2020,9/2/2011,or lethargy,29802eba-4f5d-46f5-a5bb-340c050c9509,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+6f813929-aaf2-43a7-808b-556008c60410,Parvovirus,8/6/2010,10/24/2007,Follow-up appointment required in 2 weeks,a2a36d98-966f-462c-accc-6a145db4decc,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+d3ec7e21-1bd7-46d5-9690-7aa10d1d5e87,H3N8 Canine Influenza,12/20/2003,10/12/2007,Avoid stress for the next few days,cc8d4393-d50a-4d21-bcd6-64d65d673e5b,1c83e052-3cde-4332-9b7c-ede6a5098ff4
+237ef1cd-2a20-4cca-85ce-06efe57fc8ea,H3N2 Canine Influenza,12/7/2011,5/15/2011,or lethargy,07fc710e-c608-4d59-baac-af983dc9c878,80e707c4-4c40-40f5-adc9-927fcae80f17
+e55c8eaf-ff71-4242-bc4f-ba25cc9017b1,Feline Calicivirus,7/16/2013,3/17/2007,Avoid strenuous exercise for 24 hours,846ae093-77c8-4f40-82e8-0bd1ac931069,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+aeb46101-180f-4ac9-8881-e16feb457e76,Kennel Cough,3/21/2001,6/5/2002,Avoid stress for the next few days,a7b2bab7-4cae-488d-a534-1aff4c279ad1,8b3bf1eb-e145-4462-b600-02bb14e25c69
+c51fab8e-a430-47d0-ad06-aba25cd91cd0,Hepatitis,2/7/2010,8/19/2006,Administer any prescribed post-vaccination medication,f2b480b4-2c14-4408-ad3d-4b482935ee02,ea3e2dde-50c4-4441-ad45-fbc007839840
+2a78d3ae-b17f-4be5-91a4-1a23f36c0a2e,Panleukopenia),2/7/2023,12/5/2018,Notify vet of any unusual behavior or signs post-vaccination,4da6066d-d9f6-41d4-a413-e157bb3b0194,843d6843-d4b7-4bc6-b4bd-b1178d1fe38a
+58233869-38c3-49af-b056-92e44343f8ef,Feline Leukemia,8/28/2015,11/2/2006,Observe for signs of allergic reaction,2eaf0b8c-1cf0-46ba-80be-6bef77acc6da,fdabea79-f3ff-4311-93b4-9976c17350f5
+45fe6198-79cc-4321-986c-cb670346ceb8,Distemper,11/26/2021,12/2/2002,Do not bathe pet for 24 hours,3da4497a-a3b3-48d6-bf7c-32ed2458eb20,337f4d29-5977-4e76-b493-41dd50e41a3f
+970eb64e-65e5-45aa-a889-06dfd394e496,Hepatitis,11/6/2008,11/6/2020,Avoid strenuous exercise for 24 hours,b6fc902c-f1a6-4e87-8f9d-ab951eaa3d79,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+8f7ccecd-cf56-4304-a7e0-8a3920e3de8c,Tetanus,1/17/2015,6/24/2023,Check vaccination record for upcoming boosters,cd841289-62e7-4caf-a6af-0a67a6096875,9028ba15-2fb3-4724-a2f6-dc3a41079583
+e6a7521e-492d-41cf-8fd4-f415ec28d44d,Distemper,10/17/2021,3/13/2020,Administer any prescribed post-vaccination medication,ff304fc2-e085-4d3f-b00a-4d5b223655f9,f9afc424-5634-40df-ae60-96d332a70aa6
+150622ce-addd-47f4-966d-fefae91edda2,Rabies,8/30/2017,3/23/2008,Observe for signs of allergic reaction,a5b22202-998b-4fe9-ad87-643428ceb899,71388745-ca94-490e-b396-5d964572341c
+7a6a5197-3845-43a9-a859-4842ee5cc447,Bordetella,3/5/2013,10/14/2016,Inform vet if pet is pregnant or ill,18ce9e6e-abf5-41a8-ac95-bd793699ffcf,6c20c901-e144-4ebf-a523-3d974f2e7022
+0e65f3e7-2800-47b7-addc-6445f51b8b12,Parvovirus,2/25/2001,12/8/2024,Ensure pet is up-to-date with previous vaccinations,1de77af1-85e1-45e7-a5ca-d702869f7a3b,39305a66-22f1-4f41-a3ca-438e5ac802ea
+eec13304-a901-4f08-8d8c-fa1eff19a72a,Kennel Cough,6/29/2022,6/11/2009,Avoid strenuous exercise for 24 hours,7ee3d335-1ae4-4a53-95a0-96a0f30a5f80,80e707c4-4c40-40f5-adc9-927fcae80f17
+09e7c99c-698b-43b6-8da9-4798e1342cbd,H3N2 Canine Influenza,5/31/2024,9/19/2013,Monitor for side effects,d542bd76-8285-4116-829c-10a6ae339482,df24be23-3319-49ac-a0cf-bacd4af8629e
+ec706d9d-eeb7-4501-ac1c-d2dcce99dad6,Canine Influenza,4/10/2000,11/30/2003,Do not bathe pet for 24 hours,6484ebaf-104e-4dae-8429-7b9b60ae9020,6c20c901-e144-4ebf-a523-3d974f2e7022
+94ac6bbb-69c9-4010-a7de-ad6d9576c9b4,Hepatitis,5/30/2022,5/30/2021,Do not bathe pet for 24 hours,1bfa7434-a8f7-4b6e-85f2-eaeabfbb52c4,4168f51d-c2fe-4952-8416-57868f4035e0
+ddfcc8ec-375a-45ac-874c-57ec12ada67b,RCP (Feline Rhinotracheitis,9/18/2011,4/10/2007,Avoid stress for the next few days,0fff6024-e34d-4a66-8e20-b35ee6bf6dae,046e7437-99b9-4910-810c-ba512baf5dc9
+a24434b3-088d-4cfa-843c-b96ee21cc8f4,H3N8 Canine Influenza,12/22/2005,5/24/2011,Vaccination may cause temporary loss of appetite,efc3aa29-8cbb-4fb4-ac4e-43e7b5681e6e,3889a284-e09b-4474-9570-0900d8832a1d
+a14343a2-f632-4079-a49e-8ba32bbb1486,Lyme Disease,8/29/2011,8/22/2022,Avoid strenuous exercise for 24 hours,9edb3065-9fb9-4486-bf9a-9d85e9ebe6c3,df66b46d-76b3-4966-962f-d90b54965ac7
+d6d58665-3341-4284-9c11-73f518651eb3,Bordetella,10/1/2019,3/27/2003,Notify vet of any unusual behavior or signs post-vaccination,db0bafe1-944f-438c-85ac-6430b78c7c14,046e7437-99b9-4910-810c-ba512baf5dc9
+cfa6615c-3f8d-45ba-940b-701892720d13,Kennel Cough,9/22/2017,7/11/2018,Administer any prescribed post-vaccination medication,f235fa00-d082-4e1d-b10b-44ffad0a2c64,733aedd6-e7e6-4ca8-b44f-f7f16cf70d74
+13836b56-20be-4f0b-bf7b-21afc28b2cf8,Hepatitis,9/3/2000,7/9/2008,swelling at injection site,9cac5006-6131-4f27-861e-ec24afeb778b,df24be23-3319-49ac-a0cf-bacd4af8629e
+c231b17e-dd53-4ae8-93bf-d4dd5f4a15e0,Feline Calicivirus,1/12/2008,2/18/2004,or lethargy,b8a555cb-1e7a-4bf9-a61e-0cdb3e5be30b,5cc2cf52-b07d-4856-8fb3-cabbbfba4cb6
+471c91b8-82f8-4eb7-a5e6-d3f25c877add,Feline Calicivirus,2/20/2004,8/9/2024,Avoid stress for the next few days,95f202b1-53d9-4207-9f95-2c37992b74fc,e30d0ea4-f63b-466a-917e-916943b69f42
+663946cd-7f91-4793-ac64-b1c237c4f923,Adenovirus,9/24/2011,12/23/2021,Check vaccination record for upcoming boosters,f4925076-e5d4-4a26-8186-92f0fd5c6453,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+c57e5753-cc50-497d-9a91-72c6563409e8,Bordetella,2/19/2001,1/7/2001,swelling at injection site,ff14bce8-c14a-445f-aa25-5c26f9c4bfd5,f55af8ba-7b96-48c5-81f6-a5187d4c16b1
+df2b98db-3661-437e-8c5f-628370c5273f,Hepatitis,5/30/2015,4/23/2009,Administer booster shot in 3 weeks,db5393fd-3226-41f0-9487-690c9ecf39ef,92fabd46-5cc7-4450-8d51-ef1a37c722c1
+c8856c37-bec2-4efd-8c42-2fa8b3f3504e,Tetanus,12/16/2020,3/13/2010,Common side effects may include mild fever,c7ae30a3-9a64-4b8e-ac90-9ac30f694f9b,3c3068a5-c174-476a-aba0-6d6d40d097ce
+2464f542-7ddc-4d38-99a2-066531c6af7b,Canine Influenza,5/11/2007,10/4/2000,or lethargy,87b74b98-063a-4a61-9c88-1a67b03d9212,04503ce2-1243-46f9-ae42-1af6f8ad168b
+6091433e-33e1-4dd2-8bb7-fe523fe33d43,Feline Panleukopenia,6/14/2009,2/25/2018,Observe for signs of allergic reaction,f6ab528a-8481-4ce4-a7bf-1bd7c0df1ec0,a475c392-782c-4a95-a3d5-e0d6b81de409
+2708f21b-05e2-4433-bac3-76d42298f8c7,Parvovirus,7/26/2021,6/17/2011,Monitor for side effects,2f9d43d0-cf82-4121-9030-f53fa87ca46f,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+fe88a688-e4ce-49eb-b587-dcd602cabd70,Parainfluenza),8/26/2014,8/4/2003,Monitor for side effects,341dbedb-b88f-4e11-9cf0-36509b293ca4,9028ba15-2fb3-4724-a2f6-dc3a41079583
+536d7602-bb37-4982-bfbc-49a921b045a3,Bordetella Bronchiseptica,12/28/2021,3/13/2017,Observe for signs of allergic reaction,361d49db-944f-4007-a623-df4128038312,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+b7bddd5c-340b-49f9-9796-62efa9d59245,Canine Influenza,9/23/2002,5/12/2001,Do not feed immediately after vaccination,2eb76cff-f204-4575-bcbf-8075dfda1264,d2f12571-b206-4b77-a85c-5a887bc11300
+e9c43af6-0963-46b5-8c30-91549af0a6dc,Parvovirus,3/27/2004,3/14/2013,Keep pet calm after vaccination,19bb05c4-391c-44bd-8718-1cff6f70f0ba,53f34619-10ca-4e6b-9bb9-98af7cf40298
+73784ab4-ead8-4826-9aec-aaeaf08ec43e,Parainfluenza,8/3/2010,7/20/2023,Common side effects may include mild fever,13df93bf-e079-444c-b0f1-bd237586e3da,a9f4a9ea-e300-41f2-9ec1-da286d86e81e
+44b7a388-0091-4587-9fab-e2c220be1dc6,FIP (Feline Infectious Peritonitis),3/20/2010,4/29/2013,Ensure pet is hydrated,657278f4-1796-4bbc-8041-e4ea58723c39,aceaa675-8e2c-44f9-9939-dbf5998d55b3
+acc2d15e-6251-471a-b2f3-fb27bdb1d490,Panleukopenia),11/26/2023,8/17/2011,Do not feed immediately after vaccination,801fb69a-f6a6-4514-b940-316a898c9e61,04503ce2-1243-46f9-ae42-1af6f8ad168b
+081872e2-8eb4-4d08-b485-d2b7a249ec2f,H3N2 Canine Influenza,10/26/2007,7/27/2010,Notify vet of any unusual behavior or signs post-vaccination,7a3e7990-c270-4e91-a3e2-6f93d2c0e08f,4168f51d-c2fe-4952-8416-57868f4035e0
+b7be6dfa-5eed-4e3a-b333-75a2970055ee,Hepatitis,7/1/2007,4/17/2018,Vaccination may cause temporary loss of appetite,07fa7b49-ec9d-443f-b398-48ca6bc32943,c754e3c3-83fb-442b-8366-702e27264941
+20c6813b-c340-4adc-ba54-c87131899eed,Hepatitis,4/21/2008,4/22/2002,Administer any prescribed post-vaccination medication,bf2efc5e-10a4-4754-8d90-307d4fb36211,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+137c23c7-1d8d-498c-960a-d4e9c221c7d6,Bordetella,12/11/2012,10/18/2014,Avoid strenuous exercise for 24 hours,cbcb30ca-398d-44ef-be68-a93c03bf2dc4,95f7dd28-b84a-4567-81c0-e53695328131
+a7d2492d-6e01-422c-8397-fda24dee557d,Parvovirus,12/4/2009,7/30/2002,Do not bathe pet for 24 hours,8555049c-c3ac-4486-b97d-aef91727ac98,956c1eba-3a3a-4144-93eb-bb682410af5b
+a90b8111-5a82-492a-bc64-91eeb617d040,Panleukopenia),7/22/2001,6/29/2002,Ensure pet is hydrated,d3095d66-dc86-482e-88cc-5624d84de3a0,2d2e7bc3-4e4c-4dc8-b980-29cd50541ba8
+0ed558df-3381-4a78-be17-13d34d18801a,Feline Leukemia,5/16/2018,4/30/2007,swelling at injection site,aa24c5a3-864a-42f8-a333-53e51d3aa756,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+077b8ec1-9eef-4a03-8061-613e5901aea1,Kennel Cough,12/30/2019,11/11/2012,Inform vet if pet is pregnant or ill,fe220202-945f-4176-b3e2-8a1f7db747b1,4a845538-fa02-4876-a72a-6362160493fe
+aba0e56b-5b0c-411d-9739-fe9f501607bc,Leptospira,5/26/2001,9/14/2004,Do not bathe pet for 24 hours,adc68f5f-f61a-4ce2-b4cd-81d756be1207,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+afd65d1a-719c-4653-9c51-6532ecd33578,Leptospira,12/9/2021,10/15/2002,Ensure pet is up-to-date with previous vaccinations,fe220202-945f-4176-b3e2-8a1f7db747b1,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+05113196-5214-4948-814e-34caf17af35c,Feline Chlamydia,6/9/2022,11/20/2009,Keep pet calm after vaccination,519643d4-81fa-48b0-affd-c69d0c597e31,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+511f0447-c84e-4cc8-9531-a87afd8de6fe,RCP (Feline Rhinotracheitis,8/3/2021,4/6/2018,Administer booster shot in 3 weeks,2c6b520f-d553-487d-aef8-e5b6aee0361a,f9afc424-5634-40df-ae60-96d332a70aa6
+7eb32f3f-4438-457e-8c7d-cd1794c06ce7,Feline Rhinotracheitis,9/2/2004,10/20/2024,Ensure pet is up-to-date with previous vaccinations,1b608ce3-1ead-476d-a019-5902c7f64212,0a9cc9d7-2c21-490b-b43a-0c3d085c3e2a
+01554087-91ef-4a4c-b75d-af3c57ca8667,Parainfluenza),5/1/2011,9/13/2005,Watch for excessive itching or swelling,4522cf6e-56fd-40af-b62a-dfcc329391f3,95c9f549-e476-434d-b53f-87e302fddb14
+7156d85e-c169-4771-a15f-82055bf3eab4,H3N2 Canine Influenza,3/11/2025,8/18/2006,Check vaccination record for upcoming boosters,8777936c-4df4-4ae7-94f6-b20445fe500b,92c667c9-9dc8-4c9a-a4c7-5ef3572a997f
+c3c376f9-69d3-4e3a-a10d-d8a00e10aec1,RCP (Feline Rhinotracheitis,3/24/2020,5/11/2018,or lethargy,d95f48cc-616a-4d5d-83ff-96027977d47d,82852627-7d5e-4d6e-8721-4a2572fe0a35
+81783269-09f8-46d1-b676-ce8e756e649e,H3N2 Canine Influenza,6/8/2013,6/27/2024,Do not expose to unvaccinated animals for a few days,30ea381c-0eb2-409f-b40e-79ad9aa8c1e6,ea3e2dde-50c4-4441-ad45-fbc007839840
+8d2aaf10-58cd-49eb-81f3-7e29fc60c298,Calicivirus,8/12/2022,12/3/2009,Observe for signs of allergic reaction,23a052ff-a311-44fb-ac9c-cf1649d08a74,de52a307-8248-4c00-977c-f4160d9cd3e8
+81fa64e9-80f0-41b6-b6ce-a9f18bdd15cf,Leptospira,5/16/2012,5/30/2018,Ensure pet is hydrated,95879d7e-c04d-4edb-8a23-2a74930c5c86,71388745-ca94-490e-b396-5d964572341c
+668c91b6-20de-4c2d-be85-e9d8b507592e,FIP (Feline Infectious Peritonitis),4/2/2022,9/13/2022,Ensure pet is hydrated,92ace293-975a-47aa-87b1-4ea0ff3a2c76,1dc3a843-bff8-4aaf-8900-61d38a92e100
+37dc911d-7534-403f-ac78-121307daae48,Hepatitis,10/23/2021,6/7/2005,Do not expose to unvaccinated animals for a few days,29a6fb61-33d3-4df6-8bbf-f624170382f7,ea3e2dde-50c4-4441-ad45-fbc007839840
+7e2991ec-e475-4271-b33c-72d996c037de,Feline Calicivirus,8/26/2005,9/6/2006,Avoid stress for the next few days,096106f0-eb6c-405b-8920-10dce9cb24d1,e30d0ea4-f63b-466a-917e-916943b69f42
+f7f78e44-3f72-4e51-a2da-d73b9866d59d,Leptospira,2/14/2024,3/5/2004,Avoid stress for the next few days,81b1d40b-f16c-4031-9cb3-55088929ba15,d01b7e67-8401-4e15-b7f3-a215096b478c
+5367296c-40a2-44e0-92bd-0f6d9da8ddb3,Leptospirosis,7/1/2001,7/16/2011,Observe for signs of allergic reaction,2cee435f-86b6-46da-be8a-c36259d08424,4d268e1f-3cdd-497c-a49c-bc6d75c3eeab
+9cf92bc3-1965-4258-bfff-146705806f85,Rabies,9/29/2009,4/27/2022,Vaccination may cause temporary loss of appetite,9bd0fa39-b642-45a2-b3db-725994a20dcf,b5f494d8-05cf-48d2-97b1-4cc74c26f9ab
+95c021ba-b88d-4268-9586-c9e78f34e19b,Rabies (3-year),2/1/2015,5/27/2002,Inform vet if pet is pregnant or ill,cf4905b2-7606-46b4-9b51-f0105588647d,ee68f715-c13b-42c8-b389-1e7eb902e3ec
+c828b06f-b1d7-425d-b56a-d1cb75181916,Parainfluenza,12/26/2024,10/20/2014,Ensure pet is hydrated,fdd67163-f279-4dd2-95b2-88c8a615a5bc,869eecfc-f289-447a-abda-c96b192d9079
+1487ed06-8aee-4506-baca-4762986b9874,Feline Leukemia,5/29/2003,6/19/2011,Inform vet if pet is pregnant or ill,4b701d02-05e1-4556-85b1-ce6f41444753,bd46dcb1-77be-4bd9-9ea1-628bd24763ab
+9a140376-03ab-4ee2-81c0-5133ef90669e,Feline Rhinotracheitis,6/5/2004,5/30/2005,Administer booster shot in 3 weeks,b5d59d80-d333-4108-8789-af60ebe0d6cc,df24be23-3319-49ac-a0cf-bacd4af8629e
+f68a05bb-03a7-4010-b55b-3e400d0b001f,Panleukopenia),1/3/2018,5/21/2012,Watch for excessive itching or swelling,cc475ac1-20c4-47f7-9fc8-98a636c8d711,534a0a8d-c920-4ce5-ba07-23ee65cee8e6
+b4ef7664-85b8-4fde-9e45-877ac6aff04c,Canine Influenza,10/1/2020,4/2/2025,Ensure pet is hydrated,bceab4ff-8d8c-4658-bdcc-4640b9604f0a,046e7437-99b9-4910-810c-ba512baf5dc9
+c9dcd382-1e61-4bb0-bb5d-711755ed2087,H3N8 Canine Influenza,4/7/2016,7/23/2013,Notify vet of any unusual behavior or signs post-vaccination,bb30275b-c1fb-4ef5-bb6c-a75c743cac30,d15a3590-f9ff-4cce-a728-56d6221344ba
+9b193dd0-0c9b-4dd0-9621-83c8eab8b36e,FIP (Feline Infectious Peritonitis),7/4/2000,8/5/2014,Do not bathe pet for 24 hours,178ae01b-e24b-4da5-b24c-cebc307ace6e,49b2f9ba-653b-442b-a78c-6e695e5bb98a
+95a827bf-6f37-4c3d-a24e-bb9139e22fa1,Kennel Cough,6/10/2003,11/9/2018,Check vaccination record for upcoming boosters,d1fc7b2b-8946-47b2-84db-f30fbd9e6eec,d3cee14d-a1c3-4e19-ab98-92b4990320de
+66d1c5be-d182-4543-8158-41b5d51e770c,Rabies,11/25/2010,10/29/2001,Notify vet of any unusual behavior or signs post-vaccination,72cfb3d7-cdc2-422d-864a-fc6dd1e9c6e8,22cfc2d6-a583-4199-a599-69af90e6be42
+825b08ef-0781-40e9-a6ed-445a9a3dc449,Parvovirus,8/5/2011,10/8/2022,Administer any prescribed post-vaccination medication,6232e7cc-423c-444d-b34a-9b49bec84a5e,c1f8d5b1-96ce-4dd2-86e3-c2e451a21f59
+083f04e6-8fa9-4c4d-8349-4b447fdcfe96,Rabies,9/5/2009,12/19/2010,Do not bathe pet for 24 hours,a264590a-2407-45ea-9acc-ceafcace0143,e30d0ea4-f63b-466a-917e-916943b69f42
+05875ca1-4675-4ec1-970f-607e2b7a4811,Parainfluenza),12/1/2008,6/3/2015,Avoid strenuous exercise for 24 hours,1a8ec2d9-3ea5-4de4-9bec-2258e28491ef,2f239ba1-7fcb-4f5f-b53d-ca2eed2bd6ae
+8db2f05f-1256-4c65-b583-c8533cdcdb67,Leptospira,5/12/2010,5/11/2001,Do not expose to unvaccinated animals for a few days,9c861093-52a1-42c6-a02b-4ec440c5f13a,046e7437-99b9-4910-810c-ba512baf5dc9
+75e47699-722d-449c-a190-51e4099f4f2b,Rabies (3-year),10/15/2023,12/1/2000,Administer booster shot in 3 weeks,447dc1b3-313b-4b94-8c9e-85be638de666,d3b1e076-fa39-451b-978c-1ec5f2ab9e62
+519a2d71-ed0d-47ac-9d59-78d7519db5f0,Lyme Disease,12/17/2001,3/23/2021,Administer booster shot in 3 weeks,4512496c-18de-4113-bf4a-30148320f042,aa52c7ec-b63d-48a0-bd96-8515b6cfc07e
+257c9fcd-96d6-4b28-9aee-6bc5b9371ca5,Feline Calicivirus,8/20/2009,5/25/2001,Avoid stress for the next few days,af202511-fa12-437d-bbca-203adf69817b,9b6f2907-e03b-468e-a800-42764939c755
+6f71d27d-0a68-47e4-813b-6df84ae5f2f6,Leptospirosis,9/27/2022,12/30/2019,Administer any prescribed post-vaccination medication,1209a5c9-cfaf-4b90-aa86-b83b37de1fb6,869eecfc-f289-447a-abda-c96b192d9079
+9bc71ac4-f8a1-4176-850f-9dc4737e54de,Hepatitis,1/6/2024,4/12/2015,Observe for signs of allergic reaction,0a88c297-c96d-431b-af6c-19d0c1110cd4,c1ef28d6-ed37-4772-932d-1c00976284d9
+9bee9493-abb1-49c0-adee-f445b9cb002e,Leptospira,3/20/2013,5/15/2004,Administer any prescribed post-vaccination medication,e6af1acf-679d-416b-906e-3e103c7f2e53,869eecfc-f289-447a-abda-c96b192d9079
+27eafb35-10f9-466f-a031-4fae6692b7d1,Feline Panleukopenia,9/10/2004,1/19/2013,or lethargy,19da9197-600c-49ae-ba8b-47c6b3dc388c,116ba9dc-4554-45e0-855e-07a6a7f55ff5
+50bbfe76-3930-461a-a3cf-a37b3fc5bda1,Rabies,6/12/2021,1/20/2009,Do not bathe pet for 24 hours,d6bb7fe5-c8a7-4ace-af47-52061d242000,fdabea79-f3ff-4311-93b4-9976c17350f5
+f3859711-076f-4e3e-b813-9e5c7bfd624e,FIP (Feline Infectious Peritonitis),11/19/2014,10/5/2011,Administer booster shot in 3 weeks,8da930e2-f1c4-4eba-bc3d-87da6daf5661,214b2ba1-82ec-4777-9c73-11930c64b1f3
+8706f1ca-c757-4e00-ad64-e21c4a4ebfa4,H3N8 Canine Influenza,1/9/2017,8/8/2017,Monitor for side effects,3f0d0721-1d23-4cdf-881a-ec1a3ca46701,d01b7e67-8401-4e15-b7f3-a215096b478c
+c03af232-d296-4768-a39f-848ccb4ecd7c,RCP (Feline Rhinotracheitis,5/19/2001,4/13/2020,Follow-up appointment required in 2 weeks,319924a2-5772-458a-abf8-d2b567a71e85,7be01214-248a-4ca1-a35f-e6a24b140cb8
+79486168-4f58-48a5-9a1b-0296b62bec6d,Parainfluenza,12/13/2011,12/19/2007,Administer any prescribed post-vaccination medication,d23db24c-ade5-473d-adc3-f766daf76179,ad838a0b-2f6b-4517-ac01-6efa8c08f04d
+be4d64bd-9e51-4da4-a248-a99992256c9d,Parainfluenza),2/23/2002,12/25/2008,swelling at injection site,51bb1368-c9e3-4cf7-bd83-831a270dec2b,6c20c901-e144-4ebf-a523-3d974f2e7022
+dbb40916-ceaa-47a2-b4c6-24d47a1a8e76,DHPP (Canine Distemper,11/17/2002,1/27/2017,Notify vet of any unusual behavior or signs post-vaccination,a7b2bab7-4cae-488d-a534-1aff4c279ad1,5138111f-d091-413b-91ea-6e3775feaf50
+37176b85-54e4-4e95-9a5d-2dd61ae65350,Hepatitis,6/27/2013,2/4/2018,Follow-up appointment required in 2 weeks,9095f0da-0c60-417d-884b-1d5502a2f1f7,a6f6dd2c-f01e-4d4d-9298-3621e9ab1176
+626ef23f-319c-45d8-8a0b-3f357adf045a,Parvovirus,8/23/2012,8/17/2020,Administer any prescribed post-vaccination medication,54be3ba9-06c1-4bfe-8844-414bc51dd42e,71388745-ca94-490e-b396-5d964572341c
+89cdbcc6-ba63-4f7e-9c0b-8b8e4c4542aa,Kennel Cough,8/4/2022,8/22/2010,Follow-up appointment required in 2 weeks,c535ca16-27a5-4563-aac9-7759839986ac,e9e79837-7736-46ba-980c-9590776a4e68
+8186f853-8621-4e92-95ce-88b940124366,Leptospirosis,3/16/2003,9/8/2018,Administer any prescribed post-vaccination medication,361d49db-944f-4007-a623-df4128038312,95f7dd28-b84a-4567-81c0-e53695328131
+2de517a9-a9ca-4d67-a738-ed55b425fe2c,FIP (Feline Infectious Peritonitis),11/12/2015,12/13/2016,Observe for signs of allergic reaction,cbed58a0-44d7-459f-b0aa-45548682b4b6,95c9f549-e476-434d-b53f-87e302fddb14
+16c92b08-9640-4914-9a0c-6cdd5e31cb06,Calicivirus,10/30/2018,7/30/2018,Notify vet of any unusual behavior or signs post-vaccination,6acf88f5-8a45-4079-9160-c1bb1dc46116,9224d36c-02f0-4bbf-ba4e-534de88ecbc4
+af25d9be-76a8-48be-8377-b9d7c7fc8fcb,Leptospirosis,12/25/2003,9/6/2016,Do not expose to unvaccinated animals for a few days,b6b68282-7b86-493f-8901-31ccdbeb7fa1,a475c392-782c-4a95-a3d5-e0d6b81de409
