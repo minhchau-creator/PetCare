@@ -79,11 +79,16 @@ class Pet(BaseModel):
 
 class Appointment(BaseModel):
     appointment_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    time = models.DateTimeField()
     pet = models.ForeignKey(Pet, on_delete=models.CASCADE)
+    doctor = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
     appointment_type = models.CharField(max_length=20, choices=AppointmentType.choices)
-    date_time = models.DateTimeField()
-    status = models.CharField(max_length=20, choices=AppointmentStatus.choices)
     notes = models.TextField(blank=True, null=True)
+    status = models.CharField(
+        max_length=20,
+        choices=[('Chưa xác nhận', 'Chưa xác nhận'), ('Đã xác nhận', 'Đã xác nhận'), ('Đã khám', 'Đã khám'), ('Đã hủy', 'Đã hủy')],
+        default='Chưa xác nhận'
+    )
     created_at = models.DateTimeField(null=True, blank=True)
     updated_at = models.DateTimeField(null=True, blank=True)
 

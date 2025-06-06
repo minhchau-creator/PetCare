@@ -141,8 +141,15 @@ def Nhanvien_homepage(request):
         return render(request, 'Nhanvien/login.html')
 
 def danhsachlichhen(request):
-    return render(request, 'Nhanvien/danhsachlichhen.html')
+    appointments = Appointment.objects.all()
+    return render(request, 'Nhanvien/danhsachlichhen.html', {'appointments': appointments})
 
+def formthemlichhen(request):
+    return render(request, 'Nhanvien/formthemlichhen.html')
+
+def formsualichhen(request): 
+    appointments = Appointment.objects.all()
+    return render(request, 'Nhanvien/formsualichhen.html', {'appointments': appointments})
 
 def get_redirect_url(role):
     if role == 'staff':

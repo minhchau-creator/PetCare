@@ -33,7 +33,9 @@ urlpatterns = [
     path('Nhanvien/login/', views.Nhanvien_homepage, name='Nhanvien_homepage'),
     path('Nhanvien/login/danhsachlichhen.html', views.danhsachlichhen, name='danhsachlichhen'),
     # path('Nhanvien/danhsachcutru.html', views.danhsachcutru, name='danhsachcutru'),
-    # path('Nhanvien/formthemlichhen.html', views.formthemlichhen, name='formthemlichhen'),
+    path('Nhanvien/login/formthemlichhen.html', views.formthemlichhen, name='formthemlichhen'),
+    # path('Nhanvien/login/formsualichhen.html', views.formsualichhen, name='formsualichhen'),
+    
     # path('Nhanvien/formthemlichcutru.html', views.formthemlichcutru, name='formthemlichcutru'),
     # path('Nhanvien/giaodienlich.html', views.lichhen, name='giaodienlich'),
 
