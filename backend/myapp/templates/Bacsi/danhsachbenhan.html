@@ -304,8 +304,9 @@
         <nav>
           <div class="menu-section">
             <div class="menu-title">Bệnh án</div>
-            <div class="menu-item active" id="menu-list">Danh sách bệnh án</div>
-            <div class="menu-item" id="giaodienlich">Giao diện lịch</div>
+            <div class="menu-item" id="menu-list">Danh sách bệnh án</div>
+            <div class="menu-item active" id="menu-tiemphong">Lịch sử tiêm phòng</div>
+            <div class="menu-item" id="giaodienlich">Giao diện lịch</div>        
           </div>
         </nav>
         <div class="user-info"><span class="user-icon">👤</span><span id="user-role">Bác sĩ</span></div>
@@ -324,6 +325,10 @@
 
     document.getElementById("menu-list").addEventListener("click", function() {
     window.location.href = "danhsachbenhan.html";
+    });
+
+    document.getElementById("menu-tiemphong").addEventListener("click", function() {
+    window.location.href = "danhsachtiemphong.html";
     });
 
     const content = document.getElementById('content');
