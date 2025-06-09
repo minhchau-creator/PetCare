@@ -27,6 +27,8 @@ urlpatterns = [
     path('Khach/', views.khach_homepage, name='khach_homepage'),
     path('employee_login/', views.nhanvien_bacsi_login_view, name='employee_login'),
     path('Bacsi/', views.bacsi_homepage, name='bacsi_homepage'),
-    path('Nhanvien/', views.nhanvien_homepage, name='nhanvien_homepage')
+    path('Nhanvien/', views.nhanvien_homepage, name='nhanvien_homepage'),
+    path('Lichhen/', views.nhanvien_danhsachlichhen, name='danhsachlichhen'),
+
 ]
 

@@ -143,6 +143,9 @@ def nhanvien_homepage(request):
 def bacsi_homepage(request):
     return render(request, 'Bacsi/danhsachbenhan.html')
 
+def nhanvien_danhsachlichhen(request): 
+    return render(request, 'Nhanvien/danhsachlichhen.html')
+
 def get_redirect_url(role):
     if role == 'staff':
         return '/Nhanvien'
