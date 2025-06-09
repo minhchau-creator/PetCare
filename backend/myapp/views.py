@@ -137,14 +137,12 @@ def nhanvien_bacsi_login_view(request):
         except Exception as e:
             return JsonResponse({'status': 'error', 'message': str(e)}, status=500)
 
-# Giao diện sau khi đăng nhập
 def nhanvien_homepage(request):
     return render(request, 'Nhanvien/HomePage.html')
 
 def bacsi_homepage(request):
     return render(request, 'Bacsi/danhsachbenhan.html')
 
-# Xác định trang chuyển hướng dựa theo role
 def get_redirect_url(role):
     if role == 'staff':
         return '/Nhanvien'

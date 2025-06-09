@@ -5,281 +5,326 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Trung tâm thú y</title>
   <style>
-    * {
-      box-sizing: border-box;
-    }
-    body, html {
-      margin: 0; padding: 0; height: 100%;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background: #f8faff;
-      color: #000;
-    }
-    .app-container {
-      display: flex;
-      height: 100vh;
-      overflow: hidden;
-      flex-direction: column;
-    }
-    .topbar {
-      height: 50px;
-      background: #f0f5ff;
-      border-bottom: 1px solid #d9d9d9;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 20px;
-      color: #003f87;
-      font-weight: 700;
-      font-size: 18px;
-      user-select: none;
-    }
-    .circle-logo {
-      width: 18px;
-      height: 18px;
-      background: #003f87;
-      border-radius: 50%;
-      margin-right: 8px;
-      display: inline-block;
-      vertical-align: middle;
-    }
-    .main-container {
-      display: flex;
-      flex-grow: 1;
-      overflow: hidden;
-    }
-    .sidebar {
-      width: 220px;
-      background: #f0f5ff;
-      border-right: 1px solid #d9d9d9;
-      display: flex;
-      flex-direction: column;
-      padding: 20px;
-    }
-    .logo {
-      font-weight: bold;
-      font-size: 18px;
-      margin-bottom: 30px;
-      display: flex;
-      align-items: center;
-      color: #003f87;
-      user-select: none;
-    }
-    .menu-section {
-      margin-bottom: 20px;
-    }
-    .menu-title {
-      font-weight: 700;
-      margin-bottom: 12px;
-      color: #003f87;
-      user-select: none;
-    }
-    .menu-item {
-      padding: 8px 12px;
-      cursor: pointer;
-      border-radius: 6px;
-      color: #003f87;
-      margin-bottom: 8px;
-      user-select: none;
-      transition: background 0.3s;
-    }
-    .menu-item:hover {
-      background: #a5cef5;
-    }
-    .menu-item.active {
-      background: #87cefa;
-      font-weight: 600;
-    }
-    .user-info {
-      margin-top: auto;
-      color: #003f87;
-      font-weight: 600;
-      display: flex;
-      align-items: center;
-      font-size: 14px;
-      user-select: none;
-    }
-    .user-icon {
-      margin-right: 8px;
-      font-size: 20px;
-    }
-    .content {
-      flex-grow: 1;
-      padding: 30px 40px;
-      overflow-y: auto;
-      background: #fff;
-      display: flex;
-      flex-direction: column;
-    }
-    h2 {
-      font-weight: 700;
-      text-align: center;
-      margin-bottom: 20px;
-    }
+/* --- Reset & Font --- */
+* {
+  box-sizing: border-box;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8faff;
+  color: #000;
+}
 
-    h3 {
-      font-weight: 600;
-      text-align: center;
-      margin-bottom: 16px;
-      color: #000000;
-    }
-    .search-add-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin-bottom: 16px;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
-    input[type="text"], input[type="date"], textarea {
-      padding: 8px 12px;
-      font-size: 14px;
-      border-radius: 20px;
-      border: 1px solid #ccc;
-      outline: none;
-      resize: vertical;
-    }
-    input[type="text"] {
-      width: 300px;
-      height: 36px;
-    }
-    textarea {
-      min-height: 80px;
-      border-radius: 8px;
-    }
-    button {
-      border: none;
-      border-radius: 20px;
-      padding: 8px 16px;
-      font-weight: 600;
-      font-size: 14px;
-      cursor: pointer;
-      user-select: none;
-      transition: background 0.3s;
-      margin: 0;
-      height: 36px;
-      flex-shrink: 0;
-    }
-    button:focus {
-      outline: none;
-    }
-    .btn-primary {
-      background-color: #09a8ff;
-      color: white;
-    }
-    .btn-primary:hover {
-      background-color: #007acc;
-    }
-    .btn-view {
-      background-color: #09a8ff;
-      color: white;
-      padding: 6px 12px;
-      border-radius: 15px;
-      margin-right: 6px;
-      cursor: pointer;
-      user-select: none;
-      border: none;
-    }
-    .btn-delete {
-      background-color: #db2222;
-      color: white;
-      padding: 6px 12px;
-      border-radius: 15px;
-      cursor: pointer;
-      user-select: none;
-      border: none;
-    }
-    .btn-delete:hover {
-      background-color: #a30f0f;
-    }
-    .btn-cancel {
-      background-color: #7a7a7a;
-      color: white;
-    }
-    .btn-cancel:hover {
-      background-color: #5e5e5e;
-    }
-    .record-table {
-      width: 100%;
-      border-collapse: collapse;
-      box-shadow: 1px 3px 8px rgb(0 0 0 / 0.1);
-      background-color: white;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    .record-table th, .record-table td {
-      border: 1px solid #ddd;
-      padding: 8px 12px;
-      text-align: center;
-      font-size: 14px;
-    }
-    .record-table th {
-      background-color: #9ac5fc;
-      font-weight: 700;
-    }
+/* --- App Layout --- */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+.main-container {
+  display: flex;
+  flex-grow: 1;
+  overflow: hidden;
+}
 
-    /* Container 2 cột lớn */
-    .thongtinbenhan-va-chedodinhduong {
-      display: flex;
-      gap: 40px;
-      max-width: 900px;
-      margin: 20px auto 0 auto;
-      flex-wrap: wrap;
-    }
-    .thongtinbenhan,
-    .chedodinhduong {
-      flex: 1 1 400px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      min-width: 300px;
-    }
-    .thongtinbenhan h3,
-    .chedodinhduong h3 {
-      font-weight: 700;
-      margin-bottom: 10px;
-      text-align: center;
-    }
+/* --- Topbar --- */
+.topbar {
+  height: 50px;
+  background: #f0f5ff;
+  border-bottom: 1px solid #d9d9d9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  color: #003f87;
+  font-weight: 700;
+  font-size: 18px;
+  user-select: none;
+}
+.circle-logo {
+  width: 18px;
+  height: 18px;
+  background: #003f87;
+  border-radius: 50%;
+  margin-right: 8px;
+  display: inline-block;
+  vertical-align: middle;
+}
 
-    /* Bố cục 2 cột bên trong mỗi phần */
-    .form-grid-2col {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px 20px;
-    }
-    .form-grid-2col label {
-      flex: 1 1 calc(50% - 10px);
-      display: flex;
-      flex-direction: column;
-      font-style: italic;
-      font-size: 14px;
-      color: #444;
-    }
-    .form-grid-2col label.full-width {
-      flex: 1 1 100%;
-    }
-    .form-grid-2col input,
-    .form-grid-2col textarea {
-      margin-top: 4px;
-      padding: 8px 12px;
-      border-radius: 8px;
-      border: 1px solid #ccc;
-      font-size: 14px;
-      resize: vertical;
-      width: 100%;
-      box-sizing: border-box;
-    }
-    .form-grid-2col textarea {
-      min-height: 80px;
-    }
+/* --- Sidebar --- */
+.sidebar {
+  width: 220px;
+  background: #f0f5ff;
+  border-right: 1px solid #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.logo {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  color: #003f87;
+  user-select: none;
+}
+.menu-section {
+  margin-bottom: 20px;
+}
+.menu-title {
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #003f87;
+  user-select: none;
+}
+.menu-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 6px;
+  color: #003f87;
+  margin-bottom: 8px;
+  user-select: none;
+  transition: background 0.3s;
+}
+.menu-item:hover {
+  background: #a5cef5;
+}
+.menu-item.active {
+  background: #87cefa;
+  font-weight: 600;
+}
+.user-info {
+  margin-top: auto;
+  color: #003f87;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  user-select: none;
+}
+.user-icon {
+  margin-right: 8px;
+  font-size: 20px;
+}
 
-    /* Nút quay lại căn giữa */
-    .detail-btn-group {
-      max-width: 900px;
-      margin: 20px auto 0;
-      display: flex;
-      justify-content: flex-end;
-      gap: 10px;
-    }
+/* --- Dropdown User Role --- */
+.user-dropdown {
+  position: relative;
+  display: inline-block;
+}
+#user-role-btn {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  color: #003f87;
+  cursor: pointer;
+}
+#dropdown-menu {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: white;
+  min-width: 120px;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 6px;
+  padding: 8px;
+}
+#dropdown-menu button {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  padding: 8px;
+  text-align: left;
+  cursor: pointer;
+}
+#dropdown-menu button:hover {
+  background-color: #f0f0f0;
+}
+.show {
+  display: block !important;
+}
+
+/* --- Content Layout --- */
+.content {
+  flex-grow: 1;
+  padding: 30px 40px;
+  overflow-y: auto;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+h3 {
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 16px;
+  color: #000;
+}
+
+/* --- Form & Inputs --- */
+input[type="text"], input[type="date"], textarea {
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  outline: none;
+  resize: vertical;
+}
+input[type="text"] {
+  width: 300px;
+  height: 36px;
+}
+textarea {
+  min-height: 80px;
+  border-radius: 8px;
+}
+
+/* --- Button Styles --- */
+button {
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.3s;
+  margin: 0;
+  height: 36px;
+  flex-shrink: 0;
+}
+button:focus {
+  outline: none;
+}
+.btn-primary {
+  background-color: #09a8ff;
+  color: white;
+}
+.btn-primary:hover {
+  background-color: #007acc;
+}
+.btn-view {
+  background-color: #09a8ff;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 15px;
+  margin-right: 6px;
+}
+.btn-delete {
+  background-color: #db2222;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 15px;
+}
+.btn-delete:hover {
+  background-color: #a30f0f;
+}
+.btn-cancel {
+  background-color: #7a7a7a;
+  color: white;
+}
+.btn-cancel:hover {
+  background-color: #5e5e5e;
+}
+
+/* --- Table --- */
+.record-table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 1px 3px 8px rgb(0 0 0 / 0.1);
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.record-table th, .record-table td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: center;
+  font-size: 14px;
+}
+.record-table th {
+  background-color: #9ac5fc;
+  font-weight: 700;
+}
+
+/* --- Form Layout --- */
+.search-add-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.thongtinbenhan-va-chedodinhduong {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  max-width: 900px;
+  margin: 20px auto 0 auto;
+}
+.thongtinbenhan,
+.chedodinhduong {
+  flex: 1 1 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-width: 300px;
+}
+.thongtinbenhan h3,
+.chedodinhduong h3 {
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.form-grid-2col {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 20px;
+}
+.form-grid-2col label {
+  flex: 1 1 calc(50% - 10px);
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+  font-size: 14px;
+  color: #444;
+}
+.form-grid-2col label.full-width {
+  flex: 1 1 100%;
+}
+.form-grid-2col input,
+.form-grid-2col textarea {
+  margin-top: 4px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  resize: vertical;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* --- Button Group --- */
+.detail-btn-group {
+  max-width: 900px;
+  margin: 20px auto 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+
 
     /* Responsive */
     @media (max-width: 768px) {
@@ -296,7 +341,12 @@
   <div class="app-container">
     <header class="topbar">
       <div><span class="circle-logo"></span> Trung tâm thú cưng</div>
-      <div id="topbar-user-role">Bác sĩ: Nguyễn Văn A</div>
+      <div class="user-dropdown">
+        <button id="user-role-btn">%Username Bác sĩ%</button>
+          <div id="dropdown-menu" class="hidden">
+            <button id="logout-btn">Đăng xuất</button>
+          </div>
+      </div>
     </header>
 
     <div class="main-container">
@@ -319,6 +369,26 @@
   </div>
 
   <script>
+      const userBtn = document.getElementById("user-role-btn");
+      const dropdown = document.getElementById("dropdown-menu");
+      const logoutBtn = document.getElementById("logout-btn");
+
+      userBtn.addEventListener("click", function () {
+        dropdown.classList.toggle("show");
+      });
+
+      logoutBtn.addEventListener("click", function () {
+        // Gửi request logout hoặc redirect
+        window.location.href = "/logout/";
+      });
+
+      // Ẩn dropdown khi click ra ngoài
+      document.addEventListener("click", function (event) {
+        if (!event.target.closest(".user-dropdown")) {
+          dropdown.classList.remove("show");
+        }
+      });
+
     document.getElementById("giaodienlich").addEventListener("click", function() {
     window.location.href = "giaodienlich.html";
     });
@@ -335,7 +405,7 @@
     const menuList = document.getElementById('menu-list');
     const menuNutrition = document.getElementById('menu-nutrition');
     const userRoleSpan = document.getElementById('user-role');
-    const topbarUserRole = document.getElementById('topbar-user-role');
+    const topbarUserRole = document.getElementById('user-role-btn');
 
 
     let userRole = "Bác sĩ";
@@ -457,24 +527,7 @@
                 </div>
               </div>
 
-              // <div class="chedodinhduong">
-              //   <h3>Chế độ dinh dưỡng</h3>
-              //   <div class="form-grid-2col">
-              //     <label>Loại thức ăn
-              //       <input type="text" id="new-food-type" />
-              //     </label>
-              //     <label>Khẩu phần
-              //       <input type="text" id="new-portion" />
-              //     </label>
-              //     <label>Ngày cập nhật
-              //       <input type="date" id="new-nutrition-date" />
-              //     </label>
-              //     <label class="full-width">Ghi chú
-              //       <textarea id="new-nutrition-note"></textarea>
-              //     </label>
-              //   </div>
-              // </div>
-            </div>
+            
             <div class="detail-btn-group">
               <button class="btn-cancel" onclick="window.location.reload()">Huỷ</button>
               <button class="btn-primary" onclick="saveNewRecord()">Lưu</button>
@@ -627,6 +680,8 @@
 
     menuList.onclick = () => renderRecordList();
     renderRecordList();
+
+  
   </script>
 </body>
 </html>
