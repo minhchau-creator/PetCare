@@ -23,9 +23,9 @@
       width: 300px;
     }
 
-    .login-box h2  {
+    .login-box h2 {
       text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     .input-box {
@@ -37,7 +37,8 @@
       margin-bottom: 5px;
     }
 
-    .input-box input {
+    .input-box input,
+    .input-box select {
       width: 100%;
       padding: 8px;
       border: 1px solid #ddd;
@@ -74,6 +75,14 @@
     <form id="login-form" method="post">
       {% csrf_token %}
       <div class="input-box">
+        <label for="role">Vai trò</label>
+        <select id="role" name="role" required>
+          <option value="" disabled selected>Chọn vai trò</option>
+            <option value="vet">Bác sĩ</option>
+            <option value="staff">Nhân viên</option>
+        </select>
+      </div>
+      <div class="input-box">
         <label for="username">Username</label>
         <input type="text" id="username" name="username" required>
       </div>
@@ -81,6 +90,7 @@
         <label for="password">Mật khẩu</label>
         <input type="password" id="password" name="password" required>
       </div>
+      
       <button type="submit">Đăng nhập</button>
       <div class="error-msg" id="error-msg"></div>
     </form>
@@ -93,22 +103,29 @@
       const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]').value;
       const username = document.getElementById("username").value;
       const password = document.getElementById("password").value;
+      const role = document.getElementById("role").value;
       const errorMsg = document.getElementById("error-msg");
 
-      fetch("/login/", {
+      if (!role) {
+        errorMsg.textContent = "Vui lòng chọn vai trò.";
+        return;
+      }
+
+      fetch("/employee_login/", {
         method: "POST",
         headers: {
-          "Content-Type": "application/x-www-form-urlencoded",
+          "Content-Type": "application/json",  // <-- Gửi JSON
           "X-CSRFToken": csrfToken,
         },
-        body: new URLSearchParams({
+        body: JSON.stringify({
           username: username,
           password: password,
+          role: role,
         }),
       })
       .then(response => response.json())
       .then(data => {
-        if (data.success) {
+        if (data.status === 'success') {
           window.location.href = data.redirect_url;
         } else {
           errorMsg.textContent = data.message;
@@ -118,7 +135,7 @@
         errorMsg.textContent = "Đã xảy ra lỗi khi đăng nhập.";
         console.error(error);
       });
-    });
+    })
   </script>
 </body>
 </html>

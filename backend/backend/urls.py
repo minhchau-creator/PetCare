@@ -16,29 +16,17 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from myapp.views import login
+from myapp.views import khach_dangnhap_view, khach_homepage, nhanvien_bacsi_login_view
 from myapp import views
+
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/register/', views.register),
-    path('api/login/', views.login),
-    path('', views.dangnhap_page, name='dangnhap'),
-    path('Khach/HomePage.html', views.khach_homepage, name='khach_homepage'),
-    # gd đăng nhập cho vet và staff
-    path('login/', views.login_view, name='login'),
-
-    # gd Staff
-    path('Nhanvien/login/', views.Nhanvien_homepage, name='Nhanvien_homepage'),
-    path('Nhanvien/login/danhsachlichhen.html', views.danhsachlichhen, name='danhsachlichhen'),
-    # path('Nhanvien/danhsachcutru.html', views.danhsachcutru, name='danhsachcutru'),
-    path('Nhanvien/login/formthemlichhen.html', views.formthemlichhen, name='formthemlichhen'),
-    # path('Nhanvien/login/formsualichhen.html', views.formsualichhen, name='formsualichhen'),
-    
-    # path('Nhanvien/formthemlichcutru.html', views.formthemlichcutru, name='formthemlichcutru'),
-    # path('Nhanvien/giaodienlich.html', views.lichhen, name='giaodienlich'),
-
-    # gd Vet
+    path('login/', views.khach_dangnhap_view, name='dangnhap'),
+    path('Khach/', views.khach_homepage, name='khach_homepage'),
+    path('employee_login/', views.nhanvien_bacsi_login_view, name='employee_login'),
+    path('Bacsi/', views.bacsi_homepage, name='bacsi_homepage'),
+    path('Nhanvien/', views.nhanvien_homepage, name='nhanvien_homepage')
 ]
 
