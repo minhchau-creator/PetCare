@@ -80,10 +80,12 @@ WSGI_APPLICATION = "backend.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
+
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'petManagement',
+        'NAME': 'pets_final',
         'USER': 'postgres',
         'PASSWORD': 'aizen',
         'HOST': 'localhost',  # hoặc IP server
@@ -91,8 +93,6 @@ DATABASES = {
     }
 
 }
-
-
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 

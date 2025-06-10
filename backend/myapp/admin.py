@@ -1,10 +1,10 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
-from .models import User, Pet, Appointment, BeautyServiceHistory, HotelServiceHistory, MedicalHistory, NutritionPlan, VaccinationHistory
+from .models import Users, Pets, Appointments, BeautyServiceHistory, HotelServiceHistory, MedicalHistory, NutritionPlan, VaccinationHistory
 
-admin.site.register(User)
-admin.site.register(Pet)
-admin.site.register(Appointment)
+admin.site.register(Users)
+admin.site.register(Pets)
+admin.site.register(Appointments)
 admin.site.register(BeautyServiceHistory)
 admin.site.register(HotelServiceHistory)
 admin.site.register(MedicalHistory)
